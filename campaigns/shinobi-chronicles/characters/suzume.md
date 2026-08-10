@@ -304,6 +304,8 @@ The same 27-point character creation convention used for Ardo is applied.
 
 \* **Live values must be updated after each combat round.** The values above represent the formal sheet baseline, not a claim that every resource is currently full during the ongoing Shepherd fight.
 
+> **LIVE COMBAT SNAPSHOT — Session Five, end of the Shepherd fight:** Chakra 110/110 · Stamina 110/110 · Health 35/35 · Special 35/100. The closing combo (kunai throw → taijutsu strike → hidden-kunai stab, natural 20) was entirely equipment/taijutsu-based — no Chakra or Stamina spent. Special gained from three landed hits (+5 each) plus the critical (+10) plus the moment itself (+10, GM's call — this was the strike that broke the fight against the thing that killed Rai).
+
 ### Health Continuity Ruling
 
 The calculated baseline would produce 32 Health, but Suzume entered the current encounter with **35 Health** under the previous combat template.
@@ -1121,6 +1123,10 @@ Suzume's Sharingan awakened immediately afterward.
 She successfully used the new dōjutsu to read the Shepherd's incoming kunai attack before the strike fully committed.
 
 She is now fighting as a fully recognized PC using the same action economy as Ardo.
+
+**The fight's close, same session:** Ardo forced an untrained Wind/Lightning fusion (Storming Thunder God, prototype) into the Shepherd on a natural 20, staggering and stunning them. Suzume capitalized with a full three-action combo — thrown kunai as distraction, a Sharingan-read taijutsu closing strike, and a concealed second kunai driven home on a natural 20 for the finishing blow. The Shepherd escaped via a genjutsu-linked displacement rather than dying, wounded and marked — the first person on record to survive a direct encounter with them, twice over in the same fight. Roku moved to free the four surviving members of Kohei's squad rather than pursue. Combat resolved; Rai's body is still in the clearing. Aftermath in progress.
+
+**First confirmed taijutsu use in a real fight.** Worth revisiting Decision Point 2 below with actual evidence behind it now, not just attribute fit.
 
 ---
 
