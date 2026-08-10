@@ -82,7 +82,9 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 | **Movement** | **30 ft** | |
 | **Proficiency** | **+2** | Level 1 |
 
-> **LIVE COMBAT SNAPSHOT — Session Five, mid-fight vs. "the Shepherd":** Chakra 63/200 · Stamina 45/115 · Health 18/36 · Special 0/100. Kōfū (Crimson Wind) active, round 1 of 3. This line updates as the fight continues; the table above stays the Max/baseline reference.
+> **LIVE COMBAT SNAPSHOT — Session Five, mid-fight vs. "the Shepherd":** Chakra 6/200 · Stamina 6/115 · Health 18/36 · Special 5/100. Kōfū (Crimson Wind) active, round 2, sustain paid. Shadow Clone [Fragment] up (used its action; still standing, still flanking). This line updates as the fight continues; the table above stays the Max/baseline reference.
+>
+> **Round 2 spend, in order:** Shadow Clone [Fragment] summoned (−12 Ch/−8 St) → Storming Thunder God prototype forced into existence mid-cast (base Gale Fist 10 Ch/6 St + untrained-fusion surcharge 15 Ch/10 St) → Kōfū sustain (−20 Ch/−15 St). Landed a hit: +5 Special. Net from 63/45/0 to **6/6/5**. He is nearly empty and everyone at the table knows it.
 
 > **Two hundred chakra at Genin.** A standard Chūnin at Level 5 with CON +0 runs 180. Ardo has more chakra than most chūnin and there is nothing on any document in Konoha that explains why. This is a tell, not a perk — noticed by a jōnin, an ANBU operative, a foreign sealmaster, and Root.
 
@@ -358,6 +360,26 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 **Mastery: Learned, 5 XP** (Creative use +3, Under duress +2), **5/10 to Practiced.** Suggested spend at Practiced/Proficient: Precision or Control aimed at taming Unstable Form's backlash before growing its damage further.
 
 ---
+
+## 迅雷・嵐雷神 — STORMING THUNDER GOD (PROTOTYPE)
+### *Jinrai Raitun: Gōraijin* · Mode A, Close-Quarter Attack · **[GM — born Session Five, forced into existence mid-cast against the Shepherd, on a natural 20]**
+
+**Branch ⑦ (Chakra Mixing) cracked open four ranks early.** The printed requirement was Chūnin + a trained second nature; Ardo has neither. This exists because he forced Lightning — completely untrained, off-affinity — into an already-loaded Gale Fist charge, mid-combat, and the fusion caught clean on the first attempt. It is not the refined S-rank *Barometric Silence* or the A-rank *Absolute Vacuum Collapse* future forms — those stay locked behind real training, a second nature actually earned, and (per their own design) a signature blade Ardo doesn't know exists yet. This is the rough draft: one punch, one mode, no conduit to stabilize the mix.
+
+**1 Action / 2 slots** (costed as a strong C-rank — this punches above D-rank weight from the fusion alone). **PROTOTYPE STATUS — 1/3 field uses**, same discipline as Compression Shell.
+
+**Cost: 25 Chakra / 15 Stamina.** Melee range only — closing distance is part of the technique, not separate from it.
+
+**Effect:** The compressed wind and forced-raw lightning detonate together *inside* the target on a successful punch. **3d8 Wind + Lightning damage**, plus a **paralysis rider**: target makes a CON save vs. Ardo's Ninjutsu DC (12) or is **stunned until the start of Ardo's next turn** — full-body seizure, not a knockback. This overrides any push a stacked effect (like Kōfū) would otherwise add; the target locks in place instead of flying back, which is exactly what let the follow-up flanking strike land clean the first time this happened.
+
+**Limitations, inherited from the technique's own future card and not waivable at prototype stage:**
+- **Can't be charged and held.** Thrown immediately on the same action it's assembled — the "hold past 2 rounds causes arm damage" flaw only applies once Ardo can hold it at all, which he currently can't.
+- **Severe recoil if resisted with equal or greater force.** No CON save to avoid it — if the target's own defense matches or beats the fusion outright, the backlash goes through Ardo's hand and arm instead of out.
+- Requires forcing lightning chakra with zero training every single time until this is trained properly — treat each cast before Practiced as carrying real risk, GM's discretion on when a fusion check is required again versus assumed reliable.
+
+**Mastery: Learned, 0 XP.** Untested outside its origin cast. First successful *repeat* use is worth real XP toward Practiced — this is the technique that, refined, becomes the Storming Thunder God shown on Ardo's future Gale-Bolt Style cards (Mode B ranged variant, then the A-rank and S-rank forms — Absolute Vacuum Collapse, Barometric Silence — gated the normal way from here on: rank, training, story).
+
+---
 ---
 
 # PART SIX — 綻び THE SEAM
@@ -477,8 +499,12 @@ Printed passive unchanged: +25% Chakra, advantage vs. sealing.
 | **④** | **SPLENDOR.** | **PROVEN.** Per-stage mastery active, 3/10 XP each stage. |
 | **⑤** | **ACCELERATION / EXTENSION.** | Follows ④ |
 | **⑥** | **THE CLONE.** Restore full A-rank. | Four routes + Deep Understanding head start |
-| **⑦** | **CHAKRA MIXING** — Scorch, Ice, Dust. | **[GM — heavily gated.]** Second nature needed, Chūnin minimum. |
+| **⑦** | **CHAKRA MIXING** — the Gale-Bolt Style (Wind + Lightning), not Scorch/Ice/Dust. | **CRACKED EARLY, Session Five.** Storming Thunder God (prototype) exists now, four ranks ahead of schedule, on the strength of one natural 20 under real extremity — not the trained-second-nature route the sheet originally called for. The debt isn't paid off; it's deferred. Future forms on the growth path: Mode B (ranged) → Absolute Vacuum Collapse (A-rank) → Barometric Silence (S-rank) → Windless Release: Vacuum Snare as a C-rank control option off the same style. Each still needs real training, rank, and story — this branch didn't skip the gate, it just found a different door into it. |
 | **⑧** | **SENJUTSU — ENDGAME.** | Requires the three gates above |
+
+## OPEN — NARUKAMI
+
+A signature blade belongs to this style and Ardo doesn't have it. Forged to stabilize exactly the fusion he's now doing barehanded — Harmonic Conduit, the Vacuum Edge, the Lightning Arc. Whoever hid it from him knew the Gale-Bolt style was coming before he did. See Part Nine, Open Threads, for what that implies about who's been managing his development and why.
 
 ## THE FORK — do not resolve early
 
@@ -539,8 +565,9 @@ Contains Gale Fist and the incomplete Shadow Clone. **Not the sealmaster's hand*
 11. **RESOLVED, Session Five — Suzume's chakra-pathway finding.** It was Sharingan, dormant, all along. Awakened (2 tomoe) the moment Rai died. See Part Six-adjacent note and her own PC sheet for full mechanics.
 12. **the Hokage's office personally reviewed and authorized the hazard claim.** Hiruzen's name attached to a case Root reached first. **Session Four:** Ardo met Hiruzen directly, disclosed the Seam in a cleared room, and secured two things — a real (if scaled-down) exam path judged personally by Hiruzen rather than a board, and this session's actual mission, framed honestly as separate from the still-pending personal search mission through the Land of Fire.
 13. **NEW — Souta.** A war orphan, no headband, no claimed village, found stealing food outside Konoha on what began as a routine D-rank. Talked down rather than fought. Provisional civilian status, weekly check-ins, living with Ardo, who's now away on the mission that doubles as his exam. His true origin, his sister's exact fate, and whether his path overlaps with any existing thread are all genuinely undecided — not a mystery box, an open character.
-14. **NEW, Session Five — the fifth figure, "the Shepherd."** Roku's own account: an unconfirmed legend along this stretch of the Grass front for longer than his career, gear left arranged rather than a body count, and — until tonight — nobody who survived an encounter to say so directly. Genjutsu-primary (**Fold**, DC 19). Currently mid-fight, at reduced Health, visibly reassessing.
+14. **NEW, Session Five — the fifth figure, "the Shepherd."** Roku's own account: an unconfirmed legend along this stretch of the Grass front for longer than his career, gear left arranged rather than a body count, and — until tonight — nobody who survived an encounter to say so directly. Genjutsu-primary (**Fold**, DC 19). **Updated, same session:** staggered hard by the combined Storming Thunder God / clone Gale Fist hit — first real crack in their composure all fight. Form flickering at the edges, not from injury. Deciding, live, whether to keep fighting.
 15. **NEW, Session Five — Rai Inuzuka is dead.** Killed protecting Suzume and Rai himself couldn't defend, mid-genjutsu, Roku's Reaction landing inches short. His last words were unfinished — *"tell Kuro—"* Kuro was left home this mission, on Rai's own choice, made the morning of departure.
+16. **NEW, Session Five — Narukami.** A signature blade exists for the Gale-Bolt style Ardo just originated barehanded, forged specifically to stabilize a Wind/Lightning fusion he's never been taught. Someone hid it from him — his Konoha guardians, per the little that's known — which means someone recognized this style was coming before he awakened it tonight by accident. Where the blade is, who exactly hid it, and why they thought concealment was safer than training him properly are all open.
 
 ---
 ---
