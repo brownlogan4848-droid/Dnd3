@@ -914,9 +914,11 @@ Substituting out of action 2 of a five-action combo means **actions 3, 4, and 5 
 
 You've moved. The attacker must still have the **reach or range** to reach your new position:
 - **They do** → the combo continues against you where you now stand.
-- **They don't** → the combo **ends** (Rule 5 — no valid target).
+- **They don't** → **[GM — house rule, superseding the original text below]** the attacker gets **one reroll** to close back in and continue, rather than the combo automatically ending. The Reaction that caused this is still spent for the round — there's no second Substitution waiting to answer the reroll — so whatever that second roll produces stands as the real outcome. This applies to DISPLACE specifically (Substitution and its kin); it does not change EVADE (already just negates the one action and moves on) or BREAK (still meant to be rare and genuinely combo-ending — blinding, hard area denial, top-tier defenses).
 
-That second outcome is why Substitution against a melee combatant mid-combo is so strong, and why closing techniques like Flash Step matter so much to the attacker.
+*Original ruling, superseded above: the combo simply ended on lost reach (Rule 5, no valid target). Kept here for reference — this is why Substitution against a melee combatant used to be so dominant, and it's exactly the edge case the house rule exists to soften.*
+
+That's still why closing techniques like Flash Step matter to the attacker — a reroll only helps if there's a real way to use it.
 
 ---
 ---
