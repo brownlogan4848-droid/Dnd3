@@ -1128,6 +1128,10 @@ She is now fighting as a fully recognized PC using the same action economy as Ar
 
 **First confirmed taijutsu use in a real fight.** Worth revisiting Decision Point 2 below with actual evidence behind it now, not just attribute fit.
 
+**Aftermath.** Ardo tried to force his Kōfū transformation a second time at Rai's body, on rage rather than the gratitude that produced it the first time — it refused him outright, no transformation, Chakra spent for nothing. Suzume watched it happen with the Sharingan still active; she saw *something* pass across him with a shape to it, briefly, and hasn't said yet what. Homecoming: Kuro knew before anyone told him. Rai's name went on the Memorial Stone. At the pyre, Ardo took Rai's headband and left his own on the fire in exchange, then declared — loudly, to the whole Inuzuka clan — that he intends to become a self-styled "Shadow Kage." Tsume Inuzuka lit the pyre; Kuro howled, the clan's ninken answered. Suzume stood with Kuro through all of it and hasn't spoken yet about what she's carrying out of this session.
+
+**State at end:** Chakra 110/110, Stamina 110/110, Health 35/35, Special 35/100 — untouched since the fight ended, no rest needed. Session Six opens from here.
+
 ---
 
 # PART FOURTEEN — FUTURE DECISION POINTS

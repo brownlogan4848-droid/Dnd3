@@ -31,10 +31,11 @@
 | **Age** | 8 |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
-| **Appearance** | Dark red hair — not the blazing Whirlpool crimson, but it goes bright when wet or lit. Forehead protector is too large for his head. |
+| **Appearance** | Dark red hair — not the blazing Whirlpool crimson, but it goes bright when wet or lit. **Wears Rai Inuzuka's forehead protector, as of Session Five** — his own went onto Rai's pyre in the exchange. |
 | **Sensei of record** | **Minato Namikaze** |
 | **Day-to-day sensei** | Rokka Uehara ("Roku"), jōnin |
 | **Cell** | Konoha cell 409 |
+| **Declared path, Session Five** | **"Shadow Kage"** — self-named, not a real title, not village-sanctioned. Spoken as a vow at Rai's funeral: to wander the Land of Fire eliminating threats, "no matter how big or small." Tsume Inuzuka's reaction: *"Rai would've told you that title doesn't exist. Then he would've told everyone he knew you first."* Nobody's corrected him since. Nobody's helping him figure out what it actually means yet, either. |
 
 ## The Name Problem
 
@@ -457,6 +458,12 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 - **Stage 2** — unlocks the first time Ardo survives a full activation (success or collapse) and uses it again after. Numbers TBD when reached; expect sustain/DCs to ease.
 - **Stage 3** — unlocks past surviving a real Crash. Bigger, and the visual transformation likely deepens past "eyes and wind."
 
+## THE GRIEF/RAGE DISTINCTION **[GM — confirmed Session Five, standing rule]**
+
+Tested directly for the first time at Rai's pyre: Ardo, consumed by grief curdling into rage, tried to force Kōfū a second time on fury alone — **"they're all gonna pay for this."** The Seam didn't ignite defensively (a forced *reading* would) and didn't grant anything either. It just went cold and still, like the gate was never there. No transformation. Real Chakra spent chasing nothing.
+
+**This confirms a rule, not a one-time refusal:** the Seam answers grief offered with gratitude — reaching out, saying thank you, wanting connection — and it does not answer grief spent as a demand for vengeance. Kōfū and Borrowed Gale both came from the *first* kind of reach. Rage gets silence, not punishment, not power. Whatever's sealed in him, it isn't interested in being a weapon against the world for its own sake — only in being *offered* something, the same distinction Tsunade's whole medic doctrine and half this setting's actual moral center run on. Treat this as fixed going forward: **rage-fueled reaches to the Seam fail by default, no roll needed, unless something in the fiction changes what kind of reach it actually is.**
+
 ## What Is Sealed **[GM — held, deliberately not written here]**
 
 Fixed and decided. Not recorded, because this file is player-facing.
@@ -645,7 +652,13 @@ Combat opened with area genjutsu (**Fold**, DC 19) — Ardo shrugged it off clea
 
 Ardo's grief tore The Seam open involuntarily — Hollow fired a second time (first since Ground Seventeen). An improvised, explicitly-not-the-Rasengan wind compression strike followed, becoming **Compression Shell**, now a real prototype. A longer, deliberate stay in the mindscape followed — the door didn't close on its own for the first time — producing **Borrowed Gale** (entity-granted, one use) and **Kōfū, "Crimson Wind"** (Ardo's own willed transformation, now a standing ability with a survival-gated growth path).
 
-**Currently:** mid-combat, Kōfū active. See the live snapshot in Part Two for exact current resource state — this entry will be finalized once the fight resolves.
+**The fight resolved:** Storming Thunder God (prototype) forced into existence mid-cast on a natural 20, staggering and stunning the Shepherd. Suzume closed it with a three-action combo capped by a second natural 20 — the Shepherd escaped wounded and marked rather than dying, the first survived encounter with them on record. Roku freed the four survivors from Kohei's squad instead of pursuing.
+
+**Aftermath, same session:** Ardo dispersed the Shadow Clone [Fragment] by hand — Chakra and Stamina returned, memory didn't, per the technique's own rule. Grief curdled toward rage at Rai's body; Ardo tried to force Kōfū a second time on fury alone. It didn't answer — confirmed now, not just suspected: **the Seam opens for grief offered with gratitude and stays shut against grief spent as rage.** Roku talked him back down before it cost him more than the Chakra already spent chasing it.
+
+**Homecoming.** Kuro knew before anyone told him. Rai's name went onto the Memorial Stone. The Inuzuka clan took the body and held the rite their own way — a pyre, not a burial. At the ceremony, Ardo took Rai's headband, left his own on the pyre in exchange, and declared — loudly, in front of the whole clan — his intent to become a self-styled "Shadow Kage," wandering the Land of Fire and eliminating threats. Tsume Inuzuka lit the pyre herself. Kuro howled; the clan's ninken answered him.
+
+**State at end:** Chakra 16/200, Stamina 26/115, Health 18/36 (unhealed since the Shepherd fight — no long rest taken yet), Special unknown/reset pending. Ardo now wears Rai's headband. Session Six opens from here.
 
 ---
 ---
