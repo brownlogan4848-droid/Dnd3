@@ -649,7 +649,7 @@ However, Lightning Release is **not automatically Medical Ninjutsu**. Suzume mus
 **Rank:** D  
 **Type:** Lightning Release / Precision / Control  
 **Status:** **Learned**  
-**Mastery:** **Practiced** *(Session Six — three days' dedicated drilling at Ground Six unlocked Split Current below; Mastery Point spent: Precision)*  
+**Mastery:** **Proficient** *(Session Six — three days at Ground Six plus further reps during the C-rank training push unlocked Split Current, then Nerve Lock below. Mastery Points spent: Precision, then Control.)*  
 **Cost:** 8 Chakra / 5 Stamina  
 **Action:** 1 Action  
 **Slot:** 1  
@@ -751,8 +751,8 @@ This is still a D-rank technique. It improves **versatility**, not raw destructi
 
 ## Stage 3 — PULSE THREAD: NERVE LOCK
 **Rank:** C  
-**Status:** Future Evolution / Not Learned  
-**Requirement:** Advanced Pulse Thread mastery + appropriate character progression
+**Status:** **Learned, Session Six** — Chūnin rank cleared the requirement's "appropriate character progression" clause; further reps at Ground Six past Split Current pushed Pulse Thread from Practiced toward Proficient, clearing "advanced mastery."  
+**Requirement:** Advanced Pulse Thread mastery ✓ + appropriate character progression ✓
 
 ### Cost
 **14 Chakra / 9 Stamina**

@@ -358,7 +358,24 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 
 **PROTOTYPE PENALTY** (extra, closes after 3 field uses): backlash also triggers on a natural 1 on the attack roll, independent of the CON save.
 
-**Mastery: Learned, 5 XP** (Creative use +3, Under duress +2), **5/10 to Practiced.** Suggested spend at Practiced/Proficient: Precision or Control aimed at taming Unstable Form's backlash before growing its damage further.
+**Mastery: Practiced, 10 XP** *(updated Session Six — reps at Ground Six plus real combat use closed the gap).* **Mastery Point spent: Precision.** Unstable Form's backlash CON DC drops to 12, and the Prototype Penalty (backlash on a natural 1) no longer applies — three field uses have come and gone, prototype status is formally lifted.
+
+---
+
+## 風遁・圧縮弾・球 — COMPRESSION SPHERE
+### *Fūton: Asshukudan · Kyū* · **C-rank Wind Ninjutsu** · **[GM — Compression Shell's Chūnin evolution, unlocked Session Six]**
+
+**Still explicitly not the Rasengan.** Full shape transformation is still A-rank, still Jōnin-gated, still not something Ardo has the prerequisites for. What's different now: instead of pressing compressed wind directly into a target on contact, he can **hold the shell as a true sphere in his palm for up to 2 rounds** before releasing it — real shape retention, not just an instant hand-press. That's the actual evolution, and it's the direct, honest step toward Rasengan-adjacent work rather than a shortcut around it.
+
+**1 Action / 2 slots.** 18 Chakra / 10 Stamina to form. Once held, **release costs no additional action** — thrown or driven forward as part of the same motion that ends the hold.
+
+**HELD-AND-THROWN** — melee range still preferred, but holding it a full round before release adds **+1d8** to the base 2d8 Wind (**3d8 total**), reflecting the extra compression time. Still no save — precision-built, same as its predecessor.
+
+**HELD-AND-OVERCHARGED** — the Unstable Form option now applies to the sphere too, at the improved Practiced-tier numbers (CON DC 12, no natural-1 penalty): **5d8 Wind, no save**, at 50 Chakra / 22 Stamina.
+
+**The real cost of holding it:** every round the sphere is held past the first, Ardo cannot use his Reaction — both hands and his full attention are on containment. **Holding it into a third round collapses it early, dealing 2d6 Wind to Ardo himself and ending the technique with nothing to show for it.**
+
+**Mastery: Learned, 0 XP.** Brand new, first cast happening this training session — its own mastery track starts here, separate from Compression Shell's.
 
 ---
 
