@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Land of Grass, mid-mission. Session Five in progress — mid-combat against "the Shepherd," a Wall-tier figure encountered while verifying a Konoha squad's disappearance. Rai Inuzuka has died this fight. Suzume's Sharingan has awakened (2 tomoe) — she now has her own full PC sheet, *Naruto_PC_Sheet_Suzume.md*, running the same action economy as Ardo. Session Four ("the exam that wasn't an exam") is logged in full below; this file is current through the live combat state as of the moment of writing.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha. Session Six in progress — Ardo and Suzume have just passed Hiruzen's personally-sanctioned rank evaluation, a full-contact sparring match against Roku, ending with a linked Team Combo (Pulse Thread → Storming Thunder God → Leaf Whirlwind) that put him down for the count. Rai Inuzuka died in Session Five; Suzume's Sharingan (2 tomoe) awakened in that same fight — she has her own full PC sheet, *suzume.md*, running the same action economy as Ardo. Session Four ("the exam that wasn't an exam") and Session Five ("Grass Front") are logged in full below; this file is current through the end of the Roku evaluation match.
 
 **Sourcing convention for this file:**
 
@@ -378,7 +378,7 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 - **Severe recoil if resisted with equal or greater force.** No CON save to avoid it — if the target's own defense matches or beats the fusion outright, the backlash goes through Ardo's hand and arm instead of out.
 - Requires forcing lightning chakra with zero training every single time until this is trained properly — treat each cast before Practiced as carrying real risk, GM's discretion on when a fusion check is required again versus assumed reliable.
 
-**Mastery: Learned, 0 XP.** Untested outside its origin cast. First successful *repeat* use is worth real XP toward Practiced — this is the technique that, refined, becomes the Storming Thunder God shown on Ardo's future Gale-Bolt Style cards (Mode B ranged variant, then the A-rank and S-rank forms — Absolute Vacuum Collapse, Barometric Silence — gated the normal way from here on: rank, training, story).
+**Mastery: Practiced, 10 XP** *(updated Session Six — three days' dedicated drilling at Ground Six).* **1 Mastery Point spent: Control.** The fusion no longer requires a fresh Ninjutsu check every cast — it's reliable now, not a coin flip. The structural flaws are unchanged: still can't be charged/held past the throw, still carries severe recoil if resisted with equal or greater force. Proven live in the Roku evaluation match as the finishing blow of the campaign's first Team Combo (39 combined damage, full chain). This is the technique that, refined further, becomes the fuller Storming Thunder God shown on Ardo's future Gale-Bolt Style cards (Mode B ranged variant, then the A-rank and S-rank forms — Absolute Vacuum Collapse, Barometric Silence — gated the normal way from here on: rank, training, story).
 
 ---
 ---
@@ -644,7 +644,7 @@ Three days' training before departure. Gave Souta his money before leaving. Rai 
 
 **State at end:** full resources, Health 36/36, 12,000 ryō (before the gift to Souta), Souta housed and safe, cell 409 departing for the Land of Grass.
 
-## 五 · SESSION FIVE — "GRASS FRONT" *(in progress)*
+## 五 · SESSION FIVE — "GRASS FRONT"
 
 The courier/verification mission escalated immediately — a Konoha squad (Kohei's, Roku's own former student) found gone, gear arranged rather than fought over. Tracked the group to a fifth figure, unnamed, calm, holding four survivors bound but alive. Roku's own account: an unconfirmed legend on this stretch of front for longer than his career — "the Shepherd."
 
@@ -659,6 +659,24 @@ Ardo's grief tore The Seam open involuntarily — Hollow fired a second time (fi
 **Homecoming.** Kuro knew before anyone told him. Rai's name went onto the Memorial Stone. The Inuzuka clan took the body and held the rite their own way — a pyre, not a burial. At the ceremony, Ardo took Rai's headband, left his own on the pyre in exchange, and declared — loudly, in front of the whole clan — his intent to become a self-styled "Shadow Kage," wandering the Land of Fire and eliminating threats. Tsume Inuzuka lit the pyre herself. Kuro howled; the clan's ninken answered him.
 
 **State at end:** Chakra 16/200, Stamina 26/115, Health 18/36 (unhealed since the Shepherd fight — no long rest taken yet), Special unknown/reset pending. Ardo now wears Rai's headband. Session Six opens from here.
+
+---
+
+## 六 · SESSION SIX — "THE EVALUATION" *(in progress)*
+
+Hiruzen attended Rai's funeral personally, then requested Ardo and Suzume privately. Suzume disclosed her full Sharingan account; Hiruzen is containing it — no Uchiha council disclosure unless she asks for it, Root kept out entirely, her medical file reclassified. Ardo raised the question of rank reevaluation directly; Hiruzen refused to rubber-stamp a Chūnin promotion on one mission report but sanctioned a real evaluation on his own authority: a full-contact sparring match against Roku, judged on conduct under pressure rather than a simple win condition — and explicitly delayed it three days so neither PC would be tested while still running on fumes and grief.
+
+**Three days' training at Ground Six.** Storming Thunder God went from a single natural-20 fluke to **Practiced** (Mastery Point: Control) — the fusion no longer needs a fresh check every cast, though it still can't be held and still punishes being resisted outright. Full Chakra/Stamina recovered, Health mostly healed.
+
+**The match itself, full contact, "until one cannot no more":** Roku proved exactly why the printed combo-limit warnings exist — Substituted out of Ardo's opening pincer in round one, then answered a three-action Leaf Whirlwind → Gale Fist → kunai combo by Countering-Window a takedown that put Ardo on the ground before two of the three actions even happened (Rule 5, in practice, taught the hard way). Suzume answered alone in round two with a real combo of her own — kunai, Body Flicker, Pulse Thread, taijutsu kick — landing all of it clean since Roku had already spent his Reaction on Ardo.
+
+**Round three, the finish: first real Team Combo of the campaign.** Suzume linked with Ardo outside the printed consecutive-initiative rule — called live as the "Naruto and Sasuke moment" the rule exists for. Chain: Suzume's Pulse Thread (failed CON save, Roku Open) → Ardo's Storming Thunder God at full momentum and advantage (failed the paralysis save, Roku stunned) → Suzume's Leaf Whirlwind driving a stunned target straight into the ground. **39 damage in one linked chain, zero interruption. Team Special: +15 Special, both of you.** Roku conceded on the spot — *"Match is yours."*
+
+**One standing table ruling came out of this match, logged to Book IV §2:** a lost-reach Displace (Substitution) no longer auto-ends the attacker's combo — the attacker gets one reroll to close back in instead. Applies going forward, not retroactively to this match.
+
+**The moment after:** both of you helped Roku up, and the "YEAH!!!" that came out of both of you wasn't really about the match — it was the first thing that's felt like winning since Rai died. Roku, quietly: *"He'd have been loud about this too, you know. Loudest one here, probably."*
+
+**State at end:** full Chakra/Stamina, Health mostly healed pre-match (minor hits taken, not tracked precisely — narrative-scale, not critical), Special +15 from Team Special. Evaluation passed by Roku's own concession; report to Hiruzen still pending.
 
 ---
 ---

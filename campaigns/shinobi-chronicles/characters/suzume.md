@@ -649,7 +649,7 @@ However, Lightning Release is **not automatically Medical Ninjutsu**. Suzume mus
 **Rank:** D  
 **Type:** Lightning Release / Precision / Control  
 **Status:** **Learned**  
-**Mastery:** Novice  
+**Mastery:** **Practiced** *(Session Six — three days' dedicated drilling at Ground Six unlocked Split Current below; Mastery Point spent: Precision)*  
 **Cost:** 8 Chakra / 5 Stamina  
 **Action:** 1 Action  
 **Slot:** 1  
@@ -728,8 +728,8 @@ This is Suzume's current version.
 
 ## Stage 2 — PULSE THREAD: SPLIT CURRENT
 **Rank:** D  
-**Status:** Future Evolution / Not Learned  
-**Requirement:** Pulse Thread mastery
+**Status:** **Learned, Session Six** — Pulse Thread reached Practiced through dedicated training, unlocking this stage. First deliberate success came on the tenth drilled repetition at Ground Six.  
+**Requirement:** Pulse Thread mastery ✓
 
 ### Concept
 
@@ -1110,8 +1110,6 @@ The appointment confirmed:
 
 ## SESSION FIVE — "GRASS FRONT"
 
-**Current Session — In Progress**
-
 The Shepherd encounter escalated.
 
 Rai died protecting Suzume.
@@ -1131,6 +1129,22 @@ She is now fighting as a fully recognized PC using the same action economy as Ar
 **Aftermath.** Ardo tried to force his Kōfū transformation a second time at Rai's body, on rage rather than the gratitude that produced it the first time — it refused him outright, no transformation, Chakra spent for nothing. Suzume watched it happen with the Sharingan still active; she saw *something* pass across him with a shape to it, briefly, and hasn't said yet what. Homecoming: Kuro knew before anyone told him. Rai's name went on the Memorial Stone. At the pyre, Ardo took Rai's headband and left his own on the fire in exchange, then declared — loudly, to the whole Inuzuka clan — that he intends to become a self-styled "Shadow Kage." Tsume Inuzuka lit the pyre; Kuro howled, the clan's ninken answered. Suzume stood with Kuro through all of it and hasn't spoken yet about what she's carrying out of this session.
 
 **State at end:** Chakra 110/110, Stamina 110/110, Health 35/35, Special 35/100 — untouched since the fight ended, no rest needed. Session Six opens from here.
+
+---
+
+## SESSION SIX — "THE EVALUATION" *(in progress)*
+
+Hiruzen attended the funeral in person, then requested a private audience. Suzume gave a full, honest account of her Sharingan — the migraines, the specialist appointment, the awakening trigger, both confirmed abilities. Hiruzen is containing the information deliberately: no Uchiha council disclosure unless she asks for it herself, Root kept out, her medical file reclassified. **That door stays closed until she opens it — her call, standing.**
+
+Ardo pushed for a rank reevaluation on the spot; Suzume backed him with an ultimatum Hiruzen didn't need and didn't take, but the underlying case — surviving a legendary threat twice in one night — earned a real evaluation on its own merits. Hiruzen sanctioned a supervised sparring match against Roku, judged on conduct under pressure rather than a simple win condition, deliberately delayed three days so neither of them would be tested while still drained and grieving.
+
+**Three days' training at Ground Six:** Pulse Thread drilled to **Practiced**, unlocking **Split Current** on the tenth deliberate repetition — the first technique she's grown past its original form rather than just gotten better at using.
+
+**The match:** full contact, "until one cannot no more." Suzume opened round two solo after Roku spent his Reaction on Ardo — kunai, Body Flicker, Pulse Thread, taijutsu kick, all four landing clean, 19 combined damage. **Round three closed it: the campaign's first real Team Combo**, linked live with Ardo outside the technically-required consecutive-initiative rule. Her Pulse Thread broke his CON save first, opening him to the whole chain; Ardo's Storming Thunder God landed at full momentum and advantage, stunning him; her own Leaf Whirlwind — from the general Genin Ability Set, not something invented for her — drove the stunned target straight into the ground. **39 damage, zero interruption, Team Special: +15 Special.** Roku conceded on the spot.
+
+**After:** she and Ardo pulled him up together, and the shout that came out of both of them wasn't really about the match — first thing that's felt like winning since Rai died.
+
+**State at end:** Chakra 110/110, Stamina 110/110, Health near-full, Special 50/100 (35 carried in + 15 Team Special). Evaluation passed by Roku's own concession; report to Hiruzen still pending.
 
 ---
 
