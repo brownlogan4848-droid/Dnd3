@@ -20,8 +20,8 @@
 | Field | Value |
 |---|---|
 | **Name in play** | **Souji** |
-| **Registered surname** | **Terada.** Civilian family, no shinobi lineage before him — ordinary in exactly the way Ardo's blank line and Suzume's newly-discovered bloodline aren't. |
-| **Clan** | **Clanless.** By birth, not by choice denied — nobody in his family ever had chakra worth training. |
+| **Registered surname** | **Terada.** Civilian family — fostered, not blood. Nobody in the Terada household ever had chakra worth training, which is exactly why nobody, including Souji, has ever thought to look past them. |
+| **Clan** | **Clanless, on every document that exists.** ***[GM — secret, not known to Souji]*** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. See Part Ten. |
 | **Village** | Konohagakure |
 | **Rank** | Genin (Level 1) |
 | **Age** | 10 |
@@ -219,9 +219,13 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 - **Earth Release:** Root Grip is control, not damage. Second Earth technique should probably start giving him something to actually hurt people with, or a real defensive option — Souji hasn't had to think hard yet about what happens when Root Grip isn't enough.
 - **The clanless ceiling question:** No kekkei genkai ever, by the sheet's own rule. His growth curve has to come entirely from training, mastery, and story — which the sheet itself frames as the *competitive* build, not the weaker one. Worth revisiting what "the extra feat" (still unspent — see below) becomes as he defines himself against two teammates who both got their power from something extraordinary happening *to* them.
 
-## Unspent Resource
+## UNBROKEN STANCE **[GM — Clanless bonus feat, resolved Session Seven]**
 
-**The Clanless feat is still unallocated.** One extra starting feat, per the sheet, on top of Kanketsu as the extra jutsu. Not filled in yet — this is something to decide through play, not assign cold.
+*"Being good at this was never going to be enough to keep me somewhere. So I made sure it wasn't the only thing I had."*
+
+**Once per long rest**, when Souji would be reduced to 0 Stamina or forced prone by an effect that isn't outright unconsciousness, he may instead **remain standing at 1 Stamina, fully able to act.** No save to earn it, no Chakra cost — it's conditioning, not a technique, and it doesn't come from anywhere chakra can reach. This is the answer to two cells' worth of learning that nobody was going to hold a place open for him if he went down first.
+
+**Limitation:** doesn't work against direct unconsciousness, death effects, or anything that bypasses Stamina/prone entirely (paralysis, sealing, etc.) — it's endurance, not immunity.
 
 ---
 ---
@@ -269,6 +273,38 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 
 **Roku:** A jōnin who just got beaten fair by his own students and seems, if anything, proud about it. Souji's default read on sensei is "how long before this one's gone too." He's not going to say that part out loud either. Not yet.
 
+**Session Seven update — the downtime while Hiruzen's registries run:** first real hours spent as a squad rather than a mission. Souji's feat got named — Unbroken Stance, decided out loud in front of both of them rather than worked out alone, which is itself new for him. He didn't offer much about Genzo beyond what's already on record, but he didn't deflect the question either, which for Souji is close to the same thing as answering it. Ardo apparently talks about becoming "Shadow Kage" enough that Souji's stopped being sure if it's a joke. Suzume asked him, once, plainly, whether he'd noticed her eyes. He said yes. Neither of them said anything else about it, and that was apparently the right amount to say.
+
+---
+---
+
+# PART TEN — THE SENJU QUESTION **[GM SECRET — not known to Souji, not known to anyone in-fiction yet]**
+
+**This section exists for continuity, not for Souji to act on.** He does not know this. Nobody in Konoha's records has flagged it. It is fixed and decided at the table, held out of play until something in the fiction earns the reveal — same discipline as "What Is Sealed" in Ardo's file.
+
+## What's True
+
+Souji Terada is a **lost branch-line Senju** — generations removed from the main house, diluted enough by intermarriage and time that no chakra-sensor or clan registrar has ever had reason to flag it. Not close kin to Tsunade. Not a secret heir to anything. Just blood old enough to be real and thin enough to have gone completely unnoticed, which is exactly how a "nearly extinct" Legendary clan actually disappears in practice — not in one dramatic massacre, but in centuries of quiet dilution nobody was watching closely enough to catch.
+
+**The Terada family found him, not bore him.** Left as an infant during the war's early chaos — no ceremony to it, no hidden note, nothing that reads like a deliberate cover-up. Just one more child the war displaced, taken in by people who had no idea what they were raising.
+
+## Why It Matters, Structurally
+
+**This completes something the other two sheets already started.** Ardo chose Body of Indra and turned out to be hidden Uzumaki. Suzume is Uchiha, blood and Body Origin both pointing the same direction. Souji chose Body of Ashura — the Asura-associated origin, per Ardo's own sheet's framing of the split — and if he's Senju, that's not a coincidence being engineered here, it's a coincidence the character creation process already half-built without anyone noticing. **Cell 409, un-asked-for and un-announced, is the Indra/Asura cycle again.** Two clans that spent a thousand years defining each other through conflict, reincarnated as three genin who just wanted a team.
+
+## What This Is Not
+
+- **Not Wood Release, not now, not soon.** Hashirama's Wood Release was unique to him specifically — a diluted branch-line descendant has no clean path to it without a story doing serious work first. If it ever surfaces, it should cost something the way Kōfū and the Sharingan both did.
+- **Not something Souji suspects.** He has no migraines, no visions, no dormant symptom the way Suzume did. This is a genuinely clean secret, held by the world rather than pressing on the character from the inside.
+- **Not confirmed even to the GM which specific ancestor thinned it out.** Deliberately unresolved — matches the compendium's own convention of flagging unknowns rather than inventing false precision.
+
+## Seeds for a Future Reveal **[not scheduled, not obligated]**
+
+- A life-threatening injury that heals wrong — or right, in a way that shouldn't be possible for someone with his registered lineage.
+- Contact with someone who'd actually recognize Senju chakra on sight — Tsunade herself, Yamato, or an old-enough Konoha shinobi who remembers what the clan felt like before it thinned out.
+- An old relic or site tied to the Senju — the Naka Shrine's opposite number, or something in the Hokage Monument's own archives.
+- Simplest and most in-genre: nothing external at all. Just enough trust built with this specific squad that something in him stops needing to stay so tightly controlled.
+
 ---
 ---
 
@@ -298,7 +334,9 @@ Falling Leaf Cut      D    —/6    Action    +4 hit, 1d8+1, target Off-Balance
 PASSIVES
 Powerful Life Force — +5 Stamina/round in combat
 Reads the Room — advantage on first read of someone, per scene
+Unbroken Stance — 1/long rest, ignore a 0-Stamina/prone effect, stand at 1 Stamina instead
 
 RYŌ: 6,000
+(GM only: true lineage is a lost Senju branch line — see Part Ten. Souji does not know.)
 UNSPENT: one Clanless feat, not yet chosen
 ```
