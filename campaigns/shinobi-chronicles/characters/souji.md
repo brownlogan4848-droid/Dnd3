@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha. Session Six, Ground Six training ground. Assigned to Cell 409 by Hiruzen directly, filling the third slot Rai's death left open. First session with Ardo and Suzume — everything below is being established live.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Land of Fire, en route to the Shepherd's ridgeline. Session Seven — mid-rescue, a captured Konoha shinobi freed and their captor taken down with Kanketsu. **Souji's Senju heritage awakened live, in front of the whole squad, mid-strike.** No longer a secret — witnessed by Ardo, Suzume, and Roku simultaneously. First session with Ardo and Suzume was Session Six; everything below is current through this moment.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -21,7 +21,7 @@
 |---|---|
 | **Name in play** | **Souji** |
 | **Registered surname** | **Terada.** Civilian family — fostered, not blood. Nobody in the Terada household ever had chakra worth training, which is exactly why nobody, including Souji, has ever thought to look past them. |
-| **Clan** | **Clanless, on every document that exists.** ***[GM — secret, not known to Souji]*** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. See Part Ten. |
+| **Clan** | **Clanless on every document that exists — but no longer a secret from anyone who was standing in that ravine.** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. **Awakened live, Session Seven, mid-Kanketsu, witnessed by the entire squad.** The paperwork hasn't caught up yet. It's going to have to. See Part Ten — no longer GM-only, now player-facing history. |
 | **Village** | Konohagakure |
 | **Rank** | Genin (Level 1) |
 | **Age** | 10 |
@@ -48,13 +48,13 @@
 ## Attributes **[SHEET]**
 
 *27-point buy, 8–15 before bonuses, same convention as Ardo and Suzume.*
-*Applied on top: Body of Ashura +1 CON · Clanless +1 (applied to STR below)*
+*Applied on top: Body of Ashura +1 CON · Clanless +1 (applied to STR) · **Senju +2 CON/+1 STR, added Session Seven on awakening.***
 
 | Attribute | Score | Mod | Governs |
 |---|---|---|---|
-| **STR** | 15 *(14+1 Clanless)* | **+2** | Kenjutsu, Taijutsu power |
+| **STR** | 16 *(14 base +1 Clanless +1 Senju)* | **+3** | Kenjutsu, Taijutsu power |
 | **DEX** | 14 | **+2** | Speed, precision, hand seals |
-| **CON** | 14 *(13+1 Ashura)* | **+2** | Durability, Stamina, chakra reserves |
+| **CON** | 16 *(13 base +1 Ashura +2 Senju)* | **+3** | Durability, Stamina, chakra reserves |
 | **INT** | 10 | **+0** | Ninjutsu, tactics |
 | **WIS** | 12 | **+1** | Perception, reading an opponent |
 | **CHA** | 9 | **−1** | Not his strength, and he knows it |
@@ -65,25 +65,25 @@
 
 | Resource | Value (Max) | Working |
 |---|---|---|
-| **Chakra** | **105 / 105** | 100 + 20 (CON +2) = 120 · **−15** Ashura = **105** |
-| **Stamina** | **150 / 150** | 120 · **+30** Ashura = **150** |
+| **Chakra** | **115 / 115** | 100 + 30 (CON +3) = 130 · **−15** Ashura = **115** |
+| **Stamina** | **160 / 160** | 130 · **+30** Ashura = **160** |
 | **Special** | **0 / 100** | Starts empty, same as everyone |
-| **Health** | **34 / 34** | 30 + (2 × CON mod × Level) = 30 + 4 |
+| **Health** | **36 / 36** | 30 + (2 × CON mod × Level) = 30 + 6 |
 | **Defense** | **12** | 10 + DEX |
 | **Initiative** | **+2** | DEX |
 | **Movement** | **30 ft** | Standard |
 | **Proficiency** | **+2** | Level 1 |
 
-**One hundred fifty Stamina at Genin.** He can out-last most people his rank in a straight physical fight before he ever needs to spend a Chakra point — which is exactly the profile of someone who's had to be self-sufficient in a fight more than once already.
+**One hundred sixty Stamina at Genin, now with a Senju bump on top of Ashura's own.** He can out-last most people his rank in a straight physical fight before he ever needs to spend a Chakra point — which is exactly the profile of someone who's had to be self-sufficient in a fight more than once already, and it turns out some of that was never just discipline.
 
-**Rest recovery [INF, matching the others]:** short rest (1 hr) restores 25% Chakra/Stamina; long rest (8 hrs) restores both to full.
+**Rest recovery [INF, matching the others]:** short rest (1 hr) restores 25% Chakra/Stamina; long rest (8 hrs) restores both to full. **Plus Mastery of the Earth — see Part Ten — once per long rest, a full round of stillness restores 20 Stamina / 10 Chakra outside of normal rest entirely.**
 
 ## Save DCs **[SHEET]**
 
 | Discipline | Governing | DC |
 |---|---|---|
 | **Ninjutsu** | INT | **10** |
-| **Taijutsu** | STR or DEX — locked to STR at this build | **12** |
+| **Taijutsu** | STR or DEX — locked to STR at this build | **13** |
 | **Genjutsu** | CHA | **9** |
 | **Medical** | WIS | **11** |
 
@@ -97,7 +97,7 @@
 | Skill | Bonus | Source |
 |---|---|---|
 | **Kenjutsu** | **+4** | DEX +2, prof +2 — his actual specialty |
-| **Taijutsu** | **+5** | STR +2, prof +2, **Ashura +1** |
+| **Taijutsu** | **+6** | STR +3, prof +2, **Ashura +1** *(updated Session Seven — STR rose with the Senju bonus)* |
 | **Perception** | **+3** | WIS +1, prof +2 |
 | **Stealth** | +2 | DEX, not proficient |
 | **Strategy** | +0 | INT, not proficient |
@@ -140,7 +140,7 @@ When Souji has a moment to actually watch someone before engaging with them — 
 **Cost:** None
 **Action:** 1 Action
 **Attack:** Kenjutsu +4 vs. Defense
-**Damage:** 1d8 + 1 (STR)
+**Damage:** 1d8 + 3 (STR)
 
 ### Combat Identity
 
@@ -178,7 +178,7 @@ Not a damage technique. It's the reason a taijutsu specialist without ninjutsu d
 **Cost:** 6 Stamina (no Chakra)
 **Action:** 1 Action · 1 slot
 **Attack:** Kenjutsu +4 vs. Defense
-**Damage:** 1d8 + 1 (STR), and on a hit the target is **Off-Balance** — the next attack against them this combo (from anyone) has advantage.
+**Damage:** 1d8 + 3 (STR), and on a hit the target is **Off-Balance** — the next attack against them this combo (from anyone) has advantage.
 
 ### Effect
 
@@ -199,7 +199,7 @@ A deliberately unbalancing cut, angled to disrupt footing rather than just wound
 
 ### Effect
 
-The follow-through Falling Leaf Cut was always missing — Souji's own answer to the setup he'd already built. **2d8 + 1 (STR) damage** against a target already Off-Balance, and **the Off-Balance condition ends on them once this connects** — it's the finisher, not another opener. Cannot be used as a technique's first action; there has to already be an opening on the table.
+The follow-through Falling Leaf Cut was always missing — Souji's own answer to the setup he'd already built. **2d8 + 3 (STR) damage** against a target already Off-Balance, and **the Off-Balance condition ends on them once this connects** — it's the finisher, not another opener. Cannot be used as a technique's first action; there has to already be an opening on the table.
 
 ### Why Now
 
@@ -215,7 +215,7 @@ Two rounds of drilling with Ardo and Suzume both landing setup hits on him made 
 **Cost:** No Chakra. **8 Stamina**, paid on the setup, not the strike.
 **Action:** Setup costs a **Bonus Action** (Souji goes still, sword sheathed, reading the fight rather than acting in it). The **strike itself is a Reaction** — usable once the setup is active, against the first opening it's offered.
 **Attack:** Kenjutsu +4 vs. Defense, but **the roll is made with advantage** if the target is Open, Off-Balance, or otherwise compromised when the strike triggers.
-**Damage:** 2d8 + 1 (STR), and **this damage cannot be reduced by armor or resistance that isn't specifically chakra-based** — it's a pure, precisely placed physical cut, not a technique with an element to resist.
+**Damage:** 2d8 + 3 (STR), and **this damage cannot be reduced by armor or resistance that isn't specifically chakra-based** — it's a pure, precisely placed physical cut, not a technique with an element to resist.
 
 ### What Genzo Actually Taught Him
 
@@ -299,9 +299,9 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 ---
 ---
 
-# PART TEN — THE SENJU QUESTION **[GM SECRET — not known to Souji, not known to anyone in-fiction yet]**
+# PART TEN — THE SENJU QUESTION **[REVEALED, Session Seven — Souji, Ardo, Suzume, and Roku all know now]**
 
-**This section exists for continuity, not for Souji to act on.** He does not know this. Nobody in Konoha's records has flagged it. It is fixed and decided at the table, held out of play until something in the fiction earns the reveal — same discipline as "What Is Sealed" in Ardo's file.
+**No longer a GM-only secret.** It surfaced live, mid-Kanketsu, during the rescue in the ravine short of the Shepherd's ridgeline — visible chakra, pale roots breaking stone underfoot for a few seconds, witnessed by the entire squad simultaneously. Unlike Ardo's still-forming theory and Suzume's carefully contained disclosure to Hiruzen alone, **this one is already out**, in front of people, with no version of events where it quietly stays contained. What follows is now shared history, not held continuity.
 
 ## What's True
 
@@ -313,18 +313,26 @@ Souji Terada is a **lost branch-line Senju** — generations removed from the ma
 
 **This completes something the other two sheets already started.** Ardo chose Body of Indra and turned out to be hidden Uzumaki. Suzume is Uchiha, blood and Body Origin both pointing the same direction. Souji chose Body of Ashura — the Asura-associated origin, per Ardo's own sheet's framing of the split — and if he's Senju, that's not a coincidence being engineered here, it's a coincidence the character creation process already half-built without anyone noticing. **Cell 409, un-asked-for and un-announced, is the Indra/Asura cycle again.** Two clans that spent a thousand years defining each other through conflict, reincarnated as three genin who just wanted a team.
 
-## What This Is Not
+## What This Still Is Not
 
-- **Not Wood Release, not now, not soon.** Hashirama's Wood Release was unique to him specifically — a diluted branch-line descendant has no clean path to it without a story doing serious work first. If it ever surfaces, it should cost something the way Kōfū and the Sharingan both did.
-- **Not something Souji suspects.** He has no migraines, no visions, no dormant symptom the way Suzume did. This is a genuinely clean secret, held by the world rather than pressing on the character from the inside.
+- **Not Wood Release. Still not now, still not soon.** Hashirama's Wood Release was unique to him specifically — a diluted branch-line descendant has no clean path to it without a lot more story doing serious work first. What surfaced Session Seven was raw Senju vitality and a startle-reflex of root-growth, not a controllable technique. He cannot call that back up on command yet.
 - **Not confirmed even to the GM which specific ancestor thinned it out.** Deliberately unresolved — matches the compendium's own convention of flagging unknowns rather than inventing false precision.
 
-## Seeds for a Future Reveal **[not scheduled, not obligated]**
+## How It Actually Surfaced
 
-- A life-threatening injury that heals wrong — or right, in a way that shouldn't be possible for someone with his registered lineage.
-- Contact with someone who'd actually recognize Senju chakra on sight — Tsunade herself, Yamato, or an old-enough Konoha shinobi who remembers what the clan felt like before it thinned out.
+**Trust, not injury.** The seed list below predicted a few plausible triggers; what actually happened was closest to the last one — "nothing external at all, just enough trust built with this specific squad." Root Grip already had the captor's feet locked. Kanketsu was already the technique he trusted most, taught by the sensei he'd already lost once. The moment asked everything of him at once — a hostage's life, his new squad watching, the one cut he'd trained his whole life to make correctly — and something that had stayed quiet for ten years decided that was worth answering for.
+
+## MASTERY OF THE EARTH **[GM — new passive, Session Seven, permanent]**
+
+The Senju clan's baseline trait, active from this point forward: **+2 CON, +1 STR** *(retroactively folded into his attribute block — see Part Two, needs updating)*, and once per long rest, **spending a moment in genuine stillness (a full round, no other action) restores 20 Stamina and 10 Chakra** — the body remembering how to heal the way Senju bodies have always healed, faster and more completely than the Ashura passive alone accounts for.
+
+**The visible burst itself — root-growth, chakra flare — was a one-time awakening event, not a repeatable technique.** It doesn't come back on command. Whether it can be trained into something deliberate, and what that costs, is now an open story question instead of a hidden one.
+
+## Seeds for a Future Reveal **[superseded — the reveal already happened; these are now seeds for what comes NEXT]**
+
+- Contact with someone who'd actually recognize Senju chakra on sight — Tsunade herself, Yamato, or an old-enough Konoha shinobi who remembers what the clan felt like before it thinned out. Now more urgent than before — word of a chakra burst like that in the field will reach someone eventually.
 - An old relic or site tied to the Senju — the Naka Shrine's opposite number, or something in the Hokage Monument's own archives.
-- Simplest and most in-genre: nothing external at all. Just enough trust built with this specific squad that something in him stops needing to stay so tightly controlled.
+- The real question going forward: does Hiruzen find out through official channels, or does Souji tell him first? Ardo and Suzume both know now. That's not nothing.
 
 ---
 ---
@@ -333,32 +341,33 @@ Souji Terada is a **lost branch-line Senju** — generations removed from the ma
 
 ```
 SOUJI · Genin · Konohagakure · Level 1
-Clanless (Terada family, civilian) · Body of Ashura · Earth 土 · age 10
+Clanless on paper / awakened Senju in truth (Session Seven) · Body of Ashura · Earth 土 · age 10
 
-STR 15 (+2)   DEX 14 (+2)   CON 14 (+2)
+STR 16 (+3)   DEX 14 (+2)   CON 16 (+3)
 INT 10 (+0)   WIS 12 (+1)   CHA  9 (−1)      Prof +2
 
-CHAKRA   105      STAMINA  150      SPECIAL  0/100
-HEALTH    34      DEFENSE   12      INIT  +2   MOVE 30 ft
+CHAKRA   115      STAMINA  160      SPECIAL  0/100
+HEALTH    36      DEFENSE   12      INIT  +2   MOVE 30 ft
 
-DC — Ninjutsu 10 · Taijutsu 12 · Genjutsu 9 · Medical 11
+DC — Ninjutsu 10 · Taijutsu 13 · Genjutsu 9 · Medical 11
 COMBO LIMIT 3 · MAX RANK D · all techniques 1 slot
 
-SKILLS  Kenjutsu +4 · Taijutsu +5 · Perception +3
+SKILLS  Kenjutsu +4 · Taijutsu +6 · Perception +3
 
 ── COMBAT KIT ──────────────────────────────────
-Baseline Swordwork    —    —      Action    +4 hit, 1d8+1
+Baseline Swordwork    —    —      Action    +4 hit, 1d8+3
 Root Grip (Earth)     D    9/4    Action    DEX save or Speed 0
-Falling Leaf Cut      D    —/6    Action    +4 hit, 1d8+1, target Off-Balance
-完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+1, once/encounter
-Two-Stage Falling Leaf D    —/8    Action    +4 hit, 2d8+1, needs Off-Balance target first
+Falling Leaf Cut      D    —/6    Action    +4 hit, 1d8+3, target Off-Balance
+完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+3, once/encounter
+Two-Stage Falling Leaf D    —/8    Action    +4 hit, 2d8+3, needs Off-Balance target first
 
 PASSIVES
 Powerful Life Force — +5 Stamina/round in combat
 Reads the Room — advantage on first read of someone, per scene
 Unbroken Stance — 1/long rest, ignore a 0-Stamina/prone effect, stand at 1 Stamina instead
+Mastery of the Earth — 1/long rest, a full round of stillness restores 20 Stamina/10 Chakra
 
 RYŌ: 6,000
-(GM only: true lineage is a lost Senju branch line — see Part Ten. Souji does not know.)
+Senju heritage: REVEALED Session Seven, live, witnessed by the whole squad — see Part Ten.
 UNSPENT: one Clanless feat, not yet chosen
 ```
