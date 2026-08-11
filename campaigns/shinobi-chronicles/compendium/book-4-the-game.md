@@ -1636,6 +1636,8 @@ You don't get to invent an S-rank technique at Genin. Gates first.
 
 **Nature restrictions apply.** You cannot create a Fire Release technique without the Fire affinity. You cannot create a kekkei genkai technique without the bloodline — see **Book IV §1, Part Four**.
 
+**Rank-ceiling overrides (Other Power System abilities) [GM — standing rule].** The "minimum shinobi rank" column above gates what rank of jutsu a character can *know and cast* under normal progression, not just what they can invent. Some Other Power System grants (Book III/character-sheet-specific, entity-granted or otherwise) lift that ceiling for their duration rather than raising the character's actual shinobi rank — the character still needs to actually *know* the technique (through the normal channels: training, story, teaching) for the override to matter; it removes the rank gate in advance, it doesn't hand out new jutsu. **First instance:** Ardo's 紅風 Kōfū — while active, he may cast up to S-rank jutsu regardless of his baseline Chūnin ceiling. See `characters/ardo.md` for the full writeup.
+
 ---
 ---
 

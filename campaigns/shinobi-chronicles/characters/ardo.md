@@ -484,6 +484,8 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 
 **Clone interaction:** a Shadow Clone summoned **while Kōfū is already active** is created as a true snapshot — transformed identically, no extra cost, tied to Ardo's own Kōfū duration. A clone summoned **before** Kōfū activates stays a normal, untransformed clone — a snapshot doesn't retroactively upgrade.
 
+**Rank ceiling override [GM — standing rule, added Session Five]:** while Kōfū is active, Ardo may cast up to **S-rank** jutsu, overriding his normal Chūnin ceiling for the duration. This does not teach him anything — he currently knows no B/A/S-rank techniques, so nothing changes right now. What it does is remove the rank gate in advance: whenever he learns a higher-rank technique later, through the normal channels (training, story, the usual), Kōfū lets him use it even before his baseline rank would otherwise allow. See Book IV §3, Part Five for the general mechanic this instantiates.
+
 **Sustain:** 20 Chakra / 15 Stamina per round held, on top of activation.
 
 **Risk:** CON save every round held, escalating **DC 12 → 15 → 18.** Fail = instant Rule 5 Interruption + real backlash damage, worse the deeper it was pushed.
