@@ -821,15 +821,30 @@ The technique may continue evolving in **precision, control, range, and utility*
 ## PATH ⑤ — SHARINGAN-ENABLED TAIJUTSU
 
 ### Current Status
-Dormant.
+**Active, Session Seven** — first named technique on this path.
 
-Suzume's DEX +2, Perception +4, and Sharingan make her better suited to **precision Taijutsu** than raw-force Taijutsu.
+Suzume's DEX +2, Perception +4, and Sharingan make her better suited to **precision Taijutsu** than raw-force Taijutsu, and Session Six already proved it in a real fight (the finishing kunai stab on the Shepherd). Ground Six training turned that instinct into something repeatable.
 
-Possible future direction:
+**Basic Taijutsu → Predictive Taijutsu (below) → Sharingan-assisted counter fighting → Advanced Uchiha combat style**
 
-**Basic Taijutsu → Predictive Taijutsu → Sharingan-assisted counter fighting → Advanced Uchiha combat style**
+---
 
-No named future technique is locked in yet.
+### PT-TAI-01 — MIRRORED OPENING
+
+**Type:** Taijutsu, Sharingan-assisted
+**Rank:** Unranked, like the dōjutsu passive it's built on **[GM — Session Seven, Predictive Taijutsu made concrete]**
+**Status:** Learned
+**Cost:** No Chakra beyond the Sharingan's own 3/round upkeep. **No Stamina cost beyond a normal Taijutsu action.**
+**Action:** 1 Action · 1 slot
+**Attack:** Taijutsu +4 vs. Defense
+
+### Effect
+
+Suzume reads the first half-second of an opponent's committed motion and moves to intercept it before the strike itself fully forms — not blocking, meeting. **If used against a target who has already taken an action this combo, the attack roll is made with advantage** — the Sharingan isn't predicting a stranger's habits, it's reading momentum that's already visible. **Damage: 1d6 + 1** (same base as her ordinary Taijutsu, the advantage is the actual technique), and **on a hit, the target's next action this combo suffers Chain Momentum as though they'd already missed once** — the interception costs them tempo, not just HP.
+
+### Why It's Hers
+
+This isn't Ardo's kind of technique — no chakra fusion, no forced element, nothing invented under duress. It's the exact opposite: **discipline turned into a weapon**, the same "Observe → Predict → Target → Disable" instinct that's defined her since before the Sharingan ever awakened, now with a name and a mechanic instead of just being a good read.
 
 ---
 
@@ -1214,6 +1229,7 @@ E-GEN-03 Substitution           E    8 Ch/5 St  Reaction
 E-GEN-04 Rope Escape            E    3 Ch/2 St  Bonus
 BAS-TAI-01 Basic Taijutsu       —    —          Action, +4 hit, 1d6−1
 D-LIGHT-01 Pulse Thread          D    8 Ch/5 St   Action, 1d8 Lightning
+PT-TAI-01 Mirrored Opening       —    —          Action, +4 hit (adv. if target already acted), 1d6+1
 
 SHARINGAN — 2 TOMOE
 - Advantage vs Genjutsu

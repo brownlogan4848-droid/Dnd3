@@ -395,7 +395,27 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 - **Severe recoil if resisted with equal or greater force.** No CON save to avoid it — if the target's own defense matches or beats the fusion outright, the backlash goes through Ardo's hand and arm instead of out.
 - Requires forcing lightning chakra with zero training every single time until this is trained properly — treat each cast before Practiced as carrying real risk, GM's discretion on when a fusion check is required again versus assumed reliable.
 
-**Mastery: Practiced, 10 XP** *(updated Session Six — three days' dedicated drilling at Ground Six).* **1 Mastery Point spent: Control.** The fusion no longer requires a fresh Ninjutsu check every cast — it's reliable now, not a coin flip. The structural flaws are unchanged: still can't be charged/held past the throw, still carries severe recoil if resisted with equal or greater force. Proven live in the Roku evaluation match as the finishing blow of the campaign's first Team Combo (39 combined damage, full chain). This is the technique that, refined further, becomes the fuller Storming Thunder God shown on Ardo's future Gale-Bolt Style cards (Mode B ranged variant, then the A-rank and S-rank forms — Absolute Vacuum Collapse, Barometric Silence — gated the normal way from here on: rank, training, story).
+**Mastery: Proficient, 25 XP** *(updated Session Seven — a second natural 20, this time in deliberate training rather than combat necessity, on the exact same Wind/Lightning control problem).* **2nd Mastery Point spent: Precision.** +1 to the attack roll and to the paralysis rider's DC (now 13). Two clean natural-20s on the same fusion problem is the table's own bar for "this isn't luck anymore" — Ardo doesn't need the coin-flip framing at all now, on Mode A or anything built from the same control base. Proven live in the Roku evaluation match as the finishing blow of the campaign's first Team Combo (39 combined damage, full chain).
+
+---
+
+## 迅雷・嵐雷神・弐 — THUNDER GODS GALE
+### *Jinrai Raitun: Gōraijin, Mode B (Ranged Attack)* · **[GM — unlocked Session Seven, direct consequence of the second natural 20]**
+
+**The immediate next step on the same card, not a leap to the A-rank or S-rank forms.** Barometric Silence and Absolute Vacuum Collapse are still locked behind real rank, a second nature actually earned the normal way, and a blade Ardo still doesn't know exists — that hasn't changed. What changed is that Proficient-tier control over the fusion is good enough now to release it at range instead of only through a fist on contact.
+
+**1 Action / 2 slots.** **PROTOTYPE STATUS — 1/3 field uses**, same discipline as everything else this style has produced.
+
+**Cost: 28 Chakra / 14 Stamina.** Range 40 ft, single target or a narrow line toward them.
+
+**Effect:** Punches the open air rather than a target directly — the compressed wind/lightning mixture shoots out as a spiraling, viscous stream, dragging anything near its path toward the center before the mixture discharges. **3d8 Wind + Lightning damage, no melee required.** Anything within 5 ft of the target on either side gets pulled 10 ft toward the beam's line before the hit lands — genuinely useful for collapsing a spread-out fight into one point, not just extra range on the same punch.
+
+**Limitations:**
+- **No paralysis rider at this rank.** Mode A's stun effect doesn't transfer to the ranged form yet — that's a future refinement, not a given.
+- **Same severe-recoil clause as Mode A** if the target's own defense meets or beats the fusion outright.
+- Line-of-effect only — can't be curved or redirected once released.
+
+**Mastery: Learned, 0 XP.** Brand new. Its own track, separate from Mode A's.
 
 ---
 ---
@@ -728,7 +748,10 @@ Gale Fist·STRIKE D   10/6    Action    ← DEX 12 or PRONE
 Gale Fist·LOOSED D   10/6    Action    ← ranged 30ft, NO recoil
 Shadow Clone [F] D   12/8    Action    ← 1 HP, 1 action/rd
 Splendor (3-stg) D×3 36/23   Combo     ← PROVEN, per-stage mastery
-Compression Shell D  10/6    Action    ← PROTOTYPE 1/3, Overcharge 45/20+CON14
+Compression Shell D  10/6    Action    ← Practiced, no longer prototype
+Compression Sphere C  18/10   Action    ← held sphere, 3d8/5d8, 2 slots
+Storming Thunder God C  25/15  Action    ← Proficient, 3d8+paralysis, melee, 2 slots
+Thunder Gods Gale    C  28/14   Action    ← PROTOTYPE, ranged 40ft, 3d8, pulls targets in, 2 slots
 
 ── OTHER POWER SYSTEMS (not jutsu) ──────────────
 Borrowed Gale    entity-granted only, Health-cost 3/5/8 per rd

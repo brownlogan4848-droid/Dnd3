@@ -186,6 +186,27 @@ A deliberately unbalancing cut, angled to disrupt footing rather than just wound
 
 ---
 
+## D-KEN-02 — KENJUTSU: TWO-STAGE FALLING LEAF
+
+**Japanese:** 剣術・二段落葉斬り (Kenjutsu: Nidan Rakuyō Giri)
+**Type:** Kenjutsu
+**Rank:** D **[GM — Session Seven, Ground Six training]**
+**Status:** Learned
+**Cost:** 8 Stamina (no Chakra)
+**Action:** 1 Action · 1 slot
+**Attack:** Kenjutsu +4 vs. Defense
+**Requirement:** Target must already be **Off-Balance** (from Falling Leaf Cut or an equivalent effect)
+
+### Effect
+
+The follow-through Falling Leaf Cut was always missing — Souji's own answer to the setup he'd already built. **2d8 + 1 (STR) damage** against a target already Off-Balance, and **the Off-Balance condition ends on them once this connects** — it's the finisher, not another opener. Cannot be used as a technique's first action; there has to already be an opening on the table.
+
+### Why Now
+
+Two rounds of drilling with Ardo and Suzume both landing setup hits on him made it obvious what his own kit was missing — he had the opener and nothing built to actually cash it in himself, relying on teammates to finish what he started. **Not anymore.** This is Souji's first technique that isn't purely a solo tool; it's built assuming a team is already doing damage around him, and it punishes not following through on his own openings.
+
+---
+
 ## 完結 — KANKETSU ("CONCLUSION")
 
 **Type:** Kenjutsu (stillness-based)
@@ -330,6 +351,7 @@ Baseline Swordwork    —    —      Action    +4 hit, 1d8+1
 Root Grip (Earth)     D    9/4    Action    DEX save or Speed 0
 Falling Leaf Cut      D    —/6    Action    +4 hit, 1d8+1, target Off-Balance
 完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+1, once/encounter
+Two-Stage Falling Leaf D    —/8    Action    +4 hit, 2d8+1, needs Off-Balance target first
 
 PASSIVES
 Powerful Life Force — +5 Stamina/round in combat
