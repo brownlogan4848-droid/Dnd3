@@ -2546,6 +2546,17 @@ The setting includes child soldiers, state-sanctioned massacre, forced human exp
 1. **Don't let the famous characters solve it.** Minato, Itachi, and Madara should be weather, not cavalry.
 2. **Don't explain the secrets.** See **Book III §4**. The setting's power comes from what people don't know, and the reveals only land if the ignorance was played honestly.
 
+#### Mandatory Arc Beats **[GM — standing rule]**
+
+Every session, or every major narrative arc if a session runs light, needs **1–2 dedicated spotlight moments per PC** that actively move their individual storyline forward — **without the player having to be the one who brings it up.** The GM carries this, not the table. A player shouldn't have to lobby for their own arc to get screen time.
+
+Current PCs and what their beat looks like:
+
+- **Ardo — The Seam.** Proactively seed environmental hints, visions, or NPC interactions tied to what's sealed in him. Ardo's player doesn't carry the burden of raising it alone — see Book III/`characters/ardo.md` Part Six.
+- **Souji — Bloodline & Transformation.** Include active triggers, physical symptoms, lore drops, or encounters that test, hint at, or develop the Senju thread and the still-uncontrolled awakening — see `characters/souji.md` Part Ten.
+- **Suzume — Sharingan & Arc.** Give her specific narrative challenges, emotional beats, or combat realizations that force her to grapple with the evolution, cost, and lore of the Sharingan — see `characters/suzume.md`.
+
+This is a floor, not a ceiling — players can still initiate their own arc moments same as always. It just means the GM never gets to leave a PC's thread untouched for a full session because nobody happened to ask.
 
 ---
 ---
