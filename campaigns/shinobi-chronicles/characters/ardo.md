@@ -27,7 +27,7 @@
 | **Registered surname** | *None.* The line on his intake file is blank and has been for eight years. |
 | **True clan** | **Uzumaki** — unknown to the village, unknown to Ardo himself **[GM]** |
 | **Village** | Konohagakure |
-| **Rank** | Genin (Level 1) |
+| **Rank** | Chūnin (Level 5) *(promoted end of Session Six, stats recalculated Session Seven)* |
 | **Age** | 8 |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
@@ -74,14 +74,16 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 | Resource | Value (Max) | Working |
 |---|---|---|
-| **Chakra** | **200 / 200** | (100 + 30) = 130 · **+30** Indra = 160 · **×1.25** Uzumaki = **200** |
-| **Stamina** | **115 / 115** | 130 · **−15** Indra = **115** |
+| **Chakra** | **300 / 300** | (100 + 20×4 + 30) = 210 · **+30** Indra = 240 · **×1.25** Uzumaki = **300** |
+| **Stamina** | **195 / 195** | 210 · **−15** Indra = **195** |
 | **Special** | **0 / 100** *(current, mid-combat)* | Fluctuates with play — full snapshot in Session Log |
-| **Health** | **36 / 36** | 30 + (2 × CON mod × Level) |
+| **Health** | **100 / 100** | 30 + 10×4 + (2 × 3 × 5) |
 | **Defense** | **12** | 10 + DEX |
 | **Initiative** | **+2** | DEX |
 | **Movement** | **30 ft** | |
-| **Proficiency** | **+2** | Level 1 |
+| **Proficiency** | **+3** | Level 5 *([INF] — standard proficiency-by-level progression, not explicitly printed in Book IV; flagging the assumption)* |
+
+*(Genin/Level 1 baseline was 200 / 115 / 36 / prof +2 — see the historical snapshot below, left untouched as a record of that point in the timeline.)*
 
 > **LIVE COMBAT SNAPSHOT — Session Five, mid-fight vs. "the Shepherd":** Chakra 6/200 · Stamina 6/115 · Health 18/36 · Special 5/100. Kōfū (Crimson Wind) active, round 2, sustain paid. Shadow Clone [Fragment] up (used its action; still standing, still flanking). This line updates as the fight continues; the table above stays the Max/baseline reference.
 >
@@ -97,10 +99,10 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 | Discipline | Governing | DC |
 |---|---|---|
-| **Ninjutsu** | INT | **12** |
-| **Taijutsu** | STR *or* DEX — locked to DEX at this build | **12** |
-| **Genjutsu** | CHA | **10** |
-| **Medical** | WIS | **9** |
+| **Ninjutsu** | INT | **13** |
+| **Taijutsu** | STR *or* DEX — locked to DEX at this build | **13** |
+| **Genjutsu** | CHA | **11** |
+| **Medical** | WIS | **10** |
 
 ## Nature Cycle **[M]**
 
@@ -122,10 +124,10 @@ A sufficiently large chakra advantage overrides the cycle entirely.
 
 | Skill | Bonus | Source |
 |---|---|---|
-| **Ninjutsu** | **+5** | INT +2, prof +2, **Body of Indra +1** |
-| **Taijutsu** | **+4** | DEX +2, prof +2 |
-| **Stealth** | **+4** | DEX +2, prof +2 |
-| **Shurikenjutsu** | **+4** | DEX +2, prof +2 |
+| **Ninjutsu** | **+6** | INT +2, prof +3, **Body of Indra +1** |
+| **Taijutsu** | **+5** | DEX +2, prof +3 |
+| **Stealth** | **+5** | DEX +2, prof +3 |
+| **Shurikenjutsu** | **+5** | DEX +2, prof +3 |
 | Kenjutsu | +2 | DEX, not proficient |
 | Strategy | +2 | INT, not proficient |
 | Perception | **−1** | WIS. *A real weakness — it nearly cost him at Ground Seventeen.* |
@@ -150,7 +152,7 @@ Officially unexplained. Unofficially, Root has a working theory tying it to the 
 |---|---|---|---|---|---|
 | 1 | **3** | 4 | 5 | 6 | 7 |
 
-**Ardo's combo limit: 4 actions (Chūnin).** **Max jutsu rank: B** (S while Kōfū is active — see Part Six).
+**Ardo's combo limit: 4 actions (Chūnin).** **Max jutsu rank: C** (S while Kōfū is active — see Part Six).
 After any combo he still gets **one Bonus Action and one Reaction.**
 
 ## Action Weight **[SHEET]**
@@ -416,6 +418,45 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 - Line-of-effect only — can't be curved or redirected once released.
 
 **Mastery: Learned, 0 XP.** Brand new. Its own track, separate from Mode A's.
+
+---
+
+## 風遁・気圧津波 — BAROMETRIC TSUNAMI
+### *Fūton: Kiatsu Tsunami* · **C-rank Nintaijutsu (Taijutsu/Ninjutsu hybrid)** · **[GM — Gale-Bolt Style, born the same session as Mode C ground-release]**
+
+**1 Action / 1 slot.** **PROTOTYPE STATUS — 1/3 field uses.** **Cost: 12 Chakra / 6 Stamina.**
+
+**Effect:** Both palms thrust forward together, driving a silent, low-altitude vacuum-compression corridor (2m wide) along the ground toward the target — no visible telegraph, no sound of approach. When it reaches them, the surrounding air violently implodes to fill the void. **Target makes a STR save vs Ardo's Ninjutsu DC (13).** Fail: **2d8 Force damage, slammed prone, and stunned until the start of their next turn.** Success: half damage, shoved 5 ft only.
+
+**Range:** mid-range, 0–12m, fires in a straight line to the first target in its path — cannot be redirected once released, cannot reach a target in the air.
+
+**Limitations:**
+- **Linear only.** First target in the corridor eats it; anything behind them is untouched.
+- **Vacuum pocket dissipates past 12m** — no extending the range mid-cast.
+- Same prototype-cast risk as everything else in this style until it's proven out.
+
+**Mastery: Learned, 0 XP.** Brand new.
+
+---
+
+## 迅雷・嵐神の鉄拳 — STORM-GOD'S IRON GRIP
+### *Jinrai Raitun: Ranjin no Tekken* · **B-rank Nintaijutsu, Aerial Execution** · **[GM — Gale-Bolt Style, above Ardo's baseline Chūnin ceiling]**
+
+**Requires Kōfū active to cast at all** — B-rank sits above the normal Chūnin max jutsu rank of C (Book IV §3 Part Five); this one only exists inside the rank-ceiling override, same as anything else above C would.
+
+**1 Action or Reaction / 2 slots.** **PROTOTYPE STATUS — 1/3 field uses.** **Cost: 14 Chakra / 10 Stamina.**
+
+**Cast as a Reaction to an incoming close melee attack:** automatically dodges it and hoists Ardo and the attacker 30 ft into the air, both suspended in an external air shackle. **Cast as an Action instead** if there's no incoming melee attack to answer, closing to grab range first.
+
+**The follow-through** (Ardo's next action, or immediately if the Reaction was used on his own turn): a downward axe kick collapses the tempest inward, hurling the target down. **Target slams prone into a crater — 3d10 Bludgeoning/Lightning damage, STR save vs Ardo's Ninjutsu DC (13) or stunned** until the start of Ardo's next turn. Ardo lands clean at the crater's edge.
+
+**Combo set-up:** any follow-up attack against a target still Stunned and Prone from this gets **advantage** and a real shot at a critical.
+
+**Limitations:**
+- **Locked behind Kōfū** — no transformation, no cast, full stop.
+- Same prototype field-use cap as the rest of the style.
+
+**Mastery: Learned, 0 XP.** Brand new.
 
 ---
 ---
@@ -741,20 +782,20 @@ Report to Hiruzen on the ridgeline recon confirmed the Shepherd's alcove — wou
 # APPENDIX — FAST REFERENCE
 
 ```
-ARDO · Genin · Konohagakure · Level 1
+ARDO · Chūnin · Konohagakure · Level 5
 Uzumaki (hidden — theory forming) · Body of Indra · Wind 風 · age 8
 
 STR 13 (+1)   DEX 14 (+2)   CON 16 (+3)
-INT 14 (+2)   WIS  9 (−1)   CHA 11 (+0)      Prof +2
+INT 14 (+2)   WIS  9 (−1)   CHA 11 (+0)      Prof +3
 
-CHAKRA   200      STAMINA  115      SPECIAL  0/100
-HEALTH    36      DEFENSE   12      INIT  +2   MOVE 30 ft
-LIVE (mid-fight, Session Five): Ch 63 · St 45 · HP 18
+CHAKRA   300      STAMINA  195      SPECIAL  0/100
+HEALTH   100      DEFENSE   12      INIT  +2   MOVE 30 ft
+LIVE (mid-fight, Session Five): Ch 63 · St 45 · HP 18  [historical, pre-recalc]
 
-DC — Ninjutsu 12 · Taijutsu 12 · Genjutsu 10 · Medical 9
-COMBO LIMIT 3 · MAX RANK D · all techniques 1 slot
+DC — Ninjutsu 13 · Taijutsu 13 · Genjutsu 11 · Medical 10
+COMBO LIMIT 4 · MAX RANK C (S under Kōfū) · Basic/E/D = 1 slot, C/B = 2, A = 3, S = 4
 
-SKILLS  Ninjutsu +5 · Taijutsu +4 · Stealth +4 · Shuriken +4
+SKILLS  Ninjutsu +6 · Taijutsu +5 · Stealth +5 · Shuriken +5
 
 ── COMBAT KIT ──────────────────────────────────
 Clone            E    5/—    Action    29 XP PROFICIENT
@@ -772,6 +813,8 @@ Compression Shell D  10/6    Action    ← Practiced, no longer prototype
 Compression Sphere C  18/10   Action    ← held sphere, 3d8/5d8, 2 slots
 Storming Thunder God C  25/15  Action    ← Proficient, 3d8+paralysis, melee, 2 slots
 Thunder Gods Gale    C  28/14   Action    ← PROTOTYPE, ranged 40ft, 3d8, pulls targets in, 2 slots
+Barometric Tsunami   C  12/6   Action    ← PROTOTYPE, 2m line, 2d8, STR12 or prone+stun, 2 slots
+Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B > Chūnin C ceiling), 2 slots
 
 ── OTHER POWER SYSTEMS (not jutsu) ──────────────
 Borrowed Gale    entity-granted only, Health-cost 3/5/8 per rd

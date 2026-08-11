@@ -3,9 +3,9 @@
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
 **Current Session:** Session Five · Mid-combat against **the Shepherd**  
-**Character:** **Suzume** · Genin · Level 1 · Age 12  
+**Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Seven)*  
 **Cell:** Konoha Cell 409  
-**Current Rank Ceiling:** D-rank  
+**Current Rank Ceiling:** C-rank  
 **Current Dōjutsu:** **Sharingan — 2 Tomoe**
 
 ---
@@ -293,14 +293,16 @@ The same 27-point character creation convention used for Ardo is applied.
 
 | Resource | Maximum | Current | Formula / Note |
 |---|---:|---:|---|
-| **Chakra** | 110 | 110* | 100 + 20(Level−1) + 10×CON mod |
-| **Stamina** | 110 | 110* | Campaign baseline |
+| **Chakra** | 190 | 190* | 100 + 20(Level−1) + 10×CON mod |
+| **Stamina** | 190 | 190* | Campaign baseline (mirrors Chakra) |
 | **Special** | 100 | 0* | Formalized as PC resource |
-| **Health** | 35 | 35* | Continuity value [GM] |
+| **Health** | 80 | 80* | 30 + 10(Level−1) + 2×CON mod×Level |
 | **Defense** | 12 | 12 | 10 + DEX |
 | **Initiative** | +2 | +2 | DEX |
 | **Movement** | 30 ft | 30 ft | Standard |
-| **Proficiency** | +2 | +2 | Level 1 |
+| **Proficiency** | +3 | +3 | Level 5 *([INF] — standard proficiency-by-level progression, not explicitly printed in Book IV)* |
+
+*(Genin/Level 1 baseline was 110 / 110 / 35 / prof +2 — the old +3 Health continuity patch is superseded by this recalculation, done clean off the formula.)*
 
 \* **Live values must be updated after each combat round.** The values above represent the formal sheet baseline, not a claim that every resource is currently full during the ongoing Shepherd fight.
 
@@ -320,10 +322,10 @@ The 35 Health value is retained to avoid retroactively changing an already-runni
 
 | Skill | Bonus | Source |
 |---|---:|---|
-| **Medical** | **+4** | WIS +2 + proficiency +2 |
-| **Taijutsu** | **+4** | DEX +2 + proficiency +2 |
-| **Stealth** | **+4** | DEX +2 + proficiency +2 |
-| **Perception** | **+4** | WIS +2 + proficiency +2 |
+| **Medical** | **+5** | WIS +2 + proficiency +3 |
+| **Taijutsu** | **+5** | DEX +2 + proficiency +3 |
+| **Stealth** | **+5** | DEX +2 + proficiency +3 |
+| **Perception** | **+5** | WIS +2 + proficiency +3 |
 | Shurikenjutsu | +2 | DEX |
 | Strategy | +1 | INT |
 | Genjutsu | +0 | CHA |
@@ -334,10 +336,10 @@ The 35 Health value is retained to avoid retroactively changing an already-runni
 
 | Discipline | Governing Attribute | DC |
 |---|---|---:|
-| **Ninjutsu** | INT | **11** |
-| **Taijutsu** | DEX | **12** |
-| **Genjutsu** | CHA | **10** |
-| **Medical** | WIS | **12** |
+| **Ninjutsu** | INT | **12** |
+| **Taijutsu** | DEX | **13** |
+| **Genjutsu** | CHA | **11** |
+| **Medical** | WIS | **13** |
 
 ---
 
@@ -385,7 +387,7 @@ When Suzume has time to calmly assess a situation rather than reacting to an une
 | Kage | 7 |
 
 ### Suzume
-- **Combo Limit:** 3 actions
+- **Combo Limit:** 4 actions (Chūnin)
 - **Maximum Jutsu Rank:** D
 - **Bonus Actions:** 1 after combo
 - **Reactions:** 1 after/through combo according to normal rules
@@ -1210,24 +1212,24 @@ The Uchiha clan's loyalty question remains a major Era A issue.
 # APPENDIX A — AI FAST REFERENCE
 
 ```text
-SUZUME · Genin · Konohagakure · Level 1
+SUZUME · Chūnin · Konohagakure · Level 5
 AGE 12 · UCHIHA BLOODLINE · 2-TOMOE SHARINGAN
 
 STR  8 (−1)   DEX 14 (+2)   CON 12 (+1)
-INT 12 (+1)   WIS 15 (+2)   CHA 11 (+0)      PROF +2
+INT 12 (+1)   WIS 15 (+2)   CHA 11 (+0)      PROF +3
 
-CHAKRA   110      STAMINA 110      SPECIAL 0/100
-HEALTH    35      DEFENSE 12       INIT +2     MOVE 30 ft
+CHAKRA   190      STAMINA 190      SPECIAL 0/100
+HEALTH    80      DEFENSE 12       INIT +2     MOVE 30 ft
 
-DC — Ninjutsu 11 · Taijutsu 12 · Genjutsu 10 · Medical 12
+DC — Ninjutsu 12 · Taijutsu 13 · Genjutsu 11 · Medical 13
 
-COMBO LIMIT 3 · MAX JUTSU RANK D · E/D = 1 SLOT
+COMBO LIMIT 4 · MAX JUTSU RANK C · Basic/E/D = 1 slot, C/B = 2
 
 SKILLS
-Medical +4
-Taijutsu +4
-Stealth +4
-Perception +4
+Medical +5
+Taijutsu +5
+Stealth +5
+Perception +5
 Shurikenjutsu +2
 Strategy +1
 Genjutsu +0
@@ -1241,9 +1243,9 @@ E-GEN-01 Clone Technique       E    5 Ch       Action
 E-GEN-02 Transformation        E    4 Ch       Bonus
 E-GEN-03 Substitution           E    8 Ch/5 St  Reaction
 E-GEN-04 Rope Escape            E    3 Ch/2 St  Bonus
-BAS-TAI-01 Basic Taijutsu       —    —          Action, +4 hit, 1d6−1
+BAS-TAI-01 Basic Taijutsu       —    —          Action, +5 hit, 1d6−1
 D-LIGHT-01 Pulse Thread          D    8 Ch/5 St   Action, 1d8 Lightning
-PT-TAI-01 Mirrored Opening       —    —          Action, +4 hit (adv. if target already acted), 1d6+1
+PT-TAI-01 Mirrored Opening       —    —          Action, +5 hit (adv. if target already acted), 1d6+1
 
 SHARINGAN — 2 TOMOE
 - Advantage vs Genjutsu
