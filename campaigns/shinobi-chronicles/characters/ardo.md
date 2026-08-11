@@ -150,7 +150,7 @@ Officially unexplained. Unofficially, Root has a working theory tying it to the 
 |---|---|---|---|---|---|
 | 1 | **3** | 4 | 5 | 6 | 7 |
 
-**Ardo's combo limit: 3 actions.** **Max jutsu rank: D.**
+**Ardo's combo limit: 4 actions (Chūnin).** **Max jutsu rank: B** (S while Kōfū is active — see Part Six).
 After any combo he still gets **one Bonus Action and one Reaction.**
 
 ## Action Weight **[SHEET]**
@@ -241,7 +241,7 @@ Bought no numeric change to the jutsu. Instead:
 
 ## THE WIND PROBLEM **[SHEET — verified against the Jutsu Compendium]**
 
-**There is no Wind Release technique at E-rank or D-rank.** Wind Release begins at **C-rank**, which needs Chūnin. Ardo's ceiling is D. Every Wind technique below is from the burnt book or invented under File 17.
+**There is no Wind Release technique at E-rank or D-rank.** Wind Release begins at **C-rank**, which needs Chūnin. *(Historical note: this section was written while Ardo was still Genin, capped at D — now Chūnin, with Compression Shell, Storming Thunder God, and Thunder Gods Gale all live at C-rank.)* Every Wind technique below is from the burnt book or invented under File 17.
 
 ## Jutsu Creation — Quick Reference **[SHEET]**
 
@@ -478,7 +478,7 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 
 **Visual:** chakra peels outward in visible sheets, wind given color and weight, catching his dark red hair. Eyes go fully red — the same shade the mindscape water turned when the entity reached back. Every gust off him carries a faint red tint.
 
-**Activation:** costs the first **2 slots** of a 3-slot Genin combo. **60 Chakra / 30 Stamina / 5 Health** paid on commit. Standard Rule 5 vulnerability the entire activation window — fails outright if interrupted, costs already spent. **1 slot free** once transformed.
+**Activation:** costs the first **2 slots** of Ardo's combo (2 of his 4 at Chūnin). **60 Chakra / 30 Stamina / 5 Health** paid on commit. Standard Rule 5 vulnerability the entire activation window — fails outright if interrupted, costs already spent. **2 slots free** once transformed.
 
 **Transformed state (up to 3 rounds, end early anytime):** applies to **all** of Ardo's own attacks, Taijutsu *and* Ninjutsu — **+1d6 elemental/damage bonus**, **advantage** on the attack roll, **Move doubles.** Every hit that lands launches the target **~20 ft**, no save, wherever the base technique doesn't already push harder on its own (Gale Fist's own 30 ft push already exceeds this — no stacking there).
 
