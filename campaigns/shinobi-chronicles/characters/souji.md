@@ -244,7 +244,7 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 
 *"Being good at this was never going to be enough to keep me somewhere. So I made sure it wasn't the only thing I had."*
 
-**Once per long rest**, when Souji would be reduced to 0 Stamina or forced prone by an effect that isn't outright unconsciousness, he may instead **remain standing at 1 Stamina, fully able to act.** No save to earn it, no Chakra cost — it's conditioning, not a technique, and it doesn't come from anywhere chakra can reach. This is the answer to two cells' worth of learning that nobody was going to hold a place open for him if he went down first.
+**Once per long rest**, when an effect that isn't outright unconsciousness would force Souji prone, he may instead **spend 5 Stamina to remain standing, fully able to act.** No save to earn it — it's conditioning, not a technique, and it doesn't come from anywhere chakra can reach. This is the answer to two cells' worth of learning that nobody was going to hold a place open for him if he went down first.
 
 **Limitation:** doesn't work against direct unconsciousness, death effects, or anything that bypasses Stamina/prone entirely (paralysis, sealing, etc.) — it's endurance, not immunity.
 
@@ -368,7 +368,7 @@ Two-Stage Falling Leaf D    —/8    Action    +4 hit, 2d8+3, needs Off-Balance 
 PASSIVES
 Powerful Life Force — +5 Stamina/round in combat
 Reads the Room — advantage on first read of someone, per scene
-Unbroken Stance — 1/long rest, ignore a 0-Stamina/prone effect, stand at 1 Stamina instead
+Unbroken Stance — 1/long rest, spend 5 Stamina to ignore a forced-prone effect and stay standing
 Mastery of the Earth — 1/long rest, a full round of stillness restores 20 Stamina/10 Chakra
 
 RYŌ: 6,000
