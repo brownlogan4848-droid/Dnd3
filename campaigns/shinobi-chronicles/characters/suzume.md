@@ -1147,7 +1147,7 @@ She is now fighting as a fully recognized PC using the same action economy as Ar
 
 ---
 
-## SESSION SIX — "THE EVALUATION" *(in progress)*
+## SESSION SIX — "THE EVALUATION"
 
 Hiruzen attended the funeral in person, then requested a private audience. Suzume gave a full, honest account of her Sharingan — the migraines, the specialist appointment, the awakening trigger, both confirmed abilities. Hiruzen is containing the information deliberately: no Uchiha council disclosure unless she asks for it herself, Root kept out, her medical file reclassified. **That door stays closed until she opens it — her call, standing.**
 
@@ -1160,6 +1160,20 @@ Ardo pushed for a rank reevaluation on the spot; Suzume backed him with an ultim
 **After:** she and Ardo pulled him up together, and the shout that came out of both of them wasn't really about the match — first thing that's felt like winning since Rai died.
 
 **State at end:** Chakra 110/110, Stamina 110/110, Health near-full, Special 50/100 (35 carried in + 15 Team Special). Evaluation passed by Roku's own concession; report to Hiruzen still pending.
+
+---
+
+## SESSION SEVEN — "THE SHEPHERD, CLOSED"
+
+Chūnin vests taken. Souji joined the cell the same day. Downtime unlocked **Mirrored Opening** — first named technique on her long-dormant Sharingan-Taijutsu path, advantage against a target who's already acted this combo. Hiruzen's registries matched four headbands to MIA cases up to eight years old, no bodies ever recovered — reframing the whole mission as a rescue.
+
+**A fresh abduction put the squad on a live trail.** Suzume's Nerve Lock missed on a natural 1 against the culprit, forcing a hostage standoff — Souji ended it clean with Kanketsu, and **his hidden Senju bloodline awakened live in front of the whole squad**, visible chakra and root-growth, no longer anyone's secret. A new associate captured ("the Handler"); a second long-term captive confirmed alive.
+
+**The Shepherd confrontation resolved through Ardo's argument, not combat.** Suzume stood watch with the Sharingan active through the surrender, reading something in the Shepherd she hasn't put into words yet. No fight. Two rescued shinobi reunited with family at Konoha's gate — the closure the Shepherd spent eight years denying other people, finally delivered.
+
+**Closed the session on the rooftops above the village with the whole squad, silent, together.**
+
+**State at end:** full Chakra/Stamina/Health, well-rested. Special reset.
 
 ---
 

@@ -699,7 +699,7 @@ Ardo's grief tore The Seam open involuntarily — Hollow fired a second time (fi
 
 ---
 
-## 六 · SESSION SIX — "THE EVALUATION" *(in progress)*
+## 六 · SESSION SIX — "THE EVALUATION"
 
 Hiruzen attended Rai's funeral personally, then requested Ardo and Suzume privately. Suzume disclosed her full Sharingan account; Hiruzen is containing it — no Uchiha council disclosure unless she asks for it, Root kept out entirely, her medical file reclassified. Ardo raised the question of rank reevaluation directly; Hiruzen refused to rubber-stamp a Chūnin promotion on one mission report but sanctioned a real evaluation on his own authority: a full-contact sparring match against Roku, judged on conduct under pressure rather than a simple win condition — and explicitly delayed it three days so neither PC would be tested while still running on fumes and grief.
 
@@ -714,6 +714,24 @@ Hiruzen attended Rai's funeral personally, then requested Ardo and Suzume privat
 **The moment after:** both of you helped Roku up, and the "YEAH!!!" that came out of both of you wasn't really about the match — it was the first thing that's felt like winning since Rai died. Roku, quietly: *"He'd have been loud about this too, you know. Loudest one here, probably."*
 
 **State at end:** full Chakra/Stamina, Health mostly healed pre-match (minor hits taken, not tracked precisely — narrative-scale, not critical), Special +15 from Team Special. Evaluation passed by Roku's own concession; report to Hiruzen still pending.
+
+---
+
+## 七 · SESSION SEVEN — "THE SHEPHERD, CLOSED"
+
+Report to Hiruzen on the ridgeline recon confirmed the Shepherd's alcove — wounded, resting, and a wall of six or seven collected headbands proving Kohei's squad was never a first attempt. Both Ardo and Suzume took the Chūnin vests Hiruzen offered on Roku's concession from Session Six; Souji joined the cell the same day, assigned by Hiruzen personally.
+
+**Downtime while Hiruzen's registries ran:** Ardo's second natural 20 on the Wind/Lightning fusion — this time deliberate training, not combat necessity — pushed Storming Thunder God to **Proficient** and unlocked **Thunder Gods Gale**, the ranged Mode B variant. Souji's unspent Clanless feat resolved as **Unbroken Stance**. Real squad bonding, first time as a full three-person cell.
+
+**Four headbands matched: all carried as MIA, never KIA — no bodies, ever, across up to eight years.** Reframed the mission from hunt to rescue. Hiruzen assigned Roku to the field directly and authorized lethal force if it came down to captives' lives versus the Shepherd's.
+
+**The approach:** a fresh abduction — not one of the cold cases — put the squad on a live trail. Souji's Root Grip locked the culprit in place; Suzume's Nerve Lock missed on a natural 1, forcing a hostage standoff. **Souji ended it with Kanketsu, and the Senju bloodline (see his sheet, Part Ten) awakened live, witnessed by the entire squad** — visible chakra, root-growth through stone, no longer a hidden thread for anyone at this table. Captured a new associate, provisionally logged as "the Handler." A second captive confirmed alive by the rescued shinobi, Etsuko, who held the fallback point afterward with the Handler restrained.
+
+**The confrontation itself resolved through dialogue, not combat.** Ardo pressed the Shepherd on their eight-year justification — imprisonment reframed as mercy after the unresolved loss of a sister — and won the argument on its own logic: denying others the closure the Shepherd themselves had received. **The Shepherd surrendered.** No fight. Roku freed the second captive during the standoff.
+
+**Homecoming:** two rescued shinobi reunited with family at the gate, eight-year-old case files finally closed. The Shepherd handed to Hiruzen in restraints, promised fair judgment. The squad closed the session on the rooftops above the village, silent, together — the first unclouded good moment since Rai's pyre.
+
+**State at end:** full Chakra/Stamina/Health, well-rested after the two-day walk home. Special reset. Open threads: the Handler's interrogation, the Shepherd's actual trial/judgment, the freed captives' long-term recovery, Souji's overdue conversation with Hiruzen about what the whole village now half-knows.
 
 ---
 ---

@@ -296,6 +296,10 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 
 **Session Seven update — the downtime while Hiruzen's registries run:** first real hours spent as a squad rather than a mission. Souji's feat got named — Unbroken Stance, decided out loud in front of both of them rather than worked out alone, which is itself new for him. He didn't offer much about Genzo beyond what's already on record, but he didn't deflect the question either, which for Souji is close to the same thing as answering it. Ardo apparently talks about becoming "Shadow Kage" enough that Souji's stopped being sure if it's a joke. Suzume asked him, once, plainly, whether he'd noticed her eyes. He said yes. Neither of them said anything else about it, and that was apparently the right amount to say.
 
+**Session Seven, later — the mission itself.** First real fight with this squad: locked a fresh abductor in place with Root Grip while Suzume's Nerve Lock missed, holding the line through the hostage standoff that followed. Ended it with Kanketsu — one cut, same as always — except this time something answered that had been quiet his entire life. **Ten years of "clanless" stopped being the whole story in about three seconds, in front of the only two people his age who'd ever actually stuck around long enough to see it happen.** Ardo didn't treat him differently after. Suzume told him her own dōjutsu recognized the shape of a long-dormant thing finally answering. Roku said it was Souji's to bring to Hiruzen on his own terms.
+
+He hasn't decided yet what he's going to say when that conversation happens. He knows it's coming. For tonight, on the rooftops with the rest of the squad, he let it be enough that nobody around him treated it as the only interesting thing about him.
+
 ---
 ---
 
