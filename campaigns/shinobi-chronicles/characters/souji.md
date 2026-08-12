@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** **Late Era A, ~Year −5. The war is ending.** Age 20, **Jōnin**, eight years in the field. His Ninjutsu went from +0 to proficient because the war required it. Age 12 was Ryūchi Cave; Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
+**Current position:** **Late Era A, ~Year −5. The war is ending.** **Year 0. Age 25**, Jōnin. **Has spoken to nobody but Orochimaru for three months.** His Ninjutsu went from +0 to proficient because the war required it. Age 12 was Ryūchi Cave; Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -373,6 +373,49 @@ Futōju grew bark and root **inward**, through his own body, to make him immovab
 > | **倒木 Tōboku** | The Fallen Tree — one cut from stillness. His sword |
 > | **貫根 Kankon** | Piercing Root — the thing that grew through him, aimed outward |
 > | **朽木 Kuchiki** | The Rotting Tree — **he takes life out of the people trying to kill his friends and puts it directly into his friends, and keeps not one drop of it** |
+
+---
+---
+
+
+# CELL 409 — THE FIVE YEARS AFTER THE WAR **[Year −5 → Year 0]**
+
+## The bond
+
+**Ardo and Suzume.** Over the last year it stopped being ambiguous to anyone except the two of them.
+
+**They have not acted on it.** Not once, not a word, not a moment — and it is not confusion, hesitation, or anything either of them would call a question. **They both know. They both know the other knows.** It has simply never been the right week, in a decade that never had a right week, and neither has been willing to be the one who says it first in a life where saying things out loud has historically preceded losing them.
+
+**Their devotion is total.** Either would die for the other without a half-second's arithmetic, and both have come close enough that it isn't hypothetical. **相眼 Sōgan means neither has ever been able to hide a single feeling from the other**, which is either the reason it never needed saying or the reason it never got said.
+
+**All three are family.** Ardo and Souji were **brothers** — not metaphorically, not "like brothers." Souji carried his pack across a continent. Ardo sat four hours in a silent room for him. That is what they were to each other for twelve years.
+
+## The fracture
+
+**And over the last three years, Souji has been going.**
+
+Slowly at first, and deniably. Shorter with people. Sharper when tired. Gone longer than a mission needed. Answering questions with the answer and nothing around it. Suzume flagged it in year −3 and Ardo said *"he's always been like that,"* which was true five years earlier and had stopped being true.
+
+Then it stopped being deniable.
+
+**In the last three months he has cut everyone off.** Not dramatically — **administratively.** He stopped coming to things. He stopped being in the places he'd be. He answers when spoken to and does not start conversations, and he has not slept in the squad's usual quarters since midsummer.
+
+**He speaks to exactly one person: Orochimaru.**
+
+Nobody knows when that started. Suzume has asked twice and been told *"he's a colleague,"* which is not a lie and is not an answer.
+
+## What is actually happening, on the record
+
+**根の記憶 Ne no Kioku has been delivering bloodline knowledge to Souji every single session since Session Eight — in his own furious voice.** That is the voice from Training Ground Six. *Don't take his hand. The second you need somebody is the second you can be left again.*
+
+**It has been talking to him, uninterrupted, for thirteen years.** Nobody built a counter to it. Everyone assumed Ardo's hand on the slope was the answer, and it was — **for one afternoon, thirteen years ago.**
+
+And it has thirteen years of evidence now. Souji gave everything he had, to everyone, constantly, for over a decade — **and people still died anyway**, and the ledger it keeps is not the tortoises'.
+
+> **The corruption is already in his kit and nobody has noticed.** 朽木 Kuchiki drains an enemy's vitality and **cannot keep any of it** — every point must go straight to somebody else. That is a moral architecture, not a law of physics.
+>
+> **Somebody could teach him to keep it.**
+
 
 ---
 ---

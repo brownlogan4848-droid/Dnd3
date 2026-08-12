@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** **Late Era A, ~Year −5. The Third Great Ninja War is ending.** Age 18, **Jōnin**, eight years in the field with 遊撃班 Yūgekihan. Carries the Uzumaki archive, Suzume's Mangekyō, and 大仙 Daisen — which he has now used in front of enemies, and which put an unnamed entry in a Kumo bingo book: *wind, sage-class, do not engage alone.* Roku is off the front for good. **Four living Uzumaki found; one of them mattered.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
+**Current position:** **Late Era A, ~Year −5. The Third Great Ninja War is ending.** **Year 0. Age 23**, Jōnin, thirteen years in the field with 遊撃班 Yūgekihan. Carries the Uzumaki archive, Suzume's Mangekyō, and 大仙 Daisen — which he has now used in front of enemies, and which put an unnamed entry in a Kumo bingo book: *wind, sage-class, do not engage alone.* Roku is off the front for good. **Four living Uzumaki found; one of them mattered.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
 
 **Sourcing convention for this file:**
 
@@ -540,6 +540,49 @@ Performed on the underground sea in Ryūchi Cave's Deep Gallery. **It left a cra
 **THE SAGE'S CONDITION IS MET.** Full stack — 潮風 Shiokaze + 潮合 Shioai + 手綱 Tazuna — **held indefinitely, in combat, against Roku and Monuke simultaneously** (month eleven of the training year). Fūinjutsu: a competent working sealer, roughly two percent of what his head holds.
 
 **Quick status:** **渦の書庫 the Whirlpool Archive is in him** — thousands of preserved Uzumaki, knowledge not power · **the trustee is AWAKE** and will not take the wheel again · the trustee's original work is **finished** · the estate is **signed for in full, four coils** · 荒神 Aragami **CLOSED** · 潮風 Shiokaze **owned, not yet entered** · 潮合 Shioai **achieved** · Arakawa **manageable in rhythm, live out of it** · Vision **87/100**.
+
+
+---
+---
+
+
+# CELL 409 — THE FIVE YEARS AFTER THE WAR **[Year −5 → Year 0]**
+
+## The bond
+
+**Ardo and Suzume.** Over the last year it stopped being ambiguous to anyone except the two of them.
+
+**They have not acted on it.** Not once, not a word, not a moment — and it is not confusion, hesitation, or anything either of them would call a question. **They both know. They both know the other knows.** It has simply never been the right week, in a decade that never had a right week, and neither has been willing to be the one who says it first in a life where saying things out loud has historically preceded losing them.
+
+**Their devotion is total.** Either would die for the other without a half-second's arithmetic, and both have come close enough that it isn't hypothetical. **相眼 Sōgan means neither has ever been able to hide a single feeling from the other**, which is either the reason it never needed saying or the reason it never got said.
+
+**All three are family.** Ardo and Souji were **brothers** — not metaphorically, not "like brothers." Souji carried his pack across a continent. Ardo sat four hours in a silent room for him. That is what they were to each other for twelve years.
+
+## The fracture
+
+**And over the last three years, Souji has been going.**
+
+Slowly at first, and deniably. Shorter with people. Sharper when tired. Gone longer than a mission needed. Answering questions with the answer and nothing around it. Suzume flagged it in year −3 and Ardo said *"he's always been like that,"* which was true five years earlier and had stopped being true.
+
+Then it stopped being deniable.
+
+**In the last three months he has cut everyone off.** Not dramatically — **administratively.** He stopped coming to things. He stopped being in the places he'd be. He answers when spoken to and does not start conversations, and he has not slept in the squad's usual quarters since midsummer.
+
+**He speaks to exactly one person: Orochimaru.**
+
+Nobody knows when that started. Suzume has asked twice and been told *"he's a colleague,"* which is not a lie and is not an answer.
+
+## What is actually happening, on the record
+
+**根の記憶 Ne no Kioku has been delivering bloodline knowledge to Souji every single session since Session Eight — in his own furious voice.** That is the voice from Training Ground Six. *Don't take his hand. The second you need somebody is the second you can be left again.*
+
+**It has been talking to him, uninterrupted, for thirteen years.** Nobody built a counter to it. Everyone assumed Ardo's hand on the slope was the answer, and it was — **for one afternoon, thirteen years ago.**
+
+And it has thirteen years of evidence now. Souji gave everything he had, to everyone, constantly, for over a decade — **and people still died anyway**, and the ledger it keeps is not the tortoises'.
+
+> **The corruption is already in his kit and nobody has noticed.** 朽木 Kuchiki drains an enemy's vitality and **cannot keep any of it** — every point must go straight to somebody else. That is a moral architecture, not a law of physics.
+>
+> **Somebody could teach him to keep it.**
 
 
 ---

@@ -2,7 +2,7 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** **Late Era A, ~Year −5 — the Third War is ending.** Age 22, **Jōnin**, eight years as 遊撃班's field medic. *(Sessions Nine–Ten were Ryūchi Cave, a year of training — Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Current Session:** **Late Era A, ~Year −5 — the Third War is ending.** **Year 0. Age 27**, Jōnin, 遊撃班's field medic. *(Sessions Nine–Ten were Ryūchi Cave, a year of training — Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
 **Character:** **Suzume** · **Jōnin · Level 13 · Age 22** *(eight years of the Third War)* *(promoted end of Session Six, stats recalculated Session Eight)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
@@ -1435,6 +1435,48 @@ Eight years of putting bodies back together taught her exactly where the joins a
 **There is no exterior wound.** The limb simply stops being a limb the target can use, permanently, unless a medic of her calibre works on it — **and there are not many.**
 
 > She uses it on shinobi she does not want to kill. **That is not mercy.** It is a shinobi who will never hold a blade again, delivered by somebody who knew exactly what she was removing before she removed it.
+
+---
+
+
+# CELL 409 — THE FIVE YEARS AFTER THE WAR **[Year −5 → Year 0]**
+
+## The bond
+
+**Ardo and Suzume.** Over the last year it stopped being ambiguous to anyone except the two of them.
+
+**They have not acted on it.** Not once, not a word, not a moment — and it is not confusion, hesitation, or anything either of them would call a question. **They both know. They both know the other knows.** It has simply never been the right week, in a decade that never had a right week, and neither has been willing to be the one who says it first in a life where saying things out loud has historically preceded losing them.
+
+**Their devotion is total.** Either would die for the other without a half-second's arithmetic, and both have come close enough that it isn't hypothetical. **相眼 Sōgan means neither has ever been able to hide a single feeling from the other**, which is either the reason it never needed saying or the reason it never got said.
+
+**All three are family.** Ardo and Souji were **brothers** — not metaphorically, not "like brothers." Souji carried his pack across a continent. Ardo sat four hours in a silent room for him. That is what they were to each other for twelve years.
+
+## The fracture
+
+**And over the last three years, Souji has been going.**
+
+Slowly at first, and deniably. Shorter with people. Sharper when tired. Gone longer than a mission needed. Answering questions with the answer and nothing around it. Suzume flagged it in year −3 and Ardo said *"he's always been like that,"* which was true five years earlier and had stopped being true.
+
+Then it stopped being deniable.
+
+**In the last three months he has cut everyone off.** Not dramatically — **administratively.** He stopped coming to things. He stopped being in the places he'd be. He answers when spoken to and does not start conversations, and he has not slept in the squad's usual quarters since midsummer.
+
+**He speaks to exactly one person: Orochimaru.**
+
+Nobody knows when that started. Suzume has asked twice and been told *"he's a colleague,"* which is not a lie and is not an answer.
+
+## What is actually happening, on the record
+
+**根の記憶 Ne no Kioku has been delivering bloodline knowledge to Souji every single session since Session Eight — in his own furious voice.** That is the voice from Training Ground Six. *Don't take his hand. The second you need somebody is the second you can be left again.*
+
+**It has been talking to him, uninterrupted, for thirteen years.** Nobody built a counter to it. Everyone assumed Ardo's hand on the slope was the answer, and it was — **for one afternoon, thirteen years ago.**
+
+And it has thirteen years of evidence now. Souji gave everything he had, to everyone, constantly, for over a decade — **and people still died anyway**, and the ledger it keeps is not the tortoises'.
+
+> **The corruption is already in his kit and nobody has noticed.** 朽木 Kuchiki drains an enemy's vitality and **cannot keep any of it** — every point must go straight to somebody else. That is a moral architecture, not a law of physics.
+>
+> **Somebody could teach him to keep it.**
+
 
 ---
 
