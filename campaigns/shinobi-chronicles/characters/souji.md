@@ -332,6 +332,80 @@ The Senju clan's baseline trait, active from this point forward: **+2 CON, +1 ST
 
 **The visible burst itself — root-growth, chakra flare — was a one-time awakening event, not a repeatable technique.** It doesn't come back on command. Whether it can be trained into something deliberate, and what that costs, is now an open story question instead of a hidden one.
 
+---
+
+# 不倒樹 FUTŌJU — "THE UNFELLED TREE" **[GM — Session Seven, the Souji spar]**
+
+**The direct rival to Ardo's 渦風 Uzufū, and its exact philosophical inversion.**
+
+Triggered when Ardo's newly-channeled Seam chakra flooded the training ground and Souji's own Senju vitality answered it unasked. Where Ardo's crisis was a *flood from outside* that he survived by accepting something, Souji's is a *promise from inside* that he survives — or doesn't — by the same choice made in the opposite direction.
+
+**The voice underneath it is his own**, not an entity, not a prisoner, not anything sealed. It is a ten-year-old's oldest vow — *nobody holds a place open for me, so I will never need one* — fused to a bloodline that physically does not know how to stop growing, offering to make that vow permanent in the meat and bone:
+
+> *Don't take his hand. The second you need somebody is the second you can be left again. Get up alone. Stay up alone. I will keep you standing forever if you never ask anyone for anything.*
+
+**Entered by failing two or more of the three awakening saves** (CON 15 → WIS 18 → CHA 16). While it runs, **Souji is GM-run, not player-run**, and it does not recognize allies.
+
+**Visual:** the roots stop questing outward and turn inward. Bark-flesh laminates over forearms, throat, spine — not armor worn, armor *becoming*. Wounds close as fast as they open. He doesn't float, blur, or glow like Ardo does. He simply **stands**, and forty feet of ground in every direction knits itself into anchor-root, and he does not move from where he decided to stand. Eyes open and unblinking, and nobody home who answers to his name.
+
+**Explicitly still not Wood Release.** He is not casting Mokuton and cannot. This is his body being *overwritten* by a bloodline instruction he never consented to — closer in kind to what Hashirama's cells do to people who aren't Hashirama than to Hashirama's actual gift. That distinction is permanent and load-bearing.
+
+## The Three Passives — each one answers one of Ardo's
+
+### 不動 FUDŌ — "Immovable" · *answers 無隙 Mugeki*
+
+Ardo's speed means nothing can react to him. Futōju's answer is that **it never needs to.**
+
+- **Souji cannot be moved.** Not launched, not pushed, not pulled, not knocked prone, not grappled, not displaced by any effect at any rank. **Kūbaku's 30 ft launch simply does not happen to him** — the ground is holding him and the ground agreed to it.
+- **Anchor-root field, 40 ft radius:** all Movement inside it is **halved**, and movement-doubling or -tripling effects (including Uzufū's ×3) are **cancelled** rather than reduced, applying before any other math.
+- Souji himself ignores the field's penalty entirely.
+- **He does not dodge, block, or answer.** He does not have to. *Perfect speed against perfect immovability, and neither has a clean answer to the other.*
+
+### 不朽 FUKYŪ — "Imperishable" · *answers 空爆 Kūbaku*
+
+A tree that is cut grows back thicker at the cut. His body has taken that literally.
+
+- **Regenerate 15 Health at the start of each of his turns.** No cost, no cap, no save.
+- **Damage feeds it.** Every 10 damage taken in a round grants a cumulative **+1d6** to all his damage rolls for the rest of the transformation. Hurting him is how it grows.
+- **Cannot be reduced below 1 Health** while the anchor-root field is intact — reducing him requires tearing up the ground he's standing in first, which is the actual win condition against this thing and should be findable at the table.
+
+### 根の記憶 NE NO KIOKU — "The Root Remembers" · *answers 開門 Kaimon* · **PERMANENT**
+
+Kaimon opened Ardo's road to senjutsu. This opens Souji's road to **himself** — and unlike everything else here, **it does not end when the transformation ends.**
+
+- **Permanently unlocks his bloodline understanding.** The ceiling on what Souji can learn about being Senju is gone from this moment forward, in the fiction and on this sheet.
+- **One real revelation per session, every session, from here on** — a technique's shape surfacing in his hands unbidden, a memory that isn't his, a name he shouldn't know, an instinct that turns out to be correct. GM delivers it; Souji's player never has to ask for it. *(This satisfies the Mandatory Arc Beats rule for Souji mechanically rather than by GM diligence alone — see Book IV §5, Part Eight.)*
+- **The road toward Wood Release opens here** — opens, not arrives. It is still far, still expensive, and still requires the story to do serious work. But it is no longer closed.
+- **The knowledge is not free.** It arrives in his own furious voice, and every piece of it is something the transformation *wants* him to know so he'll reach for it again.
+
+## The Two Jutsu
+
+Both are granted by Futōju and **both remain usable afterward at reduced effect** — this is the permanent scar the transformation leaves in his kit.
+
+### 土遁・千縛根 — DOTON: SENBAKUKON · "Earth Release: Thousand Binding Roots"
+**C-rank · 2 slots · 20 Chakra / 12 Stamina · Action**
+
+Roots erupt across a **30 ft radius** centered anywhere in the anchor-root field. Every target inside makes a **STR save vs Souji's Ninjutsu DC**. Fail: **3d8 damage, Speed reduced to 0, and restrained** until they break out (STR check, same DC, one attempt per turn). Success: half damage, Speed halved.
+
+**Against a target relying on movement or repositioning, the save is at disadvantage.** This is the technique built specifically to catch something that arrives instead of travels.
+
+*Outside Futōju:* 15 ft radius, 2d8, Speed halved on a fail, no restrain.
+
+### 返り根 — KAERINE · "Returning Root"
+**C-rank · 1 slot · 15 Chakra / 8 Stamina · Reaction**
+
+When Souji takes damage from any source, roots erupt **out of the wound itself** and strike back along the line the damage came from. **2d10 piercing**, no attack roll, no save.
+
+**This is the one thing that gets through 無隙 Mugeki** — and it works for a specific, honest reason: Kaerine does not react to *Ardo*. It reacts to *damage already taken.* There is no interception to be too slow for, no dodge to be beaten, no window to miss. The hit already landed. The roots answer the wound, not the fist.
+
+*Outside Futōju:* 1d10, once per combat.
+
+## Ending It
+
+Futōju does not time out. It ends when **the anchor-root field is broken and he is put down**, or when **someone reaches him** — and reaching him means giving him the thing the vow says he can't have, in a way he cannot argue with. There is no save for that second one. It's a scene, not a roll.
+
+**Whatever ends it, 根の記憶 stays.** He does not get to give the knowledge back.
+
 ## Seeds for a Future Reveal **[superseded — the reveal already happened; these are now seeds for what comes NEXT]**
 
 - Contact with someone who'd actually recognize Senju chakra on sight — Tsunade herself, Yamato, or an old-enough Konoha shinobi who remembers what the clan felt like before it thinned out. Now more urgent than before — word of a chakra burst like that in the field will reach someone eventually.
@@ -370,6 +444,16 @@ Powerful Life Force — +5 Stamina/round in combat
 Reads the Room — advantage on first read of someone, per scene
 Unbroken Stance — 1/long rest, spend 5 Stamina to ignore a forced-prone effect and stay standing
 Mastery of the Earth — 1/long rest, a full round of stillness restores 20 Stamina/10 Chakra
+
+不倒樹 FUTŌJU — rival transformation, GM-RUN, failure state (see Part Ten)
+  不動 FUDŌ    cannot be moved/launched/proned · 40ft root field
+               halves Movement, CANCELS move-multipliers (kills Uzufū ×3)
+  不朽 FUKYŪ   regen 15 HP/turn · +1d6 dmg per 10 dmg taken, cumulative
+               can't drop below 1 HP while the root field is intact
+  根の記憶      PERMANENT · bloodline ceiling gone · 1 revelation/session
+               opens the road toward Mokuton (opens, does not arrive)
+  土遁・千縛根  C  20/12  Action    30ft, 3d8, restrain; disadv vs movers
+  返り根        C  15/8   REACTION  2d10, no roll/save — beats Mugeki
 
 RYŌ: 6,000
 Senju heritage: REVEALED Session Seven, live, witnessed by the whole squad — see Part Ten.
