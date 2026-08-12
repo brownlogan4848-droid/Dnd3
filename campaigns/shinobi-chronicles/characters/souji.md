@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A, ~Year −13. **龍地洞 RYŪCHI CAVE — a year of training, complete.** Age 12. Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
+**Current position:** **Late Era A, ~Year −5. The war is ending.** Age 20, **Jōnin**, eight years in the field. His Ninjutsu went from +0 to proficient because the war required it. Age 12 was Ryūchi Cave; Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -23,8 +23,8 @@
 | **Registered surname** | **Terada.** Civilian family — fostered, not blood. Nobody in the Terada household ever had chakra worth training, which is exactly why nobody, including Souji, has ever thought to look past them. |
 | **Clan** | **Clanless on every document that exists — but no longer a secret from anyone who was standing in that ravine.** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. **Awakened live, Session Seven, mid-Kanketsu, witnessed by the entire squad.** The paperwork hasn't caught up yet. It's going to have to. See Part Ten — no longer GM-only, now player-facing history. |
 | **Village** | Konohagakure |
-| **Rank** | Chūnin (Level 5) *(promoted Session Eight — earned on record, recalculated with Ardo and Suzume)* |
-| **Age** | **12** *(a year of training in Ryūchi Cave)* |
+| **Rank** | **Jōnin (Level 13)** *(eight years of the Third War)* |
+| **Age** | **20** |
 | **Body Origin** | **Body of Ashura** |
 | **Nature affinity** | **Earth (土 / Doton)** |
 | **Appearance** | Plain gear, no crest, a short blade worn low on the hip rather than across the back. Moves like someone who trains alone more often than not — economical, nothing wasted. |
@@ -55,9 +55,9 @@
 | **STR** | 16 *(14 base +1 Clanless +1 Senju)* | **+3** | Kenjutsu, Taijutsu power |
 | **DEX** | 14 | **+2** | Speed, precision, hand seals |
 | **CON** | 16 *(13 base +1 Ashura +2 Senju)* | **+3** | Durability, Stamina, chakra reserves |
-| **INT** | 10 | **+0** | Ninjutsu, tactics |
-| **WIS** | 12 | **+1** | Perception, reading an opponent |
-| **CHA** | 9 | **−1** | Not his strength, and he knows it |
+| **INT** | 14 | **+2** | Ninjutsu, tactics — *was 10. He had to learn ninjutsu properly and did* |
+| **WIS** | 14 | **+2** | Perception, reading an opponent |
+| **CHA** | 12 | **+1** | *Was 9. Eight years of being the reason people came home did what no training could* |
 
 ## Resources **[SHEET]**
 
@@ -65,14 +65,14 @@
 
 | Resource | Value (Max) | Working |
 |---|---|---|
-| **Chakra** | **195 / 195** | 100 + 20×4 + 30 (CON +3) = 210 · **−15** Ashura = **195** |
-| **Stamina** | **240 / 240** | 210 · **+30** Ashura = **240** |
+| **Chakra** | **355 / 355** | 100 + 20×12 + 30 (CON +3) = 370 · **−15** Ashura = **355** |
+| **Stamina** | **400 / 400** | 370 · **+30** Ashura = **400** |
 | **Special** | **0 / 100** | Starts empty, same as everyone |
-| **Health** | **100 / 100** | 30 + 10×4 + (2 × 3 × 5) |
+| **Health** | **228 / 228** | 30 + 10×12 + (2 × 3 × 13) |
 | **Defense** | **12** | 10 + DEX |
 | **Initiative** | **+2** | DEX |
 | **Movement** | **30 ft** | Standard |
-| **Proficiency** | **+3** | Level 5 *([INF] — same progression assumption used for Ardo and Suzume)* |
+| **Proficiency** | **+5** | Level 13 |
 
 *(Genin/Level 1 baseline was 115 / 160 / 36 / prof +2.)*
 
@@ -84,10 +84,10 @@
 
 | Discipline | Governing | DC |
 |---|---|---|
-| **Ninjutsu** | INT | **11** |
-| **Taijutsu** | STR or DEX — locked to STR at this build | **14** |
-| **Genjutsu** | CHA | **10** |
-| **Medical** | WIS | **12** |
+| **Ninjutsu** | INT | **15** |
+| **Taijutsu** | STR or DEX — locked to STR at this build | **16** |
+| **Genjutsu** | CHA | **14** |
+| **Medical** | WIS | **15** |
 
 ---
 ---
@@ -98,12 +98,12 @@
 
 | Skill | Bonus | Source |
 |---|---|---|
-| **Kenjutsu** | **+5** | DEX +2, prof +3 — his actual specialty |
-| **Taijutsu** | **+7** | STR +3, prof +3, **Ashura +1** |
-| **Perception** | **+4** | WIS +1, prof +3 |
+| **Kenjutsu** | **+7** | DEX +2, prof +5 — his actual specialty |
+| **Taijutsu** | **+9** | STR +3, prof +5, **Ashura +1** |
+| **Perception** | **+7** | WIS +2, prof +5 |
 | **Stealth** | +2 | DEX, not proficient |
 | **Strategy** | +0 | INT, not proficient |
-| **Ninjutsu** | +0 | INT, not proficient — Earth affinity confirmed, but ninjutsu isn't where his hours go |
+| **Ninjutsu** | **+7** | INT +2, prof +5. **Proficient now.** Eight years ago this line read +0 and *"ninjutsu isn't where his hours go."* Then he needed it to be |
 
 ## Passives
 
@@ -123,7 +123,7 @@ When Souji has a moment to actually watch someone before engaging with them — 
 
 *Identical structure to Ardo and Suzume — same rank table, same Five Combo Rules, same Reaction/Counter Window/Clash system, same house rule on Displace (Book IV §2 — a lost-reach Substitution now grants the attacker a reroll instead of auto-ending the combo).*
 
-**Souji's combo limit: 4 actions (Chūnin). Max jutsu rank: C.**
+**Souji's combo limit: 5 actions (Jōnin). Max jutsu rank: B, plus one A-rank signature.**
 
 | Basic / E / D | C / B | A | S |
 |---|---|---|---|
@@ -328,6 +328,51 @@ Ardo's response was immediate: *"I've got four hundred generations of people who
 **The archive knows it.** They argued for six hours. **Nine separate people placed it in the same region.** None would say what is there. **Two of them went quiet in a way Nao refuses to explain.**
 
 > **It is a real place. It is on the way home. Nobody has told Souji what is in it.**
+
+---
+---
+
+# THE EIGHT YEARS — YEAR −13 → YEAR −5 **[the back half of the Third War]**
+
+**Souji is 20.** The boy who could not say *together* and mean it has spent eight years being the reason other people came home.
+
+- **Year −7:** kills for the first time with something other than his sword. **It is not clean.** He sits in a river afterward for an hour.
+- **His Ninjutsu went from +0 to proficient** because the war required it and his sword was not always the answer.
+
+## 貫根 — KANKON · "PIERCING ROOT" **[Earth ninjutsu · B-rank]**
+
+**He took what 不倒樹 Futōju did to him and turned it around.**
+
+Futōju grew bark and root **inward**, through his own body, to make him immovable and alone. **Kankon sends it out.**
+
+**Roots erupt from the ground beneath a target — not grasping, not restraining. Through.** Fast, thick, sharpened by the same Senju vitality that keeps him standing, punching up through earth and armour and whatever else is in the way, in a spread he can shape.
+
+**Still not Wood Release.** He is not creating or controlling wood — this is the same startle-reflex root-growth that surfaced at the ravine, aimed on purpose, eight years later. That distinction remains permanent.
+
+> **It is the ugliest thing he does and he knows it.** He does not use it on people who can still surrender.
+>
+> Gensai, the first time: *"Ah. **You have stopped being afraid of it.**"*
+
+## 朽木 — KUCHIKI · "THE ROTTING TREE" **[Earth/vitality · A-rank signature — the mirror of Ibuki]**
+
+**息吹 Ibuki gives his own life away and cannot be used on himself.**
+
+**朽木 Kuchiki takes — and it cannot be used on himself either, and that is the entire moral architecture of the technique.**
+
+**Hands on an enemy, and he pulls their vitality out.** Not damage — **withering.** Stamina, endurance, the body's capacity to keep going, drawn out through the contact while the target watches themselves become old.
+
+**And he cannot keep a single point of it.**
+
+**Every point drawn must be immediately given to somebody else** — an ally, a civilian, a dying stranger, Ardo bleeding out in a ditch in year −7. **It does not stay in him.** The technique has no shape for that, exactly the way Ibuki has no shape for self-healing.
+
+> **This is the tree completed.**
+>
+> | | |
+> |---|---|
+> | **不倒樹 Futōju** | The Unfelled Tree — *I will never need anyone.* His failure state |
+> | **倒木 Tōboku** | The Fallen Tree — one cut from stillness. His sword |
+> | **貫根 Kankon** | Piercing Root — the thing that grew through him, aimed outward |
+> | **朽木 Kuchiki** | The Rotting Tree — **he takes life out of the people trying to kill his friends and puts it directly into his friends, and keeps not one drop of it** |
 
 ---
 ---
@@ -578,19 +623,19 @@ Futōju does not time out. It ends when **the anchor-root field is broken and he
 # APPENDIX — FAST REFERENCE
 
 ```
-SOUJI · Chūnin · Konohagakure · Level 5
-Clanless on paper / awakened Senju in truth · Body of Ashura · Earth 土 · age 12
+SOUJI · JŌNIN · Konohagakure · Level 13 · age 20
+Clanless on paper / awakened Senju in truth · Body of Ashura · Earth 土 · age 20
 
 STR 16 (+3)   DEX 14 (+2)   CON 16 (+3)
-INT 10 (+0)   WIS 12 (+1)   CHA  9 (−1)      Prof +3
+INT 14 (+2)   WIS 14 (+2)   CHA 12 (+1)      Prof +5
 
-CHAKRA   195      STAMINA  240      SPECIAL  0/100
-HEALTH   100      DEFENSE   12      INIT  +2   MOVE 30 ft
+CHAKRA   355      STAMINA  400      SPECIAL  0/100
+HEALTH   228      DEFENSE   12      INIT  +2   MOVE 30 ft
 
-DC — Ninjutsu 11 · Taijutsu 14 · Genjutsu 10 · Medical 12
-COMBO LIMIT 4 · MAX RANK C · Basic/E/D = 1 slot, C/B = 2
+DC — Ninjutsu 15 · Taijutsu 16 · Genjutsu 14 · Medical 15
+COMBO LIMIT 5 (Jōnin) · MAX RANK B + one A-rank signature
 
-SKILLS  Kenjutsu +5 · Taijutsu +7 · Perception +4
+SKILLS  Kenjutsu +7 · Taijutsu +9 · Perception +7 · Ninjutsu +7
 
 ── COMBAT KIT ──────────────────────────────────
 Baseline Swordwork    —    —      Action    +5 hit, 1d8+3
@@ -602,6 +647,12 @@ Falling Leaf Cut      D    —/6    Action    +5 hit, 1d8+3, target Off-Balance
 息吹 IBUKI  — pour his OWN vitality into someone else. Costs HIS
    Stamina and Health at a bad rate. CANNOT be used on himself.
    The inversion of Futōju, and the answer to the vow.
+貫根 KANKON   B  Earth ninjutsu — roots erupt THROUGH a target.
+   What Futōju did to him, aimed outward. Not Wood Release.
+   He won't use it on anyone who can still surrender.
+朽木 KUCHIKI  A-SIG  drains an enemy's vitality by touch — and he
+   CANNOT KEEP ANY OF IT. Every point must go straight to someone
+   else. Ibuki's mirror. Same shape, opposite direction.
 石沼 Summoning·Gensai  C   20/10  Action    ← needs a full round of STILLNESS first
                                      460yr memory · defensive · won't chase
                                      LEDGER runs BOTH ways — he may call in what he's owed

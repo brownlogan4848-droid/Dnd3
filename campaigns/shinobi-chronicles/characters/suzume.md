@@ -2,8 +2,8 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Sessions Nine–Ten · **RYŪCHI CAVE, a year of training complete.** Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
-**Character:** **Suzume** · Chūnin · Level 5 · **Age 14** *(a year of training in Ryūchi Cave)* *(promoted end of Session Six, stats recalculated Session Eight)*  
+**Current Session:** **Late Era A, ~Year −5 — the Third War is ending.** Age 22, **Jōnin**, eight years as 遊撃班's field medic. *(Sessions Nine–Ten were Ryūchi Cave, a year of training — Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Character:** **Suzume** · **Jōnin · Level 13 · Age 22** *(eight years of the Third War)* *(promoted end of Session Six, stats recalculated Session Eight)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
 **Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE.** Left socket now carries **Ardo's transplanted ordinary eye** — the exchange ran both ways. See Part Eight, Path ②, and 相眼 Sōgan in `characters/ardo.md`.
@@ -284,12 +284,12 @@ The same 27-point character creation convention used for Ardo is applied.
 
 | Attribute | Score | Modifier | Primary Use |
 |---|---:|---:|---|
-| **STR** | 8 | **−1** | Physical force |
+| **STR** | 10 | **+0** | Physical force |
 | **DEX** | 14 | **+2** | Speed, agility, hand seals, Taijutsu |
 | **CON** | 12 | **+1** | Durability, stamina, chakra |
-| **INT** | 12 | **+1** | Ninjutsu, analysis |
+| **INT** | 14 | **+2** | Ninjutsu, analysis |
 | **WIS** | 15 | **+2** | Perception, Medical |
-| **CHA** | 11 | **+0** | Presence, Genjutsu resistance |
+| **CHA** | 16 | **+3** | Presence, **Genjutsu** — *was 11. Eight years and a nightmare she built herself* |
 
 **Point Buy:** 27/27.
 
@@ -299,14 +299,14 @@ The same 27-point character creation convention used for Ardo is applied.
 
 | Resource | Maximum | Current | Formula / Note |
 |---|---:|---:|---|
-| **Chakra** | 190 | 190* | 100 + 20(Level−1) + 10×CON mod |
-| **Stamina** | 190 | 190* | Campaign baseline (mirrors Chakra) |
+| **Chakra** | **350** | 350* | 100 + 20×12 + 10×CON mod |
+| **Stamina** | **350** | 350* | Campaign baseline (mirrors Chakra) |
 | **Special** | 100 | 0* | Formalized as PC resource |
-| **Health** | 80 | 80* | 30 + 10(Level−1) + 2×CON mod×Level |
+| **Health** | **176** | 176* | 30 + 10×12 + 2×1×13 |
 | **Defense** | 12 | 12 | 10 + DEX |
 | **Initiative** | +2 | +2 | DEX |
 | **Movement** | 30 ft | 30 ft | Standard |
-| **Proficiency** | +3 | +3 | Level 5 *([INF] — standard proficiency-by-level progression, not explicitly printed in Book IV)* |
+| **Proficiency** | **+5** | +5 | Level 13 |
 
 *(Genin/Level 1 baseline was 110 / 110 / 35 / prof +2 — the old +3 Health continuity patch is superseded by this recalculation, done clean off the formula.)*
 
@@ -328,13 +328,13 @@ The 35 Health value is retained to avoid retroactively changing an already-runni
 
 | Skill | Bonus | Source |
 |---|---:|---|
-| **Medical** | **+5** | WIS +2 + proficiency +3 |
-| **Taijutsu** | **+5** | DEX +2 + proficiency +3 |
-| **Stealth** | **+5** | DEX +2 + proficiency +3 |
-| **Perception** | **+5** | WIS +2 + proficiency +3 |
-| Shurikenjutsu | +2 | DEX |
+| **Medical** | **+7** | WIS +2 + proficiency +5 · **war medic, eight years** |
+| **Taijutsu** | **+7** | DEX +2 + proficiency +5 |
+| **Stealth** | **+7** | DEX +2 + proficiency +5 |
+| **Perception** | **+7** | WIS +2 + proficiency +5 |
+| Shurikenjutsu | +7 | DEX +2 + proficiency +5 |
 | Strategy | +1 | INT |
-| Genjutsu | +0 | CHA |
+| **Genjutsu** | **+8** | CHA +3 + proficiency +5 · **her actual specialty now** |
 
 ---
 
@@ -342,10 +342,10 @@ The 35 Health value is retained to avoid retroactively changing an already-runni
 
 | Discipline | Governing Attribute | DC |
 |---|---|---:|
-| **Ninjutsu** | INT | **12** |
-| **Taijutsu** | DEX | **13** |
-| **Genjutsu** | CHA | **11** |
-| **Medical** | WIS | **13** |
+| **Ninjutsu** | INT | **15** |
+| **Taijutsu** | DEX | **15** |
+| **Genjutsu** | CHA | **16** |
+| **Medical** | WIS | **15** |
 
 ---
 
@@ -393,7 +393,7 @@ When Suzume has time to calmly assess a situation rather than reacting to an une
 | Kage | 7 |
 
 ### Suzume
-- **Combo Limit:** 4 actions (Chūnin)
+- **Combo Limit:** 5 actions (Jōnin)
 - **Maximum Jutsu Rank:** D
 - **Bonus Actions:** 1 after combo
 - **Reactions:** 1 after/through combo according to normal rules
@@ -1393,6 +1393,51 @@ Roku's call: they don't walk back out. **Ryūchi Cave is off every map, on nobod
 
 ---
 
+# THE EIGHT YEARS — YEAR −13 → YEAR −5 **[the back half of the Third War]**
+
+**Suzume is 22.** The girl who ran three kilometres for help because she wasn't strong enough is gone. **What replaced her is a war medic**, and war medics are not gentle people.
+
+- **Year −10:** loses a patient on a table she built out of a door. First of many. **She stops keeping count in year −8**, which she later describes as the worst decision she ever made.
+- **Year −6:** keeps Roku alive for six days in a cave on Ibuki and medical ninjutsu. He survives and never returns to the front.
+- **Eight years and the Uchiha still have not learned about her eye**, mostly by her being nowhere near Konoha.
+
+## 無戸の間 — MUTO NO MA · "THE DOORLESS ROOM" **[Mangekyō genjutsu — A-rank signature]**
+
+**She built the worst thing in this campaign out of the worst thing that ever happened to her.**
+
+Three days after Training Ground Six: awake the whole time, alone, in a mind-built copy of her own hospital room **with no door in the wall**, testing the walls in careful rows the way a medic works a body looking for a break. She stopped and sat down before Ardo found her.
+
+**She gives that to people now.**
+
+**Eye contact, CHA save vs her Genjutsu DC.** On a failure the target wakes somewhere they feel completely safe — their own home, a childhood room, a barracks bunk, whatever the eye finds. **It is perfect. It is warm. Every detail is correct.**
+
+**And there is no door.**
+
+| | |
+|---|---|
+| **No pain, no monsters, no torture** | **Nothing happens at all.** That is the technique |
+| **Time runs wrong** | Seconds outside are **days** inside. A three-round genjutsu is a week alone in a room |
+| **They stay lucid** | No merciful confusion. They know exactly what is happening, and they search, and they are methodical, and they find nothing — **because she built it out of a place she personally could not escape** |
+| **Breaking it** | **Chakra disruption does not work. Physical shaking does not work.** Somebody has to **come and get them** — reach in from outside, deliberately. *That is the only thing that ever worked for her* |
+| **Cost** | Special, and the memory. She is handing over her own three days |
+
+> **迎え火 Mukaebi is a lamp lit so somebody lost can find their way home.**
+> **無戸の間 is the same room with the lamp taken out.**
+>
+> **She can end it whenever she wants, and does not always.** Ardo asked her once, in year −8, whether she was alright about that. She said **"no,"** did not elaborate, and it has not been raised since.
+
+## 断脈 — DANMYAKU · "SEVERED PULSE" **[medical ninjutsu, weaponised · B-rank]**
+
+**癒し眼 Iyashime shows her the injury before she makes it.**
+
+Eight years of putting bodies back together taught her exactly where the joins are. Danmyaku is the discipline run backwards: **chakra blades that do not cut skin.** They cut what is under it — chakra pathways, nerve clusters, the one tendon that makes a hand close.
+
+**There is no exterior wound.** The limb simply stops being a limb the target can use, permanently, unless a medic of her calibre works on it — **and there are not many.**
+
+> She uses it on shinobi she does not want to kill. **That is not mercy.** It is a shinobi who will never hold a blade again, delivered by somebody who knew exactly what she was removing before she removed it.
+
+---
+
 # PART FOURTEEN — FUTURE DECISION POINTS
 
 These are not decisions already made.
@@ -1426,18 +1471,18 @@ The Uchiha clan's loyalty question remains a major Era A issue.
 # APPENDIX A — AI FAST REFERENCE
 
 ```text
-SUZUME · Chūnin · Konohagakure · Level 5
+SUZUME · JŌNIN · Konohagakure · Level 13 · age 22
 AGE 12 · UCHIHA BLOODLINE · 2-TOMOE SHARINGAN
 
-STR  8 (−1)   DEX 14 (+2)   CON 12 (+1)
-INT 12 (+1)   WIS 15 (+2)   CHA 11 (+0)      PROF +3
+STR 10 (+0)   DEX 14 (+2)   CON 12 (+1)
+INT 14 (+2)   WIS 15 (+2)   CHA 16 (+3)      PROF +5
 
-CHAKRA   190      STAMINA 190      SPECIAL 0/100
-HEALTH    80      DEFENSE 12       INIT +2     MOVE 30 ft
+CHAKRA   350      STAMINA 350      SPECIAL 0/100
+HEALTH   176      DEFENSE 12       INIT +2     MOVE 30 ft
 
-DC — Ninjutsu 12 · Taijutsu 13 · Genjutsu 11 · Medical 13
+DC — Ninjutsu 15 · Taijutsu 15 · Genjutsu 16 · Medical 15
 
-COMBO LIMIT 4 · MAX JUTSU RANK C · Basic/E/D = 1 slot, C/B = 2
+COMBO LIMIT 5 (Jōnin) · MAX RANK B + one A-rank signature
 
 SKILLS
 Medical +5

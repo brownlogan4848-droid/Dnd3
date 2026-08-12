@@ -57,41 +57,39 @@ squad-two-journey.md          Running log of Roku, Souji and Suzume while Ardo i
 
 ## Campaign status
 
-Live campaign: ***The Long Shadow*** — Era A (Third Great Ninja War, ~Year −15). **Session Nine in progress, and the party is split.** Planned to run through a timeskip and resume in Era C.
+Live campaign: ***The Long Shadow*** — **Era A, ~Year −5. The Third Great Ninja War is ending.** An eight-year timeskip has run; the campaign stays here through the war's end before skipping to **Era C**.
 
-**Cell 409** is, un-asked-for and unannounced, the Indra/Ashura cycle running again: Ardo chose Body of Indra and turned out to be hidden Uzumaki; Souji chose Body of Ashura and turned out to be a lost branch-line Senju; Suzume is Uchiha in blood and Body Origin both. Nobody engineered that at character creation.
+**Cell 409 / 遊撃班 Yūgekihan** — an independent long-range unit, unattached to any front, sent where Konoha officially is not. Eight years of that. **Ardo 18 · Souji 20 · Suzume 22. All three Jōnin, Level 13.**
 
-### The split
-
-Session Eight ended with the whole cell leaving Konoha as **遊撃班 Yūgekihan** — a roving unit, by Hiruzen's own seal, all three by choice. One day out, all three attempted uncontracted summoning. Souji and Suzume signed contracts. **Ardo rolled a reverse summon and was taken to 龍地洞 Ryūchi Cave**, on another landmass, alone.
-
-| | Where they are |
-|---|---|
-| **Ardo** | **Underground with the snake sages**, learning senjutsu as *treatment* rather than as power. See `the-seam.md` |
-| **Roku, Souji, Suzume** | **Walking northeast**, three to four months on foot past the Land of Frost, navigating by Suzume's half of a paired eye. See `squad-two-journey.md` |
+They are, un-asked-for, the Indra/Ashura cycle running again: Ardo took Body of Indra and is hidden Uzumaki; Souji took Body of Ashura and is a lost branch-line Senju; Suzume is Uchiha in blood and Body Origin both. Nobody engineered that at character creation.
 
 ### Where everyone stands
 
 | | State |
 |---|---|
-| **Ardo** | Chūnin, 8. Carries Suzume's Mangekyō permanently — **it never deactivates**, and he is the only one paying a Vision cost. Runs on 荒れ川 **Arakawa**, an unregulated river, because the entity that was quietly doing his chakra control for eight years spent itself saving her. Natural energy has been entering him unguarded for six weeks and the endpoint is **stone**. Contracted to no one; Ryūchi Cave teaches him anyway, because he is interesting |
-| **Suzume** | Chūnin, 12. Took 99 damage against 80 Health shielding Souji and lived on a four-minute margin. **Mangekyō awakened as she died**; 迎え火 **Mukaebi** named but unbuilt. Signed with the owls of 灯無, who report everything they find whether or not you asked. **She pays no Vision and nobody has told her Ardo does** |
-| **Souji** | Chūnin, 10. Failed his own bloodline's three-save test by three points; 不倒樹 **Futōju** took him and Hiruzen put him down with Enma. **根の記憶 is permanent** — a real piece of bloodline knowledge every session, in his own furious voice. Signed with the tortoises of 石沼, a house that keeps a ledger **running both directions** |
+| **Ardo Uzumaki** | **Sage of no species**, taught anyway by the White Snake Sage. Carries 渦の書庫 — the complete archive of a destroyed clan, thousands of preserved Uzumaki — plus Suzume's Mangekyō and his mother Hikari's own form. **大仙 Daisen** is past S-rank and **cannot hide**, which collides directly with the advice that taught him to. An unnamed Kumo bingo-book entry exists: *wind, sage-class, do not engage alone* |
+| **Souji** | Senju in truth, and the tree is complete: **不倒樹** the failure state, **倒木** the sword, **貫根** the root aimed outward, **朽木** which drains an enemy's life and cannot keep a drop of it. **息吹 Ibuki** — his vitality given away, never to himself. Every technique he owns points at somebody else |
+| **Suzume** | War medic. **無戸の間** — the doorless room, built out of her own worst three days, breakable only by someone reaching in from outside. **断脈** cuts what's under the skin and leaves no wound. **迎え火 Mukaebi** is the same room with the lamp still in it |
+| **Roku** | Off the front for good since Year −6. Suzume kept him alive six days in a cave. He fought the desk and lost |
 
-### The Bequest **[the reframe that changed the campaign]**
+### The war, and the world
 
-What was called a monster growing in Ardo is not one. The seal's inward-facing linework was never built to keep something in — **it was built to keep something from being taken.** A dying woman in a burning house wrote a will on her own infant, and the thing inside was a **trustee**, administering an estate for eight years until the child could carry it. **荒神 Aragami is the inheritance coming out of trust.**
+Minato Namikaze — Ardo's *sensei of record*, and weather his entire life — ended the war almost single-handed and is **Fourth Hokage.** Ardo got **six days with him in eighteen years.**
 
-The danger was never possession. **It is inheritance velocity**, and the trap is atrophy rather than conquest.
+**Kakashi Hatake** took a Sharingan into a non-Uchiha skull at Kannabi Bridge and wears his headband over it. **Neither he nor Ardo knows about the other** — two men in one village doing identical daily arithmetic.
 
-**Standing GM rule:** *Mandatory Arc Beats* (Book IV §5, Part Eight) — 1–2 GM-initiated spotlight moments per PC per session, the GM's job to deliver rather than the player's to request.
+**Orochimaru** was a hero of Konoha for most of the eight years, and near the end was quietly somewhere he should not have been. It made a file, not a headline.
+
+**Danzō** never moved. Twice Root was found adjacent to Cell 409 and withdrew politely. **He is waiting**, exactly as Hiruzen said he would.
 
 ### Live threads
 
-- **The Uchiha taboo** — Suzume's eye is in a non-Uchiha's head, unsanctioned. Hiruzen calls that an *incident* rather than a scandal if it surfaces during the war.
-- **Danzō withdrew rather than retreated**, and made Roku deliver the news personally.
-- **潮風 Shiokaze**, the fourth coil — the original form every transformation Ardo ever "invented" was a copy of. Found, breathing, **not taken.**
-- **Two names nobody will say.** Monuke has refused three times to name the last human who stood in Ryūchi Cave. Hiruzen would not name the boy who walked out past Konoha's walls looking for answers and never came home.
-- The Handler and the Shepherd's judgment, both pending from Session Seven.
+- **The Uchiha still do not know** Suzume's eye left the clan. Eight years held, mostly by absence.
+- **Four living Uzumaki found. Three were dead ends. One was not** — and Ardo will discuss it with nobody but the archive.
+- **The stand of trees remains unvisited.** Twice they got within a week; twice the war moved. Nine members of the archive placed it in the same region, none would say what's there, and **two went quiet in a way Nao refuses to explain.**
+- **Ardo is the last library of a destroyed people**, and the nations that erased them have not changed their minds.
+- **Three names nobody will say:** the man who signed the snake scroll ninety years ago · the boy who walked out of Konoha and never came home · the syllable Hikari started and did not finish.
 
-See `characters/`, `the-seam.md`, and `squad-two-journey.md` for full mechanics, session logs, and open threads.
+**Standing GM rule:** *Mandatory Arc Beats* (Book IV §5, Part Eight) — 1–2 GM-initiated spotlight moments per PC per session, the GM's job rather than the player's to request.
+
+See `characters/`, `the-seam.md`, and `squad-two-journey.md` (closed).

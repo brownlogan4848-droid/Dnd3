@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A, ~Year −13. **龍地洞 RYŪCHI CAVE — and the squad is with him.** Age 10. Six months alone, then a reunion on a scree slope, then a year of training. **The Sage's condition is met.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
+**Current position:** **Late Era A, ~Year −5. The Third Great Ninja War is ending.** Age 18, **Jōnin**, eight years in the field with 遊撃班 Yūgekihan. Carries the Uzumaki archive, Suzume's Mangekyō, and 大仙 Daisen — which he has now used in front of enemies, and which put an unnamed entry in a Kumo bingo book: *wind, sage-class, do not engage alone.* Roku is off the front for good. **Four living Uzumaki found; one of them mattered.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
 
 **Sourcing convention for this file:**
 
@@ -29,8 +29,8 @@
 | **Registered surname** | *None.* The line on his intake file is blank and has been for eight years. |
 | **True clan** | **UZUMAKI — KNOWN TO HIM, Session Nine.** Confirmed by Monuke and then by four hundred generations of them in person. Still unknown to Konoha **[GM]** |
 | **Village** | Konohagakure |
-| **Rank** | Chūnin (Level 5) *(promoted end of Session Six, stats recalculated Session Eight)* |
-| **Age** | **10** *(six months in Ryūchi Cave alone, then a year training with the squad)* |
+| **Rank** | **Jōnin (Level 13)** *(eight years of the Third War. Field-promoted Year −9; his actual capability has exceeded his rank for most of a decade)* |
+| **Age** | **18** |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
 | **Appearance** | Dark red hair — not the blazing Whirlpool crimson, but it goes bright when wet or lit. **Wears Rai Inuzuka's forehead protector, as of Session Five** — his own went onto Rai's pyre in the exchange. |
@@ -63,11 +63,11 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 | Attribute | Score | Mod | Governs |
 |---|---|---|---|
-| **STR** | 13 | **+1** | Physical force, some Taijutsu |
+| **STR** | 15 | **+2** | Physical force, some Taijutsu |
 | **DEX** | 14 | **+2** | Speed, agility, **hand seals** |
 | **CON** | 16 | **+3** | Durability, **chakra reserves** |
 | **INT** | 14 | **+2** | **Ninjutsu** |
-| **WIS** | 9 | **−1** | Perception, **medical ninjutsu** |
+| **WIS** | 15 | **+2** | Perception, **medical ninjutsu**, **senjutsu** — *was 9 (−1). Eight years of sage practice fixed the single worst number on this sheet* |
 | **CHA** | 11 | **+0** | Presence, **genjutsu resistance** |
 
 ## Resources **[SHEET]**
@@ -76,14 +76,14 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 | Resource | Value (Max) | Working |
 |---|---|---|
-| **Chakra** | **300 / 300** | (100 + 20×4 + 30) = 210 · **+30** Indra = 240 · **×1.25** Uzumaki = **300** |
-| **Stamina** | **195 / 195** | 210 · **−15** Indra = **195** |
+| **Chakra** | **500 / 500** | (100 + 20×12 + 30) = 370 · **+30** Indra = 400 · **×1.25** Uzumaki = **500** |
+| **Stamina** | **355 / 355** | 370 · **−15** Indra = **355** |
 | **Special** | **0 / 100** *(current, mid-combat)* | Fluctuates with play — full snapshot in Session Log |
-| **Health** | **100 / 100** | 30 + 10×4 + (2 × 3 × 5) |
+| **Health** | **228 / 228** | 30 + 10×12 + (2 × 3 × 13) |
 | **Defense** | **12** | 10 + DEX |
 | **Initiative** | **+2** | DEX |
 | **Movement** | **30 ft** | |
-| **Proficiency** | **+3** | Level 5 *([INF] — standard proficiency-by-level progression, not explicitly printed in Book IV; flagging the assumption)* |
+| **Proficiency** | **+5** | Level 13 |
 
 *(Genin/Level 1 baseline was 200 / 115 / 36 / prof +2.)*
 
@@ -101,10 +101,10 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 | Discipline | Governing | DC |
 |---|---|---|
-| **Ninjutsu** | INT | **13** |
-| **Taijutsu** | STR *or* DEX — locked to DEX at this build | **13** |
-| **Genjutsu** | CHA | **11** |
-| **Medical** | WIS | **10** |
+| **Ninjutsu** | INT | **15** |
+| **Taijutsu** | STR *or* DEX — locked to DEX at this build | **15** |
+| **Genjutsu** | CHA | **13** |
+| **Medical** | WIS | **15** |
 
 ## Nature Cycle **[M]**
 
@@ -126,13 +126,14 @@ A sufficiently large chakra advantage overrides the cycle entirely.
 
 | Skill | Bonus | Source |
 |---|---|---|
-| **Ninjutsu** | **+6** | INT +2, prof +3, **Body of Indra +1** |
-| **Taijutsu** | **+5** | DEX +2, prof +3 |
-| **Stealth** | **+5** | DEX +2, prof +3 |
-| **Shurikenjutsu** | **+5** | DEX +2, prof +3 |
+| **Ninjutsu** | **+8** | INT +2, prof +5, **Body of Indra +1** |
+| **Taijutsu** | **+7** | DEX +2, prof +5 |
+| **Stealth** | **+7** | DEX +2, prof +5 · *the Sage taught him to be uninteresting and he has had eight years of practice* |
+| **Shurikenjutsu** | **+7** | DEX +2, prof +5 |
 | Kenjutsu | +2 | DEX, not proficient |
 | Strategy | +2 | INT, not proficient |
-| Perception | **−1** | WIS. *A real weakness — it nearly cost him at Ground Seventeen.* |
+| **Perception** | **+7** | WIS +2, prof +5. *Was −1 and nearly killed him at Ground Seventeen. Sage training turned his worst stat into one of his best.* |
+| **Fūinjutsu** | **+7** | INT +2, prof +5. **Competent working sealer** — barriers, storage, suppression, containment grammar. Roughly two percent of what the archive holds, which is still more than anyone alive on the continent |
 
 ## Passives
 
@@ -154,7 +155,7 @@ Officially unexplained. Unofficially, Root has a working theory tying it to the 
 |---|---|---|---|---|---|
 | 1 | **3** | 4 | 5 | 6 | 7 |
 
-**Ardo's combo limit: 4 actions (Chūnin).** **Max jutsu rank: C** (S while Kōfū is active — see Part Six).
+**Ardo's combo limit: 5 actions (Jōnin).** **Max jutsu rank: B, plus one A-rank signature** — and **past S-rank entirely inside 大仙 Daisen.**
 After any combo he still gets **one Bonus Action and one Reaction.**
 
 ## Action Weight **[SHEET]**
@@ -908,20 +909,21 @@ He apologised — not for the night, for the eight years before it. He signed Ar
 
 ```
 ARDO · Chūnin · Konohagakure · Level 5
-ARDO UZUMAKI of Uzushiogakure — HE KNOWS NOW · Body of Indra · Wind 風 · age 10
+ARDO UZUMAKI of Uzushiogakure · Body of Indra · Wind 風 · age 18 · JŌNIN
 Mother: HIKARI · Sage (no contract) · carries the Uzumaki archive
 
-STR 13 (+1)   DEX 14 (+2)   CON 16 (+3)
-INT 14 (+2)   WIS  9 (−1)   CHA 11 (+0)      Prof +3
+STR 15 (+2)   DEX 14 (+2)   CON 16 (+3)
+INT 14 (+2)   WIS 15 (+2)   CHA 11 (+0)      Prof +5
 
-CHAKRA   300      STAMINA  195      SPECIAL  0/100
-HEALTH   100      DEFENSE   12      INIT  +2   MOVE 30 ft
+CHAKRA   500      STAMINA  355      SPECIAL  0/100
+HEALTH   228      DEFENSE   12      INIT  +2   MOVE 30 ft
 LIVE (mid-fight, Session Five): Ch 63 · St 45 · HP 18  [historical, pre-recalc]
 
-DC — Ninjutsu 13 · Taijutsu 13 · Genjutsu 11 · Medical 10
-COMBO LIMIT 4 · MAX RANK C (S under Kōfū) · Basic/E/D = 1 slot, C/B = 2, A = 3, S = 4
+DC — Ninjutsu 15 · Taijutsu 15 · Genjutsu 13 · Medical 15
+COMBO LIMIT 5 · MAX RANK B +1 A-sig · PAST S-RANK IN DAISEN
 
-SKILLS  Ninjutsu +6 · Taijutsu +5 · Stealth +5 · Shuriken +5
+SKILLS  Ninjutsu +8 · Taijutsu +7 · Stealth +7 · Shuriken +7 · Perception +7
+        Fūinjutsu — competent working sealer, 8 yrs of practice
 
 ── COMBAT KIT ──────────────────────────────────
 Clone            E    5/—    Action    29 XP PROFICIENT
