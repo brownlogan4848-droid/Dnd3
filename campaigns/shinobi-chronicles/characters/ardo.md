@@ -617,6 +617,8 @@ Suzume stepped in front of a full-force 空爆 Kūbaku detonation from the inver
 
 **Ardo dug out his own left eye in the mud and transplanted hers into the socket immediately** — no medic, no anaesthetic, nothing sterile, at the absolute floor of every resource he had, having already crashed out of Sakauzu.
 
+**It was an exchange, not a gift.** He put his own removed eye into her empty socket in the same working. Both directions, both hands, in the dark. See 相眼 Sōgan below — her instruction *"see what I see"* was not a metaphor, it was a build order, and she was a medic with thirty seconds left.
+
 ### The Kakashi Problem **[permanent, no workaround]**
 
 **Ardo is not an Uchiha.** A transplanted Sharingan in a non-Uchiha skull behaves exactly the way the setting says it does:
@@ -648,6 +650,31 @@ Its last words before going quiet:
 - **Uzufū and Sakauzu are both affected.** How much is left to draw on is now an open question, and Stage 3 sits behind something that just got much emptier.
 - Whether it recovers, how fast, and whether it *can*, is unresolved and should stay that way.
 - The aperture Ardo turned open is still open. Neither side closed it.
+
+## 相眼 SŌGAN — "PAIRED EYES" **[GM — Session Seven, permanent, unprecedented]**
+
+Because the transplant ran **both directions**, Ardo and Suzume each carry one of their own eyes and one of the other's:
+
+| | Left | Right |
+|---|---|---|
+| **Ardo** | **Suzume's Mangekyō** (never deactivates) | his own |
+| **Suzume** | **Ardo's ordinary eye** | her own Mangekyō |
+
+**Nobody in Konoha has seen this before.** Transplants run one way — Kakashi carries Obito's eye and Obito does not carry Kakashi's. **The circuit has never been closed.** Ardo closed it by accident, in mud, following instructions from a dying twelve-year-old.
+
+### Confirmed behaviour
+
+- **Sight bleeds across in both directions, uncontrolled.** First occurrence: three days after, in her hospital room, Ardo saw *himself standing in the doorway* through his own donated eye, with her thought riding along behind the image.
+- **It functions while one party is unconscious.** Suzume was three days under and non-responsive; her Mangekyō opened, tracked Ardo across the room, and looked directly at itself in his socket. Neither of them was driving.
+- **Ardo's end never closes.** His Mangekyō can't be deactivated, so the channel stays open on his side permanently.
+- **Deliberate use is unstudied.** Whether it can be trained into a real technique — shared sight on purpose, shared perception, seeing what she sees when they choose to — is genuinely open, and would have to be learned **by both of them, together.**
+
+### The cost
+
+- **Neither of them is private from the other again.** Ever.
+- **Whatever happens to one, the other attends.** Explicitly including 荒神 Aragami: Ardo stays conscious through every manifestation, which means **Suzume does too** — from inside his head, through her own eye, unable to look away and unable to help.
+
+*She said "see what I see." She did not say it would only run one way.*
 
 ## 荒れ川 ARAKAWA — "THE RAGING RIVER" **[GM — Session Seven aftermath, permanent until treated]**
 
@@ -997,6 +1024,10 @@ Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B >
 LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
   DOES NOT TURN OFF · constant Chakra drain · Vision track applies
   Her technique is unshaped — access unresolved
+相眼 SŌGAN — the trade ran BOTH ways; she has his eye in her left.
+  Sight bleeds across both directions, uncontrolled, unstudied.
+  Works while either is unconscious. His end never closes.
+  No privacy from each other, ever. She attends every Aragami event.
 THE SEAM: DORMANT / UNRESPONSIVE. Spent itself saving Suzume.
   It was doing Ardo's chakra control the whole time. It isn't now.
 

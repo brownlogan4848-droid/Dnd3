@@ -2,11 +2,11 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Seven · **CRITICAL — unconscious, hospitalized.** Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; gave her left eye to Ardo. Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Current Session:** Session Seven · **CRITICAL — unconscious, hospitalized.** Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
 **Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Seven)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
-**Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE ONLY.** Left eye permanently gone, given to Ardo and transplanted. See Part Eight, Path ②.
+**Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE.** Left socket now carries **Ardo's transplanted ordinary eye** — the exchange ran both ways. See Part Eight, Path ②, and 相眼 Sōgan in `characters/ardo.md`.
 
 ---
 
@@ -576,18 +576,21 @@ Suzume threw herself between an unconscious Souji and a full-force 空爆 Kūbak
 
 **Pattern:** the two tomoe stretch and run together into a single sweep of black doubling back on itself twice — a small bird's wing caught at the top of a beat. *Suzume* means sparrow.
 
-### The Gift **[permanent, irreversible]**
+### The Exchange **[permanent, irreversible — and it ran both ways]**
 
 Dying, with her last voluntary motion, she said:
 
 > *"See what I see... carry my ninja way with you."*
 
-Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out his own left eye in the mud and transplanted hers into the socket on the spot — no medic, no anaesthetic, no sterile field.
+Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out his own left eye in the mud and transplanted hers into the socket on the spot — and **put his own eye into her empty socket in the same working.** No medic, no anaesthetic, no sterile field, both directions, in the dark.
 
-- **Suzume is permanently down her left eye.** No prosthetic, no recovery, no getting it back. It is in someone else's head.
-- **One Mangekyō remaining**, right side.
+**Her words were not a metaphor. They were a build order, and she was a medic with thirty seconds left.**
+
+- **Suzume's left eye is Ardo's ordinary eye.** She is not missing an eye and not half-blind. She is carrying his.
+- **Her own Mangekyō remains in the right.**
 - **The Vision track opens at 10 and this awakening was not gentle.** GM tracks the starting figure; it is not a clean 10.
-- **Ardo carries the other one.** See `characters/ardo.md` — non-Uchiha skull, permanently active, cannot be switched off.
+- **Ardo carries her left Mangekyō** — non-Uchiha skull, permanently active, cannot be switched off.
+- **相眼 SŌGAN — "Paired Eyes."** The circuit is closed, which has never been done. Sight bleeds both directions, uncontrolled, and functions while either party is unconscious — first confirmed three days later when her Mangekyō opened while she was still comatose and tracked Ardo across a hospital room to look directly at itself in his socket. **Full writeup in `characters/ardo.md`.** Neither of them is private from the other again, and she attends every 荒神 Aragami event from inside his head.
 
 ### The Technique **[unshaped — awakened one second too late to use]**
 
