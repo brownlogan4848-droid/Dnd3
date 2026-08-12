@@ -909,6 +909,60 @@ The entity didn't die and didn't quit — **it completed.** Its function was to 
 
 ---
 
+## SIGNING FOR THE ESTATE **[GM — Monuke's method, Session Nine day two]**
+
+**The difference between the two transactions, in his words:** *"An estate is money, and it is the business that made the money. Last night you took **cash** — you received the *result* of a skill without receiving the skill. You did not become a better shinobi. **You became a man with a very good servant**, and servants leave."*
+
+**Signing awake means taking the capability and then doing the work yourself.** Worse than the trustee did it, for months, badly — *"and it will be you doing it, which is the entire difference between an inheritance and a leash."*
+
+### The three conditions
+
+1. **Witnessed.** Never alone, never in the dark, never at three in the morning. Not for safety — *"the version of you that does this in secret is not the version that should be doing it. If you cannot take it in front of somebody, you are taking cash."*
+2. **One at a time, and named.** No opening the seam and letting what comes come. *"An inheritance you cannot inventory is a rumour."*
+3. **It must cost effort.** ***"If it feels like relief, you are receiving. If it feels like work, you are learning."*** He has now felt both and cannot lie to himself about which is which.
+
+## THE WILL, AS READ **[Session Nine, day two — all three existing coils inventoried]**
+
+Headband down, both hands flat, Monuke close enough to break it. Eye uncovered four seconds per item, on command.
+
+| Coil | Name | What it actually is | Status |
+|---|---|---|---|
+| **1** | **器 UTSUWA — "The Vessel"** | Not chakra — **the container.** Reinforced, engineered, load-bearing, built rather than grown | **Already fully active.** Nothing to learn |
+| **2** | **手綱 TAZUNA — "The Reins"** | The *method* for steering an unregulated river. Folded up small and awake, waiting to be asked | **Owned. Unusable.** Months to years |
+| **3** | **癒しの手 — "The Healing Hands"** | An entire medical discipline, complete — **with a person still attached** | **Do not touch.** Undetermined |
+
+### 器 Utsuwa answers a question the campaign has carried since Session One
+
+**Two hundred chakra at Genin.** A tell on his file that a jōnin, an ANBU operative, a foreign sealmaster and Root all noticed and none could explain.
+
+There was never anything mysterious about his reserves. **He was left a bigger container**, on the day of the fire, and it is the least interesting item in the estate, and it is why he is not dead.
+
+### 手綱 Tazuna is the cure, and he cannot use it
+
+This is the item that did his chakra control for eight years and took the wheel on the stone. **It is not a servant — it is a skill**, and it is unambiguously his, permanently, and nobody can take it.
+
+> *"So is a sword, on a wall, in a house full of people who do not fence."*
+
+**This is now what the cave is for.** Not learning to invent a solution to 荒れ川 Arakawa — **learning to operate one he already owns.**
+
+### 癒しの手 — the fingerprint
+
+The first two items are *had.* Property. This one is **was.**
+
+Under the discipline — pathways, tissue repair, the exact hand placement he used in the mud without ever reading a page — is a memory that is not his:
+
+**Adult hands, long-fingered, two old burn scars across the back of the left one**, closed gently around a *smaller* pair, adjusting them. Repositioning a thumb. Demonstrating an angle. The physical grammar of somebody being taught, patiently, by somebody who has taught it many times. A voice, warm and half-laughing, of which only the last two words are audible: ***"—like that."***
+
+Smoke and something herbal. **No face. There is never a face.**
+
+Ardo cannot tell whether it is her teaching him, or her being taught as a child, or something else entirely. **He is not required to solve it and Monuke told him he will make himself sick trying.**
+
+> *"I do not know whether that is a hazard or the most valuable thing in the entire inheritance, and I am not going to pretend otherwise to make you feel better."*
+>
+> *"What I will tell you is that whoever left it to you **could have left the technique without the memory.** A skill can be stripped. It is difficult and it is done. **Somebody chose not to.**"*
+
+---
+
 # 渦潮 UZUSHIO — "THE WHIRLING TIDE" **[GM — the endpoint. Not available. Designed so it can be earned]**
 
 **Ardo's ultimate form.** Not a stage of Kōfū — the thing Kōfū and Uzufū were always crude sketches of.
