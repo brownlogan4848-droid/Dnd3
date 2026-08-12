@@ -892,6 +892,48 @@ Printed passive unchanged: +25% Chakra, advantage vs. sealing.
 
 **Confirmed distinct from the calm Seam variant** — that variant gathers nothing external and requires no stillness. It is explicitly not senjutsu practice, just a different door.
 
+## 拮抗 KIKKŌ — "THE COUNTERWEIGHT" **[GM — Session Nine, Ryūchi Cave, day one]**
+
+**Gate 2 cleared by accident.** Ardo's uncontracted summoning rolled a 24 and reverse-summoned him into 龍地洞 Ryūchi Cave — he asked for power in the wrong voice and was aimed at the right door.
+
+### Monuke's diagnosis, which nobody in Konoha was equipped to make
+
+The aperture Ardo turned open runs **both ways**, and has since the day he opened it. **Natural energy has been entering him continuously for six weeks** — awake, asleep, walking, eating, untrained and unnoticed. Per the Bloodline Path's own clause, the endpoint of that is **stone, permanently.** He mistook it for having a bad few weeks.
+
+**The clock is real and it is already running.**
+
+### The wall, and why it was the wrong wall
+
+Every senjutsu method in existence begins **be still, then gather** — quiet your own chakra to nothing, and draw natural energy into that silence. It works because a person's chakra is *small*: a candle to be snuffed before you can see stars.
+
+**Ardo cannot be still.** 荒れ川 Arakawa removes the prerequisite. Monuke's day-one verdict: *"You are the worst possible candidate for the only discipline that can save you. That is not cruelty, it is arithmetic."*
+
+### What Ardo did instead **[natural 20, WIS save DC 15]**
+
+Told to fail fast, he announced he'd go longer and sat back down — **nineteen minutes**, in a senjutsu-saturated cavern, with an open aperture.
+
+At 111 seconds the cave came **in**, and instead of clamping down (which is what petrifies people) he recognised the feeling from a hospital room six weeks earlier — Suzume pushing with almost nothing through a closed circuit, where the point was never strength, only that **there was somewhere for it to go.**
+
+So he stopped fighting the river and let it run **toward** the incoming natural energy. They met below his stomach.
+
+**It balanced. Four seconds.** For the first time since the entity went dormant, Arakawa was silent — not stopped, **counterweighted.**
+
+> *"A scale with nothing on either side is not balanced. It is **empty.** You have been carrying an enormous weight on one arm your whole life, and every teacher you meet will tell you to put it down first. You refused, and put something on the other side instead. **You did it in the wrong order and it worked.**"* — Monuke
+
+### The cost, and the limit
+
+**His left hand turned to stone up to two inches above the wrist.** Painless, which is the part nobody warns you about. Monuke broke the trance by knocking him nine feet across the chamber; the grey receded.
+
+- **Four seconds of balance. Nineteen minutes of exposure.** He will not survive that ratio twice.
+- **He has no control over the ratio.** Two enormous forces thrown at each other, lucky about where they met. *"That is not senjutsu. That is a coin landing on its edge."*
+- When the two are unmatched, **the excess goes into his body, and his body is not qualified to hold it.**
+
+**Status: a shape, not a technique.** Proven once, unrepeatable safely. Monuke now has to build a method around a principle no human has ever needed, and Ardo is the reason it exists.
+
+**Its actual origin, on the record:** *"Then she is the one who taught you senjutsu, and she has no idea, and she is a very long way from here."*
+
+**This is what gets reported upward.** The White Snake Sage does not come out for shouting.
+
 ## Technique Tree — eight branches
 
 | # | Branch | Status |
