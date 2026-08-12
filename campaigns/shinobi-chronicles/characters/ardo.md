@@ -676,6 +676,61 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 
 *She said "see what I see." She did not say it would only run one way.*
 
+---
+
+# THE VISION ECONOMY **[GM — governs both Ardo and Suzume]**
+
+**Vision is the currency *and* the doom clock.** Everything the paired eyes do is paid for in sight.
+
+| Rule | Detail |
+|---|---|
+| **Starting Max Vision** | **10** each |
+| **Current Max** | **9** each — Mukaebi's first use, waking Suzume, paid into the track |
+| **Recovery** | Vision returns to Max on a long rest |
+| **Unlocking a tier** | **Permanently reduces Max Vision by 1.** The ability has to live in the eye, and the eye pays rent |
+| **Hitting 0 in a day** | Blind in that eye until the next long rest, **and Max Vision drops 1 further, permanently** |
+| **Max Vision 0** | **Permanently blind in that eye.** That is the end of the road and there is no version where it isn't |
+
+> **Getting stronger costs them their sight, directly and measurably.** Roughly ten unlocks separate them from blindness, split across three trees. Every tier is a real decision, and neither of them can see the meter.
+
+## ARDO'S CURSE — the eye never deactivates **[absolute, no workaround]**
+
+**Ardo's Mangekyō will never, ever be inactive.** Not sleeping, not resting, not covered, not by any technique, seal, or training that exists or ever will. The headband hides it; it does not stop it.
+
+**The gift:** every **passive** tier Ardo unlocks is **always running.** No activation, no action cost, no warm-up, no decision. He is never caught with his eye closed because he does not have one to close.
+
+**The curse:** he cannot rest it, so **he bleeds 1 Vision per day no matter what he does** — a day spent asleep in a hospital bed costs him the same as a day spent fighting. Plus the permanent Chakra drain. Plus he can never, ever hide what he is from anyone who knows what a Mangekyō looks like.
+
+**Suzume's is normal.** Hers deactivates. Hers rests. Hers costs Vision only on use. **She will still be able to see when he can't.**
+
+---
+
+# 相眼 SŌGAN — THE SHARED TREE **[requires both, unlocked by training together]**
+
+Neither of them can unlock these alone. Each tier costs **1 Max Vision from both.**
+
+| Tier | Name | Effect | Vision/use |
+|---|---|---|---|
+| **I** | **血染み CHIJIMI · "The Bleed"** | **ALREADY ACTIVE, involuntary.** Uncontrolled flashes of the other's POV, at any range, working even while one is unconscious. Cannot be switched off, cannot be aimed. | Free (involuntary) |
+| **II** | **合わせ目 AWASEME · "The Seam-Line"** | **When both attack the same target in the same round, each sees through the other's eyes mid-strike — both attacks gain advantage.** Requires both acting in the same round; no declaration needed, it simply happens. | **1 each** |
+| **III** | **遠見 TŌMI · "Far-Sight"** | Either may deliberately perceive **through the other's eyes at any distance**, for up to 1 minute. One scouts while the other fights; one watches a room the other can't enter. The other feels it and can refuse. | **2** (spender only) |
+| **IV** | **一心 ISSHIN · "One Mind"** | Full combat synchronisation for **3 rounds.** Both act on the same initiative, share Reactions from a common pool of 3, and every Team Combo (Book IV §2 Part Eight) they run together resolves as if one round higher in tier. | **4 each** |
+
+---
+
+# ARDO'S TREE — PERCEPTION & REACTION
+
+His eye reads **speed.** Fitting for someone whose whole style is arrival rather than travel. **Every tier here is passive and always-on**, per his curse.
+
+| Tier | Name | Effect | Vision/use |
+|---|---|---|---|
+| **I** | **見切り MIKIRI · "Seeing Through"** | He sees the strike land before it lands. **Once per combat, instantly dodge one incoming attack outright — no Reaction, no Bonus Action, no roll, no cost in the action economy.** It simply does not hit him. | **1** |
+| **II** | **印読み INYOMI · "Seal-Reading"** | Reads hand seals as they are formed. Knows what is being cast before it finishes, including rank and nature. Advantage on all Clash rolls against a technique he watched assembled. | **1** |
+| **III** | **半瞬 HANSHUN · "The Half-Second"** | Mikiri upgrades: instead of only dodging, he may **counterattack immediately** with a single basic attack or D-rank technique at no slot cost. Twice per combat. | **2** |
+| **IV** | **写し UTSUSHI · "The Copy"** | The full Sharingan gift — **copy a witnessed technique** (Ninjutsu check, DC 10 + 2 per rank step). Kekkei genkai and hiden remain uncopyable. | **3** |
+
+> **⚠ Tier IV interacts badly with 荒れ川 Arakawa, and this is deliberate.** A copied technique is one Ardo has *never trained*, executed with control he *does not have.* **Every copied C-rank or above triggers the Arakawa control check, and copied A/S-rank techniques roll on the transformation table instead** — which means copying something impressive is a genuinely plausible way to lose an arm. He can take everything anyone shows him. He may not survive using it.
+
 ### THE CLOSED CIRCUIT **[Session Seven — the most dangerous thing Ardo has learned]**
 
 In her hospital room, Ardo took Suzume's hand, moved Rai's headband to cover **his own** eye so he was seeing only through hers, locked Mangekyō to Mangekyō, and pushed chakra out through her and back into himself in a closed loop. **Control check 21 vs DC 15.** It woke her — see 迎え火 Mukaebi in `characters/suzume.md`.
@@ -1036,10 +1091,34 @@ Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B >
 LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
   DOES NOT TURN OFF · constant Chakra drain · Vision track applies
   Her technique is unshaped — access unresolved
+  ** NEVER DEACTIVATES. EVER. ** gift: all passive tiers always on
+    curse: -1 VISION PER DAY no matter what · can never be hidden
 相眼 SŌGAN — the trade ran BOTH ways; she has his eye in her left.
   Sight bleeds across both directions, uncontrolled, unstudied.
   Works while either is unconscious. His end never closes.
   No privacy from each other, ever. She attends every Aragami event.
+
+VISION  Max 10 → currently 9 (Mukaebi).  Long rest restores to Max.
+  EVERY TIER UNLOCKED = -1 MAX VISION, PERMANENTLY
+  Hit 0 in a day = blind till long rest, -1 Max on top
+  MAX VISION 0 = PERMANENTLY BLIND. ~10 unlocks total, both trees.
+
+SŌGAN TREE (shared, needs both, -1 Max Vision EACH)
+  I   血染み CHIJIMI    ACTIVE — involuntary bleed, can't be stopped
+  II  合わせ目 AWASEME  both attack same target same round = BOTH get
+                        advantage (1 Vision each)
+  III 遠見 TŌMI         see through the other at any range, 1 min (2)
+  IV  一心 ISSHIN       3 rds: same initiative, 3 shared Reactions,
+                        Team Combos resolve one tier higher (4 each)
+
+ARDO'S TREE — perception/reaction, ALL PASSIVE, always running
+  I   見切り MIKIRI     1/combat: dodge one attack outright. No
+                        Reaction, no Bonus Action, no roll. (1)
+  II  印読み INYOMI     read seals mid-cast, adv. on Clash vs it (1)
+  III 半瞬 HANSHUN      Mikiri now counterattacks free, 2/combat (2)
+  IV  写し UTSUSHI      copy a witnessed jutsu, DC 10 +2/rank (3)
+      ⚠ copied C+ triggers Arakawa check; copied A/S rolls the
+        TRANSFORMATION table — copying big things costs limbs
 THE SEAM: DORMANT / UNRESPONSIVE. Spent itself saving Suzume.
   It was doing Ardo's chakra control the whole time. It isn't now.
 
