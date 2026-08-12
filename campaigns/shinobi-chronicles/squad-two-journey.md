@@ -58,8 +58,6 @@ The campaign splits at Session Nine. Ardo's arc runs underground with the snakes
 | The will, read | *"...he's crying."* |
 | **潮合 Shioai** | *"He's quiet — but quiet like the rooftops after the Shepherd, not quiet like a room with the door shut. **He's doing it.**"* Roku: *"Then let's not keep him waiting."* |
 
-**She has been right about the difference between good and bad quiet every single time**, before anyone including Ardo could tell.
-
 | **THE ARCHIVE** | Put her on the ground **screaming** — Souji had her from behind with both arms before Roku was up. *"There's — there's **PEOPLE** — there's thousands, they're coming **in**—"* Then limp. Then, perfectly calm, which was worse: ***"...He's not alone anymore."*** Followed immediately by: ***"Roku-sensei. How fast can we walk."*** |
 
 **She has been right about the difference between good and bad quiet every single time**, before anyone including Ardo could tell.
