@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** **Late Era A, ~Year −5. The war is ending.** **Year 0. Age 25**, Jōnin. **Has spoken to nobody but Orochimaru for three months.** His Ninjutsu went from +0 to proficient because the war required it. Age 12 was Ryūchi Cave; Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
+**Current position:** **YEAR 0 — October 10th.** Age 25, **Jōnin**. Konoha. **He has spoken to nobody but Orochimaru for three months.** Formerly 遊撃班 Yūgekihan; Senju heritage awakened Session Seven, 不倒樹 Futōju took him at Training Ground Six in Session Eight, and 根の記憶 has been talking to him in his own furious voice every session since. Thirteen years in the field. Full history below.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -23,8 +23,8 @@
 | **Registered surname** | **Terada.** Civilian family — fostered, not blood. Nobody in the Terada household ever had chakra worth training, which is exactly why nobody, including Souji, has ever thought to look past them. |
 | **Clan** | **Clanless on every document that exists — but no longer a secret from anyone who was standing in that ravine.** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. **Awakened live, Session Seven, mid-Kanketsu, witnessed by the entire squad.** The paperwork hasn't caught up yet. It's going to have to. See Part Ten — no longer GM-only, now player-facing history. |
 | **Village** | Konohagakure |
-| **Rank** | **Jōnin (Level 13)** *(eight years of the Third War)* |
-| **Age** | **20** |
+| **Rank** | **Jōnin (Level 13)** |
+| **Age** | **25** |
 | **Body Origin** | **Body of Ashura** |
 | **Nature affinity** | **Earth (土 / Doton)** |
 | **Appearance** | Plain gear, no crest, a short blade worn low on the hip rather than across the back. Moves like someone who trains alone more often than not — economical, nothing wasted. |
@@ -666,8 +666,8 @@ Futōju does not time out. It ends when **the anchor-root field is broken and he
 # APPENDIX — FAST REFERENCE
 
 ```
-SOUJI · JŌNIN · Konohagakure · Level 13 · age 20
-Clanless on paper / awakened Senju in truth · Body of Ashura · Earth 土 · age 20
+SOUJI · JŌNIN · Konohagakure · Level 13 · age 25
+Clanless on paper / awakened Senju in truth · Body of Ashura · Earth 土 · age 25
 
 STR 16 (+3)   DEX 14 (+2)   CON 16 (+3)
 INT 14 (+2)   WIS 14 (+2)   CHA 12 (+1)      Prof +5

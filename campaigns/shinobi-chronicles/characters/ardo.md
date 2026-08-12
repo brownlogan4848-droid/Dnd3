@@ -30,7 +30,7 @@
 | **True clan** | **UZUMAKI — KNOWN TO HIM, Session Nine.** Confirmed by Monuke and then by four hundred generations of them in person. Still unknown to Konoha **[GM]** |
 | **Village** | Konohagakure |
 | **Rank** | **Jōnin (Level 13)** *(eight years of the Third War. Field-promoted Year −9; his actual capability has exceeded his rank for most of a decade)* |
-| **Age** | **18** |
+| **Age** | **23** |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
 | **Appearance** | Dark red hair — not the blazing Whirlpool crimson, but it goes bright when wet or lit. **Wears Rai Inuzuka's forehead protector, as of Session Five** — his own went onto Rai's pyre in the exchange. |
@@ -952,7 +952,7 @@ He apologised — not for the night, for the eight years before it. He signed Ar
 
 ```
 ARDO · Chūnin · Konohagakure · Level 5
-ARDO UZUMAKI of Uzushiogakure · Body of Indra · Wind 風 · age 18 · JŌNIN
+ARDO UZUMAKI of Uzushiogakure · Body of Indra · Wind 風 · age 23 · JŌNIN
 Mother: HIKARI · Sage (no contract) · carries the Uzumaki archive
 
 STR 15 (+2)   DEX 14 (+2)   CON 16 (+3)

@@ -1513,7 +1513,7 @@ The Uchiha clan's loyalty question remains a major Era A issue.
 # APPENDIX A — AI FAST REFERENCE
 
 ```text
-SUZUME · JŌNIN · Konohagakure · Level 13 · age 22
+SUZUME · JŌNIN · Konohagakure · Level 13 · age 27
 AGE 12 · UCHIHA BLOODLINE · 2-TOMOE SHARINGAN
 
 STR 10 (+0)   DEX 14 (+2)   CON 12 (+1)
