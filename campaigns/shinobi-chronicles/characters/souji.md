@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Land of Fire, en route to the Shepherd's ridgeline. Session Seven — mid-rescue, a captured Konoha shinobi freed and their captor taken down with Kanketsu. **Souji's Senju heritage awakened live, in front of the whole squad, mid-strike.** No longer a secret — witnessed by Ardo, Suzume, and Roku simultaneously. First session with Ardo and Suzume was Session Six; everything below is current through this moment.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, **hospitalised, awake two days, and has not spoken a word to anyone.** Session Eight has closed. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -300,6 +300,40 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 
 He hasn't decided yet what he's going to say when that conversation happens. He knows it's coming. For tonight, on the rooftops with the rest of the squad, he let it be enough that nobody around him treated it as the only interesting thing about him.
 
+## SESSION EIGHT — "TRAINING GROUND SIX"
+
+**A friendly spar with Ardo, no stakes, full contact. It did not stay that.**
+
+Souji fought well and fought honestly — Falling Leaf Cut into Two-Stage, Root Grip locking Ardo's feet, a crit that put 38 damage into a boy in a god-tier transformation. **He reached for the Senju surge twice on purpose and it answered both times** (CON DC 15, then DC 18 for the second reach in one fight — natural 20s on both), which is the first evidence that Session Seven's "one-time awakening" might be trainable after all.
+
+### The test he failed by three points
+
+Ardo's Seam-flood set off Souji's own bloodline unasked. **Three saves — CON 15, WIS 18, CHA 16.** His body held. His mind and his choice did not.
+
+The voice underneath was **his own** — not an entity, not a prisoner, nothing sealed. A ten-year-old's oldest vow, welded to a bloodline that doesn't know how to stop growing:
+
+> *Don't take his hand. The second you need somebody is the second you can be left again. I will keep you standing forever if you never ask anyone for anything.*
+
+**He roared "Ardo! We control our future together!" and meant every word of it — and the vow underneath his ribs didn't believe him.** He said the healthy thing out loud a long time before he could believe it, and the gap between those two things measured exactly three points.
+
+**He took Ardo's hand anyway.** That's what carried his last save from a 1 to a 13. It wasn't enough. **不倒樹 Futōju** took him — see the full writeup above.
+
+### What happened while he wasn't home
+
+Eleven minutes of perfect immovability against perfect speed, welded at the wrist, neither able to win or leave. **Hiruzen Sarutobi arrived, recognised Hashirama's ground-work on sight** (he was eight years old the first time he watched the First Hokage do it), refused to fight Fudō's rule, and **liquefied the ground out from under it instead** — then pinned Souji with Enma's adamantine staff. Unbroken Stance never got the chance to fire.
+
+**And breaking the field removed the only thing holding Ardo's speed down.** Sakauzu went for Souji, unconscious and defenceless on the ground.
+
+**Suzume put her body between them and took 99 damage doing it.** He did not take a scratch. **He was unconscious for the single most important thing anyone has ever done for him**, which is, precisely and cruelly, the thing his vow says never happens.
+
+### Since
+
+Awake two days. **He has not said one word to anyone** — not the medics, not Roku, not the Hokage. Suzume is two rooms away, alive by a four-minute margin, with a handprint of dead bark still fused around her wrist's opposite number on his own.
+
+**根の記憶 Ne no Kioku is permanent and already running.** From the next session onward he receives one real piece of bloodline knowledge per session, unbidden, delivered in his own furious voice — because the transformation wants him to reach for it again.
+
+**Open threads:** the silence, and how long it lasts · his overdue conversation with Hiruzen, now enormously more complicated · whether the Senju surge is genuinely trainable given he called it twice · what he says to Suzume · and whether he ever learns that the reason he's alive is that somebody held a place open for him after all.
+
 ---
 ---
 
@@ -334,7 +368,7 @@ The Senju clan's baseline trait, active from this point forward: **+2 CON, +1 ST
 
 ---
 
-# 不倒樹 FUTŌJU — "THE UNFELLED TREE" **[GM — Session Seven, the Souji spar]**
+# 不倒樹 FUTŌJU — "THE UNFELLED TREE" **[GM — Session Eight, the Souji spar]**
 
 **The direct rival to Ardo's 渦風 Uzufū, and its exact philosophical inversion.**
 

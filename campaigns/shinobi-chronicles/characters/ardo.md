@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha. Session Six in progress — Ardo and Suzume have just passed Hiruzen's personally-sanctioned rank evaluation, a full-contact sparring match against Roku, ending with a linked Team Combo (Pulse Thread → Storming Thunder God → Leaf Whirlwind) that put him down for the count. Rai Inuzuka died in Session Five; Suzume's Sharingan (2 tomoe) awakened in that same fight — she has her own full PC sheet, *suzume.md*, running the same action economy as Ardo. Session Four ("the exam that wasn't an exam") and Session Five ("Grass Front") are logged in full below; this file is current through the end of the Roku evaluation match.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, **hospitalised, three days after Training Ground Six.** Session Eight has just closed. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve; every mechanical consequence is in Parts Five and Six.
 
 **Sourcing convention for this file:**
 
@@ -27,7 +27,7 @@
 | **Registered surname** | *None.* The line on his intake file is blank and has been for eight years. |
 | **True clan** | **Uzumaki** — unknown to the village, unknown to Ardo himself **[GM]** |
 | **Village** | Konohagakure |
-| **Rank** | Chūnin (Level 5) *(promoted end of Session Six, stats recalculated Session Seven)* |
+| **Rank** | Chūnin (Level 5) *(promoted end of Session Six, stats recalculated Session Eight)* |
 | **Age** | 8 |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
@@ -535,10 +535,10 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 
 **Growth path, survival-gated, not XP-gated:**
 - **Stage 1** — live now, as above.
-- **Stage 2** — **UNLOCKED, Session Seven, the Souji spar.** See 渦風 UZUFŪ below.
+- **Stage 2** — **UNLOCKED, Session Eight, the Souji spar.** See 渦風 UZUFŪ below.
 - **Stage 3** — unlocks past surviving a real Crash. Still open.
 
-## 渦風 UZUFŪ — "Whirlpool Wind" · **KŌFŪ STAGE 2** **[GM — unlocked Session Seven]**
+## 渦風 UZUFŪ — "Whirlpool Wind" · **KŌFŪ STAGE 2** **[GM — unlocked Session Eight]**
 
 **How it was unlocked.** Not by reaching. Souji's newly-awakened Senju chakra surged in close proximity while Ardo was strained and hurting, and **the thing behind the seal reacted on its own** — frantic, protective, panicking, trying to force its way out to defend him. Not the combat trigger, not the calm variant, not Ardo forcing anything: the entity moving first, unprompted. Three escalating CON saves (DC 15 → 18 → 21) as it tried to take control. **Ardo passed all three**, and passed them by refusing to ride the rage — he recognised the feeling from Rai's pyre, remembered that rage buys nothing from the Seam, and instead reached back through the flood to *calm the thing panicking on the other side*: **"That's Souji. He's my squad. Nobody's dying. Thank you — but you can stop now. I've got it."**
 
@@ -609,7 +609,7 @@ Tested directly for the first time at Rai's pyre: Ardo, consumed by grief curdli
 
 **This confirms a rule, not a one-time refusal:** the Seam answers grief offered with gratitude — reaching out, saying thank you, wanting connection — and it does not answer grief spent as a demand for vengeance. Kōfū and Borrowed Gale both came from the *first* kind of reach. Rage gets silence, not punishment, not power. Whatever's sealed in him, it isn't interested in being a weapon against the world for its own sake — only in being *offered* something, the same distinction Tsunade's whole medic doctrine and half this setting's actual moral center run on. Treat this as fixed going forward: **rage-fueled reaches to the Seam fail by default, no roll needed, unless something in the fiction changes what kind of reach it actually is.**
 
-## 写輪眼 — SUZUME'S MANGEKYŌ, LEFT EYE **[GM — Session Seven, permanent]**
+## 写輪眼 — SUZUME'S MANGEKYŌ, LEFT EYE **[GM — Session Eight, permanent]**
 
 Suzume stepped in front of a full-force 空爆 Kūbaku detonation from the inverted Sakauzu to shield an unconscious Souji. It killed her — 99 damage against 80 Health. Dying, she awakened the Mangekyō, removed her own left eye, put it in Ardo's hands, and said:
 
@@ -631,7 +631,7 @@ Suzume stepped in front of a full-force 空爆 Kūbaku detonation from the inver
 
 **He did this in front of the Third Hokage.**
 
-## THE SEAM AFTER — DIMINISHED **[GM — Session Seven, permanent consequence]**
+## THE SEAM AFTER — DIMINISHED **[GM — Session Eight, permanent consequence]**
 
 Unconscious, blind on one side, with nothing left, Ardo made the purest version of the reach the Seam has ever answered — no demand, nothing asked for himself, responsibility taken jointly:
 
@@ -651,7 +651,7 @@ Its last words before going quiet:
 - Whether it recovers, how fast, and whether it *can*, is unresolved and should stay that way.
 - The aperture Ardo turned open is still open. Neither side closed it.
 
-## 相眼 SŌGAN — "PAIRED EYES" **[GM — Session Seven, permanent, unprecedented]**
+## 相眼 SŌGAN — "PAIRED EYES" **[GM — Session Eight, permanent, unprecedented]**
 
 Because the transplant ran **both directions**, Ardo and Suzume each carry one of their own eyes and one of the other's:
 
@@ -776,7 +776,7 @@ His eye reads **speed.** Fitting for someone whose whole style is arrival rather
 
 > **⚠ Tier IV interacts badly with 荒れ川 Arakawa, and this is deliberate.** A copied technique is one Ardo has *never trained*, executed with control he *does not have.* **Every copied C-rank or above triggers the Arakawa control check, and copied A/S-rank techniques roll on the transformation table instead** — which means copying something impressive is a genuinely plausible way to lose an arm. He can take everything anyone shows him. He may not survive using it.
 
-### THE CLOSED CIRCUIT **[Session Seven — the most dangerous thing Ardo has learned]**
+### THE CLOSED CIRCUIT **[Session Eight — the most dangerous thing Ardo has learned]**
 
 In her hospital room, Ardo took Suzume's hand, moved Rai's headband to cover **his own** eye so he was seeing only through hers, locked Mangekyō to Mangekyō, and pushed chakra out through her and back into himself in a closed loop. **Control check 21 vs DC 15.** It woke her — see 迎え火 Mukaebi in `characters/suzume.md`.
 
@@ -788,7 +788,7 @@ In her hospital room, Ardo took Suzume's hand, moved Rai's headband to cover **h
 
 **Witnessed by a medic-nin and Rokka Uehara.** Hiruzen will know within the hour.
 
-## 荒れ川 ARAKAWA — "THE RAGING RIVER" **[GM — Session Seven aftermath, permanent until treated]**
+## 荒れ川 ARAKAWA — "THE RAGING RIVER" **[GM — Session Eight aftermath, permanent until treated]**
 
 **The entity behind the seal is dormant.** Not gone — *unresponsive.* The mindscape is intact, the water is there, the gate is there, the aperture Ardo turned open is still open. Nothing is standing at it. He has called and gotten no answer.
 
@@ -866,10 +866,10 @@ Fixed and decided. Not recorded, because this file is player-facing.
 - **Genuine containment seal, not restraint** — inward-facing linework, Uzushio-era whirl-pattern work, roughly Ardo's own age.
 - **Responds differently depending on how it's approached.** Forced reading: ignited defensively, left a scorch mark. Ardo's own calm, offered chakra with people he trusts present: eased, settled, no incident.
 - **Left an impression at the edge of the calm version:** *"Not yet. But not never."*
-- **Reacts to Senju chakra — violently. [Session Seven]** Souji's awakened Senju chakra surging nearby sent it frantic and protective, trying to force its own way out. Its words afterward: *"That chakra out there. It stood beside mine, once."* Old enough to have stood beside a Senju. Uzushio and the Senju were kin clans and allies. Ardo has not connected any of this.
-- **The seal can be channeled without being broken. [Session Seven]** Ardo, with no fūinjutsu training whatsoever, instinctively turned the whirl-pattern into an aperture rather than letting it rip. He does not know he did anything unusual. He does not know what it means that his hands knew how.
+- **Reacts to Senju chakra — violently. [Session Eight]** Souji's awakened Senju chakra surging nearby sent it frantic and protective, trying to force its own way out. Its words afterward: *"That chakra out there. It stood beside mine, once."* Old enough to have stood beside a Senju. Uzushio and the Senju were kin clans and allies. Ardo has not connected any of this.
+- **The seal can be channeled without being broken. [Session Eight]** Ardo, with no fūinjutsu training whatsoever, instinctively turned the whirl-pattern into an aperture rather than letting it rip. He does not know he did anything unusual. He does not know what it means that his hands knew how.
 - The sealmaster on the Nakano shingle recognised it on sight, looked at Ardo's stomach, and disengaged from a free acquisition.
-- **It knows medical ninjutsu, and it has kept a dying person alive before. [Session Seven]** It moved Ardo's untrained hands through textbook medical work to hold Suzume together for four minutes, and spent much of itself doing it. This is the same thing it did once for a dying infant — see the killing-blow line above. *"She reminded me of somebody."*
+- **It knows medical ninjutsu, and it has kept a dying person alive before. [Session Eight]** It moved Ardo's untrained hands through textbook medical work to hold Suzume together for four minutes, and spent much of itself doing it. This is the same thing it did once for a dying infant — see the killing-blow line above. *"She reminded me of somebody."*
 - **It will accept shared responsibility.** Offered *"we did this to her,"* it answered *"Yes. We did"* — the first time it has ever taken a *we*.
 - **The man Ardo Twinned on the shingle, questioned in the hospital, recognized him on sight too** — called him "the wind," said *"he said you'd come looking eventually,"* and named himself as someone who was also **found**, not made. Genuinely seemed to fear what Ardo might become. Does not know what's sealed either — his fear was recognition of shape, not content.
 
@@ -1091,6 +1091,52 @@ Report to Hiruzen on the ridgeline recon confirmed the Shepherd's alcove — wou
 **Homecoming:** two rescued shinobi reunited with family at the gate, eight-year-old case files finally closed. The Shepherd handed to Hiruzen in restraints, promised fair judgment. The squad closed the session on the rooftops above the village, silent, together — the first unclouded good moment since Rai's pyre.
 
 **State at end:** full Chakra/Stamina/Health, well-rested after the two-day walk home. Special reset. Open threads: the Handler's interrogation, the Shepherd's actual trial/judgment, the freed captives' long-term recovery, Souji's overdue conversation with Hiruzen about what the whole village now half-knows.
+
+---
+
+## 八 · SESSION EIGHT — "TRAINING GROUND SIX"
+
+**The worst day in the history of Cell 409, and it started as a friendly spar.**
+
+### The spar
+
+Ardo and Souji, full contact, no stakes, Training Ground Six. It escalated the way things escalate between two boys who like each other — *"Let's get serious, Souji!"* / *"Let's do this, Ardo!"* — and every escalation was legitimate right up until it wasn't.
+
+**Ardo unlocked 渦風 UZUFŪ, Kōfū Stage 2.** Not by reaching for it. **Souji's Senju chakra surged nearby and the thing behind the seal reacted on its own** — frantic, protective, panicking, trying to force its way out to defend him. Three escalating CON saves (15/18/21), **all passed**, and passed the only way they could be: Ardo recognised the rage from Rai's pyre, remembered it buys nothing from the Seam, and instead reached back through the flood to *calm the thing on the other side.* Then, untaught, he **turned the whirl-pattern seal into a channel instead of letting it rip.** The entity's second and third unprompted words ever: *"...I had forgotten this kind of holding."* and *"That chakra out there. It stood beside mine, once."*
+
+**Souji faced the same test and failed it by three points.** His was the inverse — not a flood from outside but the vow under his own ribs, his own voice telling him *don't take his hand, the second you need somebody is the second you can be left again.* He passed the body save, failed the mind and the choice. **He took Ardo's hand anyway** — that's what took him from a 1 to a 13 on the last roll — and it wasn't enough. **不倒樹 FUTŌJU** took him.
+
+### The machine
+
+Ardo dropped out of Uzufū to help Souji up. Their hands touched, and **the thing behind Ardo's seal got Senju chakra delivered directly into its own hand.** Uzufū inverted into **逆渦 SAKAUZU**, GM-run, and two ten-year-olds built something that couldn't stop: perfect speed that couldn't be reacted to against perfect immovability that couldn't be chased. Eleven minutes. Suzume ran three kilometres for Roku, who got the Hokage.
+
+**Hiruzen Sarutobi recognised both of them on sight** — Hashirama's ground-work in one, Uzushio whirl-pattern sealwork in the other, in two orphans with no clan on paper, in a cell he assigned himself. *"I know what I'm looking at."* He summoned Enma, liquefied the training ground rather than fighting Fudō's rule, and pinned Souji — **and in doing so removed the only thing suppressing Uzufū's tripled speed.**
+
+### What Suzume did
+
+Sakauzu went for the unconscious Souji. Nothing could intercept it. **Suzume flash-stepped into the gap, turned her back on the punch so her body covered him completely, and took a full-force 空爆 Kūbaku detonation at zero range. 99 damage against 80 Health.** Souji took nothing. It worked exactly as she intended.
+
+**The Mangekyō awakened as she died** — the trigger firing sideways, because she wasn't grieving someone else's death, she was dying while watching what it would do to Ardo, with the clearest eyes on the field and no way to stop it. Sakauzu saw what Ardo's hand had done and **let go of the aperture like it burned.**
+
+Dying, she said ***"See what I see... carry my ninja way with you,"*** removed her own left eye, and put it in his hands. **Ardo dug out his own eye in the mud and completed the exchange both ways.** Then he reached inward with nothing left and offered the only thing that has ever worked: ***"We did this to her. So please. Let's fix this."***
+
+**It took the *we*.** *"Yes. We did."* It moved his untrained hands through textbook medical ninjutsu — the same thing it once did for a dying infant with a killing blow through him — and **spent nearly all of itself buying four minutes**, which was the entire margin between the crater and the hospital. Its last words before going quiet: *"...She reminded me of somebody."*
+
+### The hospital, three days later
+
+Ardo woke to a Mangekyō that will never switch off and **an empty mindscape.** He called. Nothing answered. **荒れ川 ARAKAWA** — the retroactive gut-punch that it was never his chakra control, it was the entity's, all of it, the whole time, and every impossible thing on his file was one thing that has now left.
+
+Roku's answer to the apology: *"I'm not going to tell you it wasn't your fault. It was not your **choice.** And it was your **hand.** Both. At the same time. Forever."*
+
+Suzume had been **awake for all three days** — conscious and trapped in a mind-built copy of her own hospital room with no door, testing the walls in rows until she stopped and sat down. Her Mangekyō, in Ardo's skull, had spent seventy-two hours reaching for him on instinct. He took her hand, moved Rai's headband to cover *his own* eye, opened a **closed chakra circuit**, and looked. **Control check 21 vs DC 15.** The wall opened. She woke.
+
+**迎え火 MUKAEBI** named itself in the doing: the lantern lit at Obon so someone far out in the dark can find the road home. Her refusal of his apology: *"I didn't step in front of it for you. Souji was going to die and I was the only one who could stop it. **Don't turn the best thing I ever did into something you did to me.**"*
+
+And the circuit taught Ardo the most dangerous thing he now knows: **inside a closed loop, the river stops fighting him.** The only relief he has ever found from Arakawa requires another person on the other end of it.
+
+**State at end:** all three hospitalised. Suzume awake, critical, weak, entirely herself. Souji awake for two days and **has not spoken a single word to anyone** — not medics, not Roku, not the Hokage. Ardo mobile, at the floor of everything, one eye permanently borrowed. An ANBU is standing at the corridor junction and nobody has commented on it.
+
+**Open threads:** Hiruzen knows everything about all three and has said nothing yet · Danzō has been circling Ardo for two sessions and this is the exact kind of news Root exists to act on · Souji's silence · whether Suzume ever learns she pays no Vision while Ardo goes blind carrying her eye · the Handler and the Shepherd's judgment, both still pending from Session Seven · and the fact that Ardo now has to learn senjutsu as **treatment**, with the fastest route sitting behind a transformation that eats limbs.
 
 ---
 ---

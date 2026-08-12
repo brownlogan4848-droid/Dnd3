@@ -2,8 +2,8 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Seven · **AWAKE, critical, hospitalized.** Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
-**Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Seven)*  
+**Current Session:** Session Eight · **AWAKE, critical, hospitalized.** Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Eight)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
 **Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE.** Left socket now carries **Ardo's transplanted ordinary eye** — the exchange ran both ways. See Part Eight, Path ②, and 相眼 Sōgan in `characters/ardo.md`.
@@ -49,7 +49,10 @@ This sheet follows the same structure and rules language as Ardo's completed PC 
 | **E-GEN-03** | Substitution Technique | E | Ninjutsu / Escape | **Learned** | 8 Ch / 5 St | Reaction |
 | **E-GEN-04** | Rope Escape Technique | E | Ninjutsu / Utility | **Learned** | 3 Ch / 2 St | Bonus |
 | **BAS-TAI-01** | Basic Taijutsu Strike | — | Taijutsu / Weapon Combat | **Learned** | — | Action |
-| **D-DOU-01** | Sharingan — 2 Tomoe | — | Dōjutsu / Kekkei Genkai | **Active** | 3 Ch/round | Passive + Reaction |
+| **D-DOU-01** | **Mangekyō Sharingan** *(right eye)* | — | Dōjutsu / Kekkei Genkai | **AWAKENED, Session Eight** | 3 Ch/round base | Passive + Reaction |
+| **MG-01** | 迎え火 Mukaebi | — | Mangekyō technique | **Named, unbuilt** | Special | See Part Eight |
+| **PT-TAI-01** | Mirrored Opening | — | Taijutsu, Sharingan-assisted | **Learned** | — | Action |
+| **D-LIGHT-01** | Lightning Release: Pulse Thread | D | Ninjutsu / Lightning | **Practiced** | 8 Ch / 5 St | Action |
 
 ### Currently Usable
 
@@ -59,8 +62,11 @@ This sheet follows the same structure and rules language as Ardo's completed PC 
 - Rope Escape Technique
 - Basic Taijutsu / kunai combat
 - Basic weapon positioning and shuriken use
-- **Lightning Release: Pulse Thread**
-- Sharingan — 2 Tomoe
+- **Lightning Release: Pulse Thread** (+ Split Current)
+- Mirrored Opening
+- **Mangekyō Sharingan — right eye.** Left socket carries Ardo's ordinary eye (相眼 Sōgan)
+
+> **Physical status, Session Eight:** awake, critical, three days' atrophy on a body that took 99 damage. **Not combat-capable.** Nothing above is usable until she's medically cleared.
 
 ### Conditional
 
@@ -71,12 +77,11 @@ This sheet follows the same structure and rules language as Ardo's completed PC 
 
 ### Not Learned
 
-- Elemental ninjutsu
-- Named D-rank elemental techniques
-- Medical ninjutsu
-- Genjutsu techniques
-- 3-Tomoe Sharingan
-- Mangekyō Sharingan
+- Elemental ninjutsu beyond Pulse Thread
+- Medical ninjutsu *(trained interest, no techniques yet — see her dōjutsu tree, Tier II)*
+- Genjutsu techniques *(now on a real path — dōjutsu tree, Tier III)*
+- Every dōjutsu tree tier — **none unlocked yet.** Mukaebi awakened on its own; the trees are progression, not current kit
+- Eternal Mangekyō
 - Any proposed future jutsu
 
 ---
@@ -592,7 +597,7 @@ Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out h
 - **Ardo carries her left Mangekyō** — non-Uchiha skull, permanently active, cannot be switched off.
 - **相眼 SŌGAN — "Paired Eyes."** The circuit is closed, which has never been done. Sight bleeds both directions, uncontrolled, and functions while either party is unconscious — first confirmed three days later when her Mangekyō opened while she was still comatose and tracked Ardo across a hospital room to look directly at itself in his socket. **Full writeup in `characters/ardo.md`.** Neither of them is private from the other again, and she attends every 荒神 Aragami event from inside his head.
 
-### 迎え火 MUKAEBI — "The Welcoming Fire" **[named Session Seven, in the hospital]**
+### 迎え火 MUKAEBI — "The Welcoming Fire" **[named Session Eight, in the hospital]**
 
 *Mukaebi: the lantern lit at Obon so someone a long way out in the dark can find the road back to your door.*
 
@@ -1224,6 +1229,48 @@ Chūnin vests taken. Souji joined the cell the same day. Downtime unlocked **Mir
 **Closed the session on the rooftops above the village with the whole squad, silent, together.**
 
 **State at end:** full Chakra/Stamina/Health, well-rested. Special reset.
+
+---
+
+## SESSION EIGHT — "TRAINING GROUND SIX"
+
+**She was not in the fight. She is the reason there is anyone left to have been in it.**
+
+A friendly full-contact spar between Ardo and Souji escalated past both of them. Ardo unlocked **渦風 Uzufū** — Kōfū Stage 2, triggered when Souji's Senju chakra set off the thing behind his seal — and passed all three control saves. **Souji faced the mirror of that test and failed it by three points**, and **不倒樹 Futōju** took him. Then Ardo stepped out of his own transformation to help Souji up, their hands touched, and the thing behind the seal got Senju chakra delivered into its own hand. Uzufū inverted into **逆渦 Sakauzu.**
+
+### What she did first
+
+**Suzume was the only person who saw it happen, and the only person who could read what she was looking at.** Two chakra signatures stopped looking like her teammates and started looking like weather. And she did the hardest thing anyone did that day: **she turned around and ran.** Three kilometres, hating it the whole way, because she worked out — correctly — that going down there alone would only make her the third child in the crater. She brought back Roku, who brought the Hokage.
+
+Hiruzen's own tactical read came from her, in one sentence, gasping, before he'd finished assessing the field: *"It only woke up because it **felt** Souji. It thinks it's protecting Ardo."* He said **"Yes,"** and acted on it.
+
+### What she did second
+
+Hiruzen liquefied the ground and pinned Souji with Enma — **and in doing so removed the only thing suppressing Sakauzu's speed.** It went straight for the unconscious, defenceless Souji. Nothing on that field could intercept it.
+
+**Suzume flash-stepped into the gap and turned her back on the punch**, so her body would cover Souji's completely. She took a full-force 空爆 Kūbaku detonation at zero range — **99 damage against 80 maximum Health.** Souji took nothing. It worked precisely as intended.
+
+**万華鏡写輪眼 — the Mangekyō awakened as she died.** The printed trigger fired sideways: she wasn't grieving someone else's death, she was dying while watching, with the clearest eyes on that field, what her death was about to do to Ardo — and unable to reach him or stop it. Pattern: a single black wing-sweep doubling back twice. *Suzume* means sparrow.
+
+### What she did third, with thirty seconds left
+
+Dying, she said ***"See what I see... carry my ninja way with you"***, **removed her own left eye, and put it in his hands.** Ardo took his own eye out in the mud and completed the exchange in both directions.
+
+**That was a procedure, not a gift.** She was a medic, she knew exactly how likely it was she was about to be somewhere nobody could reach, and she left herself a line back. Seeing Sakauzu's own hand do that broke the transformation — it let go of the aperture like it burned. Whatever is sealed in Ardo then spent nearly all of itself holding her together for four minutes, the entire margin between the crater and the hospital. *"She reminded me of somebody."*
+
+### Three days in the dark
+
+**She was awake the whole time.** Not comatose in any way that mattered to her — conscious, alone, in a mind-built copy of her own hospital room with no door in the wall, testing the walls in careful rows the way a medic works a body looking for the break. She had stopped and sat down by the time he found her.
+
+Her Mangekyō, sitting in a strange skull with no owner and no instruction, spent all seventy-two hours **reaching for him.** Every uncontrolled Sōgan bleed was that.
+
+Ardo took her hand, moved Rai's headband to cover **his own** eye so he was seeing only through hers, opened a closed chakra circuit, and looked back. **迎え火 Mukaebi** named itself in the doing. The wall opened. She woke.
+
+Her first words were *"You took your time."* Her second were a flat refusal of his apology: ***"I didn't step in front of it for you. Souji was going to die and I was the only one standing who could stop it. That was my call. My hands. Don't you turn the best thing I ever did into something you did to me."***
+
+**State at end:** awake, critical, three days of atrophy on a body that took 99 damage. Entirely herself. **Left socket now carries Ardo's ordinary eye; her Mangekyō is in his head.** Mukaebi named but unbuilt. **She pays no Vision and never will — and nobody has told her yet that Ardo does.**
+
+**Open threads for her specifically:** what Mukaebi actually becomes, mechanically, when she's well enough to build it · whether she learns about Ardo's Vision track and how she reacts · the 静かな部屋 Quiet Room tier, which is the technique that would have saved Souji by more than three points · Souji, two rooms away, who has not spoken since he woke and who she took 99 damage for.
 
 ---
 

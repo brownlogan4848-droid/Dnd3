@@ -32,8 +32,9 @@ jutsu-compendium/             Every canonical technique, organized by rank
     e-d-gapfill-noncanonical.md           E/D gap-fill + non-canonical rank surveys
 
 characters/                   Player characters, campaign "The Long Shadow"
-  ardo.md                       Genin, Konoha — hidden Uzumaki, Body of Indra, Wind affinity
-  suzume.md                     Genin, Konoha — newly awakened Sharingan (2 tomoe)
+  ardo.md                       Chūnin, Konoha — hidden Uzumaki, Body of Indra, Wind affinity
+  suzume.md                     Chūnin, Konoha — Mangekyō Sharingan (right eye)
+  souji.md                      Genin, Konoha — hidden Senju, Body of Ashura, Earth affinity
 ```
 
 ## Sourcing conventions used throughout
@@ -49,4 +50,20 @@ characters/                   Player characters, campaign "The Long Shadow"
 
 ## Campaign status
 
-Live campaign: *The Long Shadow*, Era A (Third Great Ninja War, ~Year −15), Land of Grass, Session Five in progress. See `characters/ardo.md` and `characters/suzume.md` for full current state, session logs, and open story threads.
+Live campaign: ***The Long Shadow*** — Era A (Third Great Ninja War, ~Year −15), Konoha. **Session Eight has closed.** Planned to run through a timeskip and resume in Era C.
+
+**Cell 409** is, un-asked-for and unannounced, the Indra/Ashura cycle running again: Ardo chose Body of Indra and turned out to be hidden Uzumaki; Souji chose Body of Ashura and turned out to be a lost branch-line Senju; Suzume is Uchiha in blood and Body Origin both. Nobody engineered that at character creation.
+
+**Where everyone stands after Session Eight — "Training Ground Six":**
+
+| | State |
+|---|---|
+| **Ardo** | Chūnin. Carries Suzume's Mangekyō in his left socket permanently — **it never deactivates**, and he is the only one paying a Vision cost for it. The entity behind his seal spent itself saving her and is **dormant**; it was doing his chakra control his entire life, so he now runs on 荒れ川 **Arakawa**, an unregulated river where transformations can cost him a limb. **Must learn senjutsu as treatment.** |
+| **Suzume** | Chūnin. Took 99 damage against 80 Health shielding Souji and lived on a four-minute margin. **Mangekyō awakened as she died**; technique 迎え火 **Mukaebi** named but unbuilt. Left socket carries Ardo's ordinary eye — 相眼 **Sōgan**, a closed two-way circuit nobody in Konoha has seen before. Awake, critical, entirely herself. |
+| **Souji** | Genin. Failed his own bloodline's three-save test by three points and 不倒樹 **Futōju** took him. Hiruzen put him down personally with Enma. **根の記憶 Ne no Kioku is permanent** — one real piece of bloodline knowledge per session from here on. Awake two days and has not spoken to anyone. |
+
+**Standing GM rule:** *Mandatory Arc Beats* (Book IV §5, Part Eight) — 1–2 GM-initiated spotlight moments per PC per session, the GM's job to deliver rather than the player's to request.
+
+**Live threads:** Hiruzen now knows everything about all three and has said nothing · Danzō and Root have been circling Ardo for two sessions · Souji's silence · the Handler's interrogation and the Shepherd's judgment, both pending from Session Seven · and 荒神 **Aragami**, the thing being *grown* in Ardo out of natural energy and an unguarded seal, which is not a tailed beast and has nobody inside it to negotiate with.
+
+See `characters/ardo.md`, `characters/suzume.md`, and `characters/souji.md` for full mechanics, session logs, and open threads.
