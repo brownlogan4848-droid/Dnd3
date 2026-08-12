@@ -68,3 +68,21 @@ The campaign splits at Session Nine. Ardo's arc runs underground with the snakes
 
 <!-- Append each cut-away here: where they are, elapsed time, what happened,
      what Suzume picked up through Sōgan, and anything that changed. -->
+
+### Leg 2 — ARRIVAL, and the year that followed
+
+**Six months of walking.** Past the Land of Frost, off the end of Roku's map, navigating on Suzume's half of a paired eye. They arrived wrecked: gear repaired and re-repaired, Roku with a beard he didn't leave with, and **Souji still carrying two packs.**
+
+**The reunion, on a scree slope at the mouth of the cave.** Ardo came down the mountain at senjutsu speed, passed within a foot of all three of them, and slid to a stop behind them covered in turning white spirals with surf coming off him. Roku had a kunai up before he recognised him.
+
+Then Souji walked up the slope and **handed over the pack he'd carried for six months** — *"You left this. It's your stuff. I kept it."* — and hit him in the chest and didn't let go of his jacket.
+
+Suzume wouldn't look at him for ninety seconds, then took her hand off her eye and said: ***"You're not carrying it anymore."***
+
+Roku said *"you're taller,"* sat down on a rock, and put a hand over his eyes.
+
+**THEY DID NOT LEAVE.** Roku's call: Ryūchi Cave is off every map, on nobody's border, in a war with a decade left. The Sage allowed it in one sentence — *"They may stay. They are quiet."*
+
+**They stayed a year.** See each character sheet for what they built. **This log closes here** — the party is whole and Squad Two no longer exists as a separate unit.
+
+**Ages out: Ardo 10 · Souji 12 · Suzume 14.**

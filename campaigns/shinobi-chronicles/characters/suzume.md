@@ -2,8 +2,8 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Eight, closed · **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
-**Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Eight)*  
+**Current Session:** Sessions Nine–Ten · **RYŪCHI CAVE, a year of training complete.** Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Character:** **Suzume** · Chūnin · Level 5 · **Age 14** *(a year of training in Ryūchi Cave)* *(promoted end of Session Six, stats recalculated Session Eight)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
 **Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE.** Left socket now carries **Ardo's transplanted ordinary eye** — the exchange ran both ways. See Part Eight, Path ②, and 相眼 Sōgan in `characters/ardo.md`.
@@ -1341,6 +1341,55 @@ The owl looked at her before it finished arriving and offered a free sample of e
 **GM note:** this clause is a standing licence. Yoi is a legitimate delivery mechanism for information the party has not asked for and would rather not have — including about each other. Use her for Mandatory Arc Beats (Book IV §5, Part Eight) without needing a pretext. **She is not a mystery to be solved; she is a truth nobody requested.**
 
 > **A note the dice built without help:** *Suzume* means **sparrow.** She called an owl — the thing that hunts small birds in the dark, silently, by sound — and it came as an ally, and the first thing it did was tell her the truth about herself.
+
+---
+
+# THE YEAR IN RYŪCHI CAVE **[Sessions Nine–Ten. Twelve months of training.]**
+
+Roku's call: they don't walk back out. **Ryūchi Cave is off every map, on nobody's border, in a war with a decade left to run, hosted by something that eats nations for a hobby.** The Sage's ruling was one sentence — *"They may stay. They are quiet."*
+
+**Suzume is 14 at the end of it.**
+
+> She arrived off six months of walking across a continent receiving somebody else's life in fragments and being unable to do anything about any of it. **She trained that year like someone who has decided *never again*.**
+
+## 迎え火 MUKAEBI — BUILT **[nine months]**
+
+**Yoi did most of the teaching**, which surprised everyone and shouldn't have — the owls find what is hidden *by listening*, and Mukaebi is the technique of finding someone lost inside themselves.
+
+> **"You have been treating it as a rescue. It is not. It is a lamp. You do not go in and drag them out — you stand where you are and make yourself findable, and then you wait. **Waiting is the entire skill and you are terrible at it.**"**
+
+**What it does:** reaches a mind that cannot be reached — unconscious, comatose, dissociated, genjutsu-locked, or lost inside its own vow — and **lights her up inside it** so they can find their own way back.
+
+| | |
+|---|---|
+| **Cost** | Special. **Exhausts her more than anything else she does** |
+| **Hard limit** | **She is a light, not a hand.** She cannot force, drag, or compel. A hostile mind can refuse her |
+| **Origin** | She built it while dying, to leave herself a line back. The first person it ever saved was her |
+
+## Dōjutsu tree — two tiers unlocked
+
+**見立て MITATE — "The Assessment"** *(month three).* One minute of watching returns an opponent's proficiencies, rank band, nature, and **single greatest weakness**, plainly. Practised on Monuke, who finds it deeply rude and permits it.
+
+**癒し眼 IYASHIME — "The Healing Eye"** *(month seven)* — and with it, **actual medical ninjutsu.** Learned second-hand out of Ardo's 癒しの手 coil, with the archive arguing over her shoulder and one dead woman in particular correcting her hands.
+
+> *Nao, through Ardo, for the ninth time in one session: "**Tell her the thumb.** Why does she not listen about the thumb."*
+
+**By the end of the year Suzume is a functioning field medic.** Cell 409 has, for the first time in its existence, someone who can keep a person alive.
+
+## 相眼 Sōgan — the shared tree opens
+
+- **合わせ目 AWASEME** *(month five)* — first thing she and Ardo trained together. Attacking the same target in the same round, **both gain advantage.** Took three weeks and is, by unanimous agreement, the most disorienting thing either has ever done.
+- **遠見 TŌMI** *(month eleven)* — deliberate sight through each other at any range. **She initiates for free.** She has extensive notes; she has been doing an uncontrolled version for a year and would now like it to be a *tool.*
+
+## The conversation about his eye **[month six]**
+
+**Nobody told her. She worked it out** — Mitate, on her own best friend, because she was always going to eventually.
+
+*"Your eye is dying and mine isn't."* — *"...Yeah."* — *"And you were going to just not mention that."*
+
+**Four hours.** Nothing solved. The three roads out discussed aloud for the first time, **including the one nobody was ever going to say.** She said *"I'd give you the other one."* He said *"I know — that's exactly why I'm never asking."* Neither moved.
+
+**Unresolved, and now permanently in the open between them.**
 
 ---
 

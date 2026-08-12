@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, hospitalised, **and leaving the village with Cell 409 as 遊撃班 Yūgekihan.** Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
+**Current position:** Late Era A, ~Year −13. **龍地洞 RYŪCHI CAVE — a year of training, complete.** Age 12. Walked six months across a continent carrying Ardo's pack without being told to, then spent a year learning 息吹 Ibuki — the inversion of the thing that took him. Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -24,7 +24,7 @@
 | **Clan** | **Clanless on every document that exists — but no longer a secret from anyone who was standing in that ravine.** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. **Awakened live, Session Seven, mid-Kanketsu, witnessed by the entire squad.** The paperwork hasn't caught up yet. It's going to have to. See Part Ten — no longer GM-only, now player-facing history. |
 | **Village** | Konohagakure |
 | **Rank** | Chūnin (Level 5) *(promoted Session Eight — earned on record, recalculated with Ardo and Suzume)* |
-| **Age** | 10 |
+| **Age** | **12** *(a year of training in Ryūchi Cave)* |
 | **Body Origin** | **Body of Ashura** |
 | **Nature affinity** | **Earth (土 / Doton)** |
 | **Appearance** | Plain gear, no crest, a short blade worn low on the hip rather than across the back. Moves like someone who trains alone more often than not — economical, nothing wasted. |
@@ -266,6 +266,68 @@ Every summon is written down: what was asked, what it cost, what is owed. **Debt
 > **This is the point.** Souji's entire wound is *be relentlessly useful or be moved.* He has just signed a binding, four-hundred-year-old agreement with a species that considers itself **permanently in his debt** and intends to stay that way. The contract is the therapy.
 
 **Larger members exist**, older and considerably heavier. Each must be met and agreed with **individually.** Gensai will introduce them when he judges it warranted and did not say what warrants it.
+
+---
+---
+
+# THE YEAR IN RYŪCHI CAVE **[Sessions Nine–Ten. Souji is 12 at the end of it.]**
+
+**Gensai was waiting at the cave mouth. Nobody summoned him.**
+
+> *"You have walked a very long way carrying somebody else's belongings. **That is written down.** I have come to say so out loud, because my house does not let that kind of thing pass unremarked — and because I judged you would not tell anyone yourself."*
+
+## 息吹 IBUKI — "THE BREATH" **[GM — new. His controlled Senju vitality.]**
+
+**The thread everyone missed:** Souji called the surge **deliberately, twice**, during the Ardo spar — both successful — which flatly contradicted *"a one-time awakening that doesn't come back on command."* It was trainable and everyone was too busy nearly dying to notice.
+
+**Eight months, and it did not come out looking like Futōju at all.**
+
+He found it kneeling next to Suzume in month four after she overreached on Mukaebi — no idea what to do, wanting badly to help, with nothing to give but himself.
+
+**So he gave that.**
+
+| | |
+|---|---|
+| **What it does** | **Pours his own vitality into another person.** Senju life force out through the hands: closes wounds, holds off exhaustion, keeps upright somebody who has no upright left |
+| **Cost** | **His own Stamina and Health, directly, at a bad exchange rate.** There is no way to make it efficient because it is not supposed to be |
+| **Hard limit** | **Cannot be used on himself.** Not a restriction — a structural fact. The technique does not have that shape |
+
+> **This is the answer to the vow, and it is the whole point of the character.**
+>
+> **不倒樹 Futōju's logic was *I will never need anyone*** — bark inward, roots down, immovable, alone.
+> **息吹 Ibuki is its exact inversion.** A power that only exists when he needs somebody else to be alright.
+>
+> Someone offering him a place was never going to be enough; he had that already and still failed by three points. **The voice in his head has no counter for a boy whose strength is literally, mechanically, for other people.**
+
+Gensai, watching it work the first time: > *"Ah. **There it is.** The other column."*
+
+## 倒木 TŌBOKU — "THE FALLEN TREE" **[GM — new kenjutsu]**
+
+Kanketsu is *stop, watch, cut once.* **Tōboku is what he learned when once wasn't enough.**
+
+Trained with Gensai using the stillness drills the Ishinuma house has run for four centuries. **A single downward cut delivered from complete stillness**, with the whole body's weight and the ground's cooperation behind it. **Against a target that is rooted, restrained, off-balance, or has just committed**, it lands with the force of something considerably larger than a twelve-year-old.
+
+## 完結 Kanketsu — twice per encounter
+
+**Upgraded month nine.** He earned it by sitting perfectly still for a full round while Monuke destroyed the ground around him, and not moving.
+
+## 磐 IWA — the second member of the house **[month ten]**
+
+Four times Gensai's size, older, slower, **completely silent.** She never addressed Souji. She looked at him for a long time, then at the ledger entry Gensai held up, then **lay down across a crevasse so the squad could cross**, and stayed there two days until they were finished.
+
+> *"That is her agreeing. She will not say so. **She has never said so about anybody.**"*
+
+## 根の記憶 — and the stand of trees
+
+**One revelation per session, all year, in his own furious voice.** Most small. Three were not.
+
+**Month eleven: he finally told somebody about the trees** — the old growth, the quality of the light, the certainty he'd know it on sight — which he'd been carrying alone since before they left Konoha.
+
+Ardo's response was immediate: *"I've got four hundred generations of people who've seen everything. **Let me ask.**"*
+
+**The archive knows it.** They argued for six hours. **Nine separate people placed it in the same region.** None would say what is there. **Two of them went quiet in a way Nao refuses to explain.**
+
+> **It is a real place. It is on the way home. Nobody has told Souji what is in it.**
 
 ---
 ---
@@ -517,7 +579,7 @@ Futōju does not time out. It ends when **the anchor-root field is broken and he
 
 ```
 SOUJI · Chūnin · Konohagakure · Level 5
-Clanless on paper / awakened Senju in truth (Session Seven) · Body of Ashura · Earth 土 · age 10
+Clanless on paper / awakened Senju in truth · Body of Ashura · Earth 土 · age 12
 
 STR 16 (+3)   DEX 14 (+2)   CON 16 (+3)
 INT 10 (+0)   WIS 12 (+1)   CHA  9 (−1)      Prof +3
@@ -534,7 +596,12 @@ SKILLS  Kenjutsu +5 · Taijutsu +7 · Perception +4
 Baseline Swordwork    —    —      Action    +5 hit, 1d8+3
 Root Grip (Earth)     D    9/4    Action    DEX save or Speed 0
 Falling Leaf Cut      D    —/6    Action    +5 hit, 1d8+3, target Off-Balance
-完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+3, once/encounter
+完結 Kanketsu          —    —/8    Bonus→Reaction  adv. if opening exists, 2d8+3, TWICE/encounter
+倒木 Tōboku            —    —/10   Action    ← from full stillness; huge vs rooted/
+                                     restrained/off-balance/just-committed targets
+息吹 IBUKI  — pour his OWN vitality into someone else. Costs HIS
+   Stamina and Health at a bad rate. CANNOT be used on himself.
+   The inversion of Futōju, and the answer to the vow.
 石沼 Summoning·Gensai  C   20/10  Action    ← needs a full round of STILLNESS first
                                      460yr memory · defensive · won't chase
                                      LEDGER runs BOTH ways — he may call in what he's owed

@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). **龍地洞 RYŪCHI CAVE — alone, underground, on another landmass.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
+**Current position:** Late Era A, ~Year −13. **龍地洞 RYŪCHI CAVE — and the squad is with him.** Age 10. Six months alone, then a reunion on a scree slope, then a year of training. **The Sage's condition is met.** **He knows what he is now.** Session Nine ended with him emptying an Uzumaki archive of four hundred generations out of the seabed and into his own seal, learning his mother's name, and claiming his own out loud. Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
 
 **Sourcing convention for this file:**
 
@@ -30,7 +30,7 @@
 | **True clan** | **UZUMAKI — KNOWN TO HIM, Session Nine.** Confirmed by Monuke and then by four hundred generations of them in person. Still unknown to Konoha **[GM]** |
 | **Village** | Konohagakure |
 | **Rank** | Chūnin (Level 5) *(promoted end of Session Six, stats recalculated Session Eight)* |
-| **Age** | 8 |
+| **Age** | **10** *(six months in Ryūchi Cave alone, then a year training with the squad)* |
 | **Body Origin** | **Body of Indra** |
 | **Nature affinity** | **Wind (風 / Fūton)** |
 | **Appearance** | Dark red hair — not the blazing Whirlpool crimson, but it goes bright when wet or lit. **Wears Rai Inuzuka's forehead protector, as of Session Five** — his own went onto Rai's pyre in the exchange. |
@@ -534,6 +534,8 @@ Performed on the underground sea in Ryūchi Cave's Deep Gallery. **It left a cra
 | **渦潮 Uzushio** | The endpoint |
 | **What Is Sealed** | Running list of confirmed facts |
 
+**THE SAGE'S CONDITION IS MET.** Full stack — 潮風 Shiokaze + 潮合 Shioai + 手綱 Tazuna — **held indefinitely, in combat, against Roku and Monuke simultaneously** (month eleven of the training year). Fūinjutsu: a competent working sealer, roughly two percent of what his head holds.
+
 **Quick status:** **渦の書庫 the Whirlpool Archive is in him** — thousands of preserved Uzumaki, knowledge not power · **the trustee is AWAKE** and will not take the wheel again · the trustee's original work is **finished** · the estate is **signed for in full, four coils** · 荒神 Aragami **CLOSED** · 潮風 Shiokaze **owned, not yet entered** · 潮合 Shioai **achieved** · Arakawa **manageable in rhythm, live out of it** · Vision **87/100**.
 
 
@@ -904,7 +906,7 @@ He apologised — not for the night, for the eight years before it. He signed Ar
 
 ```
 ARDO · Chūnin · Konohagakure · Level 5
-ARDO UZUMAKI of Uzushiogakure — HE KNOWS NOW · Body of Indra · Wind 風 · age 8
+ARDO UZUMAKI of Uzushiogakure — HE KNOWS NOW · Body of Indra · Wind 風 · age 10
 Mother: HIKARI · Sage (no contract) · carries the Uzumaki archive
 
 STR 13 (+1)   DEX 14 (+2)   CON 16 (+3)
