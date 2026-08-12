@@ -23,7 +23,7 @@
 | **Registered surname** | **Terada.** Civilian family — fostered, not blood. Nobody in the Terada household ever had chakra worth training, which is exactly why nobody, including Souji, has ever thought to look past them. |
 | **Clan** | **Clanless on every document that exists — but no longer a secret from anyone who was standing in that ravine.** True lineage: an unregistered **Senju** branch line, generations removed from the main house, lost track of the way most of the clan was after the founding era thinned it out. Not literal, not close kin to Tsunade — just blood old enough and diluted enough that nobody ever flagged it. **Awakened live, Session Seven, mid-Kanketsu, witnessed by the entire squad.** The paperwork hasn't caught up yet. It's going to have to. See Part Ten — no longer GM-only, now player-facing history. |
 | **Village** | Konohagakure |
-| **Rank** | Genin (Level 1) |
+| **Rank** | Chūnin (Level 5) *(promoted Session Eight — earned on record, recalculated with Ardo and Suzume)* |
 | **Age** | 10 |
 | **Body Origin** | **Body of Ashura** |
 | **Nature affinity** | **Earth (土 / Doton)** |
@@ -65,14 +65,16 @@
 
 | Resource | Value (Max) | Working |
 |---|---|---|
-| **Chakra** | **115 / 115** | 100 + 30 (CON +3) = 130 · **−15** Ashura = **115** |
-| **Stamina** | **160 / 160** | 130 · **+30** Ashura = **160** |
+| **Chakra** | **195 / 195** | 100 + 20×4 + 30 (CON +3) = 210 · **−15** Ashura = **195** |
+| **Stamina** | **240 / 240** | 210 · **+30** Ashura = **240** |
 | **Special** | **0 / 100** | Starts empty, same as everyone |
-| **Health** | **36 / 36** | 30 + (2 × CON mod × Level) = 30 + 6 |
+| **Health** | **100 / 100** | 30 + 10×4 + (2 × 3 × 5) |
 | **Defense** | **12** | 10 + DEX |
 | **Initiative** | **+2** | DEX |
 | **Movement** | **30 ft** | Standard |
-| **Proficiency** | **+2** | Level 1 |
+| **Proficiency** | **+3** | Level 5 *([INF] — same progression assumption used for Ardo and Suzume)* |
+
+*(Genin/Level 1 baseline was 115 / 160 / 36 / prof +2.)*
 
 **One hundred sixty Stamina at Genin, now with a Senju bump on top of Ashura's own.** He can out-last most people his rank in a straight physical fight before he ever needs to spend a Chakra point — which is exactly the profile of someone who's had to be self-sufficient in a fight more than once already, and it turns out some of that was never just discipline.
 
@@ -82,10 +84,10 @@
 
 | Discipline | Governing | DC |
 |---|---|---|
-| **Ninjutsu** | INT | **10** |
-| **Taijutsu** | STR or DEX — locked to STR at this build | **13** |
-| **Genjutsu** | CHA | **9** |
-| **Medical** | WIS | **11** |
+| **Ninjutsu** | INT | **11** |
+| **Taijutsu** | STR or DEX — locked to STR at this build | **14** |
+| **Genjutsu** | CHA | **10** |
+| **Medical** | WIS | **12** |
 
 ---
 ---
@@ -96,9 +98,9 @@
 
 | Skill | Bonus | Source |
 |---|---|---|
-| **Kenjutsu** | **+4** | DEX +2, prof +2 — his actual specialty |
-| **Taijutsu** | **+6** | STR +3, prof +2, **Ashura +1** *(updated Session Seven — STR rose with the Senju bonus)* |
-| **Perception** | **+3** | WIS +1, prof +2 |
+| **Kenjutsu** | **+5** | DEX +2, prof +3 — his actual specialty |
+| **Taijutsu** | **+7** | STR +3, prof +3, **Ashura +1** |
+| **Perception** | **+4** | WIS +1, prof +3 |
 | **Stealth** | +2 | DEX, not proficient |
 | **Strategy** | +0 | INT, not proficient |
 | **Ninjutsu** | +0 | INT, not proficient — Earth affinity confirmed, but ninjutsu isn't where his hours go |
@@ -121,7 +123,7 @@ When Souji has a moment to actually watch someone before engaging with them — 
 
 *Identical structure to Ardo and Suzume — same rank table, same Five Combo Rules, same Reaction/Counter Window/Clash system, same house rule on Displace (Book IV §2 — a lost-reach Substitution now grants the attacker a reroll instead of auto-ending the combo).*
 
-**Souji's combo limit: 3 actions (Genin). Max jutsu rank: D.**
+**Souji's combo limit: 4 actions (Chūnin). Max jutsu rank: C.**
 
 | Basic / E / D | C / B | A | S |
 |---|---|---|---|
@@ -139,7 +141,7 @@ When Souji has a moment to actually watch someone before engaging with them — 
 **Status:** Learned
 **Cost:** None
 **Action:** 1 Action
-**Attack:** Kenjutsu +4 vs. Defense
+**Attack:** Kenjutsu +5 vs. Defense
 **Damage:** 1d8 + 3 (STR)
 
 ### Combat Identity
@@ -177,7 +179,7 @@ Not a damage technique. It's the reason a taijutsu specialist without ninjutsu d
 **Status:** Learned
 **Cost:** 6 Stamina (no Chakra)
 **Action:** 1 Action · 1 slot
-**Attack:** Kenjutsu +4 vs. Defense
+**Attack:** Kenjutsu +5 vs. Defense
 **Damage:** 1d8 + 3 (STR), and on a hit the target is **Off-Balance** — the next attack against them this combo (from anyone) has advantage.
 
 ### Effect
@@ -194,7 +196,7 @@ A deliberately unbalancing cut, angled to disrupt footing rather than just wound
 **Status:** Learned
 **Cost:** 8 Stamina (no Chakra)
 **Action:** 1 Action · 1 slot
-**Attack:** Kenjutsu +4 vs. Defense
+**Attack:** Kenjutsu +5 vs. Defense
 **Requirement:** Target must already be **Off-Balance** (from Falling Leaf Cut or an equivalent effect)
 
 ### Effect
@@ -214,7 +216,7 @@ Two rounds of drilling with Ardo and Suzume both landing setup hits on him made 
 **Status:** Learned
 **Cost:** No Chakra. **8 Stamina**, paid on the setup, not the strike.
 **Action:** Setup costs a **Bonus Action** (Souji goes still, sword sheathed, reading the fight rather than acting in it). The **strike itself is a Reaction** — usable once the setup is active, against the first opening it's offered.
-**Attack:** Kenjutsu +4 vs. Defense, but **the roll is made with advantage** if the target is Open, Off-Balance, or otherwise compromised when the strike triggers.
+**Attack:** Kenjutsu +5 vs. Defense, but **the roll is made with advantage** if the target is Open, Off-Balance, or otherwise compromised when the strike triggers.
 **Damage:** 2d8 + 3 (STR), and **this damage cannot be reduced by armor or resistance that isn't specifically chakra-based** — it's a pure, precisely placed physical cut, not a technique with an element to resist.
 
 ### What Genzo Actually Taught Him
@@ -452,26 +454,26 @@ Futōju does not time out. It ends when **the anchor-root field is broken and he
 # APPENDIX — FAST REFERENCE
 
 ```
-SOUJI · Genin · Konohagakure · Level 1
+SOUJI · Chūnin · Konohagakure · Level 5
 Clanless on paper / awakened Senju in truth (Session Seven) · Body of Ashura · Earth 土 · age 10
 
 STR 16 (+3)   DEX 14 (+2)   CON 16 (+3)
-INT 10 (+0)   WIS 12 (+1)   CHA  9 (−1)      Prof +2
+INT 10 (+0)   WIS 12 (+1)   CHA  9 (−1)      Prof +3
 
-CHAKRA   115      STAMINA  160      SPECIAL  0/100
-HEALTH    36      DEFENSE   12      INIT  +2   MOVE 30 ft
+CHAKRA   195      STAMINA  240      SPECIAL  0/100
+HEALTH   100      DEFENSE   12      INIT  +2   MOVE 30 ft
 
-DC — Ninjutsu 10 · Taijutsu 13 · Genjutsu 9 · Medical 11
-COMBO LIMIT 3 · MAX RANK D · all techniques 1 slot
+DC — Ninjutsu 11 · Taijutsu 14 · Genjutsu 10 · Medical 12
+COMBO LIMIT 4 · MAX RANK C · Basic/E/D = 1 slot, C/B = 2
 
-SKILLS  Kenjutsu +4 · Taijutsu +6 · Perception +3
+SKILLS  Kenjutsu +5 · Taijutsu +7 · Perception +4
 
 ── COMBAT KIT ──────────────────────────────────
-Baseline Swordwork    —    —      Action    +4 hit, 1d8+3
+Baseline Swordwork    —    —      Action    +5 hit, 1d8+3
 Root Grip (Earth)     D    9/4    Action    DEX save or Speed 0
-Falling Leaf Cut      D    —/6    Action    +4 hit, 1d8+3, target Off-Balance
+Falling Leaf Cut      D    —/6    Action    +5 hit, 1d8+3, target Off-Balance
 完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+3, once/encounter
-Two-Stage Falling Leaf D    —/8    Action    +4 hit, 2d8+3, needs Off-Balance target first
+Two-Stage Falling Leaf D    —/8    Action    +5 hit, 2d8+3, needs Off-Balance target first
 
 PASSIVES
 Powerful Life Force — +5 Stamina/round in combat
