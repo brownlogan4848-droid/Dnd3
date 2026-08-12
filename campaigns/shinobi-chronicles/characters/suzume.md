@@ -52,6 +52,7 @@ This sheet follows the same structure and rules language as Ardo's completed PC 
 | **D-DOU-01** | **Mangekyō Sharingan** *(right eye)* | — | Dōjutsu / Kekkei Genkai | **AWAKENED, Session Eight** | 3 Ch/round base | Passive + Reaction |
 | **MG-01** | 迎え火 Mukaebi | — | Mangekyō technique | **Named, unbuilt** | Special | See Part Eight |
 | **PT-TAI-01** | Mirrored Opening | — | Taijutsu, Sharingan-assisted | **Learned** | — | Action |
+| **C-SUM-01** | 灯無 Summoning — 宵 Yoi | C | Ninjutsu / Summoning | **CONTRACT SIGNED, Session Nine** | 20 Ch / 10 St · 2 slots | Action |
 | **D-LIGHT-01** | Lightning Release: Pulse Thread | D | Ninjutsu / Lightning | **Practiced** | 8 Ch / 5 St | Action |
 
 ### Currently Usable
@@ -1297,6 +1298,49 @@ Ardo came in through her window at full dark, put the Hokage's signed classifica
 3. **The three of them are not doing this in separate rooms.** She demanded Souji be brought to her immediately, middle of the night, medical objections irrelevant.
 
 **Status:** going, by choice, on the record. Still critical, still can't sit up unassisted, still cannot be left behind — 相眼 Sōgan Tier I is involuntary and works at any range, so there was never a version of this where Ardo left without her.
+
+---
+
+# 灯無契約 — THE TOMOSHIBINASHI CONTRACT **[GM — Session Nine, signed]**
+
+**Suzume's first uncontracted summoning attempt, one day south-east of Konoha. Rolled 15 +2 = 17.**
+
+Her invocation: ***"For too long I have been in the shadows — the shadow of my clan, the shadow of my teammates' strengths, and a shadow to my true self. I ask for someone who understands this and can see through the shadows of the world like I can."***
+
+**What arrived made no sound at all.** No impact, no displaced air — the smoke simply had something in it, and then it didn't have smoke around it.
+
+### The audit
+
+The owl looked at her before it finished arriving and offered a free sample of exactly what it was selling, unprompted:
+
+> *"You are twelve. You have been hurt in a way that has not finished happening. You are carrying a technique you built while dying and do not understand, and you have not told anyone that it frightens you."*
+>
+> *"Your left eye is not yours. Your right eye is not entirely yours anymore either — and neither of you has said the obvious thing about what that will cost him."*
+>
+> *"You called yourself a shadow three times in one sentence. That was accurate about the first two and **a lie about the third**, and I want you to know that I noticed. **You are not in your own shadow, child. You are in your own way.** They are different problems and only one of them can be solved by walking out of a village."*
+
+| | |
+|---|---|
+| **Species** | **The owls of 灯無 Tomoshibinashi — "Without a Lamp."** *"A joke that was funny four hundred years ago"* |
+| **Contact** | **宵 YOI** — three feet standing, mottled to nothing when still, a pale flat facial disc and eyes that do not blink |
+| **Cost** | **C-rank · 2 slots · 20 Chakra / 10 Stamina** |
+| **Scroll** | Four names. Nothing added in a very long time. **Suzume signed** |
+
+**Their method is not sight.** *"We find what is hidden — not by looking, which is what everyone assumes. **By listening.** A mouse under a foot of snow makes a sound. A lie makes a sound. **A wound that a body is hiding from its own owner makes a sound**, and I understand you intend to be a physician, so I imagine that one interests you."*
+
+**What Yoi brings:** silent aerial reconnaissance, night operation, locating the concealed and the buried, and — the piece that matters most for Suzume's build — **diagnostic listening.** An injury, illness, poison, or condition a patient is concealing, unaware of, or unable to describe.
+
+### THE PRICE — one line, non-negotiable
+
+> *"**We will tell you what we find.** All of it. Every time. Whether it is convenient, whether it is kind, whether you asked for that particular piece, and whether or not you are ready to hear it."*
+>
+> *"We do not soften. We do not withhold. We have watched people be destroyed by things we told them and we told them anyway, because a house that decides what you can handle is not a house that sees for you — it is a house that **manages** you, and we would rather be hated."*
+>
+> *"You will learn things about your friends that they did not choose to tell you. You will learn things about yourself that you have arranged your entire life not to look at."*
+
+**GM note:** this clause is a standing licence. Yoi is a legitimate delivery mechanism for information the party has not asked for and would rather not have — including about each other. Use her for Mandatory Arc Beats (Book IV §5, Part Eight) without needing a pretext. **She is not a mystery to be solved; she is a truth nobody requested.**
+
+> **A note the dice built without help:** *Suzume* means **sparrow.** She called an owl — the thing that hunts small birds in the dark, silently, by sound — and it came as an ally, and the first thing it did was tell her the truth about herself.
 
 ---
 

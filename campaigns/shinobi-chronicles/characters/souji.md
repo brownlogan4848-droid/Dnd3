@@ -234,6 +234,42 @@ This is the extra jutsu the Clanless bonus grants, and it's not replaceable, tra
 ---
 ---
 
+## 石沼契約 — THE ISHINUMA CONTRACT **[GM — Session Nine, signed]**
+
+**Souji's first uncontracted summoning attempt, one day south-east of Konoha. Rolled 17.**
+
+He bled into the earth and said, quietly, to nobody: ***"I give my all for you. If you'd do the same for me."*** What came out of the smoke did not treat that as a summoning — it treated it as **an offer of terms**, and refused to proceed until he explained himself.
+
+Gensai's question: ***"Why did you say it?"***
+Souji's answer: ***"Because no one's ever offered it to me until I met my friends. And now I want to share that with the world."***
+
+> *"That is a **true** answer... You did not say *I want it.* You said *I got it and now I want to hand it out.* Boy, that is the only sentence in the world my house has ever cared about."*
+
+| | |
+|---|---|
+| **Species** | **The tortoises of 石沼 Ishinuma — the Stone Marsh.** Old, exact, few. **Not a combat house** and they say so first |
+| **Contact** | **玄斎 GENSAI** — 460 years old, moss on his rear plates, a brass tradesman's weight on a braided cord. Speaks for the house |
+| **Cost** | **C-rank · 2 slots · 20 Chakra / 10 Stamina** |
+| **Requirement** | **Stillness.** A full round of no other action to call one — *"we do not partner with people who move first."* **Direct synergy with 完結 Kanketsu's setup, and Gensai identified Souji as a stillness fighter on sight** |
+| **Scroll** | Twelve names, oldest faded to nothing. **Two blank spaces remained. Souji took one** |
+
+**What Gensai brings:** four and a half centuries of memory predating every registry, treaty, and border on the current map — **an unlisted, non-human intelligence source**, exactly what Suzume argued the squad would need. Also a genuinely tough defensive body who will shell-brace over a downed ally. **He will not chase anything** and will tell you so.
+
+### THE LEDGER — and why both columns matter
+
+Every summon is written down: what was asked, what it cost, what is owed. **Debts to the house are paid in service**, named plainly rather than allowed to accumulate silently.
+
+**And the ledger runs both directions.** Gensai saw Souji's face change at the word *debt* and stopped mid-sentence to address it:
+
+> *"Whatever you just did with your face — stop that. You heard *debt* and you went somewhere unpleasant. Listen to the other half. **When you spend yourself for us, that is written in the same book with the same ink, and you may call it in.** Not by asking nicely. Not by earning it twice. **It is owed to you, and you will never once have to be useful enough to deserve it.**"*
+
+> **This is the point.** Souji's entire wound is *be relentlessly useful or be moved.* He has just signed a binding, four-hundred-year-old agreement with a species that considers itself **permanently in his debt** and intends to stay that way. The contract is the therapy.
+
+**Larger members exist**, older and considerably heavier. Each must be met and agreed with **individually.** Gensai will introduce them when he judges it warranted and did not say what warrants it.
+
+---
+---
+
 # PART SIX — PROGRESSION
 
 ## Where This Goes **[GM — seeded, not written yet]**
@@ -499,6 +535,9 @@ Baseline Swordwork    —    —      Action    +5 hit, 1d8+3
 Root Grip (Earth)     D    9/4    Action    DEX save or Speed 0
 Falling Leaf Cut      D    —/6    Action    +5 hit, 1d8+3, target Off-Balance
 完結 Kanketsu          —    —/8    Bonus→Reaction  advantage if opening exists, 2d8+3, once/encounter
+石沼 Summoning·Gensai  C   20/10  Action    ← needs a full round of STILLNESS first
+                                     460yr memory · defensive · won't chase
+                                     LEDGER runs BOTH ways — he may call in what he's owed
 Two-Stage Falling Leaf D    —/8    Action    +5 hit, 2d8+3, needs Off-Balance target first
 
 PASSIVES
