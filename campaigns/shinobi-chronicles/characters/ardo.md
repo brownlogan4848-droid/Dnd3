@@ -649,6 +649,51 @@ Its last words before going quiet:
 - Whether it recovers, how fast, and whether it *can*, is unresolved and should stay that way.
 - The aperture Ardo turned open is still open. Neither side closed it.
 
+## 荒れ川 ARAKAWA — "THE RAGING RIVER" **[GM — Session Seven aftermath, permanent until treated]**
+
+**The entity behind the seal is dormant.** Not gone — *unresponsive.* The mindscape is intact, the water is there, the gate is there, the aperture Ardo turned open is still open. Nothing is standing at it. He has called and gotten no answer.
+
+### The retroactive reveal
+
+**It was never Ardo's chakra control.** Everything unexplainable about him was the entity quietly doing the work:
+
+- 200 Chakra at Genin that no document in Konoha could account for.
+- The Wind/Lightning fusion forced open four ranks early, twice, by an untrained eight-year-old.
+- **"Correction" — Gale Fist's recoil not firing whenever the Seam was open.** Logged in The Tells table since Session One as a curiosity. It was the tell.
+
+It spent itself down to nothing holding Suzume together for four minutes. The regulation went with it.
+
+### Baseline condition
+
+An enormous, unattended volume of chakra churning constantly with nothing steering it. **E and D-rank techniques are fine** — his own honest training covers them. **Every C-rank and above requires a control check before resolving**; his whole fusion kit (Storming Thunder God, Thunder Gods Gale, Compression Sphere, Barometric Tsunami) was built on borrowed regulation. Failure = Overflow, below.
+
+### Transformation — roll d20 every attempt
+
+Applies to **Kōfū, Uzufū, and Borrowed Gale alike.** Nothing moderates the mix anymore.
+
+| d20 | Result |
+|---|---|
+| **1–4** | **BLOWOUT.** Fires at **S-rank output or beyond** — and the channeling limb is destroyed. Shattered, cooked, or gone. GM's call on recoverability; sometimes the answer is no. |
+| **5–9** | **TEARING.** Severe internal damage, chakra pathways scorched, lasting injury. Technique lands at wild unpredictable power. |
+| **10–14** | **EMERGENT.** An unchosen transformation variant takes shape — see below. |
+| **15–18** | **RIDE IT.** Works, and works too well. Every technique this round jumps a rank band; real damage taken for each. |
+| **19–20** | **CLEAN.** His own control suffices. Do not count on this. |
+
+### EMERGENT variants **[deliberately undefined — discovered in play]**
+
+Raw output has to become *something* and nobody is choosing what. Two directions, neither predetermined, both unique to Ardo:
+
+- **Outward** — the river takes a shape of its own. **Not a tailed beast; there is no beast in him.** But an enormous volume of unowned chakra given form with no pilot is the same problem for bystanders either way. Sakauzu is the proof of concept.
+- **Inward** — **the aperture is still open and unguarded.** Natural energy is entering through a door Ardo propped open and cannot close. Senjutsu arriving unbidden and untrained, with the Bloodline Path's own consequence live and ambient: **too much and he turns to stone, permanently.**
+
+### The treatment, and the trap
+
+**Senjutsu is not an upgrade for Ardo anymore. It is treatment.** It is the only discipline in the setting that teaches a body to accept unmanageable external energy and balance it without dying — precisely his condition. *"Foundation for eventual senjutsu"* has been on this sheet since it was written. Nobody knew it was a prescription.
+
+**The three gates are unchanged, and the first one just opened:** the Contract requires C-rank Summoning at **Chūnin minimum**, and he made Chūnin this session.
+
+**The trap:** the fastest route to senjutsu in his kit is **開門 Kaimon** — Uzufū's passive, advantage on senjutsu practice, **triple progress.** Which requires entering Uzufū. Which is now a d20 where 1–4 costs him a limb. **The cure sits behind the thing that is killing him.**
+
 ## What Is Sealed **[GM — held, deliberately not written here]**
 
 Fixed and decided. Not recorded, because this file is player-facing.
@@ -929,8 +974,22 @@ Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B >
 LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
   DOES NOT TURN OFF · constant Chakra drain · Vision track applies
   Her technique is unshaped — access unresolved
-THE SEAM: DIMINISHED. Spent most of itself saving Suzume.
-  Uzufū/Sakauzu reserves now an open question. Stage 3 further away.
+THE SEAM: DORMANT / UNRESPONSIVE. Spent itself saving Suzume.
+  It was doing Ardo's chakra control the whole time. It isn't now.
+
+荒れ川 ARAKAWA — THE RAGING RIVER (permanent until treated)
+  E/D-rank         fine, his own training covers it
+  C-rank and up    CONTROL CHECK or Overflow
+  ANY TRANSFORM    roll d20 EVERY time:
+     1-4   BLOWOUT — S-rank output, limb destroyed
+     5-9   TEARING — severe internal damage, wild power
+    10-14  EMERGENT — unchosen variant takes shape
+    15-18  RIDE IT — works too well, everything +1 rank, real damage
+    19-20  CLEAN
+  Aperture still open + unguarded = natural energy coming IN
+  Untrained senjutsu clause is LIVE: too much = STONE, permanent
+  TREATMENT = senjutsu. Contract gate open now (Chūnin).
+  TRAP: fastest route is Kaimon, which needs Uzufū, which is the d20.
 
 ── OTHER POWER SYSTEMS (not jutsu) ──────────────
 Borrowed Gale    entity-granted only, Health-cost 3/5/8 per rd
