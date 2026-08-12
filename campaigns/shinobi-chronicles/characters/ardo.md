@@ -685,14 +685,20 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 >
 > **Ardo pays. Only Ardo.** He is carrying a dōjutsu his body was never built to host, and the degradation is not a rule about Mangekyō — it is a rule about **a non-Uchiha wearing one.**
 
+**Vision is a decades-long clock, not a countdown.** Kakashi Hatake fights with a transplanted Sharingan for **twenty years** — constantly, in wars, at the front — and does not go blind, because ordinary Sharingan work is not what blinds people. **Mangekyō techniques are.** Ardo's burns faster than Kakashi's because he's pushing a *Mangekyō*, not a three-tomoe, and because he is eight years old and reckless. It still has to survive the campaign and the timeskip.
+
 | Rule | Detail |
 |---|---|
-| **Starting Max Vision** | **10** |
-| **Current Max** | **9** — Mukaebi's first use, waking Suzume, paid into the track |
-| **Recovery** | Vision returns to Max on a long rest |
-| **Unlocking a tier** | **Permanently −1 Max Vision.** The ability lives in the eye and the eye pays rent |
-| **Hitting 0 in a day** | Blind in that eye until the next long rest, **and −1 Max on top, permanently** |
-| **Max Vision 0** | **Permanently blind in that eye.** There is no version where it isn't |
+| **Starting Max Vision** | **100** |
+| **Current Max** | **97** — Mukaebi's first use, waking Suzume, cost 3 |
+| **Unlocking a tier** | **Permanently −5 Max Vision.** Twelve tiers exist across all three trees; taking every one costs 60 |
+| **Uncovered, ordinary life** | **−1 per month.** This is the Kakashi rate |
+| **Uncovered, per combat** | **−1 per fight**, however long it runs |
+| **Ardo's own tree (I–IV)** | **No Vision cost. Chakra only.** These are Sharingan-grade — the things Kakashi did daily for two decades |
+| **Mangekyō-grade use** *(Sōgan III & IV, anything routed through Mukaebi)* | **2–5 Vision per use.** This is the real meter, and it is the only thing that will actually blind him |
+| **Max Vision 0** | **Permanently blind in that eye.** No version where it isn't |
+
+> **Why it lasts at all:** his reserves are impossible and nobody in Konoha can explain them. **The same thing keeping that eye alive is the thing on his medical file that Root flagged and a foreign sealmaster walked away from.** He's Uzumaki and doesn't know it, and his own blood is quietly subsidising a dōjutsu his body should be rejecting far faster than it is. *This is a tell, not a perk.*
 
 ## ARDO'S CURSE — the eye never deactivates **[absolute]**
 
@@ -706,25 +712,31 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 
 | Eye covered | Eye uncovered |
 |---|---|
-| **No Vision loss. None. Indefinitely.** | **−1 Vision per day**, fighting or sleeping |
+| **No Vision loss. None. Indefinitely.** | −1/month living, −1/combat, plus Mangekyō-grade costs |
 | **Passive tiers do not function** — no Mikiri, no Inyomi, no Hanshun, no Utsushi | All passive tiers live |
-| Active abilities unavailable | Active abilities available at listed Vision cost |
-| **相眼 Sōgan Tier I still works** — the involuntary bleed isn't visual and can't be blocked by cloth | Full Sōgan access |
+| Active abilities unavailable | Active abilities available |
+| **相眼 Sōgan Tier I still works** — the involuntary bleed isn't visual and cloth doesn't stop it | Full Sōgan access |
 | Chakra drain continues | Chakra drain continues |
 
-> **This is the real decision, every single day, for the rest of his life:** walk around half-blind and keep his sight, or uncover it and spend the meter. Kakashi Hatake will make the same trade for twenty years and everyone will think it's an affectation.
+> **This is the discipline, and it's a daily one:** covered by default, uncovered when it matters. Kakashi will make exactly this trade for twenty years and everyone will assume it's an affectation. **The difference between a disciplined Ardo and a reckless one is roughly the difference between arriving in Era C with an eye and arriving without one.**
 
 ### Burning Clarity — the temptation gets worse as it gets worse
 
-**As the eye dies, it sees more.** It is spending itself to give him what he asks for.
+**As the eye dies, it sees more.** It is spending itself to give him what he asks for, and that gets harder to refuse the further along he is.
 
 | Max Vision | Effect |
 |---|---|
-| **10–8** | Baseline. |
-| **7–5** | **+1 to all Perception and Reaction timing.** Colours start going wrong in that eye — everything slightly too saturated. |
-| **4–2** | **Advantage on everything the eye does.** Active Vision costs are **halved, rounded down.** Constant low-grade headache; the eye aches in cold. |
-| **1** | **All tier effects double.** He can see the movement of air. He is one bad day from permanent. |
-| **0 Max** | **Blind. Permanently. Sōgan runs one direction only from that moment** — Suzume can still reach him; he can never see through her again. |
+| **100–70** | Baseline. |
+| **69–40** | **+1 to all Perception and Reaction timing.** Colour starts going wrong on that side — everything slightly oversaturated. |
+| **39–15** | **Advantage on everything the eye does.** Mangekyō-grade Vision costs **halved, rounded down.** Constant low-grade headache; the socket aches in cold. |
+| **14–1** | **All tier effects double.** He can see the movement of air itself. Every fight is a coin-flip on permanence. |
+| **0** | **Blind. Permanently. Sōgan runs one direction only from that moment** — Suzume can still reach him; he can never see through her again. |
+
+### The Timeskip **[Era A → Era C]**
+
+The campaign runs to a timeskip and resumes in Era C. **What the eye costs across those years is determined by the habits Ardo builds now, not rolled later.** A disciplined decade — covered by default, uncovered for what matters — is survivable and lands him in Era C with real degradation and real sight. A reckless one does not, and he will have had a long time to see it coming.
+
+**If any of the Three Roads is walked before the skip, the timeskip cost is halved or waived entirely.** That's the actual reward for solving it: not power, just *keeping his eye.*
 
 ## THE THREE ROADS OUT **[the campaign arc — all genuinely open]**
 
@@ -742,10 +754,10 @@ Neither of them can unlock these alone — they have to train it together. **Eac
 
 | Tier | Name | Effect | Ardo's Vision/use |
 |---|---|---|---|
-| **I** | **血染み CHIJIMI · "The Bleed"** | **ALREADY ACTIVE, involuntary.** Uncontrolled flashes of the other's POV, at any range, working even while one is unconscious. Cannot be switched off, cannot be aimed, **and cannot be blocked by covering the eye.** | Free |
-| **II** | **合わせ目 AWASEME · "The Seam-Line"** | **When both attack the same target in the same round, each sees through the other's eyes mid-strike — both attacks gain advantage.** No declaration needed; it simply happens. | **1** |
-| **III** | **遠見 TŌMI · "Far-Sight"** | Either may deliberately perceive **through the other's eyes at any distance**, up to 1 minute. One scouts while the other fights. The other feels it and may refuse. **Suzume can use this while Ardo's eye is covered** — she's looking out through her own tissue. | **1** (only if Ardo initiates) |
-| **IV** | **一心 ISSHIN · "One Mind"** | Full combat synchronisation, **3 rounds.** Both act on the same initiative, draw Reactions from a shared pool of 3, and every Team Combo (Book IV §2 Part Eight) resolves as if one tier higher. | **3** |
+| **I** | **血染み CHIJIMI · "The Bleed"** | **ALREADY ACTIVE, involuntary.** Uncontrolled flashes of the other's POV, at any range, working even while one is unconscious. Cannot be switched off, cannot be aimed, **and cloth doesn't stop it.** | Free |
+| **II** | **合わせ目 AWASEME · "The Seam-Line"** | **When both attack the same target in the same round, each sees through the other's eyes mid-strike — both attacks gain advantage.** No declaration needed; it simply happens. | Free — Sharingan-grade |
+| **III** | **遠見 TŌMI · "Far-Sight"** | Either may deliberately perceive **through the other's eyes at any distance**, up to 1 minute. One scouts while the other fights. The other feels it and may refuse. **Suzume can use this while Ardo's eye is covered** — she's looking out through her own tissue, and it costs him nothing when she's the one initiating. | **2** (only when Ardo initiates) |
+| **IV** | **一心 ISSHIN · "One Mind"** | Full combat synchronisation, **3 rounds.** Both act on the same initiative, draw Reactions from a shared pool of 3, and every Team Combo (Book IV §2 Part Eight) resolves as if one tier higher. | **5** |
 
 ---
 
@@ -753,12 +765,14 @@ Neither of them can unlock these alone — they have to train it together. **Eac
 
 His eye reads **speed.** Fitting for someone whose whole style is arrival rather than travel. **Every tier here is passive and always-on**, per his curse.
 
-| Tier | Name | Effect | Vision/use |
+**Every tier here is Sharingan-grade — Chakra only, no Vision cost.** These are the things Kakashi did every day for twenty years without going blind. The only Vision this tree ever costs is the −5 Max to unlock each tier.
+
+| Tier | Name | Effect | Cost |
 |---|---|---|---|
-| **I** | **見切り MIKIRI · "Seeing Through"** | He sees the strike land before it lands. **Once per combat, instantly dodge one incoming attack outright — no Reaction, no Bonus Action, no roll, no cost in the action economy.** It simply does not hit him. | **1** |
-| **II** | **印読み INYOMI · "Seal-Reading"** | Reads hand seals as they are formed. Knows what is being cast before it finishes, including rank and nature. Advantage on all Clash rolls against a technique he watched assembled. | **1** |
-| **III** | **半瞬 HANSHUN · "The Half-Second"** | Mikiri upgrades: instead of only dodging, he may **counterattack immediately** with a single basic attack or D-rank technique at no slot cost. Twice per combat. | **2** |
-| **IV** | **写し UTSUSHI · "The Copy"** | The full Sharingan gift — **copy a witnessed technique** (Ninjutsu check, DC 10 + 2 per rank step). Kekkei genkai and hiden remain uncopyable. | **3** |
+| **I** | **見切り MIKIRI · "Seeing Through"** | He sees the strike land before it lands. **Once per combat, instantly dodge one incoming attack outright — no Reaction, no Bonus Action, no roll, no cost in the action economy.** It simply does not hit him. | 6 Ch |
+| **II** | **印読み INYOMI · "Seal-Reading"** | Reads hand seals as they are formed. Knows what is being cast before it finishes, including rank and nature. Advantage on all Clash rolls against a technique he watched assembled. | 5 Ch |
+| **III** | **半瞬 HANSHUN · "The Half-Second"** | Mikiri upgrades: instead of only dodging, he may **counterattack immediately** with a basic attack or D-rank technique at no slot cost. Twice per combat. | 10 Ch |
+| **IV** | **写し UTSUSHI · "The Copy"** | The full Sharingan gift — **copy a witnessed technique** (Ninjutsu check, DC 10 + 2 per rank step). Kekkei genkai and hiden remain uncopyable. | 15 Ch |
 
 > **⚠ Tier IV interacts badly with 荒れ川 Arakawa, and this is deliberate.** A copied technique is one Ardo has *never trained*, executed with control he *does not have.* **Every copied C-rank or above triggers the Arakawa control check, and copied A/S-rank techniques roll on the transformation table instead** — which means copying something impressive is a genuinely plausible way to lose an arm. He can take everything anyone shows him. He may not survive using it.
 
@@ -1130,21 +1144,28 @@ LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
   No privacy from each other, ever. She attends every Aragami event.
 
 VISION — ARDO ONLY. Suzume has NO track and will NEVER go blind.
-  Max 10 → currently 9 (Mukaebi).  Long rest restores to Max.
-  EVERY TIER UNLOCKED = -1 MAX VISION, PERMANENTLY
-  Hit 0 in a day = blind till long rest, -1 Max on top
-  MAX VISION 0 = PERMANENTLY BLIND (Sōgan then runs ONE WAY only)
+  MAX 100 → currently 97 (Mukaebi cost 3).  A decades-long clock.
+  Ordinary Sharingan work did NOT blind Kakashi in 20 yrs. Mangekyō
+  techniques are what blind people. Same split applies here:
+    Ardo's tree I-IV ............ CHAKRA ONLY, no Vision, ever
+    Sōgan I-II .................. free
+    Sōgan III / IV .............. 2 / 5 Vision (Mangekyō-grade)
+    uncovered, ordinary living .. -1 per MONTH
+    uncovered, per combat ....... -1 per fight
+    EACH TIER UNLOCKED .......... -5 MAX, permanent (12 tiers = -60)
+  MAX 0 = PERMANENTLY BLIND (Sōgan then runs ONE WAY only)
 
   ** HEADBAND COVERED = ZERO VISION LOSS, INDEFINITELY **
     but: no passive tiers, no active abilities while covered
     chakra drain continues regardless — eye never sleeps
     Sōgan Tier I bleeds through cloth anyway
-  UNCOVERED = -1 Vision/day, fighting or sleeping. Every day.
 
   BURNING CLARITY — the eye pays him to keep killing it:
-    Max 7-5  +1 Perception & Reaction timing
-    Max 4-2  advantage on everything, active costs HALVED
-    Max 1    all tier effects DOUBLED
+    Max 69-40  +1 Perception & Reaction timing
+    Max 39-15  advantage on everything, Mangekyō costs HALVED
+    Max 14-1   all tier effects DOUBLED
+  TIMESKIP (Era A→C): cost set by habits built NOW, not rolled later.
+    Walking any of the Three Roads first halves or waives it entirely.
   THREE ROADS OUT: Uzumaki vitality · the Sōgan circuit (needs her,
     maybe forever) · Eternal Mangekyō (needs a 2nd Mangekyō — there
     is exactly one, it's in Suzume's head, and she'd say yes)
