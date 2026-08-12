@@ -535,8 +535,48 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 
 **Growth path, survival-gated, not XP-gated:**
 - **Stage 1** — live now, as above.
-- **Stage 2** — unlocks the first time Ardo survives a full activation (success or collapse) and uses it again after. Numbers TBD when reached; expect sustain/DCs to ease.
-- **Stage 3** — unlocks past surviving a real Crash. Bigger, and the visual transformation likely deepens past "eyes and wind."
+- **Stage 2** — **UNLOCKED, Session Seven, the Souji spar.** See 渦風 UZUFŪ below.
+- **Stage 3** — unlocks past surviving a real Crash. Still open.
+
+## 渦風 UZUFŪ — "Whirlpool Wind" · **KŌFŪ STAGE 2** **[GM — unlocked Session Seven]**
+
+**How it was unlocked.** Not by reaching. Souji's newly-awakened Senju chakra surged in close proximity while Ardo was strained and hurting, and **the thing behind the seal reacted on its own** — frantic, protective, panicking, trying to force its way out to defend him. Not the combat trigger, not the calm variant, not Ardo forcing anything: the entity moving first, unprompted. Three escalating CON saves (DC 15 → 18 → 21) as it tried to take control. **Ardo passed all three**, and passed them by refusing to ride the rage — he recognised the feeling from Rai's pyre, remembered that rage buys nothing from the Seam, and instead reached back through the flood to *calm the thing panicking on the other side*: **"That's Souji. He's my squad. Nobody's dying. Thank you — but you can stop now. I've got it."**
+
+**What he did to the seal.** With both palms on the burning linework, Ardo — untaught, having never seen a fūinjutsu scroll, not knowing the word Uzumaki means anything — **turned the whirl-pattern.** The seal did not break and did not open. The inward-facing spiral *rotated* and became a **channel**: a whirlpool that takes the flood and gives it somewhere to go, round and through, instead of a dam trying to stop it. This is the single most important fact about Stage 2 — **the containment is intact.** It's a controlled aperture, not a breach.
+
+> Entity, unprompted, second and third things it has ever said:
+> *"...I had forgotten this kind of holding."*
+> *"That chakra out there. It stood beside mine, once."*
+
+**Visual.** The crimson deepens past red into arterial dark. Wind stops blowing outward and **orbits** — a standing whirlpool of air roughly 20 ft across, debris and water suspended in slow rotation around him, going nowhere. Whirl-pattern linework burns up out of his skin — both forearms, up the arms, across the back, a ring around the throat — the stomach seal's own pattern now facing **outward**, glowing, slowly turning. Hair drifts as if underwater. He floats a half-inch off the ground and leaves no footprints. Eyes solid crimson, sclera dark, **a slow spiral turning in each iris.** Where the combat trigger kills sound, this is the opposite: a continuous low roar, like standing at the base of a waterfall, coming off him.
+
+### Entry requirement **[the hard gate — this is not a button]**
+
+**Cannot be entered on rage, fury, or vengeance. Ever.** Same standing rule as the Grief/Rage Distinction, and it applies with full force here: a rage-shaped reach for Uzufū fails automatically, no roll, no cost refunded. The state is only enterable from something *offered* — calm, gratitude, protection of someone, connection. **This is the fail-safe the entity built into it**, not a GM restriction bolted on.
+
+### Costs & mechanics
+
+**Activation:** **2 slots. 100 Chakra / 50 Stamina / 10 Health.** From an already-active Kōfū Stage 1, escalate for **half** (50 Ch / 25 St / 5 HP), 1 slot. Standard Rule 5 vulnerability during activation.
+
+**Transformed state — up to 4 rounds, end early anytime:**
+
+| | Effect |
+|---|---|
+| **Damage** | **+2d8** elemental on every attack, Taijutsu and Ninjutsu alike |
+| **Rolls** | **Advantage on all attack rolls *and* all saving throws** |
+| **Rank ceiling** | **S** (per the Kōfū override — still requires actually knowing the technique) |
+| **Movement** | **Tripled.** Wind carries him — he can move across open air and water freely |
+| **Displacement** | Landed hits launch **40 ft** — or, at his option, **pull the target 20 ft toward him** instead (the whirlpool works both directions) |
+| **Reactions** | **Two Reactions per round** instead of one — the entity's own old survival instinct on loan |
+| **Perception** | Advantage on Perception and on Reaction timing |
+| **Chakra flow** | **Regain 15 Chakra at the start of each of his turns.** The gate is channeling, not leaking |
+| **Senjutsu-adjacent** | His strikes now land on things ordinary attacks can't fully touch — chakra constructs, partially-intangible targets — and he takes **+2 on all Clash rolls.** This is the "foundation for eventual senjutsu" line finally doing something, and it is **not** Sage Mode; the Bloodline Path's three gates are untouched and still required |
+
+**Sustain:** **25 Chakra / 20 Stamina** per round held (net ~10 Ch/round after the regen).
+
+**Risk — CON save every round held, DC 13 → 16 → 19 → 22.** On a failure: instant Rule 5 Interruption, real backlash damage, **and the transformation inverts** — control passes to the frantic, protective thing that was trying to take over in the first place. That inverted state is GM-run, not player-run, and it is not friendly to anyone standing nearby. **This is the actual danger of Stage 2 and it does not go away.**
+
+**The Crash**, however it ends: **two full rounds** at disadvantage on everything, and Chakra/Stamina cannot be restored above 25% of max for the remainder of that encounter.
 
 ## THE GRIEF/RAGE DISTINCTION **[GM — confirmed Session Five, standing rule]**
 
@@ -554,6 +594,8 @@ Fixed and decided. Not recorded, because this file is player-facing.
 - **Genuine containment seal, not restraint** — inward-facing linework, Uzushio-era whirl-pattern work, roughly Ardo's own age.
 - **Responds differently depending on how it's approached.** Forced reading: ignited defensively, left a scorch mark. Ardo's own calm, offered chakra with people he trusts present: eased, settled, no incident.
 - **Left an impression at the edge of the calm version:** *"Not yet. But not never."*
+- **Reacts to Senju chakra — violently. [Session Seven]** Souji's awakened Senju chakra surging nearby sent it frantic and protective, trying to force its own way out. Its words afterward: *"That chakra out there. It stood beside mine, once."* Old enough to have stood beside a Senju. Uzushio and the Senju were kin clans and allies. Ardo has not connected any of this.
+- **The seal can be channeled without being broken. [Session Seven]** Ardo, with no fūinjutsu training whatsoever, instinctively turned the whirl-pattern into an aperture rather than letting it rip. He does not know he did anything unusual. He does not know what it means that his hands knew how.
 - The sealmaster on the Nakano shingle recognised it on sight, looked at Ardo's stomach, and disengaged from a free acquisition.
 - **The man Ardo Twinned on the shingle, questioned in the hospital, recognized him on sight too** — called him "the wind," said *"he said you'd come looking eventually,"* and named himself as someone who was also **found**, not made. Genuinely seemed to fear what Ardo might become. Does not know what's sealed either — his fear was recognition of shape, not content.
 
@@ -818,7 +860,12 @@ Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B >
 
 ── OTHER POWER SYSTEMS (not jutsu) ──────────────
 Borrowed Gale    entity-granted only, Health-cost 3/5/8 per rd
-Kōfū·Crimson Wind at-will, 60Ch/30St/5HP activate, CON 12→15→18/rd
+Kōfū·Crimson Wind  STAGE 1  60Ch/30St/5HP activate, CON 12→15→18/rd
+Uzufū·Whirlpool    STAGE 2  100Ch/50St/10HP (half from Stage 1)
+                   NEVER on rage — auto-fails, no roll
+                   +2d8 dmg · adv atk & saves · 3× move · 2 Reactions
+                   +15 Ch/turn · S-rank ceiling · +2 clash · 4 rds max
+                   CON 13→16→19→22 · FAIL = inverts, GM takes it
 
 BRACE  8 St → reduce one action by 1d6+3
 GOING BEYOND  overdraw to 0, shortfall from HP at 4:1
