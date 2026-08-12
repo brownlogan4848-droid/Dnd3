@@ -64,6 +64,12 @@ Live campaign: ***The Long Shadow*** — Era A (Third Great Ninja War, ~Year −
 
 **Standing GM rule:** *Mandatory Arc Beats* (Book IV §5, Part Eight) — 1–2 GM-initiated spotlight moments per PC per session, the GM's job to deliver rather than the player's to request.
 
-**Live threads:** Hiruzen now knows everything about all three and has said nothing · Danzō and Root have been circling Ardo for two sessions · Souji's silence · the Handler's interrogation and the Shepherd's judgment, both pending from Session Seven · and 荒神 **Aragami**, the thing being *grown* in Ardo out of natural energy and an unguarded seal, which is not a tailed beast and has nobody inside it to negotiate with.
+**Session Eight closed with the whole cell leaving.** Cell 409 is designated **遊撃班 Yūgekihan** — a roving unit, independent, long-range, unattached to any front — by Hiruzen's own seal. All three said yes by choice, out loud, on the record. Roku goes with them as jōnin of record, explicitly *not* as their leash. Hiruzen's four conditions: real designation rather than wandering, irregular reporting, Roku, and — set independently by Souji four hours earlier, neither knowing the other said it — **ask Suzume properly, awake, with a real door to refuse through.**
+
+**Why it's the road and not an escape:** senjutsu is not in Konoha. All three gates of the only actual treatment for Ardo's condition are outside the walls.
+
+**Live threads:** the Uchiha taboo — Suzume's eye is in a non-Uchiha's head, unsanctioned, and Hiruzen calls that an *incident* rather than a scandal if it surfaces during the war · Danzō withdrew his classification request and made Roku deliver the news, which Hiruzen reads correctly as repositioning rather than retreat · 荒神 **Aragami**, the thing being *grown* in Ardo out of natural energy and an unguarded seal, not a tailed beast and with nobody inside it to negotiate with · the Handler and the Shepherd's judgment, pending from Session Seven · and the boy who walked out past the walls looking for answers and never came home, whose name Hiruzen would not say.
+
+**Planned:** a timeskip, resuming in **Era C**.
 
 See `characters/ardo.md`, `characters/suzume.md`, and `characters/souji.md` for full mechanics, session logs, and open threads.

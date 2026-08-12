@@ -2,7 +2,7 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Eight · **AWAKE, critical, hospitalized.** Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Current Session:** Session Eight, closed · **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
 **Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Eight)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
@@ -1271,6 +1271,32 @@ Her first words were *"You took your time."* Her second were a flat refusal of h
 **State at end:** awake, critical, three days of atrophy on a body that took 99 damage. Entirely herself. **Left socket now carries Ardo's ordinary eye; her Mangekyō is in his head.** Mukaebi named but unbuilt. **She pays no Vision and never will — and nobody has told her yet that Ardo does.**
 
 **Open threads for her specifically:** what Mukaebi actually becomes, mechanically, when she's well enough to build it · whether she learns about Ardo's Vision track and how she reacts · the 静かな部屋 Quiet Room tier, which is the technique that would have saved Souji by more than three points · Souji, two rooms away, who has not spoken since he woke and who she took 99 damage for.
+
+---
+
+## SESSION EIGHT, CLOSING — 遊撃班 YŪGEKIHAN
+
+**She said yes, and she said it first, before any of her own conditions.**
+
+Ardo came in through her window at full dark, put the Hokage's signed classification form on her bedside table where she'd see it, and then **sat down and waited hours for her to wake up on her own** — rather than getting a yes out of somebody ninety seconds into consciousness. Both Souji and Hiruzen had independently demanded exactly that, neither knowing the other had.
+
+**What she got while asleep [相眼 Sōgan, involuntary]:** Ardo dove out of the Hokage's tower window and free-fell sixty feet, and she received all of it unconscious — wind, the sound going, pine and ginger and hot dust arriving in layers, and underneath it a feeling her sleeping brain had no filing system for. **He was happy.** One second, falling, nothing hurting. She woke carrying it.
+
+### What she said
+
+**On his calling himself a monster** — she cut him off mid-sentence: *"You don't get that one. Not while I'm in the room. **I** am the one it happened to. That means I'm the only person alive who gets to decide what it was, and I've decided, and it wasn't a monster."*
+
+**On the Uchiha taboo**, which she genuinely had not considered until he told her — thirty seconds and a procedure had crowded it out: real fear, four seconds of it, then *"Good."* Her reasoning: the clan never claimed her, not at birth, not through the unexplained migraines, not when her eyes opened over Rai's body. *"I've done the one thing that would finally make them notice me, and it's the one thing they'll never forgive. That's the most Uchiha relationship anyone's ever had with that clan. It was my eye. If they want that argument, they can have it with me."*
+
+**On the yes:** *"I'd have said yes at the bottom of that slope. I'd have said yes three days ago in a room with no doors. But I'm glad you put a seal on a table — now it's a **choice** and not a rescue, and I have spent four days being something that things happen *to.*"*
+
+### Her three conditions
+
+1. **No noble suffering.** She worked out before he did that the closed circuit is a splint, not a fix — **and that it requires her.** Any plan to go out there and endure Arakawa alone every night to spare her the inconvenience is *"choosing to suffer to protect me from an inconvenience. That's not noble, that's stupid, and I'll be extremely angry about it."*
+2. **This is not his journey that she's tagging along on.** She has her own: an eye nobody can explain, a technique she built while dying and doesn't understand, a clan that never wanted her and is about to want her for the wrong reason, and three days locked inside her own skull she'd like to never repeat. **They go looking for all of it.**
+3. **The three of them are not doing this in separate rooms.** She demanded Souji be brought to her immediately, middle of the night, medical objections irrelevant.
+
+**Status:** going, by choice, on the record. Still critical, still can't sit up unassisted, still cannot be left behind — 相眼 Sōgan Tier I is involuntary and works at any range, so there was never a version of this where Ardo left without her.
 
 ---
 

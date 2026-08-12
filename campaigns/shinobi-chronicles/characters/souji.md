@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: SOUJI
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, **hospitalised, awake two days, and has not spoken a word to anyone.** Session Eight has closed. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, hospitalised, **and leaving the village with Cell 409 as 遊撃班 Yūgekihan.** Chūnin as of Session Eight. He went two days without speaking and broke it when Ardo sat with him for four hours saying nothing. His Senju heritage awakened live in Session Seven, witnessed by the whole squad. **Session Eight is the catastrophe:** a friendly spar with Ardo triggered his bloodline unasked, he failed two of the three control saves by three points, and **不倒樹 Futōju** took him — see Part Ten. Hiruzen personally put him down with Enma to end it. **Suzume took 99 damage shielding his unconscious body**, which he was not awake to see. First session with Ardo and Suzume was Session Six.
 
 **Sourcing convention for this file — same as Ardo and Suzume's:**
 
@@ -334,7 +334,33 @@ Awake two days. **He has not said one word to anyone** — not the medics, not R
 
 **根の記憶 Ne no Kioku is permanent and already running.** From the next session onward he receives one real piece of bloodline knowledge per session, unbidden, delivered in his own furious voice — because the transformation wants him to reach for it again.
 
-**Open threads:** the silence, and how long it lasts · his overdue conversation with Hiruzen, now enormously more complicated · whether the Senju surge is genuinely trainable given he called it twice · what he says to Suzume · and whether he ever learns that the reason he's alive is that somebody held a place open for him after all.
+**Open threads:** his overdue conversation with Hiruzen, now enormously more complicated · whether the Senju surge is genuinely trainable given he called it twice · what he says to Suzume.
+
+### The silence broke
+
+Ardo came to his room, pulled up the chair nobody had been sitting in, **and said nothing for four hours.**
+
+That's what did it. The vow in Souji's head had a prepared answer for *I'm sorry*, for *it wasn't your fault*, for pity, for reassurance, for a hand on the shoulder. **It had nothing for a person who sits down and doesn't leave and doesn't want anything.** There's no sentence in that to take apart. It ran out of material and went quiet.
+
+At sundown Souji spoke for the first time in two days, to the window, carefully phrased so it wouldn't quite be a question: ***"...Is she alive."***
+
+**That was the silence.** Not shock, not sullenness — nobody had volunteered it, and asking meant possibly hearing *no*, and he had not been able to survive that sentence for two straight days. The not-asking was the only thing holding him together.
+
+### 遊撃班 — and the thing the vow couldn't answer
+
+Ardo told him about Danzō, about leaving, about going to Hiruzen. **Souji agreed instantly and completely** — *"That makes sense. You should go. That's the right call"* — which is what surrender looks like on him. Agree before they can leave and technically nobody left you; you released them, it was your idea too.
+
+Then Ardo asked him to come. **"If it's alright with you." "We deserve to face those down together." "If you'd like."**
+
+**You cannot pre-agree your way out of being wanted.** The armour only works against people going away; it had never once had to hold against somebody *asking*, and asking *permission* at that. Souji started to pitch himself — *"I'm useful, Root Grip's good for tracking, I don't need much"* — heard himself auditioning for a place already offered free, and came apart for the first time since Rai's pyre.
+
+His answer, through his hands: ***"...you have to ask her too. Not me. Her. You ask her properly, when she's awake, out loud, so she can say no if she wants to."*** And then: ***"And then yeah. Yeah, I'll come."***
+
+> **The Hokage independently set that exact condition four hours later.** Neither of them knew the other had said it.
+
+**This does not undo Futōju.** The bark is still fused to his wrist and 根の記憶 still feeds him bloodline knowledge in that same furious voice every session. **But the voice lost an argument for the first time in ten years, and Souji noticed.**
+
+**Status:** going. Chūnin as of Session Eight, promoted alongside the others — earned on record across the Shepherd rescue and everything after.
 
 ---
 ---

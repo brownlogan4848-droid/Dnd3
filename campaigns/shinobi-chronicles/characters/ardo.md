@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha, **hospitalised, three days after Training Ground Six.** Session Eight has just closed. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve; every mechanical consequence is in Parts Five and Six.
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). Konoha — **and leaving it.** Session Eight has closed with Cell 409 designated **遊撃班 Yūgekihan**, a roving unit, by Hiruzen's own seal. All three going by choice; Roku with them as jōnin of record, not as their leash. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve; every mechanical consequence is in Parts Five and Six.
 
 **Sourcing convention for this file:**
 
@@ -1137,6 +1137,51 @@ And the circuit taught Ardo the most dangerous thing he now knows: **inside a cl
 **State at end:** all three hospitalised. Suzume awake, critical, weak, entirely herself. Souji awake for two days and **has not spoken a single word to anyone** — not medics, not Roku, not the Hokage. Ardo mobile, at the floor of everything, one eye permanently borrowed. An ANBU is standing at the corridor junction and nobody has commented on it.
 
 **Open threads:** Hiruzen knows everything about all three and has said nothing yet · Danzō has been circling Ardo for two sessions and this is the exact kind of news Root exists to act on · Souji's silence · whether Suzume ever learns she pays no Vision while Ardo goes blind carrying her eye · the Handler and the Shepherd's judgment, both still pending from Session Seven · and the fact that Ardo now has to learn senjutsu as **treatment**, with the fastest route sitting behind a transformation that eats limbs.
+
+---
+
+## 遊撃班 YŪGEKIHAN — THE DEPARTURE **[Session Eight, closing — the campaign's next act]**
+
+**Cell 409 is leaving Konoha. All three, by choice, out loud, on the record, with the Hokage's seal.**
+
+Ardo walked from Souji's room to the Hokage's office the same evening and asked permission rather than forgiveness. Hiruzen said yes before explaining himself, then gave the reasons in order — the cold ones first.
+
+**Why Hiruzen agreed:**
+- **Ardo is safer outside and so is everyone inside.** The seal specialists are still working Ground Six. He cannot promise to reach it in time twice.
+- **Suzume needs to not be in this village.** Her eye is in a non-Uchiha's head. See the taboo below.
+- **Danzō withdrew his classification request that afternoon** and made Roku deliver the news personally. Hiruzen read it correctly: *"Danzō does not withdraw things. He repositions."* He will wait for Ardo to be tired, desperate, or eighteen. Keeping him where Root can watch him grow is the worst available option.
+- **And the real reason:** Ardo came asking permission, with a plan, with one squadmate already agreed and the third deliberately not yet asked because she was asleep. *"Boys who mean to desert do not do that."*
+
+### The classification
+
+**遊撃班 — Yūgekihan.** A roving unit: independent, long-range, unattached to any front. A real Konoha designation dating to Tobirama's day, existing precisely so shinobi can be somewhere the village officially is not. **They carry papers and a seal. They are not missing-nin.** Anyone who asks, they are Konoha's.
+
+### Hiruzen's four conditions **[non-negotiable]**
+
+1. **They go designated, not as wanderers.** Papers, seal, real classification.
+2. **They report** — irregularly, by a route Roku will teach, never on a predictable schedule. A full season of silence and Hiruzen comes looking.
+3. **Rokka Uehara goes with them.** *"He will not command you — he goes as your jōnin of record, not your leash."* Where they go and what they chase is theirs. Hiruzen will not sign a form sending an eight-year-old, a ten-year-old, and a twelve-year-old past his borders alone.
+4. **Ask Suzume properly.** Out loud, awake, with a real door to refuse through. *"Do not make the road out of here another thing that happened to her."*
+
+> **Souji set condition 4 independently, four hours earlier, in a hospital room.** Neither he nor Hiruzen knew the other had said it.
+
+### The Uchiha problem **[live, dangerous, unresolved]**
+
+**Suzume gave her eye to a non-Uchiha.** Not an awakening — a **transplant, out of the clan, into an outsider, unsanctioned.** Hiruzen: *"There is no more absolute taboo among the Uchiha. None. If that becomes known while the war is on, it will not be a scandal. It will be an incident"* — landing on a twelve-year-old too weak to sit up. Her being outside the village buys her years.
+
+Suzume's own answer when told: *"They never once claimed me... and now I've done the one thing that would finally make them notice me, and it's the one thing they'll never forgive. That's the most Uchiha relationship anyone's ever had with that clan."*
+
+### Hiruzen, privately
+
+He apologised — not for the night, for the eight years before it. He signed Ardo's intake as an infant and does not remember doing it, *"and that is its own answer, isn't it."* Then:
+
+> *"Go and find out what you are. Come back and tell me. **And come back** — this village has produced exactly one boy who walked out past the walls looking for answers and never came home, and I have been paying for that particular failure for thirty years."*
+
+**He did not say the name. Ardo has no idea who he meant.**
+
+### Why this is the road and not an escape
+
+**Senjutsu is not in Konoha.** The Contract, the Reverse Summon, and the Balance — all three gates of the only actual treatment for 荒れ川 Arakawa — are outside these walls. Leaving isn't running from the problem. It is the only road that goes anywhere near a fix.
 
 ---
 ---
