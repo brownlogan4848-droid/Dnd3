@@ -572,6 +572,31 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 | **Chakra flow** | **Regain 15 Chakra at the start of each of his turns.** The gate is channeling, not leaking |
 | **Senjutsu-adjacent** | His strikes now land on things ordinary attacks can't fully touch — chakra constructs, partially-intangible targets — and he takes **+2 on all Clash rolls.** This is the "foundation for eventual senjutsu" line finally doing something, and it is **not** Sage Mode; the Bloodline Path's three gates are untouched and still required |
 
+### Passives — active the entire time Uzufū is up
+
+**無隙 MUGEKI — "No Opening."**
+Ardo isn't moving fast, exactly. He's *arriving.* The whirlpool moves him and the eye doesn't catch the transit — one instant he's across the crater, the next he's inside your guard, and there was never a moment in between to answer.
+
+- **Substitution and every other Displace-type escape auto-fail against his attacks.** No roll. The Reaction is spent, the Chakra and Stamina are spent, and the attack lands anyway — the swap has nowhere to happen, because there was no interval to swap *during*.
+- **Reaction-cast jutsu cannot intercept, clash with, or block his strikes.** A technique put in the way simply doesn't arrive in time.
+- **No Counter Window ever opens against him** — a missed opener from Ardo grants the defender nothing, because he's already gone from where the miss happened.
+- **Bonus-action defensive and repositioning techniques** (Body Flicker and its kin) do not create distance from him. He's simply there again.
+- **The one thing that still works: Brace.** You can't dodge him, sub out of him, or answer him — you can only set your feet and eat it. *(This is my one carve-out: a defender with literally zero legal response stops being a participant, and Brace is the "you may still choose to tank it" floor. Say the word and I'll strip it too.)*
+
+**空爆 KŪBAKU — "Air Detonation."**
+Every Taijutsu strike carries so much compressed wind that contact *is* the explosion. There's no wind-up and no gust — just a body suddenly leaving, very fast, in a straight line.
+
+- **Every landed Taijutsu hit hurls the target 30 ft, violently. No save, no resistance, no exceptions.**
+- The detonation is real ordnance: **anything within 5 ft of the point of impact takes half the strike's damage** as concussive backwash.
+- Anything the target hits on the way — a wall, a tree, the ground at speed — is on top of the strike's own damage, GM's call on the terrain.
+
+**開門 KAIMON — "The Open Gate."**
+The aperture Ardo turned open in the seal doesn't only pass chakra outward. While Uzufū is up, natural energy moves through him the way it's supposed to, and something on the other side of the gate — something that already knew how to do this a very long time ago — is quietly showing him the shape of it.
+
+- **Any senjutsu practice, training, or attempt made while in Uzufū is rolled with advantage.**
+- **All progress toward senjutsu — XP, understanding, training milestones — accrues at triple rate.**
+- **Explicitly does not skip the Bloodline Path's three gates.** The Contract, the Reverse Summon, and the Balance are all still required, unchanged. This makes the road far faster to walk; it does not remove any part of it. *(Forward-looking by design — Ardo has no senjutsu access at all yet.)*
+
 **Sustain:** **25 Chakra / 20 Stamina** per round held (net ~10 Ch/round after the regen).
 
 **Risk — CON save every round held, DC 13 → 16 → 19 → 22.** On a failure: instant Rule 5 Interruption, real backlash damage, **and the transformation inverts** — control passes to the frantic, protective thing that was trying to take over in the first place. That inverted state is GM-run, not player-run, and it is not friendly to anyone standing nearby. **This is the actual danger of Stage 2 and it does not go away.**
@@ -866,6 +891,12 @@ Uzufū·Whirlpool    STAGE 2  100Ch/50St/10HP (half from Stage 1)
                    +2d8 dmg · adv atk & saves · 3× move · 2 Reactions
                    +15 Ch/turn · S-rank ceiling · +2 clash · 4 rds max
                    CON 13→16→19→22 · FAIL = inverts, GM takes it
+   無隙 MUGEKI   no Substitution/Displace/Counter Window vs him
+                 reactive jutsu can't intercept · only BRACE works
+   空爆 KŪBAKU   Taijutsu hits = 30ft launch, no save
+                 + half dmg to anything within 5ft of impact
+   開門 KAIMON   senjutsu practice: advantage, TRIPLE progress
+                 (does NOT skip the three Bloodline Path gates)
 
 BRACE  8 St → reduce one action by 1d6+3
 GOING BEYOND  overdraw to 0, shortfall from HP at 4:1
