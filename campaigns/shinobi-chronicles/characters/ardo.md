@@ -675,16 +675,39 @@ Applies to **Kōfū, Uzufū, and Borrowed Gale alike.** Nothing moderates the mi
 |---|---|
 | **1–4** | **BLOWOUT.** Fires at **S-rank output or beyond** — and the channeling limb is destroyed. Shattered, cooked, or gone. GM's call on recoverability; sometimes the answer is no. |
 | **5–9** | **TEARING.** Severe internal damage, chakra pathways scorched, lasting injury. Technique lands at wild unpredictable power. |
-| **10–14** | **EMERGENT.** An unchosen transformation variant takes shape — see below. |
+| **10–14** | **EMERGENT.** 荒神 Aragami begins to form. Three saves follow — see below. |
 | **15–18** | **RIDE IT.** Works, and works too well. Every technique this round jumps a rank band; real damage taken for each. |
 | **19–20** | **CLEAN.** His own control suffices. Do not count on this. |
 
-### EMERGENT variants **[deliberately undefined — discovered in play]**
+### EMERGENT — 荒神 ARAGAMI, "The Raging God" **[GM]**
 
-Raw output has to become *something* and nobody is choosing what. Two directions, neither predetermined, both unique to Ardo:
+**Nothing was ever sealed in him but the entity, and the entity is dormant. This is not that.** With nothing guarding the aperture, **natural energy is pouring in and mixing with the unregulated river**, continuously, with no supervision — and the mixture is **accreting into a form.**
 
-- **Outward** — the river takes a shape of its own. **Not a tailed beast; there is no beast in him.** But an enormous volume of unowned chakra given form with no pilot is the same problem for bystanders either way. Sakauzu is the proof of concept.
-- **Inward** — **the aperture is still open and unguarded.** Natural energy is entering through a door Ardo propped open and cannot close. Senjutsu arriving unbidden and untrained, with the Bloodline Path's own consequence live and ambient: **too much and he turns to stone, permanently.**
+**It is not a tailed beast, and the distinction is the whole point.** A bijū is a *person* — it has a name, a history, opinions, and a partnership arc available to anyone patient enough to earn it. **Aragami has nobody in it.** It is weather that has developed intent. There is no negotiation available, no mindscape conversation, no bargain, because there is no one there to bargain with. Enough natural energy pooling and taking a shape has an older name than "beast" in this setting's own mythology, and that name is **kami** — the violent kind.
+
+It shares the 荒 of 荒れ川 Arakawa deliberately. **The river is making the god.**
+
+**Form:** a coiling storm-shape of wind and raw natural energy, whirlpool-structured, roughly bijū-scale and growing. Where a tailed beast has tails, Aragami has **coils** — and **it gains one every time it manifests, permanently.** That is its growth track, it does not reset, and it is a countdown.
+
+### The Three Saves — every time Aragami begins to form
+
+Same structure as Uzufū's awakening and Souji's Futōju. **Fail two or more and it takes him.**
+
+| # | Save | DC | What it measures |
+|---|---|---|---|
+| 1 | **CON** | **15** | Whether the body survives being the mixing vessel |
+| 2 | **WIS** | **17** | Whether Ardo stays *present* while natural energy floods a mind with no discipline for it |
+| 3 | **CON** | **19** | Whether the shape stays his instead of becoming its own thing |
+
+> **Save 2 is the killer and it is designed to be.** Ardo's WIS is **−1** — his dump stat, and the exact attribute senjutsu training exists to develop. **He cannot reliably pass this until he learns senjutsu properly.** The reason he can't control Aragami is precisely the thing the cure would fix.
+
+**Pass two or more — RIDDEN.** Enormous power, his to aim, for a short window. This is the "sage mode, but wrong" upside: raw senjutsu-grade output without any of senjutsu's discipline. Costly, ugly, and effective.
+
+**Fail two or more — ARAGAMI TAKES HIM.** GM-run, does not recognize allies, scales with pooled natural energy and current coil count. **And Ardo is conscious the entire time.** He does not black out. He watches — the same way he watched his own hand find Suzume.
+
+### The other direction — inward
+
+The aperture also runs the other way, and that consequence is live and ambient rather than hypothetical: untrained senjutsu, per the Bloodline Path's own clause, means **too much and he turns to stone. Permanently.**
 
 ### The treatment, and the trap
 
@@ -983,7 +1006,11 @@ THE SEAM: DORMANT / UNRESPONSIVE. Spent itself saving Suzume.
   ANY TRANSFORM    roll d20 EVERY time:
      1-4   BLOWOUT — S-rank output, limb destroyed
      5-9   TEARING — severe internal damage, wild power
-    10-14  EMERGENT — unchosen variant takes shape
+    10-14  EMERGENT — 荒神 ARAGAMI forms. 3 saves, fail 2 = it takes him
+             CON 15 · WIS 17 · CON 19   (WIS is -1 — that's the killer)
+             pass 2+ = RIDDEN, huge power, his to aim, briefly
+             fail 2+ = GM-run, no allies, Ardo CONSCIOUS throughout
+             +1 permanent COIL every manifestation. Never resets.
     15-18  RIDE IT — works too well, everything +1 rank, real damage
     19-20  CLEAN
   Aperture still open + unguarded = natural energy coming IN
