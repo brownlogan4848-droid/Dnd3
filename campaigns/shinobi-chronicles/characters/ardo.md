@@ -678,43 +678,74 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 
 ---
 
-# THE VISION ECONOMY **[GM — governs both Ardo and Suzume]**
+# THE VISION ECONOMY **[GM — ARDO ONLY]**
 
-**Vision is the currency *and* the doom clock.** Everything the paired eyes do is paid for in sight.
+> ### Suzume does not have a Vision track and will never go blind.
+> **Her Mangekyō is hers.** Native Uchiha tissue in a native Uchiha body, awakened the way it was meant to be. There is nothing in her for it to burn. Her techniques cost Special, Chakra, and effort — **never sight.** She can push that eye as hard as she wants for the rest of her life.
+>
+> **Ardo pays. Only Ardo.** He is carrying a dōjutsu his body was never built to host, and the degradation is not a rule about Mangekyō — it is a rule about **a non-Uchiha wearing one.**
 
 | Rule | Detail |
 |---|---|
-| **Starting Max Vision** | **10** each |
-| **Current Max** | **9** each — Mukaebi's first use, waking Suzume, paid into the track |
+| **Starting Max Vision** | **10** |
+| **Current Max** | **9** — Mukaebi's first use, waking Suzume, paid into the track |
 | **Recovery** | Vision returns to Max on a long rest |
-| **Unlocking a tier** | **Permanently reduces Max Vision by 1.** The ability has to live in the eye, and the eye pays rent |
-| **Hitting 0 in a day** | Blind in that eye until the next long rest, **and Max Vision drops 1 further, permanently** |
-| **Max Vision 0** | **Permanently blind in that eye.** That is the end of the road and there is no version where it isn't |
+| **Unlocking a tier** | **Permanently −1 Max Vision.** The ability lives in the eye and the eye pays rent |
+| **Hitting 0 in a day** | Blind in that eye until the next long rest, **and −1 Max on top, permanently** |
+| **Max Vision 0** | **Permanently blind in that eye.** There is no version where it isn't |
 
-> **Getting stronger costs them their sight, directly and measurably.** Roughly ten unlocks separate them from blindness, split across three trees. Every tier is a real decision, and neither of them can see the meter.
+## ARDO'S CURSE — the eye never deactivates **[absolute]**
 
-## ARDO'S CURSE — the eye never deactivates **[absolute, no workaround]**
+**It will never, ever be inactive.** Not sleeping, not resting, not by any seal, technique, or training that exists or ever will. **The chakra drain is permanent and unstoppable**, and no amount of covering changes that.
 
-**Ardo's Mangekyō will never, ever be inactive.** Not sleeping, not resting, not covered, not by any technique, seal, or training that exists or ever will. The headband hides it; it does not stop it.
+**The gift:** every **passive** tier in his tree runs **always**, with no activation and no action cost. He is never caught with his eye closed because he doesn't have one to close.
 
-**The gift:** every **passive** tier Ardo unlocks is **always running.** No activation, no action cost, no warm-up, no decision. He is never caught with his eye closed because he does not have one to close.
+## THE HEADBAND — halting the loss **[the Kakashi discipline]**
 
-**The curse:** he cannot rest it, so **he bleeds 1 Vision per day no matter what he does** — a day spent asleep in a hospital bed costs him the same as a day spent fighting. Plus the permanent Chakra drain. Plus he can never, ever hide what he is from anyone who knows what a Mangekyō looks like.
+**Covering the eye stops the degradation completely.** Not slows — **stops.** The eye stays awake and stays draining chakra; what it stops doing is *seeing*, and it's the seeing that burns it out.
 
-**Suzume's is normal.** Hers deactivates. Hers rests. Hers costs Vision only on use. **She will still be able to see when he can't.**
+| Eye covered | Eye uncovered |
+|---|---|
+| **No Vision loss. None. Indefinitely.** | **−1 Vision per day**, fighting or sleeping |
+| **Passive tiers do not function** — no Mikiri, no Inyomi, no Hanshun, no Utsushi | All passive tiers live |
+| Active abilities unavailable | Active abilities available at listed Vision cost |
+| **相眼 Sōgan Tier I still works** — the involuntary bleed isn't visual and can't be blocked by cloth | Full Sōgan access |
+| Chakra drain continues | Chakra drain continues |
+
+> **This is the real decision, every single day, for the rest of his life:** walk around half-blind and keep his sight, or uncover it and spend the meter. Kakashi Hatake will make the same trade for twenty years and everyone will think it's an affectation.
+
+### Burning Clarity — the temptation gets worse as it gets worse
+
+**As the eye dies, it sees more.** It is spending itself to give him what he asks for.
+
+| Max Vision | Effect |
+|---|---|
+| **10–8** | Baseline. |
+| **7–5** | **+1 to all Perception and Reaction timing.** Colours start going wrong in that eye — everything slightly too saturated. |
+| **4–2** | **Advantage on everything the eye does.** Active Vision costs are **halved, rounded down.** Constant low-grade headache; the eye aches in cold. |
+| **1** | **All tier effects double.** He can see the movement of air. He is one bad day from permanent. |
+| **0 Max** | **Blind. Permanently. Sōgan runs one direction only from that moment** — Suzume can still reach him; he can never see through her again. |
+
+## THE THREE ROADS OUT **[the campaign arc — all genuinely open]**
+
+**1 — THE UZUMAKI ROAD.** The rejection is a *vitality* problem: his body can't sustain foreign dōjutsu tissue. **Uzumaki life force is the most legendary regenerative trait in the setting** — Mito lived past a hundred, Kushina survived a bijū extraction, Nagato hosted the Rinnegan. Ardo doesn't know he's Uzumaki. **If he learns what he is and learns to reach his own clan's vitality, the eye stops rejecting and the loss halts for good.** Ties his eye arc, his clan arc, and the Seam into one thread.
+
+**2 — THE CIRCUIT ROAD.** The closed loop with Suzume didn't just quiet Arakawa. **Uchiha chakra ran through Ardo's borrowed eye and the eye recognised it.** If Sōgan can be trained to sustain rather than merely share — her blood maintaining his eye through the link — the degradation could stall. **The cost: it requires her. Regularly. Possibly permanently.** A cure that makes him dependent on a person is not obviously better than blindness, and both of them are smart enough to work that out.
+
+**3 — THE ROAD NOBODY SHOULD TAKE.** Eternal Mangekyō removes the Vision cost entirely and is documented on both sheets. It requires **a second Mangekyō from a close relative, transplanted.** There is exactly one other Mangekyō in this campaign. **It is in Suzume's head, and she would give it to him, and he knows she would.** Nobody has said this out loud. Somebody eventually will.
 
 ---
 
 # 相眼 SŌGAN — THE SHARED TREE **[requires both, unlocked by training together]**
 
-Neither of them can unlock these alone. Each tier costs **1 Max Vision from both.**
+Neither of them can unlock these alone — they have to train it together. **Each tier costs 1 Max Vision from Ardo only.** Suzume pays nothing; there is nothing in her eye to spend.
 
-| Tier | Name | Effect | Vision/use |
+| Tier | Name | Effect | Ardo's Vision/use |
 |---|---|---|---|
-| **I** | **血染み CHIJIMI · "The Bleed"** | **ALREADY ACTIVE, involuntary.** Uncontrolled flashes of the other's POV, at any range, working even while one is unconscious. Cannot be switched off, cannot be aimed. | Free (involuntary) |
-| **II** | **合わせ目 AWASEME · "The Seam-Line"** | **When both attack the same target in the same round, each sees through the other's eyes mid-strike — both attacks gain advantage.** Requires both acting in the same round; no declaration needed, it simply happens. | **1 each** |
-| **III** | **遠見 TŌMI · "Far-Sight"** | Either may deliberately perceive **through the other's eyes at any distance**, for up to 1 minute. One scouts while the other fights; one watches a room the other can't enter. The other feels it and can refuse. | **2** (spender only) |
-| **IV** | **一心 ISSHIN · "One Mind"** | Full combat synchronisation for **3 rounds.** Both act on the same initiative, share Reactions from a common pool of 3, and every Team Combo (Book IV §2 Part Eight) they run together resolves as if one round higher in tier. | **4 each** |
+| **I** | **血染み CHIJIMI · "The Bleed"** | **ALREADY ACTIVE, involuntary.** Uncontrolled flashes of the other's POV, at any range, working even while one is unconscious. Cannot be switched off, cannot be aimed, **and cannot be blocked by covering the eye.** | Free |
+| **II** | **合わせ目 AWASEME · "The Seam-Line"** | **When both attack the same target in the same round, each sees through the other's eyes mid-strike — both attacks gain advantage.** No declaration needed; it simply happens. | **1** |
+| **III** | **遠見 TŌMI · "Far-Sight"** | Either may deliberately perceive **through the other's eyes at any distance**, up to 1 minute. One scouts while the other fights. The other feels it and may refuse. **Suzume can use this while Ardo's eye is covered** — she's looking out through her own tissue. | **1** (only if Ardo initiates) |
+| **IV** | **一心 ISSHIN · "One Mind"** | Full combat synchronisation, **3 rounds.** Both act on the same initiative, draw Reactions from a shared pool of 3, and every Team Combo (Book IV §2 Part Eight) resolves as if one tier higher. | **3** |
 
 ---
 
@@ -1098,12 +1129,27 @@ LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
   Works while either is unconscious. His end never closes.
   No privacy from each other, ever. She attends every Aragami event.
 
-VISION  Max 10 → currently 9 (Mukaebi).  Long rest restores to Max.
+VISION — ARDO ONLY. Suzume has NO track and will NEVER go blind.
+  Max 10 → currently 9 (Mukaebi).  Long rest restores to Max.
   EVERY TIER UNLOCKED = -1 MAX VISION, PERMANENTLY
   Hit 0 in a day = blind till long rest, -1 Max on top
-  MAX VISION 0 = PERMANENTLY BLIND. ~10 unlocks total, both trees.
+  MAX VISION 0 = PERMANENTLY BLIND (Sōgan then runs ONE WAY only)
 
-SŌGAN TREE (shared, needs both, -1 Max Vision EACH)
+  ** HEADBAND COVERED = ZERO VISION LOSS, INDEFINITELY **
+    but: no passive tiers, no active abilities while covered
+    chakra drain continues regardless — eye never sleeps
+    Sōgan Tier I bleeds through cloth anyway
+  UNCOVERED = -1 Vision/day, fighting or sleeping. Every day.
+
+  BURNING CLARITY — the eye pays him to keep killing it:
+    Max 7-5  +1 Perception & Reaction timing
+    Max 4-2  advantage on everything, active costs HALVED
+    Max 1    all tier effects DOUBLED
+  THREE ROADS OUT: Uzumaki vitality · the Sōgan circuit (needs her,
+    maybe forever) · Eternal Mangekyō (needs a 2nd Mangekyō — there
+    is exactly one, it's in Suzume's head, and she'd say yes)
+
+SŌGAN TREE (shared, needs both, -1 Max Vision — ARDO PAYS, not her)
   I   血染み CHIJIMI    ACTIVE — involuntary bleed, can't be stopped
   II  合わせ目 AWASEME  both attack same target same round = BOTH get
                         advantage (1 Vision each)

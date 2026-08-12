@@ -612,20 +612,28 @@ Ardo took her hand, moved Rai's headband to cover his *own* eye so he was seeing
 
 # SUZUME'S DŌJUTSU TREE — SIGHT, MEDICINE & THE MIND
 
-**Vision economy, the shared tree (相眼 Sōgan), and Ardo's tree are all documented in `characters/ardo.md`.** Short version: Max Vision starts at 10, currently **9**, recovers on a long rest, and **every tier unlocked permanently costs 1 Max Vision.** At Max Vision 0 the eye is permanently blind.
+> ## SUZUME HAS NO VISION TRACK AND WILL NEVER GO BLIND.
+>
+> **The eye is hers.** Native Uchiha tissue, in a native Uchiha body, awakened the way the clan's eyes are meant to awaken. There is nothing in her for it to burn out. **She can push it as hard as she likes, for as long as she likes, for the rest of her life**, and the only limits are Chakra, Special, and how tired she is.
+>
+> **Ardo is the one paying.** The degradation isn't a rule about the Mangekyō — it's a rule about a **non-Uchiha wearing one.** His track, his headband discipline, his three roads out, and the shared 相眼 Sōgan tree are all documented in `characters/ardo.md`. Her tiers cost him nothing; only the shared tree does.
+>
+> **She should probably be told this at some point**, and how she reacts to learning that her best friend is going blind carrying her eye while she pays nothing is a scene worth playing rather than skipping.
 
-**Her eye is normal, and that is a real advantage over Ardo.** It deactivates. It rests. It costs Vision only when used, and it bleeds nothing on a quiet day. Ardo's never switches off and drains 1 Vision daily no matter what he does. **She will still be able to see when he can't**, and both of them should probably work out what that means before it arrives.
+**Unlock gating:** story and training, not Vision. Each tier needs a real reason — a teacher, a breakthrough, a fight that demands it.
 
-Her eye reads **people** — what's wrong inside them, what they can do, and what they're about to try. Everything here is deliberate and activated.
+Her eye reads **people** — what's broken in them, what they can do, and what they're about to try. Everything here is deliberate and activated; hers switches off when she wants it to.
 
-| Tier | Name | Effect | Vision/use |
+| Tier | Name | Effect | Cost |
 |---|---|---|---|
-| **I** | **見立て MITATE · "The Assessment"** | *(medical term — a physician's read of a patient.)* One minute of watching an opponent reveals their **skill proficiencies, rank band, elemental nature, and their single greatest weakness**, GM-stated plainly. Extends Clinical Precision from bodies to fighters. | **1** |
-| **II** | **癒し眼 IYASHIME · "The Healing Eye"** | Medical ninjutsu with the Mangekyō open: she sees the injury exactly — every torn pathway, every fracture, every internal bleed, in real time as she works. **Advantage on all Medical checks, double effect on healing, and she can diagnose anything short of a curse or a seal at a glance.** | **1** |
-| **III** | **写輪幻術 SHARINGAN GENJUTSU** | The clan's actual inheritance, finally hers. Eye contact places a target under genjutsu — **CHA save vs her Genjutsu DC**, failure means paralysis, false sensory input, or a suggestion, her choice. Advantage on the save if the target avoids her eyes, but avoiding her eyes carries its own penalties in a fight. | **2** |
-| **IV** | **静かな部屋 SHIZUKANA HEYA · "The Quiet Room"** | Mukaebi's other edge. She pulls a target **into a constructed mental space** where she sets the terms — no damage, no torture, nothing the clan is infamous for. Just a room, and time, and her. **A hostile target gets a CHA save each round to leave.** Built for interrogation without cruelty, for talking somebody down who cannot be reached any other way, and for the thing she failed to do for Souji by three points. | **4** |
+| **I** | **見立て MITATE · "The Assessment"** | *(a physician's read of a patient.)* One minute of watching an opponent reveals their **skill proficiencies, rank band, elemental nature, and single greatest weakness**, GM-stated plainly. Clinical Precision, extended from bodies to fighters. | 5 Ch |
+| **II** | **癒し眼 IYASHIME · "The Healing Eye"** | Medical ninjutsu with the Mangekyō open — every torn pathway, fracture, and internal bleed visible in real time as she works. **Advantage on all Medical checks, double healing effect, and she diagnoses anything short of a curse or a seal at a glance.** | 8 Ch |
+| **III** | **写輪幻術 SHARINGAN GENJUTSU** | The clan's actual inheritance, finally hers. Eye contact imposes genjutsu — **CHA save vs her Genjutsu DC**; failure means paralysis, false sensory input, or a suggestion, her choice. Advantage on the save if the target refuses to meet her eyes, and refusing to meet her eyes carries its own penalties in a fight. | 15 Ch |
+| **IV** | **静かな部屋 SHIZUKANA HEYA · "The Quiet Room"** | Mukaebi's other edge. She pulls a target **into a constructed mental space where she sets the terms** — no damage, no torture, nothing the clan is infamous for. Just a room, and time, and her. Hostile targets get a CHA save each round to leave. Built for interrogation without cruelty, and for talking down someone who cannot be reached any other way. | 40 Special |
 
 > **Tier IV is the technique she needed on that training ground and did not have.** Souji failed his CHA save by three because nobody could reach the vow underneath his ribs. The Quiet Room reaches it. Build it, and the next Souji doesn't fall.
+>
+> **It is also the only thing anyone has that might reach 荒神 Aragami** — and Aragami has nobody in it to find, which makes "can the Quiet Room hold something that was never a person" one of the better open questions in this campaign.
 
 ---
 
