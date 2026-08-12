@@ -676,6 +676,18 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 
 *She said "see what I see." She did not say it would only run one way.*
 
+### THE CLOSED CIRCUIT **[Session Seven — the most dangerous thing Ardo has learned]**
+
+In her hospital room, Ardo took Suzume's hand, moved Rai's headband to cover **his own** eye so he was seeing only through hers, locked Mangekyō to Mangekyō, and pushed chakra out through her and back into himself in a closed loop. **Control check 21 vs DC 15.** It woke her — see 迎え火 Mukaebi in `characters/suzume.md`.
+
+**But this is the part that matters going forward.** The instant the loop closed, **荒れ川 Arakawa stopped fighting him.** Not calmed, not controlled — *given somewhere to go.* Three days of unattended pressure with no outlet, handed a direction. He could breathe.
+
+**That is what the entity was doing his entire life, and he now knows it.**
+
+**The circuit requires a second person.** The only relief Ardo has ever found from Arakawa is a closed loop with someone on the other end, and so far that someone is a twelve-year-old girl who is alive by a four-minute margin. **This is not a solution. It is a temptation**, and it will be there every single time senjutsu training feels too slow, too far, or too hard. The actual cure is unchanged and still years out.
+
+**Witnessed by a medic-nin and Rokka Uehara.** Hiruzen will know within the hour.
+
 ## 荒れ川 ARAKAWA — "THE RAGING RIVER" **[GM — Session Seven aftermath, permanent until treated]**
 
 **The entity behind the seal is dormant.** Not gone — *unresponsive.* The mindscape is intact, the water is there, the gate is there, the aperture Ardo turned open is still open. Nothing is standing at it. He has called and gotten no answer.

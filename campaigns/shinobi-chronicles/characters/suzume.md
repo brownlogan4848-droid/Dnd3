@@ -2,7 +2,7 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Seven · **CRITICAL — unconscious, hospitalized.** Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
+**Current Session:** Session Seven · **AWAKE, critical, hospitalized.** Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
 **Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Seven)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
@@ -592,11 +592,21 @@ Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out h
 - **Ardo carries her left Mangekyō** — non-Uchiha skull, permanently active, cannot be switched off.
 - **相眼 SŌGAN — "Paired Eyes."** The circuit is closed, which has never been done. Sight bleeds both directions, uncontrolled, and functions while either party is unconscious — first confirmed three days later when her Mangekyō opened while she was still comatose and tracked Ardo across a hospital room to look directly at itself in his socket. **Full writeup in `characters/ardo.md`.** Neither of them is private from the other again, and she attends every 荒神 Aragami event from inside his head.
 
-### The Technique **[unshaped — awakened one second too late to use]**
+### 迎え火 MUKAEBI — "The Welcoming Fire" **[named Session Seven, in the hospital]**
 
-It manifested at the moment she needed it and after it could have mattered, which is what this eye has always been for. **Not yet defined** — deliberately. Design it with the player when she wakes, not before, and build it out of what she actually is: the one who *sees* and can't fix, the medic, the one who reads people clearly enough to know what's wrong inside them. She awakened, plausibly, the exact ability that could have saved both boys.
+*Mukaebi: the lantern lit at Obon so someone a long way out in the dark can find the road back to your door.*
 
-Costs Special rather than Chakra. Upkeep 8 Chakra/round. Carries the Vision consequence.
+**What it does:** reaches a person who is **lost inside themselves** and shows them the way out. Not a weapon. Not a genjutsu. No damage, no illusion, no mind-theft. In a clan whose Mangekyō gifts are black flame and world-breaking illusion, **Suzume's awakened power is going to get somebody and bringing them home.**
+
+**How it was discovered.** She spent three days comatose — *awake* the entire time, alone, in a mind-built copy of her own hospital room with no door, methodically testing the walls in rows until she stopped and sat down. Her Mangekyō, sitting in Ardo's skull with no owner and no instruction, spent those same seventy-two hours **reaching for him** on pure instinct. Every uncontrolled Sōgan bleed was that. It needed someone to look back.
+
+Ardo took her hand, moved Rai's headband to cover his *own* eye so he was seeing only through hers, opened a closed chakra circuit between them, and looked. **Control check: 21 vs DC 15.** The wall opened. She woke.
+
+**She built the door with her last thirty seconds and could not open it from the inside.** The eye exchange was never about arming him — it was a line back, laid by a medic who understood exactly how likely it was that she was about to be somewhere nobody could reach.
+
+**It would have saved Souji from the vow in his own voice. It would have reached Ardo through the thing wearing him.** It awakened one second too late for either, and **the first person it ever saved was herself.**
+
+**Mechanics: still to be built with the player.** Costs Special rather than Chakra. Upkeep 8 Chakra/round. Carries the Vision consequence — the first use paid into the track for both of them, and neither can see the meter. Open questions worth deciding at the table: range, whether the target must be willing, whether it works on someone hostile or possessed, and what it costs her to enter a mind that doesn't want her.
 
 ---
 
