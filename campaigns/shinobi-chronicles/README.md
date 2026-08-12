@@ -57,26 +57,41 @@ squad-two-journey.md          Running log of Roku, Souji and Suzume while Ardo i
 
 ## Campaign status
 
-Live campaign: ***The Long Shadow*** — Era A (Third Great Ninja War, ~Year −15), Konoha. **Session Eight has closed.** Planned to run through a timeskip and resume in Era C.
+Live campaign: ***The Long Shadow*** — Era A (Third Great Ninja War, ~Year −15). **Session Nine in progress, and the party is split.** Planned to run through a timeskip and resume in Era C.
 
 **Cell 409** is, un-asked-for and unannounced, the Indra/Ashura cycle running again: Ardo chose Body of Indra and turned out to be hidden Uzumaki; Souji chose Body of Ashura and turned out to be a lost branch-line Senju; Suzume is Uchiha in blood and Body Origin both. Nobody engineered that at character creation.
 
-**Where everyone stands after Session Eight — "Training Ground Six":**
+### The split
+
+Session Eight ended with the whole cell leaving Konoha as **遊撃班 Yūgekihan** — a roving unit, by Hiruzen's own seal, all three by choice. One day out, all three attempted uncontracted summoning. Souji and Suzume signed contracts. **Ardo rolled a reverse summon and was taken to 龍地洞 Ryūchi Cave**, on another landmass, alone.
+
+| | Where they are |
+|---|---|
+| **Ardo** | **Underground with the snake sages**, learning senjutsu as *treatment* rather than as power. See `the-seam.md` |
+| **Roku, Souji, Suzume** | **Walking northeast**, three to four months on foot past the Land of Frost, navigating by Suzume's half of a paired eye. See `squad-two-journey.md` |
+
+### Where everyone stands
 
 | | State |
 |---|---|
-| **Ardo** | Chūnin. Carries Suzume's Mangekyō in his left socket permanently — **it never deactivates**, and he is the only one paying a Vision cost for it. The entity behind his seal spent itself saving her and is **dormant**; it was doing his chakra control his entire life, so he now runs on 荒れ川 **Arakawa**, an unregulated river where transformations can cost him a limb. **Must learn senjutsu as treatment.** |
-| **Suzume** | Chūnin. Took 99 damage against 80 Health shielding Souji and lived on a four-minute margin. **Mangekyō awakened as she died**; technique 迎え火 **Mukaebi** named but unbuilt. Left socket carries Ardo's ordinary eye — 相眼 **Sōgan**, a closed two-way circuit nobody in Konoha has seen before. Awake, critical, entirely herself. |
-| **Souji** | Genin. Failed his own bloodline's three-save test by three points and 不倒樹 **Futōju** took him. Hiruzen put him down personally with Enma. **根の記憶 Ne no Kioku is permanent** — one real piece of bloodline knowledge per session from here on. Awake two days and has not spoken to anyone. |
+| **Ardo** | Chūnin, 8. Carries Suzume's Mangekyō permanently — **it never deactivates**, and he is the only one paying a Vision cost. Runs on 荒れ川 **Arakawa**, an unregulated river, because the entity that was quietly doing his chakra control for eight years spent itself saving her. Natural energy has been entering him unguarded for six weeks and the endpoint is **stone**. Contracted to no one; Ryūchi Cave teaches him anyway, because he is interesting |
+| **Suzume** | Chūnin, 12. Took 99 damage against 80 Health shielding Souji and lived on a four-minute margin. **Mangekyō awakened as she died**; 迎え火 **Mukaebi** named but unbuilt. Signed with the owls of 灯無, who report everything they find whether or not you asked. **She pays no Vision and nobody has told her Ardo does** |
+| **Souji** | Chūnin, 10. Failed his own bloodline's three-save test by three points; 不倒樹 **Futōju** took him and Hiruzen put him down with Enma. **根の記憶 is permanent** — a real piece of bloodline knowledge every session, in his own furious voice. Signed with the tortoises of 石沼, a house that keeps a ledger **running both directions** |
+
+### The Bequest **[the reframe that changed the campaign]**
+
+What was called a monster growing in Ardo is not one. The seal's inward-facing linework was never built to keep something in — **it was built to keep something from being taken.** A dying woman in a burning house wrote a will on her own infant, and the thing inside was a **trustee**, administering an estate for eight years until the child could carry it. **荒神 Aragami is the inheritance coming out of trust.**
+
+The danger was never possession. **It is inheritance velocity**, and the trap is atrophy rather than conquest.
 
 **Standing GM rule:** *Mandatory Arc Beats* (Book IV §5, Part Eight) — 1–2 GM-initiated spotlight moments per PC per session, the GM's job to deliver rather than the player's to request.
 
-**Session Eight closed with the whole cell leaving.** Cell 409 is designated **遊撃班 Yūgekihan** — a roving unit, independent, long-range, unattached to any front — by Hiruzen's own seal. All three said yes by choice, out loud, on the record. Roku goes with them as jōnin of record, explicitly *not* as their leash. Hiruzen's four conditions: real designation rather than wandering, irregular reporting, Roku, and — set independently by Souji four hours earlier, neither knowing the other said it — **ask Suzume properly, awake, with a real door to refuse through.**
+### Live threads
 
-**Why it's the road and not an escape:** senjutsu is not in Konoha. All three gates of the only actual treatment for Ardo's condition are outside the walls.
+- **The Uchiha taboo** — Suzume's eye is in a non-Uchiha's head, unsanctioned. Hiruzen calls that an *incident* rather than a scandal if it surfaces during the war.
+- **Danzō withdrew rather than retreated**, and made Roku deliver the news personally.
+- **潮風 Shiokaze**, the fourth coil — the original form every transformation Ardo ever "invented" was a copy of. Found, breathing, **not taken.**
+- **Two names nobody will say.** Monuke has refused three times to name the last human who stood in Ryūchi Cave. Hiruzen would not name the boy who walked out past Konoha's walls looking for answers and never came home.
+- The Handler and the Shepherd's judgment, both pending from Session Seven.
 
-**Live threads:** the Uchiha taboo — Suzume's eye is in a non-Uchiha's head, unsanctioned, and Hiruzen calls that an *incident* rather than a scandal if it surfaces during the war · Danzō withdrew his classification request and made Roku deliver the news, which Hiruzen reads correctly as repositioning rather than retreat · 荒神 **Aragami**, the thing being *grown* in Ardo out of natural energy and an unguarded seal, not a tailed beast and with nobody inside it to negotiate with · the Handler and the Shepherd's judgment, pending from Session Seven · and the boy who walked out past the walls looking for answers and never came home, whose name Hiruzen would not say.
-
-**Planned:** a timeskip, resuming in **Era C**.
-
-See `characters/ardo.md`, `characters/suzume.md`, and `characters/souji.md` for full mechanics, session logs, and open threads.
+See `characters/`, `the-seam.md`, and `squad-two-journey.md` for full mechanics, session logs, and open threads.
