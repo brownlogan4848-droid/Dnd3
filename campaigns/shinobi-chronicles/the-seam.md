@@ -674,6 +674,91 @@ She left a fingerprint on the medical coil and chose not to strip it. **She did 
 ---
 ---
 
+# 渦の書庫 — UZU NO SHOKO · "THE WHIRLPOOL ARCHIVE" **[GM — Session Nine. The largest single change in the campaign.]**
+
+## What was under Ryūchi Cave
+
+A **seal array the size of a coastline**, cut into the bedrock beneath the underground sea — thousands of interlocking inward-facing spirals, all slowly turning. **The turning was the tide.** There is no moon down there and no connecting sea; the White Snake Sage stopped asking four thousand years ago and never learned the answer.
+
+**It was Uzumaki work**, in the identical handwriting on Ardo's own stomach, and an inward-facing containment seal is not built to keep something in — **it is built to keep something from being taken.**
+
+Under it: **thousands of coils.** Ardo recognised the shape instantly, having inventoried four of them by hand two days earlier.
+
+## What they are — and what the trustee always was
+
+**Not beasts. Not powers. Not souls in a jar.**
+
+**People.** Uzumaki who, at the end of their lives, agreed to be **kept** — knowledge, craft, and enough self to teach with — because the one thing this clan could not bear was for anything to be *lost.* An archive, hidden as far from the Land of Whirlpools as it is possible to get, so that if the island ever fell the craft would not fall with it.
+
+**The island fell twenty years ago and nobody ever came for them.**
+
+This retroactively answers everything about the trustee. *"Carries knowledge and skill, not just raw power."* *"I remember this kind of losing."* *"That chakra out there. It stood beside mine, once."* ***"...She reminded me of somebody."***
+
+**It was never an "it." It was a person, and Hikari asked her to look after her son.**
+
+## What Ardo did
+
+He did not take. **He offered** — *"It's to complete the archive, and for us to be whole again"* — and every one of them answered **yes**, at once, because nothing this clan built has ever been able to be forced.
+
+**His seal took them.** It was never a prison and never a womb. **It is a shelf**, built to hold exactly this, standing empty since Session Eight. Hikari put one book on it and asked it to mind her child; it turns out it was never built for one.
+
+The array went dark spiral by spiral. **The tide under Ryūchi Cave has stopped, permanently.**
+
+Inside him they **indexed** — four hundred generations coming back into contact for the first time since the island burned.
+
+## What they gave him
+
+- **Fūinjutsu, at the root.** Not techniques — *grammar.* Why inward-facing linework holds, why a spiral distributes load a straight line can't, how to write something that can only be taken and never forced. **He now knows more sealing than any living person on his continent**, and needs years of hands to catch up to what his head holds.
+- **What an Uzumaki body is**, and how to stop apologising for it.
+- **How they made the water turn.**
+- **How to hold an enormous amount of something without it becoming the only thing about you** — the thing he needed most and did not ask for.
+- **The island itself**, taught as a home before it was taught as a loss: the bridges in rain, the noodle place, the festival where the children went out on the boats.
+- **How it ended.** Three nations. A decision in a room. Not defeated — **erased**, because the sealing was intolerable.
+
+> *"You are not the last thing that happened to us. **You are the next thing.** They came to make us stop existing — boy, **we are standing in your stomach.** They did not succeed. They just made it take longer."*
+
+## THE NAMES
+
+| | |
+|---|---|
+| **His mother** | **HIKARI.** *"That's her boy. That's **Hikari's** boy."* Her intended name for him was cut off mid-syllable in the will and is still unknown |
+| **Him** | **ARDO UZUMAKI.** *"Ardo it is, because that is what you answer to and a name is a thing people call you. But the other half is not in dispute and never was."* Said out loud, to the whole archive, and they came apart cheering |
+
+## THE TRUSTEE IS AWAKE
+
+The Sage was right. ***Quiet* and *gone* are different.**
+
+She was in there — helped to her feet by two others, not steady, six weeks under after spending everything she had on a girl in the mud. She could not manage much:
+
+> *"...told you. **Not yet. But not never.**"*
+
+**Standing rule, and it matters more than any mechanic here: she does not take the wheel again.** Ardo learned 手綱 Tazuna himself and the whole arc has been about him driving. **She is a person he can talk to, not a faculty he can use.** Her name is not yet known to him.
+
+## MECHANICS
+
+| | |
+|---|---|
+| **What it is** | **Knowledge and people. Not a power source, not a chakra pool, not a battery.** Treating it as one is precisely the failure the entire arc warns against |
+| **Fūinjutsu** | **Massive theoretical jump.** GM sets the practical ceiling — his *hands* are eight years old and his understanding is four centuries deep. That gap is the training arc |
+| **Consultation** | He can **ask.** They answer as people do — with opinions, disagreements, tangents, and the occasional flat refusal. **They cannot act, cannot fight, and cannot be spent** |
+| **Not a resource** | No Chakra, no Special, no bar. They are not fuel. **The one time something in his belly was spent, it was a person spending herself, and she chose it** |
+| **The responsibility** | **He is the last library of a destroyed people.** If he dies badly, four hundred generations go with him. Nobody has said this out loud yet |
+
+## LIVING UZUMAKI **[new campaign thread]**
+
+> *"Also there are more of us out there! **Living** ones! We're not a rumour — go and **find** them!"*
+
+**He is not the last and never was.** How many, and where, is unknown to the archive — they have been under a lid for twenty years. **This is now a stated goal:** *"there's still people out there. Living ones. I'm going to go find them."*
+
+## What Ryūchi Cave lost
+
+**The tide is gone.** Four thousand years of it, stopped in an afternoon.
+
+> **"Four thousand years I have lived over that, and I did not know it was there, and a child found it in three days because he was polite to the water."** — the White Snake Sage
+
+---
+---
+
 # 渦潮 UZUSHIO — "THE WHIRLING TIDE" **[GM — the endpoint. Not available. Designed so it can be earned]**
 
 **Ardo's ultimate form.** Not a stage of Kōfū — the thing Kōfū and Uzufū were always crude sketches of.
