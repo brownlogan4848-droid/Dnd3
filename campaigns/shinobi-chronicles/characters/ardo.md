@@ -609,6 +609,46 @@ Tested directly for the first time at Rai's pyre: Ardo, consumed by grief curdli
 
 **This confirms a rule, not a one-time refusal:** the Seam answers grief offered with gratitude — reaching out, saying thank you, wanting connection — and it does not answer grief spent as a demand for vengeance. Kōfū and Borrowed Gale both came from the *first* kind of reach. Rage gets silence, not punishment, not power. Whatever's sealed in him, it isn't interested in being a weapon against the world for its own sake — only in being *offered* something, the same distinction Tsunade's whole medic doctrine and half this setting's actual moral center run on. Treat this as fixed going forward: **rage-fueled reaches to the Seam fail by default, no roll needed, unless something in the fiction changes what kind of reach it actually is.**
 
+## 写輪眼 — SUZUME'S MANGEKYŌ, LEFT EYE **[GM — Session Seven, permanent]**
+
+Suzume stepped in front of a full-force 空爆 Kūbaku detonation from the inverted Sakauzu to shield an unconscious Souji. It killed her — 99 damage against 80 Health. Dying, she awakened the Mangekyō, removed her own left eye, put it in Ardo's hands, and said:
+
+> *"See what I see... carry my ninja way with you."*
+
+**Ardo dug out his own left eye in the mud and transplanted hers into the socket immediately** — no medic, no anaesthetic, nothing sterile, at the absolute floor of every resource he had, having already crashed out of Sakauzu.
+
+### The Kakashi Problem **[permanent, no workaround]**
+
+**Ardo is not an Uchiha.** A transplanted Sharingan in a non-Uchiha skull behaves exactly the way the setting says it does:
+
+- **It does not turn off.** Ever. No deactivating it, no resting it, no covering it to stop the drain (covering it helps him hide it, not power it).
+- **Constant Chakra drain**, awake or asleep, in combat or out. GM sets the per-hour and per-round figures; treat his effective ceiling as permanently reduced.
+- **The Mangekyō technique it carries is Suzume's, unshaped and undefined** — hers awakened one second too late to be used. Whether Ardo can ever access it at all, and what it costs him if he does, is deliberately open.
+- **Vision track applies to him too**, and he has none of an Uchiha's tolerance for it.
+- He now has an impossible seal in his stomach *and* a stolen dōjutsu in his skull, in a body nobody in Konoha can already explain.
+
+**He did this in front of the Third Hokage.**
+
+## THE SEAM AFTER — DIMINISHED **[GM — Session Seven, permanent consequence]**
+
+Unconscious, blind on one side, with nothing left, Ardo made the purest version of the reach the Seam has ever answered — no demand, nothing asked for himself, responsibility taken jointly:
+
+> *"We did this to her. So please. **Let's** fix this."*
+
+**It took the *we*.** Without hesitation, for the first time.
+
+Then it moved his hands. Ardo — no medical training, no proficiency, WIS −1 — performed medical ninjutsu with textbook-correct placement, because something that had done exactly this once before, for a dying infant with a killing blow through him, was doing it again. **It could not heal her. What it could do was refuse to let go of her for four minutes**, which was the entire margin between the training ground and the hospital.
+
+Its last words before going quiet:
+
+> *"...She reminded me of somebody."*
+
+**The cost: it spent a great deal of itself.** The presence behind the gate is measurably thinner than it was. This is a real, standing consequence, not flavour —
+
+- **Uzufū and Sakauzu are both affected.** How much is left to draw on is now an open question, and Stage 3 sits behind something that just got much emptier.
+- Whether it recovers, how fast, and whether it *can*, is unresolved and should stay that way.
+- The aperture Ardo turned open is still open. Neither side closed it.
+
 ## What Is Sealed **[GM — held, deliberately not written here]**
 
 Fixed and decided. Not recorded, because this file is player-facing.
@@ -622,6 +662,8 @@ Fixed and decided. Not recorded, because this file is player-facing.
 - **Reacts to Senju chakra — violently. [Session Seven]** Souji's awakened Senju chakra surging nearby sent it frantic and protective, trying to force its own way out. Its words afterward: *"That chakra out there. It stood beside mine, once."* Old enough to have stood beside a Senju. Uzushio and the Senju were kin clans and allies. Ardo has not connected any of this.
 - **The seal can be channeled without being broken. [Session Seven]** Ardo, with no fūinjutsu training whatsoever, instinctively turned the whirl-pattern into an aperture rather than letting it rip. He does not know he did anything unusual. He does not know what it means that his hands knew how.
 - The sealmaster on the Nakano shingle recognised it on sight, looked at Ardo's stomach, and disengaged from a free acquisition.
+- **It knows medical ninjutsu, and it has kept a dying person alive before. [Session Seven]** It moved Ardo's untrained hands through textbook medical work to hold Suzume together for four minutes, and spent much of itself doing it. This is the same thing it did once for a dying infant — see the killing-blow line above. *"She reminded me of somebody."*
+- **It will accept shared responsibility.** Offered *"we did this to her,"* it answered *"Yes. We did"* — the first time it has ever taken a *we*.
 - **The man Ardo Twinned on the shingle, questioned in the hospital, recognized him on sight too** — called him "the wind," said *"he said you'd come looking eventually,"* and named himself as someone who was also **found**, not made. Genuinely seemed to fear what Ardo might become. Does not know what's sealed either — his fear was recognition of shape, not content.
 
 ---
@@ -882,6 +924,13 @@ Storming Thunder God C  25/15  Action    ← Proficient, 3d8+paralysis, melee, 2
 Thunder Gods Gale    C  28/14   Action    ← PROTOTYPE, ranged 40ft, 3d8, pulls targets in, 2 slots
 Barometric Tsunami   C  12/6   Action    ← PROTOTYPE, 2m line, 2d8, STR12 or prone+stun, 2 slots
 Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B > Chūnin C ceiling), 2 slots
+
+── PERMANENT, SESSION SEVEN ─────────────────────
+LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
+  DOES NOT TURN OFF · constant Chakra drain · Vision track applies
+  Her technique is unshaped — access unresolved
+THE SEAM: DIMINISHED. Spent most of itself saving Suzume.
+  Uzufū/Sakauzu reserves now an open question. Stage 3 further away.
 
 ── OTHER POWER SYSTEMS (not jutsu) ──────────────
 Borrowed Gale    entity-granted only, Health-cost 3/5/8 per rd

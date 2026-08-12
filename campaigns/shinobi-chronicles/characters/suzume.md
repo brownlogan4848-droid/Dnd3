@@ -2,11 +2,11 @@
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
 **Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** Session Five · Mid-combat against **the Shepherd**  
+**Current Session:** Session Seven · **CRITICAL — unconscious, hospitalized.** Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; gave her left eye to Ardo. Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
 **Character:** **Suzume** · Chūnin · Level 5 · Age 12 *(promoted end of Session Six, stats recalculated Session Seven)*  
 **Cell:** Konoha Cell 409  
 **Current Rank Ceiling:** C-rank  
-**Current Dōjutsu:** **Sharingan — 2 Tomoe**
+**Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE ONLY.** Left eye permanently gone, given to Ardo and transplanted. See Part Eight, Path ②.
 
 ---
 
@@ -563,29 +563,37 @@ Suzume must:
 
 ---
 
-## PATH ② — MANGEKYŌ SHARINGAN
+## PATH ② — MANGEKYŌ SHARINGAN · **AWAKENED, SESSION SEVEN**
 
 **Printed Unlock:** Level 14 + death of someone loved played out in fiction.
+**Actual Unlock:** Level 5, nine levels early, on the training ground where Ardo and Souji both lost control.
 
-### Current Story Status
+### How It Actually Happened **[GM — the trigger came true sideways]**
 
-Rai's death **already satisfies the narrative trigger condition** as written.
+Suzume threw herself between an unconscious Souji and a full-force 空爆 Kūbaku detonation from the inverted 逆渦 Sakauzu wearing Ardo. **She took 99 damage against 80 Health and did not dodge, brace, or substitute** — she turned her back on the punch so her body would cover Souji's completely. It worked exactly as intended. Souji took nothing.
 
-This does **not** mean Suzume automatically receives Mangekyō.
+**The trigger condition fired in reverse.** She was not grieving someone else's death — she was dying, watching, with the clearest eyes on the field, what her death was about to do to Ardo, and unable to reach him or stop it. The printed condition is *the death of someone loved, played out in-fiction.* It came true from the inside out.
 
-The level gate and future narrative decision remain.
+**Pattern:** the two tomoe stretch and run together into a single sweep of black doubling back on itself twice — a small bird's wing caught at the top of a beat. *Suzume* means sparrow.
 
-### Mangekyō Design
+### The Gift **[permanent, irreversible]**
 
-- One unique technique.
-- DM-designed.
-- Costs Special rather than Chakra.
-- Upkeep: 8 Chakra/round.
-- Carries the established Vision/blindness consequence.
+Dying, with her last voluntary motion, she said:
 
-**This path should remain optional.**
+> *"See what I see... carry my ninja way with you."*
 
-The campaign should not force Suzume into Mangekyō simply because the trigger has occurred.
+Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out his own left eye in the mud and transplanted hers into the socket on the spot — no medic, no anaesthetic, no sterile field.
+
+- **Suzume is permanently down her left eye.** No prosthetic, no recovery, no getting it back. It is in someone else's head.
+- **One Mangekyō remaining**, right side.
+- **The Vision track opens at 10 and this awakening was not gentle.** GM tracks the starting figure; it is not a clean 10.
+- **Ardo carries the other one.** See `characters/ardo.md` — non-Uchiha skull, permanently active, cannot be switched off.
+
+### The Technique **[unshaped — awakened one second too late to use]**
+
+It manifested at the moment she needed it and after it could have mattered, which is what this eye has always been for. **Not yet defined** — deliberately. Design it with the player when she wakes, not before, and build it out of what she actually is: the one who *sees* and can't fix, the medic, the one who reads people clearly enough to know what's wrong inside them. She awakened, plausibly, the exact ability that could have saved both boys.
+
+Costs Special rather than Chakra. Upkeep 8 Chakra/round. Carries the Vision consequence.
 
 ---
 
