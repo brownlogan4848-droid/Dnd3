@@ -1,7 +1,7 @@
 # Naruto Shinobi Chronicles — PC SHEET: ARDO
 
 **Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.
-**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). **龍地洞 RYŪCHI CAVE — alone, underground, on another landmass.** Session Nine: an uncontracted summoning reverse-summoned him out of a clearing one day from Konoha. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
+**Current position:** Late Era A (Third Great Ninja War, approx. Year −15). **龍地洞 RYŪCHI CAVE — alone, underground, on another landmass.** Session Nine, day two: reverse-summoned out of a clearing one day from Konoha, he has since taken his mother's bequest in full and **achieved senjutsu by a method nobody in this world teaches** — contracted to no species, owing nobody. The White Snake Sage is on his way. **Squad Two (Roku, Souji, Suzume) is walking northeast to find him — see `squad-two-journey.md`.** Cell 409 left Konoha designated **遊撃班 Yūgekihan** by Hiruzen's own seal, all three by choice. Chūnin as of Session Six; the Shepherd case closed in Session Seven; **Session Eight is the catastrophe** — a friendly spar with Souji that unlocked Uzufū, inverted into Sakauzu, triggered Souji's Futōju, and ended with Suzume taking 99 damage shielding him, awakening the Mangekyō as she died, and trading eyes with Ardo in the mud. The entity behind the seal spent nearly all of itself to keep her alive and is now **dormant and unresponsive.** Ardo carries her Mangekyō permanently, an unregulated river he has no control over (荒れ川 Arakawa), and a village that has now seen exactly what he is. Rai Inuzuka died in Session Five. Full session logs in Part Twelve. Castable jutsu are in Part Five; **everything Seam-related now lives in `the-seam.md`.**
 
 **Sourcing convention for this file:**
 
@@ -85,7 +85,7 @@ Konoha is a Fire village and **does not teach Wind.** There is no curriculum, no
 
 *(Genin/Level 1 baseline was 200 / 115 / 36 / prof +2.)*
 
-> **CURRENT — Session Nine, Ryūchi Cave, day two.** Chakra/Stamina/Health effectively full; there is nothing to fight down here and the snakes feed him. **Vision 87/100** and falling. **荒神 Aragami: 3 coils**, all inventoried. **A fourth coil found and not taken.** Ongoing: a permanent Mangekyō drain, an unregulated river, and a whirl-pattern surfaced and slowly turning on the skin of his stomach.
+> **CURRENT — Session Nine, Ryūchi Cave, day two.** Chakra/Stamina/Health effectively full; there is nothing to fight down here and the snakes feed him. **Vision 87/100** and falling. **The estate is signed for in full — four coils, all named**, 潮風 Shiokaze among them. **潮合 Shioai achieved:** senjutsu, his own method, eleven minutes unassisted. Ongoing: a permanent Mangekyō drain, an unregulated river, and a whirl-pattern surfaced and slowly turning on the skin of his stomach.
 >
 > *Historical, Session Five mid-fight vs the Shepherd, kept as a record of that point in the timeline: 6/200 Ch · 6/115 St · 18/36 HP · 5/100 Special, Kōfū active round 2, nearly empty and everyone at the table knew it.*
 
@@ -476,13 +476,14 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 | **写輪眼 The eye** | Suzume's Mangekyō, the exchange, the Kakashi problem |
 | **相眼 Sōgan** | Paired eyes · the Vision economy · all three dōjutsu trees · the headband discipline · the three roads out |
 | **荒れ川 Arakawa** | The condition, the transformation table, and 荒神 Aragami |
-| **拮抗 Kikkō** | The counterweight |
+| **拮抗 Kikkō** | The counterweight — superseded by 潮合 Shioai |
+| **潮合 Shioai** | **Senjutsu. Achieved.** His own method: keep time, don't be still |
 | **THE BEQUEST** | The trustee reframe · signing for the estate · **the will, as read** |
-| **潮風 Shiokaze** | The fourth coil — the original form |
+| **潮風 Shiokaze** | The fourth coil — **taken.** The original form every other one copied |
 | **渦潮 Uzushio** | The endpoint |
 | **What Is Sealed** | Running list of confirmed facts |
 
-**Quick status:** entity **dormant** · Arakawa **live, untreated** · Aragami **3 coils** · Vision **87/100** · four coils inventoried, **the fourth not yet taken**.
+**Quick status:** the trustee's work is **finished** · the estate is **signed for in full, four coils** · 荒神 Aragami **CLOSED** · 潮風 Shiokaze **owned, not yet entered** · 潮合 Shioai **achieved** · Arakawa **manageable in rhythm, live out of it** · Vision **87/100**.
 
 
 ---
@@ -496,15 +497,23 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 
 Printed passive unchanged: +25% Chakra, advantage vs. sealing.
 
-**Three gates:**
+**Three gates, as written — and as actually cleared.** He took them out of order and skipped one entirely:
 
-1. **THE CONTRACT.** Summoning Technique, **C-rank**, Chūnin minimum. Species must accept him.
-2. **THE REVERSE SUMMON.** A summon must pull him to their realm — Mount Myōboku, Ryūchi Cave, or Shikkotsu Forest.
-3. **THE BALANCE.** Perfect stillness required. Too much and he **turns to stone, permanently.**
+| Gate | As written | What happened |
+|---|---|---|
+| **1 — THE CONTRACT** | C-rank Summoning, Chūnin minimum. A species must accept him | **NEVER CLEARED.** Ryūchi's scroll is spoken for and Monuke will not say by whom. **He has signed nothing and owes nobody** |
+| **2 — THE REVERSE SUMMON** | A summon must pull him to their realm | **Cleared by accident, Session Nine** — asked for power in the wrong voice on a 24 and was aimed at the right door |
+| **3 — THE BALANCE** | Perfect stillness. Too much and he turns to stone, permanently | **Cleared by disproving it.** Stillness turned out to be a workaround for a limitation he doesn't have. See 潮合 Shioai in `the-seam.md` |
+
+> **SAGE — achieved Session Nine, by his own method, contracted to nobody.** *"Every sage this world has produced was made by a species... **You are not ours.** You are a sage of a place that has been at the bottom of the sea for twenty years and did not know it made you."*
+>
+> **The stone clause is still live.** Shioai stops accumulation; it does not make him immune to losing the rhythm.
 
 **Confirmed distinct from the calm Seam variant** — that variant gathers nothing external and requires no stillness. It is explicitly not senjutsu practice, just a different door.
 
-## 拮抗 KIKKŌ — "THE COUNTERWEIGHT" **[GM — Session Nine, Ryūchi Cave, day one]**
+## 拮抗 KIKKŌ — "THE COUNTERWEIGHT" **[GM — Session Nine day one · SUPERSEDED day two by 潮合 Shioai]**
+
+> **Kept because it is the step that produced the method, and because it is genuinely his.** Kikkō was the *shape* — two forces thrown at each other, four seconds of balance against nineteen minutes of exposure, a coin landing on its edge. **潮合 Shioai is the working version:** don't balance, keep time. Full entry in `the-seam.md`.
 
 **Gate 2 cleared by accident.** Ardo's uncontracted summoning rolled a 24 and reverse-summoned him into 龍地洞 Ryūchi Cave — he asked for power in the wrong voice and was aimed at the right door.
 
@@ -969,15 +978,24 @@ Uzufū·Whirlpool    STAGE 2  100Ch/50St/10HP (half from Stage 1)
                  (does NOT skip the three Bloodline Path gates)
 
 ── THE ESTATE (see the-seam.md) ─────────────────
-荒神 ARAGAMI — 3 coils signed for, all inventoried:
+荒神 ARAGAMI — ** CLOSED **. Never a rival; it was the estate.
+  Nothing left unclaimed, so nothing further can accrete.
+  The old 3-save threat (CON15/WIS17/CON19) is VOID.
+4 coils, all signed for, all named:
   器 UTSUWA    the vessel — ALREADY ACTIVE, explains the reserves
   手綱 TAZUNA  the reins — THE CURE FOR ARAKAWA. Owned. Unusable.
   癒しの手     medical discipline + a person attached. DO NOT TOUCH.
-潮風 SHIOKAZE — FOURTH COIL. Found, breathing, NOT TAKEN.
+潮風 SHIOKAZE — FOURTH COIL. ** TAKEN ** ("I'm ready, mother")
   The original form. Kōfū/Uzufū/Borrowed Gale were all copies of it.
-  It will never take him. He has to reach out. Costs him the belief
-  that he built his own power.
+  OWNED, NOT YET ENTERED. Exempt from the Arakawa transform table.
+  Came with: the village in the whirlpools, and her voice.
 渦潮 UZUSHIO — the endpoint. Three gates. Not available.
+
+潮合 SHIOAI — ** SENJUTSU. ACHIEVED. ** His own method.
+  Not still — IN TIME. You don't still a tide, you keep time with it.
+  Right iris splits on a tide-line; whirl-pattern spreads bodywide.
+  11 min unassisted. Cannot yet hold it in a fight or outside the cave.
+  Contracted to NOBODY. Gate 1 never cleared.
 
 BRACE  8 St → reduce one action by 1d6+3
 GOING BEYOND  overdraw to 0, shortfall from HP at 4:1

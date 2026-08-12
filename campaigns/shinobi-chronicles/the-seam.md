@@ -51,9 +51,23 @@ For the first time, the mindscape didn't snap shut after a breath's worth of rea
 
 No name. No explanation. Recognition — old, exact, and specific. Later in the same visit, Ardo reached his hand through the gate and said thank you; it was met, gently, wordlessly, and he was pulled back into his body already mid-transformation. **Two new abilities came out of this single extended visit** — see below.
 
+---
+
+> # ⚠ THE THREE BELOW ARE RECONSTRUCTIONS
+>
+> **借風 Shakufū, 紅風 Kōfū and 渦風 Uzufū are all partial copies of 潮風 Shiokaze**, which Ardo has owned since he was eight months old and took consciously in Session Nine. See the Shiokaze entry for the full accounting.
+>
+> They are kept in full because they are still castable, because their costs and failure modes are still real, and because the campaign spent eight sessions treating them as inventions. **But from Session Nine forward, using one of these instead of the original is choosing a worse tool that costs more and can take an arm off.**
+>
+> Kōfū and Uzufū both roll the Arakawa transformation table. **Shiokaze does not.**
+
 ## 借風 SHAKUFŪ — "Borrowed Gale" **[GM — Other Power System, entity-granted]**
 
-Not a jutsu. **Never Ardo's to trigger alone** — requires the entity actively offering, mid-extremity, in direct response to something real. Cannot be requested, forced, or made into a reliable button.
+Not a jutsu. **Never Ardo's to trigger alone** — requires the entity actively offering, mid-extremity, in direct response to something real.
+
+**[Session Nine — what this actually was.]** The trustee **demonstrating a fragment of Shiokaze.** One piece at a time, only when a moment justified it, because handing a six-year-old the whole form would have killed him. It let him believe he was being loaned something exotic. **He was being taught his own inheritance, in instalments, by someone who could not explain why.**
+
+**With the estate signed for, this no longer has a source to come from.** It is a historical entry.
 
 **While active (up to 3 rounds, end early anytime):** every Taijutsu strike **+1d6 Wind**, advantage on Taijutsu attack rolls, Move speed doubles.
 
@@ -118,7 +132,7 @@ Built the same visit, but distinct in kind: **Ardo's own strained reach** toward
 | **Reactions** | **Two Reactions per round** instead of one — the entity's own old survival instinct on loan |
 | **Perception** | Advantage on Perception and on Reaction timing |
 | **Chakra flow** | **Regain 15 Chakra at the start of each of his turns.** The gate is channeling, not leaking |
-| **Senjutsu-adjacent** | His strikes now land on things ordinary attacks can't fully touch — chakra constructs, partially-intangible targets — and he takes **+2 on all Clash rolls.** This is the "foundation for eventual senjutsu" line finally doing something, and it is **not** Sage Mode; the Bloodline Path's three gates are untouched and still required |
+| **Senjutsu-adjacent** | Strikes land on things ordinary attacks can't fully touch — chakra constructs, partially-intangible targets — and **+2 on all Clash rolls.** *(Written before he was a sage. He is one now; this row reads as the crude version of something he does properly.)* |
 
 ### Passives — active the entire time Uzufū is up
 
@@ -143,7 +157,7 @@ The aperture Ardo turned open in the seal doesn't only pass chakra outward. Whil
 
 - **Any senjutsu practice, training, or attempt made while in Uzufū is rolled with advantage.**
 - **All progress toward senjutsu — XP, understanding, training milestones — accrues at triple rate.**
-- **Explicitly does not skip the Bloodline Path's three gates.** The Contract, the Reverse Summon, and the Balance are all still required, unchanged. This makes the road far faster to walk; it does not remove any part of it. *(Forward-looking by design — Ardo has no senjutsu access at all yet.)*
+- **[SUPERSEDED, Session Nine.]** This was written when Ardo had no senjutsu access and Uzufū was the fastest road to it. **He has senjutsu now** — reached in a cave, by his own method, without ever entering Uzufū. Kaimon remains a genuine training accelerator, but it is no longer the only door and is no longer worth a limb.
 
 **Sustain:** **25 Chakra / 20 Stamina** per round held (net ~10 Ch/round after the regen).
 
@@ -195,9 +209,9 @@ Its last words before going quiet:
 
 **The cost: it spent a great deal of itself.** The presence behind the gate is measurably thinner than it was. This is a real, standing consequence, not flavour —
 
-- **Uzufū and Sakauzu are both affected.** How much is left to draw on is now an open question, and Stage 3 sits behind something that just got much emptier.
-- Whether it recovers, how fast, and whether it *can*, is unresolved and should stay that way.
-- The aperture Ardo turned open is still open. Neither side closed it.
+- **[ANSWERED, Session Nine.]** "How much is left to draw on" turned out to be the wrong question — there is no *it* left to draw on. **The trustee's work was finished and the estate passed to Ardo.** Four coils, all inventoried, all his.
+- **Whether it recovers** remains genuinely open, and is now a question about a *person* rather than a resource. Monuke: *"I would give a great deal to be able to ask it what it thinks."*
+- The aperture Ardo turned open is still open. Neither side closed it, and **it is now the door his senjutsu comes through.**
 
 ## 相眼 SŌGAN — "PAIRED EYES" **[GM — Session Eight, permanent, unprecedented]**
 
@@ -220,7 +234,7 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 ### The cost
 
 - **Neither of them is private from the other again.** Ever.
-- **Whatever happens to one, the other attends.** Explicitly including 荒神 Aragami: Ardo stays conscious through every manifestation, which means **Suzume does too** — from inside his head, through her own eye, unable to look away and unable to help.
+- **Whatever happens to one, the other attends.** She felt him land in Ryūchi Cave, felt the night on the stone and knew it was wrong before he did, and felt the moment he first held the rhythm. **There is no version of anything happening to him that she does not attend**, at any distance, with no ability to refuse or intervene.
 
 *She said "see what I see." She did not say it would only run one way.*
 
@@ -238,7 +252,7 @@ Because the transplant ran **both directions**, Ardo and Suzume each carry one o
 | Rule | Detail |
 |---|---|
 | **Starting Max Vision** | **100** |
-| **Current Max** | **97** — Mukaebi's first use, waking Suzume, cost 3 |
+| **Current Max** | **87** — Mukaebi 3 · Ryūchi Cave day one 4 · the night on the stone 6 |
 | **Unlocking a tier** | **Permanently −5 Max Vision.** Twelve tiers exist across all three trees; taking every one costs 60 |
 | **Uncovered, ordinary life** | **−1 per month.** This is the Kakashi rate |
 | **Uncovered, per combat** | **−1 per fight**, however long it runs |
@@ -298,7 +312,7 @@ The campaign runs to a timeskip and resumes in Era C. **What the eye costs acros
 
 # 相眼 SŌGAN — THE SHARED TREE **[requires both, unlocked by training together]**
 
-Neither of them can unlock these alone — they have to train it together. **Each tier costs 1 Max Vision from Ardo only.** Suzume pays nothing; there is nothing in her eye to spend.
+Neither of them can unlock these alone — they have to train it together. **Each tier costs the standard −5 Max Vision, and Ardo pays all of it.** Suzume pays nothing; there is nothing in her eye to spend.
 
 | Tier | Name | Effect | Ardo's Vision/use |
 |---|---|---|---|
@@ -322,7 +336,7 @@ His eye reads **speed.** Fitting for someone whose whole style is arrival rather
 | **III** | **半瞬 HANSHUN · "The Half-Second"** | Mikiri upgrades: instead of only dodging, he may **counterattack immediately** with a basic attack or D-rank technique at no slot cost. Twice per combat. | 10 Ch |
 | **IV** | **写し UTSUSHI · "The Copy"** | The full Sharingan gift — **copy a witnessed technique** (Ninjutsu check, DC 10 + 2 per rank step). Kekkei genkai and hiden remain uncopyable. | 15 Ch |
 
-> **⚠ Tier IV interacts badly with 荒れ川 Arakawa, and this is deliberate.** A copied technique is one Ardo has *never trained*, executed with control he *does not have.* **Every copied C-rank or above triggers the Arakawa control check, and copied A/S-rank techniques roll on the transformation table instead** — which means copying something impressive is a genuinely plausible way to lose an arm. He can take everything anyone shows him. He may not survive using it.
+> **⚠ Tier IV interacts badly with 荒れ川 Arakawa, and this is deliberate.** A copied technique is one Ardo has *never trained*, executed with control he is still learning to hold. **Every copied C-rank or above triggers the Arakawa control check**, at advantage while he is holding 潮合 Shioai and flat otherwise. **Copied A/S-rank while out of rhythm rolls the transformation table.** He can take everything anyone shows him. He may not survive using it.
 
 ### THE CLOSED CIRCUIT **[Session Eight — the most dangerous thing Ardo has learned]**
 
@@ -354,55 +368,98 @@ It spent itself down to nothing holding Suzume together for four minutes. The re
 
 An enormous, unattended volume of chakra churning constantly with nothing steering it. **E and D-rank techniques are fine** — his own honest training covers them. **Every C-rank and above requires a control check before resolving**; his whole fusion kit (Storming Thunder God, Thunder Gods Gale, Compression Sphere, Barometric Tsunami) was built on borrowed regulation. Failure = Overflow, below.
 
-### Transformation — roll d20 every attempt
+### Transformation — roll d20 every attempt **[Kōfū and Uzufū ONLY]**
 
-Applies to **Kōfū, Uzufū, and Borrowed Gale alike.** Nothing moderates the mix anymore.
+**潮風 Shiokaze is exempt and that is the entire point of owning it** — see below. This table now applies solely to the two **crude reconstructions**, and using them when he owns the original is an actively worse decision than it was before Session Nine.
 
 | d20 | Result |
 |---|---|
-| **1–4** | **BLOWOUT.** Fires at **S-rank output or beyond** — and the channeling limb is destroyed. Shattered, cooked, or gone. GM's call on recoverability; sometimes the answer is no. |
-| **5–9** | **TEARING.** Severe internal damage, chakra pathways scorched, lasting injury. Technique lands at wild unpredictable power. |
-| **10–14** | **EMERGENT.** 荒神 Aragami begins to form. Three saves follow — see below. |
-| **15–18** | **RIDE IT.** Works, and works too well. Every technique this round jumps a rank band; real damage taken for each. |
-| **19–20** | **CLEAN.** His own control suffices. Do not count on this. |
+| **1–4** | **BLOWOUT.** Fires at **S-rank output or beyond** — and the channeling limb is destroyed. Shattered, cooked, or gone. GM's call on recoverability; sometimes the answer is no |
+| **5–9** | **TEARING.** Severe internal damage, chakra pathways scorched, lasting injury. Technique lands at wild unpredictable power |
+| **10–14** | **SLIP.** He loses the beat mid-transformation. Rule 5 Interruption, and the round is spent getting the rhythm back rather than fighting |
+| **15–18** | **RIDE IT.** Works, and works too well. Every technique this round jumps a rank band; real damage taken for each |
+| **19–20** | **CLEAN** |
 
-### EMERGENT — 荒神 ARAGAMI, "The Raging God" **[GM]**
+> **What changed on this table:** the old **10–14 EMERGENT** result — 荒神 Aragami forming, three saves, fail two and it takes him — **is deleted and cannot occur.** There is no material left for it to form out of. See below.
 
-**Nothing was ever sealed in him but the entity, and the entity is dormant. This is not that.** With nothing guarding the aperture, **natural energy is pouring in and mixing with the unregulated river**, continuously, with no supervision — and the mixture is **accreting into a form.**
+### 荒神 ARAGAMI — **CLOSED** **[GM — resolved Session Nine]**
 
-**It is not a tailed beast, and the distinction is the whole point.** A bijū is a *person* — it has a name, a history, opinions, and a partnership arc available to anyone patient enough to earn it. **Aragami has nobody in it.** It is weather that has developed intent. There is no negotiation available, no mindscape conversation, no bargain, because there is no one there to bargain with. Enough natural energy pooling and taking a shape has an older name than "beast" in this setting's own mythology, and that name is **kami** — the violent kind.
+**This was the campaign's worst-diagnosed threat and it was wrong from the first sentence.**
 
-It shares the 荒 of 荒れ川 Arakawa deliberately. **The river is making the god.**
+It was logged as something being *grown* in him: formless material accreting into a rival, weather with intent, nobody inside it, no negotiation possible, coils as a countdown to being replaced. **Every part of that reading is now known to be false**, and it is preserved here only so the correction is legible.
 
-**Form:** a coiling storm-shape of wind and raw natural energy, whirlpool-structured, roughly bijū-scale and growing. Where a tailed beast has tails, Aragami has **coils** — and **it gains one every time it manifests, permanently.** That is its growth track, it does not reset, and it is a countdown.
+**荒神 Aragami was never a thing being built. It was the estate coming out of trust** — see THE BEQUEST below. The "coils" were never a growth track toward a monster. **They were items being signed for**, and the reason they never reset is that an inheritance doesn't.
 
-### The Three Saves — every time Aragami begins to form
+| | Then | Now |
+|---|---|---|
+| What it is | A rival forming from raw material | **The estate, itemised** |
+| Coils | A countdown, +1 per manifestation, permanent | **Four items, all named, all signed for** |
+| Danger | Being replaced by something with nobody in it | **Inheritance velocity — being crushed by taking delivery too fast** |
+| Endgame | It takes him | **Atrophy: he lets it drive and never learns to** |
 
-Same structure as Uzufū's awakening and Souji's Futōju. **Fail two or more and it takes him.**
+**Status: four coils. All inventoried. Nothing remains unclaimed, so nothing further can accrete.** The three saves (CON 15 / WIS 17 / CON 19) are **void** and should not be rolled.
 
-| # | Save | DC | What it measures |
-|---|---|---|---|
-| 1 | **CON** | **15** | Whether the body survives being the mixing vessel |
-| 2 | **WIS** | **17** | Whether Ardo stays *present* while natural energy floods a mind with no discipline for it |
-| 3 | **CON** | **19** | Whether the shape stays his instead of becoming its own thing |
-
-> **Save 2 is the killer and it is designed to be.** Ardo's WIS is **−1** — his dump stat, and the exact attribute senjutsu training exists to develop. **He cannot reliably pass this until he learns senjutsu properly.** The reason he can't control Aragami is precisely the thing the cure would fix.
-
-**Pass two or more — RIDDEN.** Enormous power, his to aim, for a short window. This is the "sage mode, but wrong" upside: raw senjutsu-grade output without any of senjutsu's discipline. Costly, ugly, and effective.
-
-**Fail two or more — ARAGAMI TAKES HIM.** GM-run, does not recognize allies, scales with pooled natural energy and current coil count. **And Ardo is conscious the entire time.** He does not black out. He watches — the same way he watched his own hand find Suzume.
+> **The failure mode that survives the correction** is the one that actually happened: six hours on a stone, letting the estate do his chakra control for him because it felt wonderful, waking up three coils richer with no idea what he'd taken. **That is still available every night, it still works, and it is still the thing most likely to ruin him.**
 
 ### The other direction — inward
 
-The aperture also runs the other way, and that consequence is live and ambient rather than hypothetical: untrained senjutsu, per the Bloodline Path's own clause, means **too much and he turns to stone. Permanently.**
+The aperture runs both ways. Untrained senjutsu, per the Bloodline Path's own clause, means **too much and he turns to stone, permanently** — and he came within two inches of his elbow proving it on day one.
 
-### The treatment, and the trap
+**潮合 Shioai does not remove this.** It gives him a method for not accumulating; it does not make him immune to the consequence of losing the method. **A tide that loses its period is just a flood.**
 
-**Senjutsu is not an upgrade for Ardo anymore. It is treatment.** It is the only discipline in the setting that teaches a body to accept unmanageable external energy and balance it without dying — precisely his condition. *"Foundation for eventual senjutsu"* has been on this sheet since it was written. Nobody knew it was a prescription.
+## 潮合 SHIOAI — "KEEPING TIME" **[GM — Session Nine. Senjutsu, achieved. His own method.]**
 
-**The three gates are unchanged, and the first one just opened:** the Contract requires C-rank Summoning at **Chūnin minimum**, and he made Chūnin this session.
+**潮合 *shioai*** — tidal timing; idiomatically, *the right moment.*
 
-**The trap:** the fastest route to senjutsu in his kit is **開門 Kaimon** — Uzufū's passive, advantage on senjutsu practice, **triple progress.** Which requires entering Uzufū. Which is now a d20 where 1–4 costs him a limb. **The cure sits behind the thing that is killing him.**
+### Why every existing method would have killed him
+
+Senjutsu has one first instruction everywhere it is taught: **be still, then gather.** Quiet your own chakra to nothing, and draw natural energy into the silence.
+
+**荒れ川 Arakawa removes the prerequisite.** Ardo cannot be still. Monuke's day-one verdict — *"you are the worst possible candidate for the only discipline that can save you, and that is arithmetic, not cruelty"* — was correct about the method and wrong about the boy.
+
+### What Ardo worked out instead
+
+**Stillness was never the requirement. It was a technique for the deaf** — a way of making a *small* chakra quiet enough to hear the world with. Every human Monuke has taught in four centuries needed it because their own chakra was noise.
+
+**Ardo's isn't noise. It's a tide.** And a thing with a period does not need to be silenced.
+
+> ***You don't still a tide. You keep time with it.***
+
+Sitting on the stone with 潮風 Shiokaze newly taken and breathing under his ribs — *in, out*, the rhythm it had kept for eight years without a missed beat — he stopped reaching for silence, matched his breathing to it, let the river fall into the same beat, and then **let the cave in on the in-breath and out on the out-breath.**
+
+Nothing is balanced. Nothing is held. **It cycles.** *(WIS save, natural 20.)*
+
+### What it looks like
+
+- The natural energy of the chamber **rotates around him**, out and back, matching a rhythm coming from under his ribs. The room breathes with him.
+- The whirl-pattern spreads from his stomach along every path his chakra runs — up under the ribs, both arms, around the throat, down the spine. Fine inward-facing Uzushio linework, pale, **turning.**
+- **His right iris divides** — light above, dark below, one clean horizontal line. **A tide mark.** It rises on the in-breath and falls on the out.
+
+### Mechanics
+
+| | |
+|---|---|
+| **What it is** | Senjutsu. Real, functional, his — **not toad, snake, or slug** |
+| **First hold** | **Eleven minutes**, unassisted, no petrification |
+| **Why it doesn't accumulate** | Nothing pools if it never stops moving. **The in-breath takes and the out-breath returns** |
+| **Effect on Arakawa** | The river is **inside the cycle** rather than fighting it. No control checks while the rhythm holds |
+| **Cost** | Enormous concentration. This is the opposite of the six hours on the stone: it is entirely his own hands on his own reins, and it is exhausting |
+| **Failure** | **Losing the beat, not losing a grip.** It slips gently — and a tide that loses its period is just a flood, with the same stone waiting |
+| **Mastery** | **Barely begun.** He can reach it seated, undisturbed, in a saturated cave, with a sage watching. He cannot hold it in a fight, under pressure, or anywhere that isn't Ryūchi Cave. **That is the rest of the arc** |
+
+### The gates, as actually cleared
+
+The Bloodline Path's three gates were written assuming the standard road. **He took them out of order and skipped one entirely:**
+
+| Gate | Status |
+|---|---|
+| **1 — THE CONTRACT** | **NEVER CLEARED.** Ryūchi's scroll is spoken for and Monuke will not say by whom. **He has signed nothing and owes nobody** |
+| **2 — THE REVERSE SUMMON** | **Cleared by accident**, Session Nine, by asking for the wrong thing in the wrong voice |
+| **3 — THE BALANCE** | **Cleared by disproving it.** The requirement was perfect stillness. He demonstrated that stillness was a workaround for a limitation he doesn't have |
+
+> *"Every sage this world has produced was made by a species. Toads make toad sages. Snakes make snake sages. **You have signed nothing. You owe nobody. You are not ours.** You are a sage of a place that has been at the bottom of the sea for twenty years and did not know it made you."* — Monuke
+
+**This brought the White Snake Sage out.** He does not come out for shouting.
 
 ## THE BEQUEST **[GM — Session Nine, Ryūchi Cave. The reframe that changes everything]**
 
@@ -511,7 +568,7 @@ Ardo cannot tell whether it is her teaching him, or her being taught as a child,
 
 ---
 
-# 潮風 SHIOKAZE — "THE TIDE WIND" **[GM — THE FOURTH COIL. Found Session Nine. NOT TAKEN]**
+# 潮風 SHIOKAZE — "THE TIDE WIND" **[GM — THE FOURTH COIL. TAKEN, Session Nine]**
 
 **Found underneath the other three — not hidden, just deeper. You have to go past the inventory to reach it.**
 
@@ -544,19 +601,59 @@ Wind that has spent its whole life over water. A sea breeze — the thing you wo
 
 > **潮 — *tide* — is the first character of the name he has not learned yet.** Do not let anyone say 渦潮 near him.
 
-## It will not take him
+## TAKEN — how it was accepted
 
-**This is the difference that matters.** The other three items are property and do not care whether he uses them. Shiokaze has been **waiting** — eight years, a hundred opportunities, and it has never once moved toward him.
+He didn't reach with his hands; there was nothing to reach with. He did the same thing he did at the gate in a flooded mindscape and at Suzume's bedside: **he opened his hand and offered.**
+
+And he said it out loud, to a woman whose face he has never once been able to see:
+
+> ### *"I'm ready, mother."*
+
+**The first time he has ever used the word.** Not *the woman.* Not *the screaming.* Eight years of a burning house and a shape putting itself between him and a sword, and he had never had a name for her.
+
+**It opened like it was never locked.** No flare, no tearing, no transformation — it unfolded and settled and *fit*, everywhere, exactly, and he understood in that instant that he had spent eight years wearing something almost his size without noticing.
+
+All of Monuke's conditions met: **witnessed, named, awake, and chosen** — which is the only thing it was ever built to accept.
+
+## What she folded in with it
+
+She left a fingerprint on the medical coil and chose not to strip it. **She did it again here, and this time deliberately.**
+
+**A place.** He is standing in daylight with salt on his mouth and 潮風 — the actual wind, which is how he knows the word permanently and completely — coming off the water. A channel between cliffs with **the sea turning in it**: dozens of whirlpools wheeling slow and deliberate, water that has clearly been *taught.* Red roofs on rock the tide can't reach. Bridges strung between crags. Spiral crests on the banners, the gates, a woman's shoulder as she walks past — **the same spiral that is on every flak jacket in Konohagakure and has meant nothing to him his entire life.** Somebody laughing. Somebody hammering. Children shouting below and to the left.
+
+**The most alive place he has ever seen. It does not exist anymore and nobody has told him.** He does not learn the name here. **He simply knows he is looking at home.**
+
+**And her voice.** Close, fast, steady, working, over the sound of something structural giving way:
+
+> *"—there. **There.** That's got it, that's — good, that's good—"*
+>
+> *"Alright. Alright, listen to me. **You take all of it.** Every piece, when you're ready, and not one second before. **Nobody gets to decide that but you.**"*
+>
+> *"I'm sorry about the hurry."*
+>
+> *"I love you so much. You're going to be so—"*
+
+**It stops mid-word** — the same way Rai Inuzuka's last sentence stopped at *"tell Kuro—"*.
+
+**She never says his name.** At the front of *"alright, listen to me"* there is the shape of one syllable that starts and is swallowed by whatever came through the wall, and **it is not "Ardo."** He will hear it in his sleep for years.
+
+## What it did not do — and why that mattered
+
+**This is the difference that mattered, and it is why he was able to take it.** The other three items are property and do not care whether he uses them. Shiokaze **waited** — eight years, a hundred opportunities, and it never once moved toward him.
 
 > *"Whatever your mother did to that form before she folded it up, **she made certain it could only ever be taken. Never given, never forced, never inherited by default.** Which means she knew there was a version of you who might not want it — and she built the will so the boy got the **choice she did not have.**"*
 
-## The toll **[not mechanical, and it cannot be waived]**
+## The toll **[paid]**
 
-**Taking it costs Ardo the belief that he built his own power.** Kōfū, Uzufū, every transformation he has ever been proud of — reclassified from invention to memory, permanently, by his own hand.
+**Taking it cost Ardo the belief that he built his own power.** Kōfū, Uzufū, every transformation he was ever proud of — reclassified from invention to memory, permanently, by his own hand, knowingly.
 
-Monuke did not design that price and cannot remove it.
+**What he keeps:** 拮抗 Kikkō and 潮合 Shioai are genuinely his, invented in two days, and four centuries of Ryūchi Cave never thought of either. Monuke said so sharply and on purpose. *"You did not invent your transformations. You **recognised** them, from the inside, with no teacher, no scroll, and no idea you had a source — which is rarer and frankly more alarming than invention."*
 
-## Design targets **[tune at the moment of acceptance]**
+## Mechanics **[owned; NOT YET ENTERED]**
+
+**He has not used it.** Owning and entering are separate, and he took it eleven minutes before achieving senjutsu for the first time and has not been upright since.
+
+**It is exempt from the Arakawa transformation table** — 拮抗 Kikkō is native to it, so the river is inside the rotation rather than fighting it. **This is the whole reason the two reconstructions are now obsolete.**
 
 **The tide has a rhythm, and he does not choose it.** Combat alternates automatically, round by round — this is the mechanical signature of the form and the reason it isn't simply a bigger Uzufū:
 

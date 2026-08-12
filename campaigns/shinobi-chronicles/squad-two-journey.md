@@ -47,7 +47,20 @@ The campaign splits at Session Nine. Ardo's arc runs underground with the snakes
 ## LOG
 
 ### Leg 1 — departure, heading northeast
-*Status: setting out. Nothing to report yet.*
+
+**Suzume is receiving him the whole way.** Sōgan Tier I is involuntary and ignores distance; she has no control over what arrives or when. Logged in order:
+
+| What she got | Her read |
+|---|---|
+| The landing | *"He's alive. He's very far away. **It's cold.**"* — the one data point that set the heading |
+| Day one, the counterweight | *"Something just happened... he was **quiet.** He's never quiet. Not once since the training ground."* |
+| **The night on the stone** | Woke her out of a dead sleep. *"He's **happy** — and it feels wrong, and I don't know how to explain why."* **Roku moved camp at first light rather than dawn.** She was right; that was the estate driving |
+| The will, read | *"...he's crying."* |
+| **潮合 Shioai** | *"He's quiet — but quiet like the rooftops after the Shepherd, not quiet like a room with the door shut. **He's doing it.**"* Roku: *"Then let's not keep him waiting."* |
+
+**She has been right about the difference between good and bad quiet every single time**, before anyone including Ardo could tell.
+
+**Souji is still carrying two packs.** Nobody has told him to put one down.
 
 <!-- Append each cut-away here: where they are, elapsed time, what happened,
      what Suzume picked up through Sōgan, and anything that changed. -->
