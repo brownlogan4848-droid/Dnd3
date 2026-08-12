@@ -32,9 +32,16 @@ jutsu-compendium/             Every canonical technique, organized by rank
     e-d-gapfill-noncanonical.md           E/D gap-fill + non-canonical rank surveys
 
 characters/                   Player characters, campaign "The Long Shadow"
-  ardo.md                       Chūnin, Konoha — hidden Uzumaki, Body of Indra, Wind affinity
-  suzume.md                     Chūnin, Konoha — Mangekyō Sharingan (right eye)
-  souji.md                      Genin, Konoha — hidden Senju, Body of Ashura, Earth affinity
+  ardo.md                       Chūnin — hidden Uzumaki, Body of Indra, Wind affinity
+  suzume.md                     Chūnin — Mangekyō Sharingan (right eye)
+  souji.md                      Chūnin — hidden Senju, Body of Ashura, Earth affinity
+
+the-seam.md                   Ardo's Other Power Systems, split out of his sheet:
+                                Hokorobi · Kōfū/Uzufū/Sakauzu · Sōgan + the Vision
+                                economy and dōjutsu trees · Arakawa & Aragami ·
+                                the Bequest · Shiokaze · Uzushio
+squad-two-journey.md          Running log of Roku, Souji and Suzume while Ardo is
+                                underground in Ryūchi Cave
 ```
 
 ## Sourcing conventions used throughout
