@@ -856,6 +856,96 @@ The aperture also runs the other way, and that consequence is live and ambient r
 
 **The trap:** the fastest route to senjutsu in his kit is **開門 Kaimon** — Uzufū's passive, advantage on senjutsu practice, **triple progress.** Which requires entering Uzufū. Which is now a d20 where 1–4 costs him a limb. **The cure sits behind the thing that is killing him.**
 
+## THE BEQUEST **[GM — Session Nine, Ryūchi Cave. The reframe that changes everything]**
+
+**Three theories were proposed in two days. The third one is Ardo's and it is the one that fits.**
+
+| Theory | Whose | What it says | Why it fails |
+|---|---|---|---|
+| **A prisoner** | Monuke, day one | Something sealed and contained | Sealed things push, test, whisper, bargain. **Ardo's did none of it** |
+| **A mould** | Monuke, day two | An empty cast shaping raw material into a rival | Explains the shape, not the behaviour |
+| **A bequest** | **Ardo** | An inheritance held in trust, now being handed over | ✔ |
+
+### The argument
+
+Monuke asked Ardo to list, in order, everything the entity ever did. **Not one item is what a sealed thing does:**
+
+- Kept an infant alive through a killing blow.
+- Carried his chakra control for eight years so impossible reserves didn't tear a child apart.
+- **Corrected his techniques** — Gale Fist's recoil silently not firing, the anomaly logged in The Tells since Session One.
+- Refused him in rage. Answered him in grief. *"I remember this kind of losing."*
+- Loaned Borrowed Gale and never asked for anything back. **Took the word *we*.**
+- Moved his untrained hands through medical work he has never studied, spent the entire principal at once to hold Suzume together, and closed the accounts. *"...She reminded me of somebody."*
+
+> *"Sealed things push. They test the bars, they whisper, they bargain, they wait for weakness. There is a literature. **Yours did none of it.** That is not a prisoner and it is not a pattern. **That is a trustee.**"* — Monuke
+
+### What this makes the seal
+
+**Not a prison. Not a womb. A bequest.**
+
+> *"Inward-facing linework. Of course it is. It was never built to keep something from getting **out.** It was built to keep something from being **taken.**"*
+
+A dying woman in a burning house — *putting herself between*, with a sword already coming and seconds to work — performed the most sophisticated fūinjutsu anyone in Ryūchi Cave has heard described, **on her own infant.**
+
+She was not sealing something away from him. **She was leaving him everything she had.**
+
+And the man with the sword walked out convinced he'd planted a seed. *"Grow stronger, little one"* was said to **a child who had just been made very rich**, by someone who had mistaken a will for a burial.
+
+### What this makes 荒神 Aragami
+
+**Not a rival. Not a god being built. The estate coming out of trust, on schedule, because the trustee's work is finished.**
+
+The entity didn't die and didn't quit — **it completed.** Its function was to hold the inheritance, administer it, and hand it over when the child could carry it. It spent the principal early because Suzume was dying and it judged that an acceptable draw, which tells you everything about what kind of trustee it was.
+
+**The power, the chakra, and the knowledge are all still there. They are simply becoming Ardo's.**
+
+### Why this is not better news
+
+> *"You are eight years old and you have inherited a fortune. Nobody is going to steal it from you. **You are simply going to be crushed by it if you take delivery faster than you can carry it** — and last night you took delivery of three coils in six hours because it felt lovely."*
+
+**The danger was never possession. It is *inheritance velocity*.** The thing that took the wheel that night wasn't a predator seducing him — it was **his own inherited faculty operating without him**, doing the job it has done for eight years, because he has not learned to drive it and it does not know he's supposed to.
+
+**The trap is atrophy, not conquest.** Every night he lets it steer is a night he doesn't learn to. Coils are not a countdown to being replaced — **they are how much of the estate has been signed for**, and he has been signing in the dark at three in the morning without reading a line.
+
+---
+
+# 渦潮 UZUSHIO — "THE WHIRLING TIDE" **[GM — the endpoint. Not available. Designed so it can be earned]**
+
+**Ardo's ultimate form.** Not a stage of Kōfū — the thing Kōfū and Uzufū were always crude sketches of.
+
+> **The name.** He will produce it himself, untaught, the way his hands produced Uzumaki sealwork without ever having seen a scroll. **渦潮 Uzushio is the name of the destroyed village of his own blood**, and he will not know that when he says it. Somebody will have to tell him afterward. *Do not let him learn the word before he names it.*
+
+### The principle
+
+Every transformation in this setting is a thing **pushing**: more chakra, more force, more output, burning something to make it. Kōfū pushes. Sakauzu pushed until it broke everything nearby.
+
+**A whirlpool does not push. It turns** — and everything that enters it joins the rotation.
+
+Uzushio is 拮抗 **Kikkō scaled to everything at once**: the river, natural energy, the inherited estate, and the bonds, held in one sustained rotating equilibrium. **The balance is the power.** Not the force.
+
+### The four things in the rotation
+
+1. **The river** — Arakawa, no longer a fault but the mass on one arm of the scale.
+2. **Natural energy** — senjutsu, entering through the aperture he opened himself.
+3. **The estate** — the inheritance, fully signed for and *driven by him* rather than driving.
+4. **The bonds** — 相眼 Sōgan and the closed circuit, scaled up. **This is the part no one else in this world has**, and it is what makes the form his rather than a variant of somebody else's.
+
+### What it does **[design targets — tune at unlock]**
+
+- **Nothing is spent.** In a closed rotation chakra circulates rather than depletes. **Uzushio has no sustain cost** — it *returns* resources instead of burning them. Alone among transformations in this setting.
+- **Incoming techniques join the rotation.** Ninjutsu that reaches him is drawn into the whirl and released along a vector of his choosing. The Uzumaki identity as a mechanic.
+- **The eye of the storm is the seal.** The whirl-pattern on his stomach is the still point, and the still point is where the estate's knowledge is legible — **fūinjutsu, medical technique, and skills he never learned become available**, because that's what the trustee carried.
+- **He can extend the circuit.** Allies inside the field receive the counterweight: their own chakra stabilised, their own exhaustion held off, because the rotation is large enough to carry passengers. **He does not get stronger alone. He gets stronger with people in the field.**
+- **Senjutsu-grade throughout**, and 荒神 Aragami is not present — because there is nothing left to form. It has all been signed for.
+
+### The three gates **[all required, none skippable]**
+
+1. **THE BALANCE.** Senjutsu properly learned — Gate 3 of the Bloodline Path, unchanged. He must be able to hold the counterweight deliberately rather than by luck.
+2. **THE ESTATE, SIGNED FOR CONSCIOUSLY.** Every coil taken **awake and deliberately**, not accepted in the dark because it felt good. Coils taken the easy way still count toward Aragami and **actively work against this gate.**
+3. **THE FLOOR.** It cannot be entered on rage, for himself alone, or with nobody in the rotation. **The bonds are load-bearing, mechanically and literally.** Monuke's warning stands: *"I know precisely how to break you now."*
+
+> **The Grief/Rage Distinction governs this form absolutely.** It is the same rule that has held since Rai's pyre, at the largest scale it will ever operate.
+
 ## What Is Sealed **[GM — held, deliberately not written here]**
 
 Fixed and decided. Not recorded, because this file is player-facing.
