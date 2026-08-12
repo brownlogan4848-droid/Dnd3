@@ -459,6 +459,55 @@ Airborne. **Shadow Clone catches Ardo, throws him 60 ft** aimed. **The clone is 
 **Mastery: Learned, 0 XP.** Brand new.
 
 ---
+
+## 迅雷・嵐遁：天河の崩し — SKY-TORRENT DOWNFALL
+### *Jinrai Ranton: Ten'ga no Kuzushi* · **Gale-Bolt Style: Tempest Release** · **[GM — Session Nine, Ryūchi Cave. Invented live.]**
+
+> *"The heavens open, the water falls. The world shatters before the final flood."*
+
+**The first technique Ardo has ever built that is not in the estate.** Monuke was explicit and unprompted about it: *"Your mother did not leave you that. It is not a fragment of Shiokaze and it is not a shape you remembered. There is nothing in your inheritance that has the faintest thing to do with picking up an ocean. **You built it, on top of what she gave you, which is precisely what a bequest is for.**"*
+
+**The idea is the same one he has had every time he has been clever:** *don't make what you don't have — find what's already there and give it somewhere to go.* Kikkō was that. Shioai was that. The circuit in the hospital was that.
+
+> **⚠ He does not have Water nature and never will.** He is not conjuring an ocean — **he is picking one up.** He knelt with both arms in the sea for thirty seconds before casting, taking a measurement, and the technique is *wind to move it, lightning through it, senjutsu to shift the mass, and Tazuna to steer it.*
+
+**Rank: unresolved.** By damage and area it reads **A-rank at minimum**; the invention gates in Book IV §3 Part Five (Jōnin + two B-rank Mastered) are nowhere near met. It functions anyway because all four conditions below are met at once. **Treat the rank as an open question the campaign has not answered.**
+
+**2 Actions · 3 slots · 40 Chakra / 25 Stamina.** *(Cheap for the effect — but inside Shiokaze nothing depletes, so cost is nearly moot. That is the point and also the trap.)*
+
+### The four conditions — remove any one and it fails
+
+| | Why |
+|---|---|
+| **潮風 Shiokaze** | The S-rank ceiling, and a rotation that doesn't deplete under the load |
+| **潮合 Shioai** | Natural energy does most of the actual lifting |
+| **手綱 Tazuna** | Nothing else could steer that volume. Four days ago it would have killed him |
+| **A large body of standing water, already present** | **He is not a Water user.** Without it he is a boy making hand seals at a field |
+
+> *"That is not a flaw. Every great technique in this world has conditions. **But you must know what yours are before somebody teaches them to you at a bad moment.**"*
+
+### Effect
+
+**THE SKY-HARVEST.** Complex seals draw environmental energy and lift a **100 ft+ monolithic wave** of water threaded with wind and internal lightning, suspended overhead. Range self / **40 m radius**, **120 m high.**
+
+**THE CRUSHING COLLAPSE.** A downward palm-thrust throws the entire mass straight down. Everything in the area makes a **STR save vs DC 15.**
+
+| | |
+|---|---|
+| **Fail** | **10d12 Force/Bludgeoning + 4d8 Wind.** Slammed **prone** and **stunned.** Ground shattered to 40 m |
+| **Success** | Half damage, shoved 20 ft. **Ground is still shattered** |
+
+**Traits:**
+- **DROWNING WIND** — the zone is rain-slicked: disadvantage on DEX checks and saves. Vision obscured **2 rounds.** Targets are **automatically grappled** unless they pass a **DC 12 STR check each turn.**
+- **CATACLYSMIC EVENT** — ground shattered **4 rounds**, difficult terrain. **Ignores non-Ninjutsu physical barriers.**
+
+### First cast
+
+Performed on the underground sea in Ryūchi Cave's Deep Gallery. **It left a crater in the floor of the world**, half-flooded, wreathed in falling water, with lightning still crawling across wet rock. Monuke — four centuries old — coiled his own bulk between the boy and the wave out of reflex, and has declined to discuss it.
+
+> **AND THEN THE TIDE CHANGED DIRECTION.** Hours early. Wrong. The tide under that mountain has run unexplained since before anything down there could speak, and Ardo picked up a piece of the sea and it **answered.** Monuke sent Suzu for the Sage immediately. **Unresolved.**
+
+---
 ---
 
 # PART SIX — 綻び THE SEAM **[moved]**
@@ -883,6 +932,11 @@ Compression Shell D  10/6    Action    ← Practiced, no longer prototype
 Compression Sphere C  18/10   Action    ← held sphere, 3d8/5d8, 2 slots
 Storming Thunder God C  25/15  Action    ← Proficient, 3d8+paralysis, melee, 2 slots
 Thunder Gods Gale    C  28/14   Action    ← PROTOTYPE, ranged 40ft, 3d8, pulls targets in, 2 slots
+天河の崩し Sky-Torrent Downfall  ?  40/25  2 ACTIONS/3 slots
+   HIS OWN. Not in the estate. 40m radius, 120m high, STR DC15
+   10d12 + 4d8, prone + stunned, terrain wrecked 4 rds
+   NEEDS ALL FOUR: Shiokaze + Shioai + Tazuna + STANDING WATER
+   No water = no technique. He is not a Water user.
 Barometric Tsunami   C  12/6   Action    ← PROTOTYPE, 2m line, 2d8, STR12 or prone+stun, 2 slots
 Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B > Chūnin C ceiling), 2 slots
 
