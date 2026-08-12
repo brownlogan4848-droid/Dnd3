@@ -534,6 +534,8 @@ Performed on the underground sea in Ryūchi Cave's Deep Gallery. **It left a cra
 | **渦潮 Uzushio** | The endpoint |
 | **What Is Sealed** | Running list of confirmed facts |
 
+**大仙 DAISEN — THE GREAT SAGE TRANSFORMATION.** Taught personally by the White Snake Sage over three months. Every form is now prefixed: **大仙・潮風 · 大仙・潮合 · 大仙・手綱.** Speed with no transit at all, detonations on every contact, jutsu operating past S-rank and **evolving on their own without his input.** In Daisen he does not look ten. **The cost is not chakra — it is that Daisen cannot hide.** Full writeup in `the-seam.md`.
+
 **THE SAGE'S CONDITION IS MET.** Full stack — 潮風 Shiokaze + 潮合 Shioai + 手綱 Tazuna — **held indefinitely, in combat, against Roku and Monuke simultaneously** (month eleven of the training year). Fūinjutsu: a competent working sealer, roughly two percent of what his head holds.
 
 **Quick status:** **渦の書庫 the Whirlpool Archive is in him** — thousands of preserved Uzumaki, knowledge not power · **the trustee is AWAKE** and will not take the wheel again · the trustee's original work is **finished** · the estate is **signed for in full, four coils** · 荒神 Aragami **CLOSED** · 潮風 Shiokaze **owned, not yet entered** · 潮合 Shioai **achieved** · Arakawa **manageable in rhythm, live out of it** · Vision **87/100**.
@@ -1049,6 +1051,18 @@ Uzufū·Whirlpool    STAGE 2  100Ch/50St/10HP (half from Stage 1)
   OWNED, NOT YET ENTERED. Exempt from the Arakawa transform table.
   Came with: the village in the whirlpools, and her voice.
 渦潮 UZUSHIO — the endpoint. Three gates. Not available.
+
+大仙 DAISEN — GREAT SAGE. Taught by the White Snake Sage himself.
+  ALL forms prefixed: 大仙・潮風 · 大仙・潮合 · 大仙・手綱
+  SPEED: no transit at all. Not fast — a LINE between two places.
+  HITS: everything he touches DETONATES. Punch, blade, jutsu, finger.
+  JUTSU: past S-rank, and they EVOLVE ON THEIR OWN over time.
+    (Gale Fist's recoil is already gone — permanently.)
+  BODY: +4-5 inches, leaner/harder, chakra whipping. Doesn't look 10.
+  ** COST IS NOT CHAKRA. DAISEN CANNOT HIDE. **
+    Every use = choosing to be seen. Sensors, every sage alive, and
+    eventually the people who erased Uzushio.
+    The Sage taught him to be invisible, then taught him this.
 
 潮合 SHIOAI — ** SENJUTSU. ACHIEVED. ** His own method.
   Not still — IN TIME. You don't still a tide, you keep time with it.

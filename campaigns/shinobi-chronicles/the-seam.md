@@ -759,6 +759,92 @@ She was in there — helped to her feet by two others, not steady, six weeks und
 ---
 ---
 
+# 大仙 DAISEN — THE GREAT SAGE TRANSFORMATION **[GM — taught personally by the White Snake Sage, three months]**
+
+**Not new techniques. The same techniques with the world inside them.** Every form Ardo owns is now prefixed:
+
+**大仙・潮風 Daisen Shiokaze · 大仙・潮合 Daisen Shioai · 大仙・手綱 Daisen Tazuna**
+
+## Why it needed teaching at all
+
+Everything Ardo built himself — Kikkō, Shioai, a year of holding the beat under attack — was **the discipline of not dying of natural energy.** Nobody ever taught him what it was *for.*
+
+> **"You built a container. That was the hard part and I could not have taught it to you. You have been carrying an empty cup very carefully for a year and calling it drinking."**
+>
+> **"You have been treating it as ballast — a weight on the other arm of a scale so your river does not tip you over. It is not ballast. **It is the world agreeing to participate.**"**
+
+## The body
+
+Senjutsu chakra does not sit still in a body and has opinions about the one it is in.
+
+**While transformed** he gains four or five inches he does not otherwise have, and a frame that is leaner and harder — a ten-year-old's build filling out into something *built* rather than grown. The chakra no longer hangs around him: it **whips**, constantly, in long fast lashes off the shoulders, forearms and heels, cracking the air.
+
+> **In 大仙 Daisen, Ardo does not look ten years old.** He looks like somebody's older brother, and the effect on people who knew him before is deeply unpleasant. *(This is also, incidentally, the best disguise he owns.)*
+
+## THE SPEED — 無隙 Mugeki, evolved
+
+Mugeki used to mean *he arrives instead of travelling.* **Now there is not even an arrival.**
+
+**No blur. No displaced air. No crack, no line, no afterimage.** The eye does not register a transit because there is nothing in the transit to register — he is over there, and then the world contains him over here, and **the interval was not short, it was absent.**
+
+- **No Reaction of any kind functions against him.** Substitution, Displace, reactive jutsu, Counter Windows, bonus-action repositioning — none of it. Unchanged from Uzufū and now absolute.
+- **Brace remains the only legal response**, and against Daisen it is closer to a formality than a defence.
+- Monuke — who has fought him daily for a year — **loses him completely inside ten seconds** and says so with genuine offence.
+
+> **"A lightning strike does not travel to the ground. It is simply, suddenly, a line between two places. You have stopped being fast. **You have started being a line.**"**
+
+## THE DETONATIONS — 空爆 Kūbaku, evolved
+
+Kūbaku was a Taijutsu-only clause. **Now it is everything he touches.**
+
+Wind chakra compressed past any density it should hold, threaded with senjutsu, delivered at the point of contact — **and it goes off.** Not displacement. A **detonation**, small and vicious, cracking outward from wherever he lands a hit.
+
+**A punch. A kunai. A blade. A technique. A fingertip.** Anything.
+
+> A training bout ends in month two when Ardo **taps Roku's forearm** at half speed as a demonstration, knocks a jōnin off his feet, and cracks the stone behind him. *"That was a **tap.**" "Yeah. I'm still working on that bit."*
+
+## THE JUTSU — past the band
+
+**Everything he casts in Daisen operates above the S-rank band.** Not "counts as" — *past* it, his existing kit re-scaled by natural energy carrying the load, the way Sky-Torrent Downfall was only ever possible because senjutsu carried the mass.
+
+### And they keep moving **[open-ended, GM-driven]**
+
+> **"They are still moving."**
+
+**His techniques evolve on their own.** Senjutsu chakra keeps working on a technique after he has finished with it — refining, compressing, occasionally producing something he did not build.
+
+- **Gale Fist's recoil is gone.** Permanently. The Burned Page flaw that "could not be trained away" simply isn't there anymore.
+- **Compression Shell** has started doing something to the air around the target that he cannot account for.
+- **Barometric Tsunami** came out **silent** one morning.
+
+**He does not choose which and does not choose when. He finds out by casting.**
+
+> Nao, from the archive, genuinely rattled for the first time: *"...that is not a thing techniques **do.**"*
+
+## THE COST — and it is not chakra
+
+The Sage named it immediately, and it collides directly with the advice it gave him on the ledge under the stars three months earlier.
+
+> **"I taught you to be uninteresting. And then I taught you this — and I want you to understand that I have handed you two things that cannot both be used."**
+>
+> **"大仙 does not hide. It **cannot** hide. Natural energy at that volume is a **fire on a hill.** Every sensor within a very long way will feel it. Every sage on this earth will know something woke up. And the men who decided your clan was intolerable will hear about it eventually, because that is what men like that pay people for."**
+>
+> **"Every time you enter it, **you are choosing to be seen.** That is the whole cost, it is enormous, and it will not feel like one until the day it does."**
+
+| | |
+|---|---|
+| **Chakra/Stamina** | Still nothing. The rotation returns what it takes |
+| **The real price** | **Visibility.** Every use is a decision to be found |
+| **Who notices** | Sensors at range · every sage alive · eventually, the people who erased Uzushio |
+| **Standing tension** | *"Be boring for ten years. Then show them."* — and he now owns the least boring thing in the world |
+
+> **"You are a sage of no species, taught by one anyway, carrying a dead clan and wearing a stolen eye. There has never been one of you. There will not be another."**
+>
+> **"Go and be boring, Ardo Uzumaki. For as long as you can stand it."**
+
+---
+---
+
 # 渦潮 UZUSHIO — "THE WHIRLING TIDE" **[GM — the endpoint. Not available. Designed so it can be earned]**
 
 **Ardo's ultimate form.** Not a stage of Kōfū — the thing Kōfū and Uzufū were always crude sketches of.
