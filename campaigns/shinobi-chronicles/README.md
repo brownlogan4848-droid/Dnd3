@@ -11,7 +11,7 @@ The `/dm:dnd` plugin's scripts (`character.py`, `combat.py`, `lookup.py`, etc.) 
 - **Rank progression** — Genin → Chūnin → Jōnin → S-Rank → Kage — instead of D&D character levels (though a level number tracks alongside rank for resource scaling).
 - **Its own jutsu rank ladder** (E through S, plus unranked kekkei genkai/dōjutsu), sourced from the Naruto databooks rather than the D&D SRD.
 
-Nothing here wires into the plugin's Python scripts or SRD data. It's Markdown reference material plus two player-character sheets, meant to be read directly (e.g. pasted into a Claude Project's custom instructions, or read by an AI GM) rather than executed by the plugin's tooling.
+Nothing here wires into the plugin's Python scripts or SRD data. It's Markdown reference material plus three player-character sheets, meant to be read directly (e.g. pasted into a Claude Project's custom instructions, or read by an AI GM) rather than executed by the plugin's tooling.
 
 ## Layout
 
@@ -32,16 +32,17 @@ jutsu-compendium/             Every canonical technique, organized by rank
     e-d-gapfill-noncanonical.md           E/D gap-fill + non-canonical rank surveys
 
 characters/                   Player characters, campaign "The Long Shadow"
-  ardo.md                       Chūnin — hidden Uzumaki, Body of Indra, Wind affinity
-  suzume.md                     Chūnin — Mangekyō Sharingan (right eye)
-  souji.md                      Chūnin — hidden Senju, Body of Ashura, Earth affinity
+  ardo.md                       Jōnin 13 — Uzumaki (known), sage, carries the archive
+  suzume.md                     Jōnin 13 — Mangekyō (right eye), war medic, genjutsu
+  souji.md                      Jōnin 13 — Senju (known), Body of Ashura, Earth
 
 the-seam.md                   Ardo's Other Power Systems, split out of his sheet:
-                                Hokorobi · Kōfū/Uzufū/Sakauzu · Sōgan + the Vision
-                                economy and dōjutsu trees · Arakawa & Aragami ·
-                                the Bequest · Shiokaze · Uzushio
-squad-two-journey.md          Running log of Roku, Souji and Suzume while Ardo is
-                                underground in Ryūchi Cave
+                                Hokorobi · the reconstructions (Kōfū/Uzufū/Sakauzu) ·
+                                Sōgan + the Vision economy and dōjutsu trees ·
+                                Arakawa · Aragami (closed) · the Bequest · Kikkō ·
+                                Shioai · Shiokaze · the Archive · Daisen · Uzushio
+squad-two-journey.md          CLOSED. Roku, Souji and Suzume's six-month search for
+                                Ardo, and the reunion. Party whole since Year −13
 ```
 
 ## Sourcing conventions used throughout
