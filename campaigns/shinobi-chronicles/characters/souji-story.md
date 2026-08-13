@@ -46,10 +46,15 @@ And, on how he knew where to be:
 >
 > *"Ask me about Orochimaru if you want. I'll tell you every ugly true thing about that, and there's plenty, and none of us are going to like all of it. **But don't you dare make this the thing that finally proves I was right to stop trusting people with it.**"*
 
-> ## ⚠ [DECISION NEEDED] — the two statements do not reconcile.
-> He denied Danzō by name, then credited Danzō by name, in the same scene. **Either it is a lie protecting a different handler** — Orochimaru remains the only person he had spoken to for three months, on every sheet — **or he is distinguishing *who employs him* from *who taught him*.**
+> ## ⚠ WHO HOLDS HIM IS A STANDING MYSTERY. **[GM ruling, Year 0 — do not resolve.]**
 >
-> **The audit will not choose.** A table ruling decides it, and it changes what the party is actually chasing. Flagged in `campaign/campaign-state.md`.
+> He denied Danzō by name, then credited Danzō by name, in the same scene, **and volunteered Orochimaru unprompted.**
+>
+> **The party believes Danzō. That belief is reasonable and may be wrong.** Four readings are live — Danzō straightforwardly · **Orochimaru with Danzō as cover** · someone else entirely with both names as noise · or **nobody, and he is attributing a choice he made alone because *"I chose this"* is harder to say than *"I was taught."***
+>
+> **Full handling notes and the four readings: `campaign/campaign-state.md`.**
+>
+> **Never confirm or deny on the party's behalf. Let them chase Danzō and let the trail be *nearly* right.** When it resolves, it should cost something to learn.
 
 ---
 ---

@@ -345,7 +345,23 @@ Hiraishin needs a **mark** — physical, pre-placed, a tagged kunai or a formula
 | **Requires** | **The Mangekyō uncovered. Headband down, no marking** |
 | **Stacks with** | Everything. Daisen is already an absence of transit; Shun means he does not need the line |
 
-> **⚠ THE VISION COST NOBODY HAS PRICED.** This technique **requires the eye uncovered**, and uncovering it is what burns it — see `ardo-transformations.md` → The Vision Economy and the headband discipline. **Hiraishin no Shun turns his best technique into a permanent, recurring tax on his sight, and no figure has been set for it.** Flagged in `campaign/campaign-state.md`.
+## ⚠ THE VISION COST — **priced by table ruling, Year 0**
+
+**The requirement stands: the eye must be uncovered to mark. Headband down, no marking.** That is confirmed, not negotiable, and it is the whole cost of the technique.
+
+| | |
+|---|---|
+| **Per mark** | **Nothing.** Marking is a *look* — Sharingan-grade perception, not a Mangekyō working. It is in the same class as everything in his own tier tree, which costs Chakra and never sight |
+| **Per combat in which he marks** | **−1 Max Vision.** The standard uncovered-in-a-fight rate, however long the fight runs. **Using Shun once and using it thirty times cost the same** |
+| **Waiting with it uncovered** | **−1 per month**, the ordinary living rate. **This is the expensive one** — a man who keeps the eye open *in case* he needs to mark is paying the Kakashi rate continuously |
+
+> ### The technique is free. The posture is not.
+>
+> **This is the correct shape for it, and it is deliberately uncomfortable.** Hiraishin no Shun does not charge him for using it — **it charges him for being ready to use it.** He can keep the headband down and stay disciplined, and then the fastest movement in the world is unavailable in the half-second he needs it. Or he can go uncovered and have it always, and pay a month of sight for every month he does.
+>
+> **Minato solved this problem by planning ahead — years of quietly marking things across a continent.** Ardo replaced the planning with an eye. **The eye is the price.**
+>
+> **He has been running at 92% discipline for thirteen years** *(the −12 in `ardo-transformations.md`)* — and he learned this technique **hours before the tenth of October**, which means none of those thirteen years are evidence for how he handles it now. **The habit that produced 65 was formed before he had a reason to break it.**
 
 **Minato watched him do it eight times in a row and stopped laughing around the fifth.** *"That's not what I do." / "Is it wrong?" / "It's **better**, and I'd like you to not say that out loud in the village."*
 

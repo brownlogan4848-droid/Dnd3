@@ -65,7 +65,7 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **大仙 Daisen cannot hide.** Every use is choosing to be seen | The Sage, explicitly |
 | **A Kumo bingo-book entry exists** — *wind, sage-class, do not engage alone* | Reported to him |
 | **Danzō has an open Root file on him**, and knows about the containment seal and the Uzushio read | Session Two onward |
-| **Souji has defected, works from Danzō's teaching, and put a sword through him** | Witnessed |
+| **Souji has defected and put a sword through him** | Witnessed. ***Who he works for is not confirmed*** — see BELIEVES |
 | **Souji killed Minato**, taking a strike aimed at Ardo's throat | Witnessed |
 | **The masked man in the orange spiral mask exists** and stood watching Naruto | The chūnin guards' report |
 | **Kurama identifies that masked man as the one who performed the extraction** | Kurama, directly |
@@ -78,7 +78,7 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | Belief | Reality |
 |---|---|
 | **That moving the seal onto himself solved something** | **He has only moved where it lands.** The completion cost is still sitting on somebody |
-| That Souji's break is Danzō's work, end of story | **Souji explicitly denied the Danzō framing before crediting him.** Unresolved — see `campaign-state.md` |
+| **That Souji belongs to Danzō** | ⚠ **This is a belief, not a fact, and it is the one most likely to send him the wrong way.** Souji **denied Danzō by name and credited Danzō by name in the same conversation** — and volunteered Orochimaru unprompted. **Deliberately unresolved; do not confirm it for him.** See `campaign-state.md` |
 | That he can carry the archive indefinitely without it costing him | Nobody has said out loud that if he dies badly, four hundred generations go with him |
 | That the Shadow Kage vow is a plan | It is a sentence a ten-year-old said at a pyre |
 
@@ -198,9 +198,15 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 16. The supplier and the customer behind the sealmaster's specification.
 17. **The Twinned prisoner** — alive in Konoha custody thirteen years ago, called Ardo *"the wind,"* said *"he said you'd come looking eventually."* **Never followed up.**
 
-## ⚠ Flagged by the audit — a person who fell off the record
+## The one he left
 
-18. **SOUTA.** A war orphan Ardo took in at age eight, housed, vouched for at the gate, gave his money to, and left behind when Cell 409 walked out of Konoha. **He is on the sheet at Session Four and never mentioned again across thirteen years and an eight-year timeskip.** He would be roughly **20 now**, and Konoha has just burned. **[DECISION NEEDED]** — the audit will not invent an answer.
+18. **SOUTA.** A war orphan Ardo took in at eight, housed, vouched for at the gate, gave his money to — **and left behind when Cell 409 walked out of Konoha four sessions later.** Nobody wrote him into that decision at all.
+
+    **He is alive, ~25, and not in Konoha.** He waited two years, took the wartime Academy intake, graduated barely, spent the war as a **quartermaster** moving people and goods across borders that were not supposed to be crossed, and has spent the last eighteen months **looking for his sister on paper.** Full record: `campaign/npcs.md`.
+
+    > **Ardo has not thought about him in years.** That is the finding, and it is not a moral failure — it is thirteen years, a war, a dead clan, and a bijū. **It is still true.**
+    >
+    > **⚠ Not in play yet, by design.** He is also, precisely, the thing Ardo and Suzume now need and cannot get: a professional who moves people across hostile borders without papers, for two people Hiruzen has just forbidden from carrying any.
 
 ## The three names nobody will say
 

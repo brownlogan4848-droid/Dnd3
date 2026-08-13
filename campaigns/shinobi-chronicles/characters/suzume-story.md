@@ -56,7 +56,7 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **Sōgan runs both ways and neither of them is private** | Thirteen years of it |
 | **迎え火 Mukaebi is a lamp, not a rescue** | Yoi taught her the difference |
 | **She built 無戸の間 out of her own three days** | Her own hands |
-| **Souji has defected and works from Danzō's teaching** | She was conscious when he said it |
+| **Souji has defected** | She was conscious when he said it. ***Who he works for is not confirmed*** — see BELIEVES |
 | **Souji poured Ibuki into Kushina minutes before turning** | **She felt what it cost him** through Ardo's eye |
 | **Kurama is sealed in Ardo** | Present for it |
 | **Minato and Kushina are dead, and where they are buried** | Present for it |
@@ -67,6 +67,7 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | Belief | Note |
 |---|---|
 | **That some part of Souji is still in there fighting it** | Her evidence: he apologised first, and he checked the seal rather than letting the killing blow land. **She has never once been wrong about this kind of read** |
+| **That Souji belongs to Danzō** | ⚠ **Belief, not fact.** She heard him deny Danzō *and* credit Danzō. **She is also the one who asked him twice about Orochimaru and got *"he's a colleague"* both times** — which means she, more than anyone, has reason to doubt the Danzō answer. **Deliberately unresolved** |
 | That Ardo will keep choosing to suffer alone unless she keeps saying no | Condition 1, set thirteen years ago. **Still the argument they keep having** |
 | That she can carry the medic's load without anyone carrying hers | Nobody has ever treated the medic |
 

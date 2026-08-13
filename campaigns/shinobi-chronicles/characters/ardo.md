@@ -194,7 +194,9 @@ He may overdraw one resource to **zero** and pay the shortfall from **Health at 
 
 **Left socket: Suzume's Mangekyō Sharingan.** Non-Uchiha host. **Never deactivates.** Permanent chakra drain, permanent Vision cost.
 **相眼 Sōgan** — the circuit is closed both ways. Tiers **I–III unlocked**, IV locked.
-**Ardo's own tree** — Mikiri · Inyomi · Hanshun · Utsushi. **⚠ No unlock record exists** — see `campaign-state.md`.
+**Ardo's own tree** — 見切り Mikiri · 印読み Inyomi · 半瞬 Hanshun · 写し Utsushi. **ALL FOUR UNLOCKED** since the transplant, and **all four are passive and always running.** He cannot switch them off.
+
+**MAX VISION 65 / 100.** **Burning Clarity band 69–40 is active: +1 to all Perception and Reaction timing.** Ledger and current value: `campaign/campaign-state.md`.
 
 ## Permanent conditions
 
@@ -263,6 +265,18 @@ GOING BEYOND  overdraw to 0, shortfall from Health at 4:1
 INTERRUPTION  prone / silenced / stunned / grappled / blinded /
               any resource at 0  →  COMBO ENDS
               push through: 30 Special or a feature. No free save.
+
+── THE EYE ──────────────────────────────────────────
+LEFT SOCKET: Suzume's MANGEKYŌ. Never deactivates. Never will.
+MAX VISION  65/100   ← BURNING CLARITY 69-40 ACTIVE: +1 Perception
+                       and Reaction timing. Colour going wrong.
+HIS TREE    Mikiri · Inyomi · Hanshun · Utsushi — ALL FOUR UNLOCKED
+            since the transplant. ALL PASSIVE. ALL ALWAYS ON.
+SŌGAN       I-III unlocked (Chijimi · Awaseme · Tōmi) · IV locked
+HEADBAND    covered = ZERO loss, indefinitely, but no tiers, no
+            abilities.  uncovered = -1/month, -1/combat.
+            ** 飛雷神・瞬 REQUIRES IT UNCOVERED TO MARK. **
+            The technique is free. The posture is not.
 
 ── WHERE EVERYTHING ELSE LIVES ──────────────────────
   ardo-jutsu.md ............ every technique's real numbers

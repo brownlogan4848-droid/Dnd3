@@ -22,7 +22,7 @@
 
 ## What just happened, in one paragraph
 
-The Nine-Tails was released outside Konoha by a masked man who tore it out of Kushina Uzumaki. Minato Namikaze pre-inked an eight-trigram array on his newborn son weeks in advance, knowing the completion cost was the sealer's life. **Ardo unspooled it off the infant and wrote it onto himself instead.** Kurama is sealed in Ardo. Naruto Uzumaki is an ordinary child. **Kushina and Minato are both dead** — Kushina to the extraction and the sealing, Minato to Souji's blade, taking a strike aimed at Ardo's throat. **Souji Terada put a sword through Ardo's stomach, told him to come find him when he was ready, and walked into the dark.** He has been Danzō's for at least three months. Hiruzen Sarutobi is Hokage again.
+The Nine-Tails was released outside Konoha by a masked man who tore it out of Kushina Uzumaki. Minato Namikaze pre-inked an eight-trigram array on his newborn son weeks in advance, knowing the completion cost was the sealer's life. **Ardo unspooled it off the infant and wrote it onto himself instead.** Kurama is sealed in Ardo. Naruto Uzumaki is an ordinary child. **Kushina and Minato are both dead** — Kushina to the extraction and the sealing, Minato to Souji's blade, taking a strike aimed at Ardo's throat. **Souji Terada put a sword through Ardo's stomach, told him to come find him when he was ready, and walked into the dark.** **Who he actually belongs to is not known** — he named Danzō and denied Danzō in the same conversation. Hiruzen Sarutobi is Hokage again.
 
 ---
 ---
@@ -41,7 +41,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **Stamina** | **~90** | **355** | **[GM — provisional]** |
 | **Health** | **96** | **228** | **Bleeding.** See conditions |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **⚠ UNRESOLVED** | 100 | **See the Vision block below — this needs a ruling before the next fight** |
+| **Vision (Max)** | **65** | 100 | **Burning Clarity band 69–40 is ACTIVE** — see below |
 
 ### Conditions & injuries
 
@@ -100,35 +100,67 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | | |
 |---|---|
 | **Where** | Unknown. Left the clearing on foot into burning countryside |
-| **With whom** | **Danzō Shimura.** Souji named him aloud and corrected Ardo's guess that it was ever Orochimaru — *"It's not Danzō. It's never been Danzō"* was his correction to being called Danzō's creature, then he credited Danzō by name for the lesson. **Both readings are live; see the Decision Point below** |
+| **With whom** | ### ⚠ **UNKNOWN — and deliberately so.** See the box below |
 | **Condition** | Uninjured. Spent Ibuki heavily on Kushina before turning, so **running low, not fresh** |
 | **What he did** | Poured his own vitality into Kushina to buy Ardo ninety seconds · then ran Ardo through the stomach · then put Suzume into a treeline · then killed Minato Namikaze, who stepped into a strike meant for Ardo |
 | **What he said** | *"Sorry, Ardo… we must grow stronger."* · *"Power is what accomplishes your dreams."* · *"Danzō taught me that, and a few lessons on how to hide my true nature."* · **"When you're ready, truly ready, come find me."** |
 | **The thread that is still live** | He apologised first. He checked the seal was bleeding rather than letting the killing blow land. **Suzume's read: some part of him is still in there fighting it** |
 
-> **[DECISION NEEDED — flagged, not resolved.]** Souji's own words are internally inconsistent: he flatly rejected the Danzō framing (*"It's never been Danzō"*) and then credited Danzō by name in the same speech. This is **either** a deliberate lie to protect a different handler (Orochimaru remains the only person he has spoken to for three months, per every sheet), **or** a distinction between *who employs him* and *who taught him.* The audit will not choose. **A table ruling decides which, and it changes what the party is chasing.**
+> ## ⚠ WHO HOLDS SOUJI IS AN OPEN MYSTERY. **[GM ruling, Year 0 — do not resolve.]**
+>
+> **The party believes it is Danzō. That belief is reasonable, load-bearing, and may be wrong.**
+>
+> **What is actually on the record, and it does not reconcile:**
+>
+> | | |
+> |---|---|
+> | **He denied Danzō by name** | *"It's not Danzō. **It's never been Danzō.** Get that part right if you're going to say it in front of her body."* |
+> | **He credited Danzō by name, ten minutes later** | *"**Danzō taught me that**, and maybe a few lessons on how to hide my true nature."* |
+> | **Orochimaru is the only person he actually spoke to for three months** | And when asked, he said *"he's a colleague"* — **which is not a lie and is not an answer** |
+> | **He volunteered Orochimaru unprompted** | *"Ask me about Orochimaru if you want. I'll tell you every ugly true thing about that, and there's plenty, and **none of us are going to like all of it.**"* |
+>
+> **Live readings, all supported by the text:**
+>
+> 1. **Danzō, straightforwardly.** He denied the framing of being *owned* while admitting the teaching.
+> 2. **Orochimaru, with Danzō named as cover** — a real teacher offered up to protect a realer one.
+> 3. **Someone else entirely**, with both names as noise. The Employer thread that targeted Suzume ran through intermediaries and cutouts, and **Orochimaru was behind it** *(`campaign/npcs.md` — GM secret)*.
+> 4. **Nobody.** He went on his own and is attributing it, because *"I chose this"* is harder to say than *"I was taught."*
+>
+> ### How to run it
+>
+> - **Never confirm or deny on the party's behalf.** Let them chase Danzō and let the trail be *nearly* right.
+> - **Book III §4 applies.** Any NPC's answer is limited by what that NPC could actually know — and **nobody in Konoha has the whole picture, including Hiruzen**, who filled in *"Danzō"* himself with dread rather than evidence.
+> - **The Ishinuma contract is the honest route.** Gensai is a four-century-old intelligence with a standing debt to Souji, and he does not lie. He may also refuse to answer, which is its own information.
+> - **When it eventually resolves, it should cost something to learn**, not be handed over.
 
 ---
 ---
 
-# ARDO'S VISION METER — ⚠ NEEDS A RULING
+# ARDO'S VISION METER — **SETTLED**
 
-**Rules:** `characters/ardo-transformations.md` → The Vision Economy. **This is the only thing in this file the audit could not derive.**
+**Rules:** `characters/ardo-transformations.md` → The Vision Economy.
+
+## MAX VISION — **65 / 100**
+
+| | | Running |
+|---|---:|---:|
+| Start | | **100** |
+| Recorded Mangekyō-grade uses *(Mukaebi 3 · Ryūchi day one 4 · the stone 6)* | −13 | **87** ← *canon, unchanged* |
+| 相眼 Sōgan **II** and **III**, unlocked in the Ryūchi year | −10 | **77** |
+| **Thirteen years of the Kakashi discipline** — covered by default, uncovered when it mattered | −12 | **65** |
+
+**Ardo's own tree cost nothing.** All four tiers unlocked **at the transplant**, complete, in the socket — *she handed him a finished eye, not a dōjutsu to develop.* The −5-per-tier charge is the price of *forcing* a dōjutsu to grow, and **nothing here was forced.**
+
+## What this means at the table, right now
 
 | | |
 |---|---|
-| **Last confirmed figure** | **Max Vision 87 / 100** — recorded at Ryūchi Cave, **Year −13** |
-| **Elapsed since** | **Thirteen years.** The Ryūchi training year, eight years of war, five years after it |
-| **Why it can't be computed** | The rules charge **−1 per month uncovered** and **0 while the headband covers it.** Thirteen years uncovered is −156, which would have blinded him four times over. He is not blind. **Therefore he was disciplined** — but nothing on record says how disciplined |
+| **BURNING CLARITY IS ACTIVE** | Band **69–40**: **+1 to all Perception and Reaction timing.** Colour is going wrong on that side — everything slightly oversaturated. **He has almost certainly not mentioned this** |
+| **All four of his own tiers are running** | Mikiri · Inyomi · Hanshun · Utsushi. **Passive, always-on, since Session Eight.** He cannot switch them off |
+| **26 points to the next band** | At **39–15** the eye starts *paying him* — advantage on everything it does, Mangekyō costs halved. **The temptation gets worse as it gets worse** |
+| **飛雷神・瞬 is now the main drain** | **−1 per combat he marks in** · **−1 per month he waits uncovered.** Priced in `characters/ardo-jutsu.md` |
 
-### What must be decided
-
-1. **The timeskip charge.** The rules say explicitly that the cost across the years is *"determined by the habits Ardo builds, not rolled later."* Thirteen years of habit have now been played past without a figure being set. **Set one.**
-2. **Tier unlocks.** Each tier unlocked is a permanent **−5 Max**. Confirmed unlocked: Sōgan **I** (involuntary, free) · Sōgan **II** Awaseme · Sōgan **III** Tōmi. **That is −10 minimum** from the 87 baseline if II and III were not already counted. Ardo's own tree (Mikiri / Inyomi / Hanshun / Utsushi) has no confirmed unlock record at all.
-3. **飛雷神・瞬 Hiraishin no Shun requires the eye uncovered to mark.** He used it freely on October 10th. **That is a new, permanent, recurring Vision cost** on his most-used technique, and it did not exist when the meter was last read.
-
-**Suggested starting point, if the table wants a number rather than a discussion:** **Max Vision 55–65**, consistent with a disciplined decade, three tiers taken, and Burning Clarity's first band (**69–40: +1 Perception and Reaction timing**) being live. **This is a suggestion, not a ruling.**
-
+> **The 92% discipline that produced 65 was built over thirteen years in which he had no reason to break it.** He learned Hiraishin no Shun hours before the tenth of October. **None of that history is evidence for how he handles it now.**
 ---
 ---
 

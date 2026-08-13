@@ -500,7 +500,7 @@ In her hospital room he took her hand, moved Rai's headband to cover **his own**
 | Rule | Detail |
 |---|---|
 | **Starting Max Vision** | **100** |
-| **Current Max** | **⚠ UNRESOLVED — see `campaign/campaign-state.md`.** Last confirmed **87**, thirteen years ago |
+| **CURRENT MAX** | **65** — *set by table ruling, Year 0. Full arithmetic below* |
 | **Unlocking a tier** | **Permanently −5 Max Vision.** Twelve tiers exist across all three trees; taking every one costs 60 |
 | **Uncovered, ordinary life** | **−1 per month.** This is the Kakashi rate |
 | **Uncovered, per combat** | **−1 per fight**, however long it runs |
@@ -509,6 +509,30 @@ In her hospital room he took her hand, moved Rai's headband to cover **his own**
 | **Max Vision 0** | **Permanently blind in that eye.** No version where it isn't |
 
 > **Why it lasts at all:** **he is Uzumaki**, and his own blood is quietly subsidising a dōjutsu his body should be rejecting far faster than it is.
+
+## THE LEDGER — how 100 became 65 **[RESOLVED by table ruling, Year 0]**
+
+| | | Running |
+|---|---:|---:|
+| **Start** | | **100** |
+| Recorded Mangekyō-grade uses — Mukaebi **3** · Ryūchi day one **4** · the night on the stone **6** | **−13** | **87** |
+| **相眼 Sōgan II (合わせ目 Awaseme) and III (遠見 Tōmi)**, unlocked in the Ryūchi year | **−10** | **77** |
+| **Thirteen years of the Kakashi discipline** — covered by default, uncovered when it mattered | **−12** | ### **65** |
+
+> **The 87 recorded at Ryūchi Cave is canon and unchanged.** It sits inside this ledger rather than being overwritten by it.
+>
+> **Ardo's own tree cost nothing extra**, because of *how* it unlocked — see below.
+>
+> **What the −12 means:** thirteen years is 156 months, and the uncovered rate is **−1 per month.** He spent **twelve** of them uncovered. **That is roughly 92% discipline over thirteen years**, which is precisely the trade this file always said the arc was about, and it is the reason he arrives in Year 0 with an eye at all.
+
+## Burning Clarity — **currently active**
+
+**At Max Vision 65 he is in the 69–40 band.** He has been for some time and has almost certainly not mentioned it.
+
+- **+1 to all Perception and Reaction timing.**
+- **Colour is going wrong on that side** — everything slightly oversaturated.
+
+> **He is four points from having crossed into it unnoticed and twenty-six from the band where the eye starts *paying him* to kill it faster.** The temptation is no longer theoretical.
 
 ## THE HEADBAND — halting the loss **[the Kakashi discipline]**
 
@@ -577,6 +601,15 @@ His eye reads **speed** — fitting for someone whose whole style is arrival rat
 | **III** | **半瞬 HANSHUN · "The Half-Second"** | Mikiri upgrades: instead of only dodging, he may **counterattack immediately** with a basic attack or D-rank technique **at no slot cost.** Twice per combat | 10 Ch |
 | **IV** | **写し UTSUSHI · "The Copy"** | The full Sharingan gift — **copy a witnessed technique** (Ninjutsu check, **DC 10 + 2 per rank step**). Kekkei genkai and hiden remain uncopyable | 15 Ch |
 
+> ## ★ ALL FOUR TIERS ARE UNLOCKED, AND HAVE BEEN SINCE THE TRANSPLANT.
+> **[RESOLVED by table ruling, Year 0.]**
+>
+> **He did not climb this tree. It arrived complete, in the mud, in the socket.** Suzume did not hand him a dōjutsu to develop — **she handed him a finished eye**, and *"see what I see"* was a build order, not an aspiration. Every tier came with it.
+>
+> **This is why the tree cost him no separate Vision.** The −5-per-tier charge is the price of a shinobi *forcing* a dōjutsu to grow. **Nothing here was forced.** The whole thing was given, at once, by someone who was dying and knew exactly what she was giving. **The cost was already paid — by her, in a different currency, and the ledger has no column for it.**
+>
+> **And this is the other half of his curse.** Per the eye-never-deactivates rule, **every tier here is passive and always-on** — which means Mikiri, Inyomi, Hanshun and Utsushi have all been running, continuously, since Session Eight. **He has never once had to switch them on, and he cannot switch them off.**
+
 > **⚠ Tier IV interacts badly with Arakawa, and this is deliberate.** A copied technique is one he has *never trained*, executed with control he is still learning to hold. **Every copied C-rank or above triggers the Arakawa control check** — at advantage while he holds Shioai, flat otherwise. **Copied A/S-rank while out of rhythm rolls the transformation table.** He can take everything anyone shows him. He may not survive using it.
 
-> **[DECISION NEEDED]** — **no unlock record exists for Ardo's own tree.** Thirteen years of play have passed without any of I–IV being marked unlocked or locked. Each costs **−5 Max Vision**, so the answer directly determines the meter. **A table ruling is required**; flagged in `campaign/campaign-state.md`.
+> **[RESOLVED, Year 0.]** The tree's unlock state was unrecorded for thirteen years. **Ruling: all four tiers unlocked at the transplant, Session Eight, at no Vision cost** — see the box above. The meter is settled at **65**.

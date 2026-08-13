@@ -242,21 +242,75 @@ And it flags one thing Book IV got half-wrong: **Decapitating Airwaves** is name
 ---
 ---
 
-# 9. ⚠ UNRESOLVED — REQUIRES A HUMAN RULING
+# 9. DECISION POINTS
 
-**Flagged, never silently decided.** Each is tagged `[DECISION NEEDED]` in place.
+## 9a. RESOLVED BY TABLE RULING — Year 0
 
-| # | Question | Where | Why the audit will not decide |
+**Five of the eleven were ruled on and are now applied throughout the project.**
+
+### ① Ardo's Max Vision → **65 / 100**
+
+The ledger reconciles the ruling with the canonical 87 rather than overwriting it:
+
+| | | Running |
+|---|---:|---:|
+| Start | | **100** |
+| Recorded Mangekyō-grade uses *(Mukaebi 3 · Ryūchi day one 4 · the stone 6)* | −13 | **87** ← *canon, unchanged* |
+| 相眼 Sōgan **II** and **III**, unlocked in the Ryūchi year | −10 | **77** |
+| Thirteen years of the Kakashi discipline | −12 | **65** |
+
+**−12 across 156 months at −1/month uncovered ≈ 92% discipline.** Exactly the trade the arc was always about.
+**Consequence: Burning Clarity band 69–40 is now ACTIVE** — +1 to all Perception and Reaction timing, and colour going wrong on that side. **He is 26 points from the band where the eye starts paying him to kill it faster.**
+**Applied in:** `campaign-state.md` · `ardo-transformations.md` · `ardo.md`.
+
+### ② Ardo's own dōjutsu tree → **all four tiers unlocked at the transplant, at no Vision cost**
+
+**He did not climb the tree; it arrived complete, in the socket.** *"See what I see"* was a build order, not an aspiration.
+
+**Why it costs nothing:** the −5-per-tier charge prices a shinobi *forcing* a dōjutsu to grow. **Nothing here was forced** — it was given, at once, by someone dying who knew exactly what she was giving. **The cost was paid by her, in a different currency, and the ledger has no column for it.**
+
+**Consequence:** Mikiri, Inyomi, Hanshun and Utsushi have been **passive and always running since Session Eight**, per the eye-never-deactivates rule. He has never switched them on and cannot switch them off. **This also resolves ① cleanly** — the tree's unlock predates the canonical 87, so its cost is already inside it.
+
+### ③ 飛雷神・瞬 Hiraishin no Shun → **requires the eye uncovered. Priced.**
+
+| | |
+|---|---|
+| **Per mark** | **Nothing.** Marking is a look — Sharingan-grade perception, same class as his own tier tree |
+| **Per combat he marks in** | **−1 Max Vision.** Once or thirty times, same cost |
+| **Waiting with it uncovered** | **−1 per month.** *The expensive one* |
+
+> **The technique is free. The posture is not.** It does not charge him for using it — **it charges him for being ready to use it.** Minato solved that problem with years of pre-placed marks; Ardo replaced the planning with an eye, and the eye is the price.
+>
+> **And the 92% discipline that produced 65 was built over thirteen years in which he had no reason to break it.** He learned Shun hours before October 10th. **None of that history predicts how he handles it now.**
+
+### ④ Who holds Souji → **DELIBERATELY UNRESOLVED. A standing mystery, not a gap.**
+
+**The party believes Danzō. That belief is reasonable, load-bearing, and may be wrong.** Four readings are live and all textually supported: Danzō straightforwardly · **Orochimaru with Danzō as cover** · someone else with both names as noise · or **nobody, and he is attributing a choice he made alone.**
+
+**Handling rules recorded in `campaign-state.md`:** never confirm or deny on the party's behalf · let them chase Danzō and let the trail be *nearly* right · Book III §4 limits every NPC's answer, **and nobody in Konoha has the whole picture, including Hiruzen** · the Ishinuma contract is the honest route, and Gensai refusing to answer is itself information · **when it resolves, it should cost something to learn.**
+
+**Applied as a BELIEF, not a fact, in both PCs' Knowledge Ledgers** — Suzume's flagged specifically, since she is the one who asked about Orochimaru twice and got *"he's a colleague"* both times.
+
+### ⑤ SOUTA → **thirteen years written. Held offstage.**
+
+Waited two years without spending the money · took the **wartime Academy intake** and graduated late and barely, because his chakra is unremarkable and always was · spent the war as a **quartermaster** — convoy routing, transit papers, refugee registries, casualty reconciliation, **moving people and goods across borders that were not supposed to be crossed** · mustered out at Year −5 · has spent **the last eighteen months looking for his sister on paper**, which is the one thing the war made him very good at.
+
+**Alive, ~25, and not in Konoha on October 10th.** His sister's fate stays unresolved.
+
+> **He is the ordinary person** — no bloodline, no dōjutsu, no bijū, no estate — **and the only such person either PC ever personally saved and then simply left.**
+>
+> **He is also precisely what they now need and cannot get:** they are chasing a defector across a continent **with no headband authority by Hiruzen's own terms**, and Souta moves people across hostile borders on paper, professionally, and has for a decade.
+>
+> **⚠ Held offstage by ruling.** Not to contact Ardo or Suzume yet. *Ardo has not thought about him in years, and Souta has thought about Ardo constantly, and neither of those is a betrayal.*
+
+## 9b. STILL OPEN — no ruling yet
+
+| # | Question | Where | Why it stays open |
 |---:|---|---|---|
-| **1** | **Ardo's current Max Vision.** Last confirmed **87**, thirteen years ago. The rules charge −1/month uncovered and 0 covered; thirteen years uncovered is −156 and he is not blind, **so he was disciplined — but nothing records how disciplined** | `campaign-state.md` | The rules say explicitly the cost is *"determined by habits built, not rolled later."* **Those habits were played past without a figure being set.** A suggested range (55–65) is offered as a starting point, not a ruling |
-| **2** | **Ardo's own dōjutsu tree has no unlock record.** Mikiri / Inyomi / Hanshun / Utsushi — **thirteen years without any marked locked or unlocked.** Each costs −5 Max Vision | `ardo-transformations.md` | Directly determines #1 |
-| **3** | **飛雷神・瞬 requires the eye uncovered.** His best technique now taxes his sight, and **no figure was ever set** | `ardo-jutsu.md` | New as of Session Twelve. Never priced |
-| **4** | **Who actually holds Souji.** He **denied Danzō by name** and then **credited Danzō by name** in the same scene — while Orochimaru remains the only person he spoke to for three months | `campaign-state.md` · `souji-story.md` | Either a lie protecting a different handler, or a distinction between employer and teacher. **It changes what the party is chasing** |
-| **5** | **Has 朽木 Kuchiki been taught to keep what it takes?** Flagged on three sheets for years as *"a moral architecture, not a law of physics"* | `souji-transformations.md` | The character's live arc. A scene, not a ruling |
-| **6** | **Does the Ishinuma contract still answer Souji?** Gensai's house signed a sentence he may no longer believe | `souji-jutsu.md` | Also the party's most plausible route to finding him |
-| **7** | **Sky-Torrent Downfall's rank.** Reads A-rank+ by output; the invention gates are nowhere near met | `ardo-jutsu.md` | The file already flagged this as an open campaign question. **Preserved, not overwritten** |
-| **8** | **SOUTA.** A war orphan Ardo took in, housed, and left. **Appears at Session Four and is never mentioned again** across thirteen years and a timeskip. Would be ~20 now, in a village that just burned | `npcs.md` · `ardo-story.md` | A person, not a variable. **The audit will not invent his fate** |
-| **9** | **Ryō, all three characters.** 12,000 / 12,000 / 6,000 — **unchanged for thirteen years**, with Souji's still annotated *"Genin-standard, no windfalls yet"* | `campaign-state.md` | Bookkeeping the table abandoned; not the audit's to fabricate |
+| **6** | **Has 朽木 Kuchiki been taught to keep what it takes?** Flagged on three sheets for years as *"a moral architecture, not a law of physics"* | `souji-transformations.md` | The character's live arc. A scene, not a ruling |
+| **7** | **Does the Ishinuma contract still answer Souji?** Gensai's house signed a sentence he may no longer believe | `souji-jutsu.md` | Also the party's most plausible route to finding him — **and now the honest route to ④** |
+| **8** | **Sky-Torrent Downfall's rank.** Reads A-rank+ by output; the invention gates are nowhere near met | `ardo-jutsu.md` | The source already flagged this as an open campaign question. **Preserved, not overwritten** |
+| **9** | **Ryō, all three characters.** 12,000 / 12,000 / 6,000 — **unchanged for thirteen years**, Souji's still annotated *"Genin-standard, no windfalls yet"* | `campaign-state.md` | Bookkeeping the table abandoned; not the audit's to fabricate |
 | **10** | **The Shepherd's judgment and the Handler's interrogation.** *"Pending"* since Session Seven — **thirteen in-world years** | `npcs.md` | Genuinely open plot, now visible rather than buried |
 | **11** | **Where Roku is.** Off the front since Year −6, in Konoha, which has just burned | `npcs.md` | Unaddressed by the source material |
 

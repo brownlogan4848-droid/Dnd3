@@ -43,17 +43,45 @@ Loud, generous, spent his share of the hazard money immediately and had no regre
 >
 > At the same ceremony Ardo declared himself **"Shadow Kage."** Tsume: *"Rai would've told you that title doesn't exist. Then he would've told everyone he knew you first."*
 
-## SOUTA — ⚠ **FELL OFF THE RECORD**
-**War orphan · no headband · no claimed village · would be ~20 now**
+## SOUTA
+**War orphan · Konoha, provisional-then-registered · ~25 · ALIVE, and not in Konoha on October 10th**
+**[GM — the thirteen-year gap, filled Year 0. Not in play yet, by design.]**
 
-Found stealing food outside Konoha on what began as a routine D-rank at Session Four. **Talked down rather than fought.** Ardo vouched for him personally at the gate and through intake — two logged rule violations along the way — **and offered him a home the same night.** Provisional civilian status, weekly check-ins. **Ardo gave him his money before leaving on the mission that doubled as his exam.**
+### How it started
 
-His true origin, his sister's exact fate, and whether his path overlaps any existing thread were all **deliberately undecided — an open character, not a mystery box.**
+Found stealing food outside Konoha on what began as a routine D-rank at Session Four. **Talked down rather than fought.** Ardo vouched for him personally at the gate and through intake — two logged rule violations along the way — **and offered him a home the same night.** Provisional civilian status, weekly check-ins.
 
-> ## ⚠ [DECISION NEEDED]
-> **He appears at Session Four and is never mentioned again** — across thirteen years, an eight-year timeskip, the squad leaving Konoha, and a village burning down. **A boy Ardo took in and then left.**
+**Ardo gave him his money before leaving on the mission that doubled as his exam.**
+
+**And then Ardo never came back.** Cell 409 left Konoha as 遊撃班 four sessions later, and nobody wrote Souta into that decision at all.
+
+### The thirteen years
+
+| When | What |
+|---|---|
+| **Yr −13 → −11** | **He waited.** Weekly check-ins, reported to a desk, to an officer who did not know who Ardo was. **He did not spend the money for two years** |
+| **Yr −11** | Took the Academy's **wartime intake** — the accelerated one, the one the village was running because it was losing people faster than it could train them |
+| **Yr −10** | **Graduated late, and barely.** His chakra is unremarkable and always was. **He was never going to be a shinobi in the sense this campaign uses the word** |
+| **Yr −10 → −5** | **Supply and movement.** Quartermaster's assistant, then quartermaster: convoy routing, forged and unforged transit papers, refugee registries, casualty reconciliation, and getting things across borders that were not supposed to be crossed. **He was extremely good at it.** He never once saw the front and he kept a great many people who did alive |
+| **Yr −5** | War ends. **Mustered out with a clean record and no idea what he was for** |
+| **Yr −5 → −2** | Border towns and caravan work, quietly building the one skill the war gave him: **finding a person on paper.** Registries, intake ledgers, resettlement lists, bounty rolls, grave manifests |
+| **Yr −2 → now** | ### **Looking for his sister.** |
+
+### The sister
+
+**Her exact fate is still unresolved and is deliberately not written down here.** What is established: **Souta has spent eighteen months away from Konoha following a paper trail for her**, and he is better at that particular task than almost anyone alive, because he built the skill specifically for it.
+
+**He was not in the village on October 10th.**
+
+### Why he matters, and why not yet
+
+> **He is the ordinary person.** No bloodline, no dōjutsu, no bijū, no estate. He is what the whole setting claims to be protecting, and he is the only such person either PC has ever personally saved and then simply left.
+
+**And he is, precisely, what Ardo and Suzume now need and cannot get.** They are chasing a defector across a continent **with no headband authority, by Hiruzen's explicit terms** — no papers, no requisition, no official anything. **Souta moves people and goods across hostile borders on paper, professionally, and has done for a decade.**
+
+> **⚠ HOLD HIM OFFSTAGE.** He is alive, findable, and **not to be brought into contact with Ardo or Suzume yet.** The reunion is worth more the longer it waits, and it should not be a rescue in either direction — **the last time they met, one of them was starving and the other was eight.**
 >
-> **The audit will not invent an answer.** But he is roughly 20 now, Konoha is on fire, and *"the boy Ardo rescued and then abandoned"* is a loaded gun sitting on the table.
+> **When it comes, the first fact that matters is this:** *Ardo has not thought about him in years, and Souta has thought about Ardo constantly, and neither of those is a betrayal.*
 
 ---
 ---
