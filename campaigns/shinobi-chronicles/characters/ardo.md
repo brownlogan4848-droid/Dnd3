@@ -511,6 +511,84 @@ Performed on the underground sea in Ryūchi Cave's Deep Gallery. **It left a cra
 > **AND THEN THE TIDE CHANGED DIRECTION.** Hours early. Wrong. The tide under that mountain has run unexplained since before anything down there could speak, and Ardo picked up a piece of the sea and it **answered.** Monuke sent Suzu for the Sage immediately. **Unresolved.**
 
 ---
+
+## 飛雷神・瞬 — HIRAISHIN NO SHUN · "FLYING THUNDER GOD: BLINK"
+### **[GM — Year 0, October 10th. Taught by Minato Namikaze hours before his death.]**
+
+**Minato's own technique, rebuilt around an eye.**
+
+Hiraishin needs a **mark** — physical, pre-placed, a tagged kunai or a formula stamped somewhere in advance. Minato's legend rests on years of quietly marking things across a continent before anyone needed him to.
+
+**Useless to Ardo as taught.** He is faster than Minato and his entire style is arriving somewhere he decided on a quarter-second ago. **大仙 Daisen has no transit to file.** Marks are for people who plan.
+
+> *"A mark isn't a formula. **It's a place you've decided is real.** The formula's a crutch — it exists because most people can't hold a location precisely enough for the technique to find it, so we write it down."*
+>
+> *"You've got an eye that resolves chakra to a resolution nobody else on this continent can match. **You don't need to write it down. You can just look at it and mean it.**"*
+
+| | |
+|---|---|
+| **Marking** | **A glance.** The Mangekyō resolves a point and the mark simply exists there — no kunai, no tag, no formula, **nothing placed in advance and nothing left behind to be found** |
+| **Rate** | **Two marks per action** |
+| **Action cost** | Usable as an **Action, Bonus Action, or Reaction** — the marking is a look, not a working, so he can place one mid-combo, mid-fall, or in the fraction between somebody committing and connecting |
+| **Requires** | **The Mangekyō uncovered.** Headband down, no marking |
+| **Stacks** | With everything. Daisen is already an absence of transit; Shun means he doesn't need the line |
+
+**Minato watched him do it eight times in a row and stopped laughing around the fifth.** *"That's not what I do." / "Is it wrong?" / "It's **better**, and I'd like you to not say that out loud in the village."*
+
+**Learned in forty minutes**, roughly three hours before Konohagakure burned.
+
+---
+
+## 音置き — OTOOKI · "SOUND-LEFT-BEHIND"
+### **[GM — named Year 0. What he has been doing since Daisen, finally given a word.]**
+
+**Not a technique he learned. A word for what happens.**
+
+Full 大仙 Daisen movement, deliberately: no blur, no line, no displaced air where he was, **no sound.** A hole in the air, everything within forty metres snatched inward to fill it, and then —
+
+**four seconds later — the noise arrives.** A rolling boom that flattens undergrowth in a dead-straight line pointing exactly where he went.
+
+> **He named it for the wreckage, not the speed.** The counterweight was named for what it balances. The tide-wind for what it feels like. And the fastest movement in this world is named for the fact that **the sound gets left standing where he was.**
+
+- **Carrying a passenger is possible and it hurts them.** Suzume crossed four kilometres on his wrist and felt it in her ribs for a week. *"Never again."*
+- **It is the loudest thing in the Land of Fire.** Otooki *is* the beacon problem — every sensor at range, every sage alive. **You cannot use this and be boring.**
+
+---
+
+## THE SEAL TRANSFER **[Year 0, October 10th — the single largest thing he has ever done]**
+
+**He erased the Fourth Hokage's work off a newborn and put it on himself.**
+
+Minato had **pre-inked the foundation of an eight-trigram array on his unborn son, weeks in advance**, having worked out that the night might go exactly the way it went. He told nobody — not his wife, not his student, and three hours earlier he had been making jokes about filing systems.
+
+**What the archive read in the linework:** an array scaled to hold *something alive, that pushes back, for eighty years.* And a completion cost written in plainly, the way an engineer writes a load limit —
+
+> *"Whoever closes that seal **dies closing it.** He knew that when he inked it. **He inked it anyway. On his son. Weeks ago.**"* — Nao
+
+**Ardo unspooled it stroke by stroke in reverse order, left Naruto completely clean, and wrote it onto his own stomach over his mother's containment array.** *(Fūinjutsu check: 26 vs DC 20.)*
+
+### What it cost, and what he did not hear
+
+**He shut the archive out first**, deliberately, so he could not be argued out of it — alone in his own body for the first time since he was ten. The last thing through before the door closed:
+
+> *"—love, **destination isn't the same as conduit**, I was talking about the **rout—**"*
+
+**Two things said out loud in the ninety seconds before, that he did not listen to:**
+1. **The trustee never said he could be the destination.** She said the *volume routes* through a crowd. Conduit and destination are different words.
+2. **Minato had weeks to think and chose Naruto.** Ardo overruled him in four seconds without asking why.
+
+### Current state
+
+| | |
+|---|---|
+| **Two arrays, one stomach** | His mother's inward-facing containment (holding the archive) **and** Minato's eight-trigram on top. Same tradition, a century and a half apart — **they fit, and they grind.** Yoi could hear it from across a clearing |
+| **The new array is EMPTY** | Built to hold something alive, **open and waiting.** *"Like standing under a raised sledgehammer nobody has swung yet"* |
+| **Nothing is solved** | **He has only moved where it lands.** Minato still has to perform the sealing, and the cost written into that array is still sitting on somebody |
+| **The archive is locked out** | Four hundred generations hammering. **The trustee is not hammering — she is just standing at the door**, the way you wait outside a room when you already know what someone's done |
+
+**Suzume's read, in bodies rather than seals:** *"You didn't make yourself the patient. **You made yourself the operating theatre.**"*
+
+---
 ---
 
 # PART SIX — 綻び THE SEAM **[moved]**
@@ -991,6 +1069,12 @@ Thunder Gods Gale    C  28/14   Action    ← PROTOTYPE, ranged 40ft, 3d8, pulls
    No water = no technique. He is not a Water user.
 Barometric Tsunami   C  12/6   Action    ← PROTOTYPE, 2m line, 2d8, STR12 or prone+stun, 2 slots
 Storm-God's Iron Grip B  14/10  Action/Reaction ← PROTOTYPE, needs Kōfū (B > Chūnin C ceiling), 2 slots
+飛雷神・瞬 HIRAISHIN NO SHUN — Minato's, rebuilt around the eye.
+   MARK BY LOOKING. No kunai, no tag, nothing left behind.
+   2 marks/action · Action, BONUS, or REACTION · needs eye uncovered
+音置き OTOOKI — full Daisen movement. No blur, no line, NO SOUND.
+   The boom arrives 4 seconds later pointing where he went.
+   Passengers possible and it hurts them. IT IS THE BEACON.
 
 ── PERMANENT, SESSION SEVEN ─────────────────────
 LEFT EYE: Suzume's MANGEKYŌ SHARINGAN (transplanted, non-Uchiha)
