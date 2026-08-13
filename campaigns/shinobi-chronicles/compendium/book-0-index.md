@@ -4,6 +4,12 @@ Navigation, conventions, and every table you need within reach during play. Keep
 
 **Companion to:** the **Jutsu Compendium** (7 rank files) and **Books I–IV**.
 
+> ## ⚠ THIS FILE IS DERIVED, NOT AUTHORITATIVE.
+>
+> Every table here is a **copy** of something Book IV or Book II owns. It exists for speed at the table, and it **never wins an argument.** If a number here disagrees with Book IV, Book IV is right and this file is stale — go fix it.
+>
+> Authority ladder and the full file map: **`ARCHITECTURE.md`** at the campaign root.
+
 ---
 ---
 
@@ -186,12 +192,14 @@ Full systems in **Book IV §3**.
 | Gain | | Spend | |
 |---|---|---|---|
 | Start of round | +5 | Heavy Strike (+2 dice) | 20 |
-| Land a hit | +5 | Unavoidable | 30 |
-| Critical hit | +10 | Push through interruption | 30 |
-| Take a big hit (25%+ HP) | +15 | Extension (+1 action) | 40 |
-| Drop an enemy | +15 | Clan bloodline ability | 40–60 |
-| Mission objective | +20 | Perfect Strike (auto-crit) | 60 |
+| Land a hit | +5 | Unavoidable · **push through interruption** · ignore one cost | 30 |
+| Critical hit | +10 | Extension (+1 action) · auto-succeed one save/check | 40 |
+| Take a big hit (25%+ HP) | +15 | Clan bloodline ability | 40–60 |
+| Drop an enemy | +15 | Perfect Strike (auto-crit) | 60 |
+| Mission objective | +20 | Bloodline **awakening** (story) | 100 |
 | Character moment | +10 | **SIGNATURE TECHNIQUE** | **100** |
+
+**Master menu: Book IV §1 Part One.** Pushing through an interruption costs **30 Special or a feature — there is no free save.**
 
 ---
 ---
@@ -229,7 +237,9 @@ Full systems in **Book IV §3**.
 
 # TRACKED CONFLICTS
 
-Flagged across the Books, deliberately unresolved:
+## Canon conflicts — deliberately unresolved
+
+These are **source disagreements**, not errors. Both readings are preserved on purpose.
 
 | Conflict | Where |
 |---|---|
@@ -240,8 +250,26 @@ Flagged across the Books, deliberately unresolved:
 | Ryō-to-real-currency conversion | Book I §4 |
 | Allied Shinobi Forces total headcount | Book III §3 |
 | Hōzuki Hydrification — ranked hiden or kekkei genkai? | Book II §1 |
+
+## Sheet-vs-compendium conflicts — need a session-zero decision
+
+| Conflict | Where |
+|---|---|
 | **Lightning Blade (D) vs. Lightning Cutter (S)** — same Japanese name, six rank steps apart | Book IV §1 |
 | **Fire Release: Fireball (D) vs. Phoenix Sage Fire (C)** | Book IV §1 |
-| Genjutsu Release (Kai) — absent from all seven rank files | Book IV §1 |
+| Genjutsu Release (Kai) — present in no rank file; see `02-d-rank.md` for the placeholder ruling | Book IV §1 · Jutsu Compendium |
 
-**The last three need a session-zero decision.** Book IV §1 lays out three resolutions and recommends one.
+**Book IV §1 lays out three resolutions and recommends Option A** (sheet entries are the beginner forms; compendium entries are the mature versions, reached through Upgrades).
+
+## Mechanical contradictions — RESOLVED by the architecture audit
+
+These were **genuine rule collisions**, not source disagreements. Each has been resolved and propagated. Full reasoning in `AUDIT-REPORT.md`.
+
+| Was | Resolution |
+|---|---|
+| Pushing through an interruption: **30 Special** (Book IV §1/§2 body, Book 0) vs. **CON save or 25 Stamina** (Book IV §2 quick-ref card) | **30 Special or a feature.** "There is no free save" is explicit in the body text; a CON save is a free save. Card corrected. |
+| Special spend: **"+1 damage die = 20"** (Book IV §1) vs. **"Heavy Strike, +2 dice = 20"** (Book IV §2) | **§2 wins.** Menus merged into one master table at Book IV §1 Part One. |
+| Jinchūriki: DM takes control at **3 tails** (Book IV §1) vs. **4 tails** (Book II §3) | **Book II wins** — the specific, complete treatment. Book IV now delegates and states no thresholds. |
+| Senju clan passive referenced **Hit Dice**, a subsystem this game does not have | Restated in Chakra/Stamina/Health terms and unified with **Mastery of the Earth** from `characters/souji.md`. |
+| D-rank Stamina band printed as **5–6** in one line, **5–8** everywhere else | **5–8.** No printed D-rank technique respects 5–6. |
+| **`02-d-rank.md` referenced but absent** from the Jutsu Compendium | File created. |

@@ -1,346 +1,80 @@
-# Naruto Shinobi Chronicles — PC SHEET: SUZUME
+# PC SHEET — SUZUME
 
-**Campaign:** *The Long Shadow* — cross-era, three acts, two timeskips.  
-**Current Position:** Late Era A · Third Great Ninja War · approx. Year −15 · Land of Grass  
-**Current Session:** **Late Era A, ~Year −5 — the Third War is ending.** **Year 0. Age 27**, Jōnin, 遊撃班's field medic. *(Sessions Nine–Ten were Ryūchi Cave, a year of training — Age 14, field-medic capable, Mukaebi built, two dōjutsu tiers and two Sōgan tiers unlocked. *(Historical, Session Eight:* **AWAKE, critical, hospitalized — and leaving the village** with Cell 409 as **遊撃班 Yūgekihan**, by her own choice, on the record. Woken on day three by Ardo completing a closed chakra circuit through their paired eyes; she was conscious and trapped inside herself the whole time. Mangekyō technique named: 迎え火 Mukaebi. Took 99 damage (vs 80 max Health) shielding Souji from Ardo's inverted transformation; Mangekyō awakened as she died; traded left eyes with Ardo (相眼 Sōgan — the circuit is closed, both ways). Alive only because whatever is sealed in Ardo spent itself buying four minutes.  
-**Character:** **Suzume** · **Jōnin · Level 13 · Age 22** *(eight years of the Third War)* *(promoted end of Session Six, stats recalculated Session Eight)*  
-**Cell:** Konoha Cell 409  
-**Current Rank Ceiling:** C-rank  
-**Current Dōjutsu:** **Mangekyō Sharingan — RIGHT EYE.** Left socket now carries **Ardo's transplanted ordinary eye** — the exchange ran both ways. See Part Eight, Path ②, and 相眼 Sōgan in `characters/ardo.md`.
+> **This sheet carries identity, fixed statistics, permanent traits, and an index of what she can do.**
+> It carries **no current values** and **no technique mechanics.**
 
----
-
-# AI / GM REFERENCE STANDARD
-
-This sheet follows the same structure and rules language as Ardo's completed PC sheet.
-
-## Source Tags
-
-| Tag | Meaning |
+| Need | File |
 |---|---|
-| **[SHEET]** | Printed on an official sheet or directly derived from the established rules reference. |
-| **[INF]** | Reasonable extrapolation used to complete an obvious gap. |
-| **[GM]** | Table ruling established for this campaign. |
-| **[GM — formalized]** | Previously demonstrated/improvised behavior now converted into explicit PC mechanics. |
-| **[CONFLICT]** | A printed rule and an established event disagree. The conflict is preserved rather than silently rewritten. |
-| **[PROPOSED]** | Future possibility only. It is not currently learned or available. |
+| **Current Chakra / Stamina / Health / Special / conditions** | **`campaign/campaign-state.md`** |
+| **Technique costs, damage, DCs, ranges** | **`suzume-jutsu.md`** |
+| **Sharingan, Mangekyō techniques, dōjutsu trees, Sōgan** | **`suzume-transformations.md`** |
+| **Goals, knowledge, relationships, threads, session history** | **`suzume-story.md`** |
 
-## AI Interpretation Rules
-
-1. **CURRENT / LEARNED** techniques are available to Suzume during normal play.
-2. **CONDITIONAL** abilities require their stated trigger.
-3. **PROPOSED** abilities are not learned and must never be treated as part of her current combat loadout.
-4. **Narrative descriptions** do not create additional mechanical effects unless an explicit **Effect**, **Special Rule**, or **Drawback** says so.
-5. Suzume uses the **same Genin action economy, combo rules, reaction rules, clash rules, interruption rules, and Going Beyond rules as Ardo**.
-6. Her Sharingan is a dōjutsu/bloodline system, not a normal E/D-rank jutsu.
-7. Do not invent a nature transformation, elemental jutsu, medical jutsu, or higher-rank technique for Suzume unless it is explicitly added as a future development.
-8. No JP creation breakdown is included because the campaign does not currently possess the complete jutsu-creation ruleset.
+> ## ⚠ THIS SHEET WAS REBUILT BY THE ARCHITECTURE AUDIT.
+> The previous version carried **three unreconciled strata** — Level 1, Level 5 and Level 13 text all live simultaneously, contradicting each other on her age, her rank ceiling, her Sharingan stage, her Medical capability, her Genjutsu proficiency and her unlocked tiers. **Every contradiction is resolved and documented** in `suzume-jutsu.md` and `suzume-transformations.md` under *Corrections Applied*.
 
 ---
-
-# PART ONE — CURRENT JUTSU & ABILITIES
-
-## Current Combat Loadout
-
-| ID | Name | Rank | Type | Status | Cost | Action |
-|---|---|---:|---|---|---|---|
-| **E-GEN-01** | Clone Technique | E | Ninjutsu / Clone | **Learned** | 5 Ch | Action |
-| **E-GEN-02** | Transformation Technique | E | Ninjutsu / Transformation | **Learned** | 4 Ch | Bonus |
-| **E-GEN-03** | Substitution Technique | E | Ninjutsu / Escape | **Learned** | 8 Ch / 5 St | Reaction |
-| **E-GEN-04** | Rope Escape Technique | E | Ninjutsu / Utility | **Learned** | 3 Ch / 2 St | Bonus |
-| **BAS-TAI-01** | Basic Taijutsu Strike | — | Taijutsu / Weapon Combat | **Learned** | — | Action |
-| **D-DOU-01** | **Mangekyō Sharingan** *(right eye)* | — | Dōjutsu / Kekkei Genkai | **AWAKENED, Session Eight** | 3 Ch/round base | Passive + Reaction |
-| **MG-01** | 迎え火 Mukaebi | — | Mangekyō technique | **Named, unbuilt** | Special | See Part Eight |
-| **PT-TAI-01** | Mirrored Opening | — | Taijutsu, Sharingan-assisted | **Learned** | — | Action |
-| **C-SUM-01** | 灯無 Summoning — 宵 Yoi | C | Ninjutsu / Summoning | **CONTRACT SIGNED, Session Nine** | 20 Ch / 10 St · 2 slots | Action |
-| **D-LIGHT-01** | Lightning Release: Pulse Thread | D | Ninjutsu / Lightning | **Practiced** | 8 Ch / 5 St | Action |
-
-### Currently Usable
-
-- Clone Technique
-- Transformation Technique
-- Substitution Technique
-- Rope Escape Technique
-- Basic Taijutsu / kunai combat
-- Basic weapon positioning and shuriken use
-- **Lightning Release: Pulse Thread** (+ Split Current)
-- Mirrored Opening
-- **Mangekyō Sharingan — right eye.** Left socket carries Ardo's ordinary eye (相眼 Sōgan)
-
-> **Physical status, Session Eight:** awake, critical, three days' atrophy on a body that took 99 damage. **Not combat-capable.** Nothing above is usable until she's medically cleared.
-
-### Conditional
-
-- **Sharingan Reaction:** May impose disadvantage on one enemy attack while the Sharingan is active, paying its upkeep.
-- **Counter Window:** Same as Ardo's rules.
-- **Clash:** Same as Ardo's rules.
-- **Going Beyond:** Same as Ardo's rules.
-
-### Not Learned
-
-- Elemental ninjutsu beyond Pulse Thread
-- Medical ninjutsu *(trained interest, no techniques yet — see her dōjutsu tree, Tier II)*
-- Genjutsu techniques *(now on a real path — dōjutsu tree, Tier III)*
-- Every dōjutsu tree tier — **none unlocked yet.** Mukaebi awakened on its own; the trees are progression, not current kit
-- Eternal Mangekyō
-- Any proposed future jutsu
-
 ---
 
-## E-GEN-01 — CLONE TECHNIQUE
+# PART ONE — IDENTITY
 
-**Japanese:** Bunshin no Jutsu  
-**Rank:** E  
-**Type:** Ninjutsu / Clone  
-**Status:** Learned [GM — formalized]  
-**Cost:** 5 Chakra  
-**Action:** 1 Action  
-**Slot:** 1
+| Field | Value |
+|---|---|
+| **Name** | **Suzume** — *sparrow* |
+| **Age** | **27** |
+| **Rank** | **Jōnin · Level 13** |
+| **Village** | Konohagakure |
+| **Unit** | **遊撃班 Yūgekihan.** *(Formerly Cell 409.)* **Field medic** |
+| **Clan** | **UCHIHA by blood.** Clanless on every document that exists. **The clan has never claimed her** — not at birth, not through the unexplained migraines, not when her eyes opened over Rai Inuzuka's body |
+| **Body Origin** | **Body Origin — Uchiha-aligned.** Blood and origin point the same direction |
+| **Nature affinity** | **Lightning (雷 / Raiton)** |
+| **Dōjutsu** | **MANGEKYŌ SHARINGAN — right eye.** Left socket carries **Ardo's transplanted ordinary eye** |
+| **Specialty** | **War medic · genjutsu · precision Lightning · predictive taijutsu** |
 
-### Effect
-Creates intangible illusionary copies of Suzume. The clones cannot physically attack or interact with objects.
+## Who she is now
 
-### Primary Uses
-- Distraction
-- Misdirection
-- Concealment
-- Creating uncertainty about Suzume's real position
+**Thirteen years a war medic**, and war medics are not gentle people. The girl who ran three kilometres for help because she was not strong enough is a long way behind her.
 
-### Limitation
-The clones have no physical substance and cannot substitute for the Shadow Clone Technique.
+She lost a patient in Year −10 on a table she built out of a door. **She stopped keeping count in Year −8**, which she later described as the worst decision she ever made.
 
----
-
-## E-GEN-02 — TRANSFORMATION TECHNIQUE
-
-**Japanese:** Henge no Jutsu  
-**Rank:** E  
-**Type:** Ninjutsu / Transformation  
-**Status:** Learned [GM — formalized]  
-**Cost:** 4 Chakra  
-**Action:** Bonus Action  
-**Slot:** 1
-
-### Effect
-Changes Suzume's visible appearance to resemble another person, creature, or object.
-
-### Primary Uses
-- Disguise
-- Reconnaissance
-- Infiltration
-- Misdirection
-
-### Limitation
-This is a transformation, not a physical alteration of Suzume's actual capabilities.
+**In Year −6 she kept Rokka Uehara alive for six days in a cave.** He survived and never returned to the front.
 
 ---
-
-## E-GEN-03 — SUBSTITUTION TECHNIQUE
-
-**Japanese:** Kawarimi no Jutsu  
-**Rank:** E  
-**Type:** Ninjutsu / Escape  
-**Status:** Learned [SHEET]  
-**Cost:** 8 Chakra / 5 Stamina  
-**Action:** Reaction  
-**Slot:** 1
-
-### Effect
-Suzume replaces herself with a nearby object or prepared substitute to evade an incoming attack.
-
-### Special Rule
-This is currently **Suzume's primary native escape reaction**.
-
-### Limitation
-It does not function as teleportation and requires a plausible substitute/escape position.
-
 ---
 
-## E-GEN-04 — ROPE ESCAPE TECHNIQUE
+# PART TWO — CORE STATISTICS
 
-**Japanese:** Nawameke no Jutsu  
-**Rank:** E  
-**Type:** Ninjutsu / Utility  
-**Status:** Learned [GM — formalized]  
-**Cost:** 3 Chakra / 2 Stamina  
-**Action:** Bonus Action  
-**Slot:** 1
+## Attributes `[SHEET]` — *27-point buy*
 
-### Effect
-Allows Suzume to escape ropes, bindings, and similar physical restraints.
-
----
-
-## BAS-TAI-01 — BASIC TAIJUTSU / KUNAI COMBAT
-
-**Rank:** Unranked  
-**Type:** Taijutsu / Weapon Combat  
-**Status:** Learned through training and demonstrated play  
-**Cost:** None  
-**Action:** 1 Action  
-**Attack:** Taijutsu +4 vs. target Defense  
-**Damage:** 1d6 − 1
-
-### Combat Identity
-Suzume currently fights through:
-- Positioning
-- Precision
-- Perception
-- Kunai
-- Timing
-- Defensive reactions
-
-She is **not** a raw-power fighter. Her STR −1 is an intentional weakness.
-
-### Tactical Strength
-Her DEX +2 and Perception +4 allow her to win exchanges through timing rather than force.
-
----
-
-# PART TWO — SHARINGAN
-
-## D-DOU-01 — SHARINGAN, 2 TOMOE
-
-**Japanese:** 写輪眼  
-**Type:** Dōjutsu / Kekkei Genkai  
-**Rank:** Unranked bloodline ability  
-**Current Stage:** **2 Tomoe**  
-**Status:** **Active / Awakened in Session Five**
-
-> The Sharingan is not assigned an E- or D-rank. It is a bloodline ability whose stages are governed by the Uchiha progression system.
-
----
-
-## Awakening Event
-
-Rai Inuzuka died in front of Suzume during the fight against the Shepherd.
-
-Her eyes changed before she had time to consciously understand what she was seeing.
-
-The awakened eyes displayed **two tomoe in each eye**.
-
-This was not a normal training advancement. It was an extreme emotional/bloodline awakening.
-
----
-
-## Sharingan Benefits — Current Stage
-
-### 1-Tomoe Benefits — Included
-
-**Genjutsu Perception**
-- Advantage against Genjutsu.
-
-**Hand-Seal Reading**
-- Suzume can read and recognize hand-seal sequences significantly faster than an ordinary shinobi.
-
-### 2-Tomoe Benefit — Current
-
-**Predictive Reaction**
-
-While the Sharingan is active, Suzume may use her Reaction to impose **disadvantage on one enemy attack**.
-
-**Upkeep:** 3 Chakra per round while active.
-
-### Demonstrated Application
-
-Suzume successfully used the awakened Sharingan to read the Shepherd's kunai strike before the attack fully committed.
-
-This was not a complete interception. It created the opening needed to avoid taking the clean hit.
-
----
-
-## Sharingan Awakening Conflict
-
-**[CONFLICT — PRESERVED]**
-
-The printed progression places the first Sharingan stages behind level and trauma requirements. Suzume awakened at Level 1 and reached 2 Tomoe during her first major trauma trigger.
-
-### Current Table Ruling
-
-The campaign treats this as a **narrative extremity exception**.
-
-The following factors were already established before awakening:
-
-- Long-term unexplained migraines
-- Abnormal visual strain
-- A dormant Uchiha bloodline
-- An established connection between the symptoms and developing dōjutsu
-- Extreme battlefield trauma
-- Rai's death occurring directly in front of her
-
-This does **not** erase the normal progression rules.
-
-It means Suzume's awakening is treated as an exceptional early manifestation rather than the normal advancement path.
-
----
-
-# PART THREE — ATTRIBUTES & RESOURCES
-
-## Attributes
-
-**[GM — formalized]**
-
-The same 27-point character creation convention used for Ardo is applied.
-
-| Attribute | Score | Modifier | Primary Use |
+| Attribute | Score | Mod | Governs |
 |---|---:|---:|---|
-| **STR** | 10 | **+0** | Physical force |
-| **DEX** | 14 | **+2** | Speed, agility, hand seals, Taijutsu |
+| **STR** | 10 | **+0** | Physical force — *deliberately her weakness* |
+| **DEX** | 14 | **+2** | Speed, agility, hand seals, taijutsu |
 | **CON** | 12 | **+1** | Durability, stamina, chakra |
 | **INT** | 14 | **+2** | Ninjutsu, analysis |
-| **WIS** | 15 | **+2** | Perception, Medical |
-| **CHA** | 16 | **+3** | Presence, **Genjutsu** — *was 11. Eight years and a nightmare she built herself* |
+| **WIS** | 15 | **+2** | Perception, **medical** |
+| **CHA** | 16 | **+3** | Presence, **genjutsu** — *was 11. Eight years, and a nightmare she built herself* |
 
-**Point Buy:** 27/27.
+## Resource maxima `[SHEET]`
 
----
+*Book IV §1 Part Seven formulas. **Current values are in `campaign/campaign-state.md`.***
 
-## Resources
-
-| Resource | Maximum | Current | Formula / Note |
-|---|---:|---:|---|
-| **Chakra** | **350** | 350* | 100 + 20×12 + 10×CON mod |
-| **Stamina** | **350** | 350* | Campaign baseline (mirrors Chakra) |
-| **Special** | 100 | 0* | Formalized as PC resource |
-| **Health** | **176** | 176* | 30 + 10×12 + 2×1×13 |
-| **Defense** | 12 | 12 | 10 + DEX |
-| **Initiative** | +2 | +2 | DEX |
-| **Movement** | 30 ft | 30 ft | Standard |
-| **Proficiency** | **+5** | +5 | Level 13 |
-
-*(Genin/Level 1 baseline was 110 / 110 / 35 / prof +2 — the old +3 Health continuity patch is superseded by this recalculation, done clean off the formula.)*
-
-\* **Live values must be updated after each combat round.** The values above represent the formal sheet baseline, not a claim that every resource is currently full during the ongoing Shepherd fight.
-
-> **LIVE COMBAT SNAPSHOT — Session Five, end of the Shepherd fight:** Chakra 110/110 · Stamina 110/110 · Health 35/35 · Special 35/100. The closing combo (kunai throw → taijutsu strike → hidden-kunai stab, natural 20) was entirely equipment/taijutsu-based — no Chakra or Stamina spent. Special gained from three landed hits (+5 each) plus the critical (+10) plus the moment itself (+10, GM's call — this was the strike that broke the fight against the thing that killed Rai).
-
-### Health Continuity Ruling
-
-The calculated baseline would produce 32 Health, but Suzume entered the current encounter with **35 Health** under the previous combat template.
-
-The 35 Health value is retained to avoid retroactively changing an already-running encounter.
-
----
-
-# PART FOUR — SKILLS, SAVES & PASSIVES
-
-## Skill Proficiencies
-
-| Skill | Bonus | Source |
+| Resource | Max | Working |
 |---|---:|---|
-| **Medical** | **+7** | WIS +2 + proficiency +5 · **war medic, eight years** |
-| **Taijutsu** | **+7** | DEX +2 + proficiency +5 |
-| **Stealth** | **+7** | DEX +2 + proficiency +5 |
-| **Perception** | **+7** | WIS +2 + proficiency +5 |
-| Shurikenjutsu | +7 | DEX +2 + proficiency +5 |
-| Strategy | +1 | INT |
-| **Genjutsu** | **+8** | CHA +3 + proficiency +5 · **her actual specialty now** |
+| **Chakra** | **350** | 100 + 20×12 + 10×CON 1 |
+| **Stamina** | **350** | 100 + 20×12 + 10×CON 1 |
+| **Health** | **176** | 30 + 10×12 + (2 × 1 × 13) |
+| **Special** | 0 / **100** | Starts empty, fills |
+| **Defense** | **12** | 10 + DEX |
+| **Initiative** | **+2** | DEX |
+| **Movement** | **30 ft** | Standard |
+| **Proficiency** | **+5** | Level 13 |
 
----
+> **[RESOLVED]** The old sheet retained a **"Health Continuity Ruling"** pinning her at **35 Health** — a Level-1 value held to avoid disturbing an encounter that ended thirteen years ago. **It is void.** So are the "LIVE COMBAT SNAPSHOT" lines showing 110/110 Chakra. **Never hand-patch a derived number; change the input and recompute.**
 
-## Save DCs
+## Save DCs `[SHEET]` — *DC = 8 + proficiency + governing attribute*
 
-| Discipline | Governing Attribute | DC |
+| Discipline | Governing | DC |
 |---|---|---:|
 | **Ninjutsu** | INT | **15** |
 | **Taijutsu** | DEX | **15** |
@@ -348,1246 +82,167 @@ The 35 Health value is retained to avoid retroactively changing an already-runni
 | **Medical** | WIS | **15** |
 
 ---
-
-## Passive — UCHIHA CLAN TRAIT
-
-**Status:** Active [SHEET]
-
-### Effect
-- Advantage on sight-based Perception checks.
-- Grants access to the Sharingan progression.
-
-### Important Rule
-The Uchiha clan trait does **not** grant a raw attribute modifier.
-
 ---
 
-## Passive — CLINICAL PRECISION
+# PART THREE — SKILLS & PASSIVES
 
-**Status:** Active [GM — formalized]
+| Skill | Bonus | Source |
+|---|---:|---|
+| **Genjutsu** | **+8** | CHA +3 · prof +5 — **her actual specialty** |
+| **Medical** | **+7** | WIS +2 · prof +5 — **war medic, thirteen years** |
+| **Taijutsu** | **+7** | DEX +2 · prof +5 |
+| **Stealth** | **+7** | DEX +2 · prof +5 |
+| **Perception** | **+7** | WIS +2 · prof +5 |
+| **Shurikenjutsu** | **+7** | DEX +2 · prof +5 |
+| Strategy | +2 | INT, not proficient |
 
-Suzume has repeatedly demonstrated unusually calm, methodical observation.
+## Passives
 
-### Effect
-When Suzume has time to calmly assess a situation rather than reacting to an unexpected surprise, she has **advantage on Medical and Perception checks**.
+**UCHIHA CLAN TRAIT** `[SHEET]` — **Advantage on sight-based Perception checks.** Grants the Sharingan progression. **No raw attribute modifier.**
 
-### Demonstrated Examples
-- Diagnosing the injured animal at Kanetsugu's farm.
-- Reading environmental details other characters missed.
-- Recognizing the telegraph in Ardo's Splendor.
-- Identifying the Shepherd's incoming attack before it fully committed.
-
----
-
-# PART FIVE — COMBO & ACTION ECONOMY
-
-## Genin Combo Limit
-
-| Rank | Combo Actions |
-|---|---:|
-| Academy | 1 |
-| **Genin** | **3** |
-| Chūnin | 4 |
-| Jōnin | 5 |
-| S-Rank | 6 |
-| Kage | 7 |
-
-### Suzume
-- **Combo Limit:** 5 actions (Jōnin)
-- **Maximum Jutsu Rank:** D
-- **Bonus Actions:** 1 after combo
-- **Reactions:** 1 after/through combo according to normal rules
-
-Suzume uses **the exact same PC action economy as Ardo**.
+**CLINICAL PRECISION** `[GM — formalized]` — When she has time to calmly assess rather than react to a surprise, **advantage on Medical and Perception checks.**
 
 ---
-
-## Action Weight
-
-| Technique Rank | Slot Cost |
-|---|---:|
-| Basic / E / D | 1 |
-| C / B | 2 |
-| A | 3 |
-| S | 4 |
-
-Suzume currently has access only to the first category.
-
 ---
 
-## Chain Momentum
+# PART FOUR — COMBO & ACTION ECONOMY `[SHEET]`
 
-- Actions 1–3 are clean.
-- 4th action: −1
-- 5th action: −2
-- 6th action: −3
-- 7th action: −4
-- Every action that hits grants **+2 damage to subsequent actions**, cumulatively.
-- A failed save leaves the target **Open**, granting advantage for the remainder of the combo.
+**Combo limit: 5 slots (Jōnin).** **Max jutsu rank: B, plus one A-rank signature** — her signature is **無戸の間 Muto no Ma.**
+After any combo she still gets **one Bonus Action and one Reaction.**
 
----
-
-## Interruption
-
-The combo ends immediately if Suzume becomes:
-
-- Stunned
-- Prone
-- Silenced
-- Grappled
-- Blinded
-- Reduced to 0 in a resource
-
-Remaining actions are lost and costs are not refunded.
-
----
-
-## Reactions
-
-### Substitution
-**8 Chakra / 5 Stamina**
-
-### Brace
-**8 Stamina**
-
-Reduce one incoming action's damage by:
-
-**1d6 + CON modifier**
-
-Suzume therefore reduces the damage by:
-
-**1d6 + 1**
-
----
-
-## Counter Window
-
-When the first action of an incoming combo misses, Suzume may use the Counter Window to cast a known jutsu as a Reaction.
-
-- Normal Chakra cost
-- 150% Stamina cost
-- Once per incoming combo
-- No S-rank techniques
-
----
-
-## Clash
-
-1. Both roll d20 + relevant jutsu modifier + modifiers.
-2. Both roll again for the Break.
-3. Lock winner gains +5.
-4. Win both = Total Overpower, +50% damage.
-5. Defender winning both ends the attacker's combo.
-6. Split = Mutual Detonation: both take half, pushed 15 ft, combo continues at −2.
-7. Overcharge may be used for +4, up to twice.
-8. Rank gap of 3+ means no clash; higher technique consumes the lower.
-
----
-
-## Going Beyond
-
-Suzume may overdraw one resource to zero and pay the shortfall from Health at **4:1**.
-
-The resource reaching zero causes an Interruption.
-
-Her turn ends and she becomes **Exhausted** until rest.
-
----
-
-# PART SIX — MEDICAL DISCIPLINE
-
-## Current Medical Capability
-
-Suzume possesses **Medical +4**, not Medical Ninjutsu.
-
-Her current medical role includes:
-
-- Diagnosis
-- Patient assessment
-- Field triage
-- Recognizing abnormal conditions
-- Identifying injuries
-- Stabilizing a patient with mundane/field equipment
-
-## No Current Medical Jutsu
-
-There is currently no established E- or D-rank Medical Ninjutsu available to her under the campaign's jutsu reference.
-
-Therefore:
-
-**Medical skill ≠ Medical Ninjutsu.**
-
-She cannot currently announce a healing jutsu and spend Chakra to perform supernatural healing.
-
----
-
-# PART SEVEN — PROGRESSION PATHS
-
-## Progression Philosophy
-
-Suzume's progression should not simply copy Ardo's Wind path.
-
-Ardo is developing a technique identity.
-
-Suzume is developing a **precision / perception / dōjutsu / medical identity**.
-
-Her progression should therefore branch naturally from what she has already demonstrated.
-
----
-
-## PATH ① — SHARINGAN MASTERY
-
-**Current:** 2 Tomoe  
-**Next Major Stage:** 3 Tomoe  
-**Long-Term:** Mangekyō → Eternal Mangekyō
-
-### Current Stage
-2 Tomoe.
-
-### Next Stage — 3 Tomoe
-
-**Printed Unlock:** Level 9 or a future exception.
-
-**Effect:**
-- Copy a witnessed jutsu through a Ninjutsu check.
-- DC = **10 + 2 per rank step**.
-- Cannot copy Kekkei Genkai.
-- Cannot copy hiden techniques.
-
-**Upkeep:** 4 Chakra/round.
-
-### Important Copy Rule
-
-The Sharingan does **not** automatically grant knowledge of every observed technique.
-
-Suzume must:
-1. Witness the technique.
-2. Understand its mechanics sufficiently to attempt the copy.
-3. Pass the required Ninjutsu check.
-4. Meet any rank/progression requirements.
-5. Be unable to copy Kekkei Genkai or hiden techniques.
-
----
-
-## PATH ② — MANGEKYŌ SHARINGAN · **AWAKENED, SESSION SEVEN**
-
-**Printed Unlock:** Level 14 + death of someone loved played out in fiction.
-**Actual Unlock:** Level 5, nine levels early, on the training ground where Ardo and Souji both lost control.
-
-### How It Actually Happened **[GM — the trigger came true sideways]**
-
-Suzume threw herself between an unconscious Souji and a full-force 空爆 Kūbaku detonation from the inverted 逆渦 Sakauzu wearing Ardo. **She took 99 damage against 80 Health and did not dodge, brace, or substitute** — she turned her back on the punch so her body would cover Souji's completely. It worked exactly as intended. Souji took nothing.
-
-**The trigger condition fired in reverse.** She was not grieving someone else's death — she was dying, watching, with the clearest eyes on the field, what her death was about to do to Ardo, and unable to reach him or stop it. The printed condition is *the death of someone loved, played out in-fiction.* It came true from the inside out.
-
-**Pattern:** the two tomoe stretch and run together into a single sweep of black doubling back on itself twice — a small bird's wing caught at the top of a beat. *Suzume* means sparrow.
-
-### The Exchange **[permanent, irreversible — and it ran both ways]**
-
-Dying, with her last voluntary motion, she said:
-
-> *"See what I see... carry my ninja way with you."*
-
-Then she **removed her own left eye and put it in Ardo's hands.** Ardo dug out his own left eye in the mud and transplanted hers into the socket on the spot — and **put his own eye into her empty socket in the same working.** No medic, no anaesthetic, no sterile field, both directions, in the dark.
-
-**Her words were not a metaphor. They were a build order, and she was a medic with thirty seconds left.**
-
-- **Suzume's left eye is Ardo's ordinary eye.** She is not missing an eye and not half-blind. She is carrying his.
-- **Her own Mangekyō remains in the right.**
-- **The Vision track opens at 10 and this awakening was not gentle.** GM tracks the starting figure; it is not a clean 10.
-- **Ardo carries her left Mangekyō** — non-Uchiha skull, permanently active, cannot be switched off.
-- **相眼 SŌGAN — "Paired Eyes."** The circuit is closed, which has never been done. Sight bleeds both directions, uncontrolled, and functions while either party is unconscious — first confirmed three days later when her Mangekyō opened while she was still comatose and tracked Ardo across a hospital room to look directly at itself in his socket. **Full writeup in `characters/ardo.md`.** Neither of them is private from the other again, and she attends every 荒神 Aragami event from inside his head.
-
-### 迎え火 MUKAEBI — "The Welcoming Fire" **[named Session Eight, in the hospital]**
-
-*Mukaebi: the lantern lit at Obon so someone a long way out in the dark can find the road back to your door.*
-
-**What it does:** reaches a person who is **lost inside themselves** and shows them the way out. Not a weapon. Not a genjutsu. No damage, no illusion, no mind-theft. In a clan whose Mangekyō gifts are black flame and world-breaking illusion, **Suzume's awakened power is going to get somebody and bringing them home.**
-
-**How it was discovered.** She spent three days comatose — *awake* the entire time, alone, in a mind-built copy of her own hospital room with no door, methodically testing the walls in rows until she stopped and sat down. Her Mangekyō, sitting in Ardo's skull with no owner and no instruction, spent those same seventy-two hours **reaching for him** on pure instinct. Every uncontrolled Sōgan bleed was that. It needed someone to look back.
-
-Ardo took her hand, moved Rai's headband to cover his *own* eye so he was seeing only through hers, opened a closed chakra circuit between them, and looked. **Control check: 21 vs DC 15.** The wall opened. She woke.
-
-**She built the door with her last thirty seconds and could not open it from the inside.** The eye exchange was never about arming him — it was a line back, laid by a medic who understood exactly how likely it was that she was about to be somewhere nobody could reach.
-
-**It would have saved Souji from the vow in his own voice. It would have reached Ardo through the thing wearing him.** It awakened one second too late for either, and **the first person it ever saved was herself.**
-
-**Mechanics: still to be built with the player.** Costs Special rather than Chakra. Upkeep 8 Chakra/round. Carries the Vision consequence — the first use paid into the track for both of them, and neither can see the meter. Open questions worth deciding at the table: range, whether the target must be willing, whether it works on someone hostile or possessed, and what it costs her to enter a mind that doesn't want her.
-
----
-
-# SUZUME'S DŌJUTSU TREE — SIGHT, MEDICINE & THE MIND
-
-> ## SUZUME HAS NO VISION TRACK AND WILL NEVER GO BLIND.
->
-> **The eye is hers.** Native Uchiha tissue, in a native Uchiha body, awakened the way the clan's eyes are meant to awaken. There is nothing in her for it to burn out. **She can push it as hard as she likes, for as long as she likes, for the rest of her life**, and the only limits are Chakra, Special, and how tired she is.
->
-> **Ardo is the one paying.** The degradation isn't a rule about the Mangekyō — it's a rule about a **non-Uchiha wearing one.** His track, his headband discipline, his three roads out, and the shared 相眼 Sōgan tree are all documented in `characters/ardo.md`. Her tiers cost him nothing; only the shared tree does.
->
-> **She should probably be told this at some point**, and how she reacts to learning that her best friend is going blind carrying her eye while she pays nothing is a scene worth playing rather than skipping.
-
-**Unlock gating:** story and training, not Vision. Each tier needs a real reason — a teacher, a breakthrough, a fight that demands it.
-
-Her eye reads **people** — what's broken in them, what they can do, and what they're about to try. Everything here is deliberate and activated; hers switches off when she wants it to.
-
-| Tier | Name | Effect | Cost |
+| Basic / E / D | C / B | A | S |
 |---|---|---|---|
-| **I** | **見立て MITATE · "The Assessment"** | *(a physician's read of a patient.)* One minute of watching an opponent reveals their **skill proficiencies, rank band, elemental nature, and single greatest weakness**, GM-stated plainly. Clinical Precision, extended from bodies to fighters. | 5 Ch |
-| **II** | **癒し眼 IYASHIME · "The Healing Eye"** | Medical ninjutsu with the Mangekyō open — every torn pathway, fracture, and internal bleed visible in real time as she works. **Advantage on all Medical checks, double healing effect, and she diagnoses anything short of a curse or a seal at a glance.** | 8 Ch |
-| **III** | **写輪幻術 SHARINGAN GENJUTSU** | The clan's actual inheritance, finally hers. Eye contact imposes genjutsu — **CHA save vs her Genjutsu DC**; failure means paralysis, false sensory input, or a suggestion, her choice. Advantage on the save if the target refuses to meet her eyes, and refusing to meet her eyes carries its own penalties in a fight. | 15 Ch |
-| **IV** | **静かな部屋 SHIZUKANA HEYA · "The Quiet Room"** | Mukaebi's other edge. She pulls a target **into a constructed mental space where she sets the terms** — no damage, no torture, nothing the clan is infamous for. Just a room, and time, and her. Hostile targets get a CHA save each round to leave. Built for interrogation without cruelty, and for talking down someone who cannot be reached any other way. | 40 Special |
+| **1 slot** | 2 slots | 3 slots | 4 slots |
 
-> **Tier IV is the technique she needed on that training ground and did not have.** Souji failed his CHA save by three because nobody could reach the vow underneath his ribs. The Quiet Room reaches it. Build it, and the next Souji doesn't fall.
->
-> **It is also the only thing anyone has that might reach 荒神 Aragami** — and Aragami has nobody in it to find, which makes "can the Quiet Room hold something that was never a person" one of the better open questions in this campaign.
+> **⚠ One element-specific restriction, and it is deliberate:** **no Lightning Release technique above C-rank.** This is **not** a rank ceiling — she is Jōnin, and her genjutsu and medical work run to A- and B-rank. It applies to Lightning only, so her Lightning stays a scalpel.
 
----
+**Chain Momentum · Interruption (Rule 5) · Counter Window · Clash · Overcharge:** standard, Book IV §2. No character-specific variation. **Pushing through an interruption costs 30 Special or a feature. There is no free save.**
 
-## PATH ③ — ETERNAL MANGEKYŌ
+**Reactions** — usable at any moment, one per round.
 
-**Printed Unlock:** Level 18 + transplant from a relative.
+| Means | Cost | Notes |
+|---|---|---|
+| **Substitution** | 8 Ch / 5 St | Native Reaction. Her primary escape |
+| **Brace** | 8 St | Reduce one action by **1d6 + 1** (CON) |
+| **Sharingan Reaction** | 3 Ch/round upkeep | **Impose disadvantage on one enemy attack** |
 
-### Effect
-Removes the Vision cost associated with Mangekyō.
+## GOING BEYOND `[GM]`
 
-### Status
-Extremely long-term.
-
-No current story assumption should be made about:
-- A surviving relative
-- A transplant
-- Whether Suzume even wants this path
+She may overdraw one resource to **zero** and pay the shortfall from **Health at 4:1.** The resource hitting 0 is an Interruption — her turn ends and she is **Exhausted** until she rests.
 
 ---
-
-## PATH ④ — MEDICAL NINJUTSU
-
-### Current Status
-**Lightning Release affinity confirmed.**
-
-Suzume knows Lightning Release at a foundational level and has access to one established developmental Lightning technique. She does **not** currently know any Lightning Release technique above C-rank.
-
-### Character Fit
-
-Lightning Release fits Suzume's:
-- DEX +2
-- Perception +4
-- Clinical Precision
-- Sharingan predictive fighting
-- Preference for precision over raw physical force
-
-Her Lightning style should emphasize **precision, nerve disruption, timing, and controlled chakra flow** rather than explosive battlefield destruction.
-
-### Development Direction
-
-**Lightning Release Fundamentals → Pulse Thread → Pulse Web → Advanced precision Lightning techniques**
-
-No Lightning Release technique above **C-rank** may be added to Suzume's sheet unless the campaign rules are explicitly changed.
-
-### Medical Connection
-
-The technique's controlled electrical pulses may eventually become useful for:
-- Nerve stimulation
-- Muscle interruption
-- Controlled shock treatment
-- Precision disabling attacks
-
-However, Lightning Release is **not automatically Medical Ninjutsu**. Suzume must separately learn Medical Ninjutsu before gaining supernatural healing applications.
-
 ---
 
-# LIGHTNING RELEASE — CURRENT JUTSU
+# PART FIVE — CAPABILITY INDEX
 
-## D-LIGHT-01 — LIGHTNING RELEASE: PULSE THREAD
+> **Names and ranks only.** All mechanics in **`suzume-jutsu.md`** and **`suzume-transformations.md`**.
 
-**Japanese:** 雷遁・脈糸  
-**Romanization:** Raiton: Myakushi  
-**Rank:** D  
-**Type:** Lightning Release / Precision / Control  
-**Status:** **Learned**  
-**Mastery:** **Proficient** *(Session Six — three days at Ground Six plus further reps during the C-rank training push unlocked Split Current, then Nerve Lock below. Mastery Points spent: Precision, then Control.)*  
-**Cost:** 8 Chakra / 5 Stamina  
-**Action:** 1 Action  
-**Slot:** 1  
-**Range:** 30 ft  
-**Target:** One creature or conductive object  
-**Attack:** Ninjutsu attack vs. Defense
+## Techniques
 
-### Effect
+| Jutsu | Rank | Slots |
+|---|---|---|
+| Clone · Transformation · Substitution · Rope Escape | E | 1 |
+| Body Flicker · Leaf Whirlwind | D | 1 |
+| Basic Taijutsu / kunai | — | 1 |
+| **PT-TAI-01 Mirrored Opening** | *unranked* | 1 |
+| **雷遁・脈糸 Pulse Thread** *(+ Split Current)* | D | 1 |
+| **脈錠 Nerve Lock** | C | 2 |
+| **灯無 Summoning — 宵 Yoi** | C | 2 |
+| **断脈 Danmyaku · "Severed Pulse"** | **B** | 2 |
+| **無戸の間 Muto no Ma · "The Doorless Room"** | **A — SIGNATURE** | 3 |
 
-Suzume condenses Lightning Release into a thin, controlled current and sends it toward a target.
+**Medical ninjutsu — full.** Diagnosis, triage, surgical and chakra-based repair, stabilisation. **Advantage on all Medical checks with 癒し眼 Iyashime open.**
 
-On a hit:
-- Deal **1d8 Lightning damage**.
-- The target's muscles briefly seize from the electrical pulse.
-- The target must make a **CON save vs. Suzume's Ninjutsu DC**.
-- On a failed save, the target's **Movement is reduced by 10 ft** and it cannot take a Reaction until the start of Suzume's next turn.
-- On a successful save, only the damage occurs.
+## Dōjutsu — `suzume-transformations.md`
 
-### Precision Rule
+| | Status |
+|---|---|
+| **万華鏡写輪眼 Mangekyō Sharingan**, right eye | **AWAKENED, Session Eight** |
+| **迎え火 Mukaebi** | **BUILT.** The lamp |
+| **無戸の間 Muto no Ma** | **BUILT.** The same room with the lamp taken out |
+| **Her tree** — 見立て Mitate · 癒し眼 Iyashime | **I–II UNLOCKED.** III (Sharingan Genjutsu) and IV (**静かな部屋 The Quiet Room**) **LOCKED** |
+| **相眼 Sōgan** — 血染み · 合わせ目 · 遠見 | **I–III UNLOCKED.** IV (一心 Isshin) **LOCKED** |
 
-Pulse Thread is deliberately narrow. It does not create an explosion or spread automatically to nearby targets.
-
-If Suzume targets a conductive object instead of a creature, she can use the current to:
-- Trigger or disable a simple electrical mechanism.
-- Disrupt a small metal mechanism.
-- Create a visible electrical path.
-- Test whether two conductive objects are connected.
-
-These utility applications do not create additional combat damage.
-
-### Sharingan Interaction
-
-While the Sharingan is active, Suzume may use Pulse Thread against a target she has successfully read through her Sharingan during the current encounter.
-
-This does **not** grant automatic advantage or an automatic hit.
-
-Instead, the predictive information allows the GM to recognize that Suzume can deliberately aim for a limb, weapon hand, or exposed conductive point when the fiction supports it.
-
-### Drawback
-
-Pulse Thread is a precision technique, not a high-damage Lightning Release attack.
-
-It:
-- Cannot chain between multiple enemies.
-- Cannot bypass a full-body defense simply because the target wears metal.
-- Cannot paralyze a target outright.
-- Cannot function as Medical Ninjutsu.
-- Cannot be used to create long-distance electrical traps without a separate technique.
-
-### Visual
-
-A thin blue-white thread of electricity snaps from Suzume's fingertips toward the target. Instead of a roaring bolt, it resembles a rapidly vibrating strand of lightning.
-
-### Character Identity
-
-Pulse Thread is intended to become Suzume's **signature Lightning Release technique**.
-
-It rewards the same qualities that define her combat style:
-
-**Observe → Predict → Target → Disable.**
+> ## ★ SHE HAS NO VISION TRACK AND WILL NEVER GO BLIND.
+> Native tissue, native body, awakened correctly. **Ardo pays for both of them.** Her tiers cost him nothing; the shared Sōgan tree costs him all of it.
 
 ---
-
-# LIGHTNING RELEASE PROGRESSION — PULSE THREAD
-
-## Stage 1 — PULSE THREAD
-**Rank:** D  
-**Status:** Current  
-**Cost:** 8 Chakra / 5 Stamina  
-**Damage:** 1d8 Lightning  
-**Control:** Failed CON save reduces Movement by 10 ft and removes Reaction until Suzume's next turn.
-
-This is Suzume's current version.
-
 ---
 
-## Stage 2 — PULSE THREAD: SPLIT CURRENT
-**Rank:** D  
-**Status:** **Learned, Session Six** — Pulse Thread reached Practiced through dedicated training, unlocking this stage. First deliberate success came on the tenth drilled repetition at Ground Six.  
-**Requirement:** Pulse Thread mastery ✓
-
-### Concept
-
-Suzume learns to divide the current into two synchronized pulses.
-
-### Effect
-
-The technique may target:
-- One creature twice, with the second pulse at reduced effectiveness; **or**
-- Two creatures within 10 ft of each other.
-
-The second pulse deals reduced damage and cannot apply the full control effect if the first pulse already affected the same target.
-
-### Development Principle
-
-This is still a D-rank technique. It improves **versatility**, not raw destructive power.
-
----
-
-## Stage 3 — PULSE THREAD: NERVE LOCK
-**Rank:** C  
-**Status:** **Learned, Session Six** — Chūnin rank cleared the requirement's "appropriate character progression" clause; further reps at Ground Six past Split Current pushed Pulse Thread from Practiced toward Proficient, clearing "advanced mastery."  
-**Requirement:** Advanced Pulse Thread mastery ✓ + appropriate character progression ✓
-
-### Cost
-**14 Chakra / 9 Stamina**
-
-### Action
-1 Action
-
-### Range
-45 ft
-
-### Target
-One creature
-
-### Effect
-
-Suzume sends a precisely timed electrical pulse into the target's nervous system.
-
-On a hit:
-- Deal **2d8 Lightning damage**.
-- The target makes a CON save.
-- On a failed save, the target becomes **Slowed** until the start of Suzume's next turn.
-- The target cannot take Reactions during that duration.
-- On a successful save, the target suffers only the damage.
-
-### Special Rule — Precision Window
-
-If Suzume has successfully observed the target's movement pattern with her Sharingan, the GM may allow the technique to interact with a specific limb or weapon hand when the fiction supports it.
-
-This never becomes automatic paralysis.
-
-### Drawback
-
-Nerve Lock requires extreme precision.
-
-If Suzume misses, the chakra cost is still spent.
-
-It cannot:
-- Permanently paralyze.
-- Cause unconsciousness by default.
-- Bypass a target's established Lightning resistance.
-- Become a multi-target attack.
-
-### Visual
-
-The original thin thread becomes a branching flash that travels along the target's outline for a fraction of a second before disappearing.
-
----
-
-## Progression Rule
-
-**Pulse Thread is one evolving technique family.**
-
-Suzume does not automatically gain Split Current or Nerve Lock.
-
-Each stage must be earned through:
-- Mastery
-- Training
-- Story progression
-- Appropriate rank
-- GM approval
-
-The technique may continue evolving in **precision, control, range, and utility** without ever exceeding **C-rank**.
-
----
-
-## PATH ⑤ — SHARINGAN-ENABLED TAIJUTSU
-
-### Current Status
-**Active, Session Seven** — first named technique on this path.
-
-Suzume's DEX +2, Perception +4, and Sharingan make her better suited to **precision Taijutsu** than raw-force Taijutsu, and Session Six already proved it in a real fight (the finishing kunai stab on the Shepherd). Ground Six training turned that instinct into something repeatable.
-
-**Basic Taijutsu → Predictive Taijutsu (below) → Sharingan-assisted counter fighting → Advanced Uchiha combat style**
-
----
-
-### PT-TAI-01 — MIRRORED OPENING
-
-**Type:** Taijutsu, Sharingan-assisted
-**Rank:** Unranked, like the dōjutsu passive it's built on **[GM — Session Seven, Predictive Taijutsu made concrete]**
-**Status:** Learned
-**Cost:** No Chakra beyond the Sharingan's own 3/round upkeep. **No Stamina cost beyond a normal Taijutsu action.**
-**Action:** 1 Action · 1 slot
-**Attack:** Taijutsu +4 vs. Defense
-
-### Effect
-
-Suzume reads the first half-second of an opponent's committed motion and moves to intercept it before the strike itself fully forms — not blocking, meeting. **If used against a target who has already taken an action this combo, the attack roll is made with advantage** — the Sharingan isn't predicting a stranger's habits, it's reading momentum that's already visible. **Damage: 1d6 + 1** (same base as her ordinary Taijutsu, the advantage is the actual technique), and **on a hit, the target's next action this combo suffers Chain Momentum as though they'd already missed once** — the interception costs them tempo, not just HP.
-
-### Why It's Hers
-
-This isn't Ardo's kind of technique — no chakra fusion, no forced element, nothing invented under duress. It's the exact opposite: **discipline turned into a weapon**, the same "Observe → Predict → Target → Disable" instinct that's defined her since before the Sharingan ever awakened, now with a name and a mechanic instead of just being a good read.
-
----
-
-## PATH ⑥ — GENJUTSU
-
-### Current Status
-Untrained.
-
-The Sharingan gives Suzume defensive advantages against Genjutsu, but she does **not** currently have Genjutsu proficiency or a castable Genjutsu.
-
-Future options:
-
-- Defensive Genjutsu study
-- Uchiha illusion techniques
-- Sharingan-based Genjutsu
-- Anti-Genjutsu specialization
-
-No technique is currently learned.
-
----
-
-## PATH ⑦ — ELEMENTAL NINJUTSU
-
-### Current Status
-**Lightning Release — Confirmed**
-
-Suzume has an established Lightning Release affinity and currently knows **Pulse Thread (D-rank)**.
-
-### Current Element
-**Lightning Release (Raiton)**
-
-### Maximum Planned Rank
-**C-rank**
-
-### Primary Style
-Precision · nerve disruption · reaction denial · controlled chakra flow
-
-### Current Technique Family
-**Pulse Thread → Split Current → Nerve Lock**
-
-### Restriction
-Suzume may develop this family over time, but no Lightning Release technique above C-rank is currently authorized for her character.
-
-### Future Elemental Expansion
-Additional Lightning Release techniques may be introduced later if they support Suzume's established precision-oriented identity. They should not automatically duplicate Pulse Thread's role.
-
----
-
-# PART EIGHT — FUTURE TECHNIQUE DESIGN
-
-These are **development categories**, not learned jutsu.
-
-## Potential D-Rank Directions
-
-### Precision Wind / Fire / Elemental Technique
-Only after Suzume discovers her nature.
-
-### Sharingan Counter Technique
-A defensive technique that works with her predictive fighting style.
-
-### Medical Utility Technique
-Only after she reaches the appropriate rank and gains access to Medical Ninjutsu training.
-
-### Genjutsu Utility Technique
-A low-level illusion that complements her perception rather than replacing it.
-
----
-
-# PART NINE — EQUIPMENT & FINANCES
+# PART SIX — EQUIPMENT
 
 | Item | Count | Notes |
 |---|---:|---|
-| Kunai | ~10 | Standard issue; several used during current mission |
-| Shuriken | ~15 | Standard issue |
-| Medical Kit | 1 | Field dressing and basic supplies |
-| Case Notes | 1 set | Long-term medical/migraine observations |
+| Kunai | ~10 | |
+| Shuriken | ~15 | |
+| **Medical kit** | 1 | Field dressing and supplies. **Thirteen years of restocking** |
+| Case notes | 1 set | Long-term medical / migraine observations, kept since before the awakening |
 | Headband | 1 | Konohagakure |
-| Standard Shinobi Equipment | — | Assumed from Genin kit |
 
-**Ryō:** 12,000
-
-### Financial Note
-The 42,000 ryō hazard claim was divided three ways between Ardo, Rai, and Suzume at 14,000 each. Suzume's current listed total remains 12,000 because the remaining expenditure history is not fully tracked.
+**Ryō: see `campaign/campaign-state.md`.** *(Flagged there as stale.)*
 
 ---
-
-# PART TEN — STORY, SECRETS & OPEN THREADS
-
-## What Suzume Knows
-
-Suzume knows:
-
-- She has always been clanless on paper.
-- Her medical records never explained her migraines.
-- The migraines were not ordinary eye strain.
-- Her eyes awakened during Rai's death.
-- She now has a Sharingan.
-- It has two tomoe.
-- Ardo knows something strange happened to her.
-- Rai is dead.
-- The Shepherd is real.
-- Cell 409 is no longer the same cell it was before this mission.
-
 ---
 
-## What Suzume Does Not Know
-
-### THE EMPLOYER THREAD — GM SECRET
-
-The original specification that targeted Suzume at Ground Seventeen was connected to the dormant bloodline developing behind her eyes.
-
-The specification used:
-- Clanless status
-- No parents
-- Headache severity
-- Bloodline awakening proximity
-
-The original employer was **Orochimaru, pre-defection**, operating through intermediaries and cutouts.
-
-Suzume was rejected the first time because her markers were not advanced enough.
-
-Her Sharingan awakening means she is now exactly the type of subject that specification was seeking.
-
-**Suzume does not know this.**
-
----
-
-## Ground Seventeen — TWELVE
-
-The number **十二 — Twelve** was abandoned halfway through the collar seal.
-
-The number was assigned to Suzume.
-
-The reason remains unknown to her.
-
----
-
-## Rai's Death
-
-Rai Inuzuka died during the Shepherd encounter.
-
-His death directly triggered Suzume's Sharingan awakening.
-
-This should be treated as a **character event**, not merely a mechanical trigger.
-
-The emotional consequences remain open.
-
----
-
-# PART ELEVEN — CELL 409
-
-## ROKKA UEHARA — "ROKU"
-
-**Rank:** Jōnin  
-**Age:** ~34  
-**Role:** Day-to-day sensei
-
-Suzume trusts Roku because he has demonstrated reliability rather than demanding trust because of rank.
-
-He has:
-- Seen Suzume's abnormal perception before the Sharingan awakened.
-- Watched her support Ardo.
-- Been present during Ardo's successful calm Seam attempt.
-- Failed by inches to save Rai during the Shepherd encounter.
-
-There has not yet been enough quiet after Rai's death for the conversation that needs to happen.
-
----
-
-## ARDO
-
-Ardo is the person Suzume has been most honest with.
-
-Their relationship began with the riverbank conversation and deepened through mutual disclosure.
-
-She:
-- Witnessed his Seam attempt.
-- Helped provide safety during the calm variant.
-- Watched him develop Splendor.
-- Called out Splendor's telegraph before he committed to it.
-- Sparred him seriously.
-- Knows he owes her a full explanation of what happened in the mindscape.
-
-He remains the teammate most likely to understand what it means to discover something terrifying about yourself without having the language for it.
-
----
-
-## RAI INUZUKA — KIA
-
-**Age:** 11  
-**Status:** Deceased, Session Five
-
-Rai died protecting Suzume.
-
-His final unfinished words were:
-
-> "tell Kuro—"
-
-Kuro had been left behind on Rai's own decision before the mission.
-
----
-
-# PART TWELVE — RECURRING THREADS
-
-## THE SEALMASTER
-
-Unnamed.
-
-Associated with the numbering:
-- 十一 — Eleven
-- 十二 — Suzume
-- 十三 — Ardo
-
-He recognized something about the children but did not possess the full truth.
-
----
-
-## THE EMPLOYER
-
-A deliberately unresolved investigation.
-
-Current information:
-- Suzume was a prior target.
-- Her bloodline development was being monitored.
-- Her medical symptoms were relevant.
-- The trail was laundered through intermediaries.
-- Orochimaru is the hidden source behind the original specification.
-
-Suzume does not know this.
-
----
-
-## THE SHEPHERD
-
-A legendary figure along this section of the Grass front.
-
-Known characteristics:
-- Genjutsu-primary.
-- Uses the technique **Fold**, DC 19.
-- Leaves equipment arranged rather than bodies.
-- Has operated in the region for years.
-- Very few people have survived a direct encounter.
-- Currently engaged with Cell 409.
-- Has now witnessed Suzume's Sharingan awakening.
-
----
-
-# PART THIRTEEN — SESSION LOG
-
-## SESSION ONE — "GROUND SEVENTEEN"
-
-Roku's bell test became a genuine incident.
-
-A staked altered creature, staged murder, and abduction attempt revealed a much larger threat.
-
-Suzume was targeted directly.
-
-She was taken north to the Nakano outflow, checked against a bingo book, assigned **十二**, and abandoned when the sealmaster realized she was not the intended subject.
-
-She survived.
-
----
-
-## SESSION THREE — "PROOF"
-
-Suzume was present for Ardo's first successful calm Seam attempt.
-
-She shared what she had overheard on the riverbank.
-
-In return, she received a legitimate specialist appointment.
-
-The appointment confirmed:
-- The migraines were real.
-- They were not ordinary eye strain.
-- The cause remained unexplained.
-
----
-
-## SESSION FIVE — "GRASS FRONT"
-
-The Shepherd encounter escalated.
-
-Rai died protecting Suzume.
-
-Suzume's Sharingan awakened immediately afterward.
-
-**Current Stage:** 2 Tomoe.
-
-She successfully used the new dōjutsu to read the Shepherd's incoming kunai attack before the strike fully committed.
-
-She is now fighting as a fully recognized PC using the same action economy as Ardo.
-
-**The fight's close, same session:** Ardo forced an untrained Wind/Lightning fusion (Storming Thunder God, prototype) into the Shepherd on a natural 20, staggering and stunning them. Suzume capitalized with a full three-action combo — thrown kunai as distraction, a Sharingan-read taijutsu closing strike, and a concealed second kunai driven home on a natural 20 for the finishing blow. The Shepherd escaped via a genjutsu-linked displacement rather than dying, wounded and marked — the first person on record to survive a direct encounter with them, twice over in the same fight. Roku moved to free the four surviving members of Kohei's squad rather than pursue. Combat resolved; Rai's body is still in the clearing. Aftermath in progress.
-
-**First confirmed taijutsu use in a real fight.** Worth revisiting Decision Point 2 below with actual evidence behind it now, not just attribute fit.
-
-**Aftermath.** Ardo tried to force his Kōfū transformation a second time at Rai's body, on rage rather than the gratitude that produced it the first time — it refused him outright, no transformation, Chakra spent for nothing. Suzume watched it happen with the Sharingan still active; she saw *something* pass across him with a shape to it, briefly, and hasn't said yet what. Homecoming: Kuro knew before anyone told him. Rai's name went on the Memorial Stone. At the pyre, Ardo took Rai's headband and left his own on the fire in exchange, then declared — loudly, to the whole Inuzuka clan — that he intends to become a self-styled "Shadow Kage." Tsume Inuzuka lit the pyre; Kuro howled, the clan's ninken answered. Suzume stood with Kuro through all of it and hasn't spoken yet about what she's carrying out of this session.
-
-**State at end:** Chakra 110/110, Stamina 110/110, Health 35/35, Special 35/100 — untouched since the fight ended, no rest needed. Session Six opens from here.
-
----
-
-## SESSION SIX — "THE EVALUATION"
-
-Hiruzen attended the funeral in person, then requested a private audience. Suzume gave a full, honest account of her Sharingan — the migraines, the specialist appointment, the awakening trigger, both confirmed abilities. Hiruzen is containing the information deliberately: no Uchiha council disclosure unless she asks for it herself, Root kept out, her medical file reclassified. **That door stays closed until she opens it — her call, standing.**
-
-Ardo pushed for a rank reevaluation on the spot; Suzume backed him with an ultimatum Hiruzen didn't need and didn't take, but the underlying case — surviving a legendary threat twice in one night — earned a real evaluation on its own merits. Hiruzen sanctioned a supervised sparring match against Roku, judged on conduct under pressure rather than a simple win condition, deliberately delayed three days so neither of them would be tested while still drained and grieving.
-
-**Three days' training at Ground Six:** Pulse Thread drilled to **Practiced**, unlocking **Split Current** on the tenth deliberate repetition — the first technique she's grown past its original form rather than just gotten better at using.
-
-**The match:** full contact, "until one cannot no more." Suzume opened round two solo after Roku spent his Reaction on Ardo — kunai, Body Flicker, Pulse Thread, taijutsu kick, all four landing clean, 19 combined damage. **Round three closed it: the campaign's first real Team Combo**, linked live with Ardo outside the technically-required consecutive-initiative rule. Her Pulse Thread broke his CON save first, opening him to the whole chain; Ardo's Storming Thunder God landed at full momentum and advantage, stunning him; her own Leaf Whirlwind — from the general Genin Ability Set, not something invented for her — drove the stunned target straight into the ground. **39 damage, zero interruption, Team Special: +15 Special.** Roku conceded on the spot.
-
-**After:** she and Ardo pulled him up together, and the shout that came out of both of them wasn't really about the match — first thing that's felt like winning since Rai died.
-
-**State at end:** Chakra 110/110, Stamina 110/110, Health near-full, Special 50/100 (35 carried in + 15 Team Special). Evaluation passed by Roku's own concession; report to Hiruzen still pending.
-
----
-
-## SESSION SEVEN — "THE SHEPHERD, CLOSED"
-
-Chūnin vests taken. Souji joined the cell the same day. Downtime unlocked **Mirrored Opening** — first named technique on her long-dormant Sharingan-Taijutsu path, advantage against a target who's already acted this combo. Hiruzen's registries matched four headbands to MIA cases up to eight years old, no bodies ever recovered — reframing the whole mission as a rescue.
-
-**A fresh abduction put the squad on a live trail.** Suzume's Nerve Lock missed on a natural 1 against the culprit, forcing a hostage standoff — Souji ended it clean with Kanketsu, and **his hidden Senju bloodline awakened live in front of the whole squad**, visible chakra and root-growth, no longer anyone's secret. A new associate captured ("the Handler"); a second long-term captive confirmed alive.
-
-**The Shepherd confrontation resolved through Ardo's argument, not combat.** Suzume stood watch with the Sharingan active through the surrender, reading something in the Shepherd she hasn't put into words yet. No fight. Two rescued shinobi reunited with family at Konoha's gate — the closure the Shepherd spent eight years denying other people, finally delivered.
-
-**Closed the session on the rooftops above the village with the whole squad, silent, together.**
-
-**State at end:** full Chakra/Stamina/Health, well-rested. Special reset.
-
----
-
-## SESSION EIGHT — "TRAINING GROUND SIX"
-
-**She was not in the fight. She is the reason there is anyone left to have been in it.**
-
-A friendly full-contact spar between Ardo and Souji escalated past both of them. Ardo unlocked **渦風 Uzufū** — Kōfū Stage 2, triggered when Souji's Senju chakra set off the thing behind his seal — and passed all three control saves. **Souji faced the mirror of that test and failed it by three points**, and **不倒樹 Futōju** took him. Then Ardo stepped out of his own transformation to help Souji up, their hands touched, and the thing behind the seal got Senju chakra delivered into its own hand. Uzufū inverted into **逆渦 Sakauzu.**
-
-### What she did first
-
-**Suzume was the only person who saw it happen, and the only person who could read what she was looking at.** Two chakra signatures stopped looking like her teammates and started looking like weather. And she did the hardest thing anyone did that day: **she turned around and ran.** Three kilometres, hating it the whole way, because she worked out — correctly — that going down there alone would only make her the third child in the crater. She brought back Roku, who brought the Hokage.
-
-Hiruzen's own tactical read came from her, in one sentence, gasping, before he'd finished assessing the field: *"It only woke up because it **felt** Souji. It thinks it's protecting Ardo."* He said **"Yes,"** and acted on it.
-
-### What she did second
-
-Hiruzen liquefied the ground and pinned Souji with Enma — **and in doing so removed the only thing suppressing Sakauzu's speed.** It went straight for the unconscious, defenceless Souji. Nothing on that field could intercept it.
-
-**Suzume flash-stepped into the gap and turned her back on the punch**, so her body would cover Souji's completely. She took a full-force 空爆 Kūbaku detonation at zero range — **99 damage against 80 maximum Health.** Souji took nothing. It worked precisely as intended.
-
-**万華鏡写輪眼 — the Mangekyō awakened as she died.** The printed trigger fired sideways: she wasn't grieving someone else's death, she was dying while watching, with the clearest eyes on that field, what her death was about to do to Ardo — and unable to reach him or stop it. Pattern: a single black wing-sweep doubling back twice. *Suzume* means sparrow.
-
-### What she did third, with thirty seconds left
-
-Dying, she said ***"See what I see... carry my ninja way with you"***, **removed her own left eye, and put it in his hands.** Ardo took his own eye out in the mud and completed the exchange in both directions.
-
-**That was a procedure, not a gift.** She was a medic, she knew exactly how likely it was she was about to be somewhere nobody could reach, and she left herself a line back. Seeing Sakauzu's own hand do that broke the transformation — it let go of the aperture like it burned. Whatever is sealed in Ardo then spent nearly all of itself holding her together for four minutes, the entire margin between the crater and the hospital. *"She reminded me of somebody."*
-
-### Three days in the dark
-
-**She was awake the whole time.** Not comatose in any way that mattered to her — conscious, alone, in a mind-built copy of her own hospital room with no door in the wall, testing the walls in careful rows the way a medic works a body looking for the break. She had stopped and sat down by the time he found her.
-
-Her Mangekyō, sitting in a strange skull with no owner and no instruction, spent all seventy-two hours **reaching for him.** Every uncontrolled Sōgan bleed was that.
-
-Ardo took her hand, moved Rai's headband to cover **his own** eye so he was seeing only through hers, opened a closed chakra circuit, and looked back. **迎え火 Mukaebi** named itself in the doing. The wall opened. She woke.
-
-Her first words were *"You took your time."* Her second were a flat refusal of his apology: ***"I didn't step in front of it for you. Souji was going to die and I was the only one standing who could stop it. That was my call. My hands. Don't you turn the best thing I ever did into something you did to me."***
-
-**State at end:** awake, critical, three days of atrophy on a body that took 99 damage. Entirely herself. **Left socket now carries Ardo's ordinary eye; her Mangekyō is in his head.** Mukaebi named but unbuilt. **She pays no Vision and never will — and nobody has told her yet that Ardo does.**
-
-**Open threads for her specifically:** what Mukaebi actually becomes, mechanically, when she's well enough to build it · whether she learns about Ardo's Vision track and how she reacts · the 静かな部屋 Quiet Room tier, which is the technique that would have saved Souji by more than three points · Souji, two rooms away, who has not spoken since he woke and who she took 99 damage for.
-
----
-
-## SESSION EIGHT, CLOSING — 遊撃班 YŪGEKIHAN
-
-**She said yes, and she said it first, before any of her own conditions.**
-
-Ardo came in through her window at full dark, put the Hokage's signed classification form on her bedside table where she'd see it, and then **sat down and waited hours for her to wake up on her own** — rather than getting a yes out of somebody ninety seconds into consciousness. Both Souji and Hiruzen had independently demanded exactly that, neither knowing the other had.
-
-**What she got while asleep [相眼 Sōgan, involuntary]:** Ardo dove out of the Hokage's tower window and free-fell sixty feet, and she received all of it unconscious — wind, the sound going, pine and ginger and hot dust arriving in layers, and underneath it a feeling her sleeping brain had no filing system for. **He was happy.** One second, falling, nothing hurting. She woke carrying it.
-
-### What she said
-
-**On his calling himself a monster** — she cut him off mid-sentence: *"You don't get that one. Not while I'm in the room. **I** am the one it happened to. That means I'm the only person alive who gets to decide what it was, and I've decided, and it wasn't a monster."*
-
-**On the Uchiha taboo**, which she genuinely had not considered until he told her — thirty seconds and a procedure had crowded it out: real fear, four seconds of it, then *"Good."* Her reasoning: the clan never claimed her, not at birth, not through the unexplained migraines, not when her eyes opened over Rai's body. *"I've done the one thing that would finally make them notice me, and it's the one thing they'll never forgive. That's the most Uchiha relationship anyone's ever had with that clan. It was my eye. If they want that argument, they can have it with me."*
-
-**On the yes:** *"I'd have said yes at the bottom of that slope. I'd have said yes three days ago in a room with no doors. But I'm glad you put a seal on a table — now it's a **choice** and not a rescue, and I have spent four days being something that things happen *to.*"*
-
-### Her three conditions
-
-1. **No noble suffering.** She worked out before he did that the closed circuit is a splint, not a fix — **and that it requires her.** Any plan to go out there and endure Arakawa alone every night to spare her the inconvenience is *"choosing to suffer to protect me from an inconvenience. That's not noble, that's stupid, and I'll be extremely angry about it."*
-2. **This is not his journey that she's tagging along on.** She has her own: an eye nobody can explain, a technique she built while dying and doesn't understand, a clan that never wanted her and is about to want her for the wrong reason, and three days locked inside her own skull she'd like to never repeat. **They go looking for all of it.**
-3. **The three of them are not doing this in separate rooms.** She demanded Souji be brought to her immediately, middle of the night, medical objections irrelevant.
-
-**Status:** going, by choice, on the record. Still critical, still can't sit up unassisted, still cannot be left behind — 相眼 Sōgan Tier I is involuntary and works at any range, so there was never a version of this where Ardo left without her.
-
----
-
-# 灯無契約 — THE TOMOSHIBINASHI CONTRACT **[GM — Session Nine, signed]**
-
-**Suzume's first uncontracted summoning attempt, one day south-east of Konoha. Rolled 15 +2 = 17.**
-
-Her invocation: ***"For too long I have been in the shadows — the shadow of my clan, the shadow of my teammates' strengths, and a shadow to my true self. I ask for someone who understands this and can see through the shadows of the world like I can."***
-
-**What arrived made no sound at all.** No impact, no displaced air — the smoke simply had something in it, and then it didn't have smoke around it.
-
-### The audit
-
-The owl looked at her before it finished arriving and offered a free sample of exactly what it was selling, unprompted:
-
-> *"You are twelve. You have been hurt in a way that has not finished happening. You are carrying a technique you built while dying and do not understand, and you have not told anyone that it frightens you."*
->
-> *"Your left eye is not yours. Your right eye is not entirely yours anymore either — and neither of you has said the obvious thing about what that will cost him."*
->
-> *"You called yourself a shadow three times in one sentence. That was accurate about the first two and **a lie about the third**, and I want you to know that I noticed. **You are not in your own shadow, child. You are in your own way.** They are different problems and only one of them can be solved by walking out of a village."*
-
-| | |
-|---|---|
-| **Species** | **The owls of 灯無 Tomoshibinashi — "Without a Lamp."** *"A joke that was funny four hundred years ago"* |
-| **Contact** | **宵 YOI** — three feet standing, mottled to nothing when still, a pale flat facial disc and eyes that do not blink |
-| **Cost** | **C-rank · 2 slots · 20 Chakra / 10 Stamina** |
-| **Scroll** | Four names. Nothing added in a very long time. **Suzume signed** |
-
-**Their method is not sight.** *"We find what is hidden — not by looking, which is what everyone assumes. **By listening.** A mouse under a foot of snow makes a sound. A lie makes a sound. **A wound that a body is hiding from its own owner makes a sound**, and I understand you intend to be a physician, so I imagine that one interests you."*
-
-**What Yoi brings:** silent aerial reconnaissance, night operation, locating the concealed and the buried, and — the piece that matters most for Suzume's build — **diagnostic listening.** An injury, illness, poison, or condition a patient is concealing, unaware of, or unable to describe.
-
-### THE PRICE — one line, non-negotiable
-
-> *"**We will tell you what we find.** All of it. Every time. Whether it is convenient, whether it is kind, whether you asked for that particular piece, and whether or not you are ready to hear it."*
->
-> *"We do not soften. We do not withhold. We have watched people be destroyed by things we told them and we told them anyway, because a house that decides what you can handle is not a house that sees for you — it is a house that **manages** you, and we would rather be hated."*
->
-> *"You will learn things about your friends that they did not choose to tell you. You will learn things about yourself that you have arranged your entire life not to look at."*
-
-**GM note:** this clause is a standing licence. Yoi is a legitimate delivery mechanism for information the party has not asked for and would rather not have — including about each other. Use her for Mandatory Arc Beats (Book IV §5, Part Eight) without needing a pretext. **She is not a mystery to be solved; she is a truth nobody requested.**
-
-> **A note the dice built without help:** *Suzume* means **sparrow.** She called an owl — the thing that hunts small birds in the dark, silently, by sound — and it came as an ally, and the first thing it did was tell her the truth about herself.
-
----
-
-# THE YEAR IN RYŪCHI CAVE **[Sessions Nine–Ten. Twelve months of training.]**
-
-Roku's call: they don't walk back out. **Ryūchi Cave is off every map, on nobody's border, in a war with a decade left to run, hosted by something that eats nations for a hobby.** The Sage's ruling was one sentence — *"They may stay. They are quiet."*
-
-**Suzume is 14 at the end of it.**
-
-> She arrived off six months of walking across a continent receiving somebody else's life in fragments and being unable to do anything about any of it. **She trained that year like someone who has decided *never again*.**
-
-## 迎え火 MUKAEBI — BUILT **[nine months]**
-
-**Yoi did most of the teaching**, which surprised everyone and shouldn't have — the owls find what is hidden *by listening*, and Mukaebi is the technique of finding someone lost inside themselves.
-
-> **"You have been treating it as a rescue. It is not. It is a lamp. You do not go in and drag them out — you stand where you are and make yourself findable, and then you wait. **Waiting is the entire skill and you are terrible at it.**"**
-
-**What it does:** reaches a mind that cannot be reached — unconscious, comatose, dissociated, genjutsu-locked, or lost inside its own vow — and **lights her up inside it** so they can find their own way back.
-
-| | |
-|---|---|
-| **Cost** | Special. **Exhausts her more than anything else she does** |
-| **Hard limit** | **She is a light, not a hand.** She cannot force, drag, or compel. A hostile mind can refuse her |
-| **Origin** | She built it while dying, to leave herself a line back. The first person it ever saved was her |
-
-## Dōjutsu tree — two tiers unlocked
-
-**見立て MITATE — "The Assessment"** *(month three).* One minute of watching returns an opponent's proficiencies, rank band, nature, and **single greatest weakness**, plainly. Practised on Monuke, who finds it deeply rude and permits it.
-
-**癒し眼 IYASHIME — "The Healing Eye"** *(month seven)* — and with it, **actual medical ninjutsu.** Learned second-hand out of Ardo's 癒しの手 coil, with the archive arguing over her shoulder and one dead woman in particular correcting her hands.
-
-> *Nao, through Ardo, for the ninth time in one session: "**Tell her the thumb.** Why does she not listen about the thumb."*
-
-**By the end of the year Suzume is a functioning field medic.** Cell 409 has, for the first time in its existence, someone who can keep a person alive.
-
-## 相眼 Sōgan — the shared tree opens
-
-- **合わせ目 AWASEME** *(month five)* — first thing she and Ardo trained together. Attacking the same target in the same round, **both gain advantage.** Took three weeks and is, by unanimous agreement, the most disorienting thing either has ever done.
-- **遠見 TŌMI** *(month eleven)* — deliberate sight through each other at any range. **She initiates for free.** She has extensive notes; she has been doing an uncontrolled version for a year and would now like it to be a *tool.*
-
-## The conversation about his eye **[month six]**
-
-**Nobody told her. She worked it out** — Mitate, on her own best friend, because she was always going to eventually.
-
-*"Your eye is dying and mine isn't."* — *"...Yeah."* — *"And you were going to just not mention that."*
-
-**Four hours.** Nothing solved. The three roads out discussed aloud for the first time, **including the one nobody was ever going to say.** She said *"I'd give you the other one."* He said *"I know — that's exactly why I'm never asking."* Neither moved.
-
-**Unresolved, and now permanently in the open between them.**
-
----
-
-# THE EIGHT YEARS — YEAR −13 → YEAR −5 **[the back half of the Third War]**
-
-**Suzume is 22.** The girl who ran three kilometres for help because she wasn't strong enough is gone. **What replaced her is a war medic**, and war medics are not gentle people.
-
-- **Year −10:** loses a patient on a table she built out of a door. First of many. **She stops keeping count in year −8**, which she later describes as the worst decision she ever made.
-- **Year −6:** keeps Roku alive for six days in a cave on Ibuki and medical ninjutsu. He survives and never returns to the front.
-- **Eight years and the Uchiha still have not learned about her eye**, mostly by her being nowhere near Konoha.
-
-## 無戸の間 — MUTO NO MA · "THE DOORLESS ROOM" **[Mangekyō genjutsu — A-rank signature]**
-
-**She built the worst thing in this campaign out of the worst thing that ever happened to her.**
-
-Three days after Training Ground Six: awake the whole time, alone, in a mind-built copy of her own hospital room **with no door in the wall**, testing the walls in careful rows the way a medic works a body looking for a break. She stopped and sat down before Ardo found her.
-
-**She gives that to people now.**
-
-**Eye contact, CHA save vs her Genjutsu DC.** On a failure the target wakes somewhere they feel completely safe — their own home, a childhood room, a barracks bunk, whatever the eye finds. **It is perfect. It is warm. Every detail is correct.**
-
-**And there is no door.**
-
-| | |
-|---|---|
-| **No pain, no monsters, no torture** | **Nothing happens at all.** That is the technique |
-| **Time runs wrong** | Seconds outside are **days** inside. A three-round genjutsu is a week alone in a room |
-| **They stay lucid** | No merciful confusion. They know exactly what is happening, and they search, and they are methodical, and they find nothing — **because she built it out of a place she personally could not escape** |
-| **Breaking it** | **Chakra disruption does not work. Physical shaking does not work.** Somebody has to **come and get them** — reach in from outside, deliberately. *That is the only thing that ever worked for her* |
-| **Cost** | Special, and the memory. She is handing over her own three days |
-
-> **迎え火 Mukaebi is a lamp lit so somebody lost can find their way home.**
-> **無戸の間 is the same room with the lamp taken out.**
->
-> **She can end it whenever she wants, and does not always.** Ardo asked her once, in year −8, whether she was alright about that. She said **"no,"** did not elaborate, and it has not been raised since.
-
-## 断脈 — DANMYAKU · "SEVERED PULSE" **[medical ninjutsu, weaponised · B-rank]**
-
-**癒し眼 Iyashime shows her the injury before she makes it.**
-
-Eight years of putting bodies back together taught her exactly where the joins are. Danmyaku is the discipline run backwards: **chakra blades that do not cut skin.** They cut what is under it — chakra pathways, nerve clusters, the one tendon that makes a hand close.
-
-**There is no exterior wound.** The limb simply stops being a limb the target can use, permanently, unless a medic of her calibre works on it — **and there are not many.**
-
-> She uses it on shinobi she does not want to kill. **That is not mercy.** It is a shinobi who will never hold a blade again, delivered by somebody who knew exactly what she was removing before she removed it.
-
----
-
-
-# CELL 409 — THE FIVE YEARS AFTER THE WAR **[Year −5 → Year 0]**
-
-## The bond
-
-**Ardo and Suzume.** Over the last year it stopped being ambiguous to anyone except the two of them.
-
-**They have not acted on it.** Not once, not a word, not a moment — and it is not confusion, hesitation, or anything either of them would call a question. **They both know. They both know the other knows.** It has simply never been the right week, in a decade that never had a right week, and neither has been willing to be the one who says it first in a life where saying things out loud has historically preceded losing them.
-
-**Their devotion is total.** Either would die for the other without a half-second's arithmetic, and both have come close enough that it isn't hypothetical. **相眼 Sōgan means neither has ever been able to hide a single feeling from the other**, which is either the reason it never needed saying or the reason it never got said.
-
-**All three are family.** Ardo and Souji were **brothers** — not metaphorically, not "like brothers." Souji carried his pack across a continent. Ardo sat four hours in a silent room for him. That is what they were to each other for twelve years.
-
-## The fracture
-
-**And over the last three years, Souji has been going.**
-
-Slowly at first, and deniably. Shorter with people. Sharper when tired. Gone longer than a mission needed. Answering questions with the answer and nothing around it. Suzume flagged it in year −3 and Ardo said *"he's always been like that,"* which was true five years earlier and had stopped being true.
-
-Then it stopped being deniable.
-
-**In the last three months he has cut everyone off.** Not dramatically — **administratively.** He stopped coming to things. He stopped being in the places he'd be. He answers when spoken to and does not start conversations, and he has not slept in the squad's usual quarters since midsummer.
-
-**He speaks to exactly one person: Orochimaru.**
-
-Nobody knows when that started. Suzume has asked twice and been told *"he's a colleague,"* which is not a lie and is not an answer.
-
-## What is actually happening, on the record
-
-**根の記憶 Ne no Kioku has been delivering bloodline knowledge to Souji every single session since Session Eight — in his own furious voice.** That is the voice from Training Ground Six. *Don't take his hand. The second you need somebody is the second you can be left again.*
-
-**It has been talking to him, uninterrupted, for thirteen years.** Nobody built a counter to it. Everyone assumed Ardo's hand on the slope was the answer, and it was — **for one afternoon, thirteen years ago.**
-
-And it has thirteen years of evidence now. Souji gave everything he had, to everyone, constantly, for over a decade — **and people still died anyway**, and the ledger it keeps is not the tortoises'.
-
-> **The corruption is already in his kit and nobody has noticed.** 朽木 Kuchiki drains an enemy's vitality and **cannot keep any of it** — every point must go straight to somebody else. That is a moral architecture, not a law of physics.
->
-> **Somebody could teach him to keep it.**
-
-
----
-
-# PART FOURTEEN — FUTURE DECISION POINTS
-
-These are not decisions already made.
-
-### 1. Does Suzume pursue Medical Ninjutsu?
-Strong mechanical and narrative fit.
-
-### 2. Does she become a Sharingan-focused Taijutsu fighter?
-Strong fit with DEX, Perception, and predictive defense.
-
-### 3. Does she learn Genjutsu?
-Natural Uchiha direction, but not mandatory.
-
-### 4. What is her elemental affinity?
-Not determined.
-
-### 5. Does she pursue Mangekyō?
-Not automatic despite the narrative trigger already occurring.
-
-### 6. What does she do when she discovers who targeted her?
-Major future character decision.
-
-### 7. Does she seek the Uchiha?
-Unknown.
-
-### 8. Does she choose the village over the clan?
-The Uchiha clan's loyalty question remains a major Era A issue.
-
----
-
-# APPENDIX A — AI FAST REFERENCE
-
-```text
-SUZUME · JŌNIN · Konohagakure · Level 13 · age 27
-AGE 12 · UCHIHA BLOODLINE · 2-TOMOE SHARINGAN
+# APPENDIX — FAST REFERENCE
+
+```
+SUZUME · JŌNIN · Level 13 · age 27 · Konohagakure · 遊撃班
+Uchiha by blood, clanless on paper · Lightning 雷 · WAR MEDIC
+MANGEKYŌ SHARINGAN, right eye · Ardo's ordinary eye, left socket
 
 STR 10 (+0)   DEX 14 (+2)   CON 12 (+1)
-INT 14 (+2)   WIS 15 (+2)   CHA 16 (+3)      PROF +5
+INT 14 (+2)   WIS 15 (+2)   CHA 16 (+3)        Prof +5
 
-CHAKRA   350      STAMINA 350      SPECIAL 0/100
-HEALTH   176      DEFENSE 12       INIT +2     MOVE 30 ft
+CHAKRA  350      STAMINA 350      SPECIAL 0/100
+HEALTH  176      DEFENSE  12      INIT +2      MOVE 30 ft
 
-DC — Ninjutsu 15 · Taijutsu 15 · Genjutsu 16 · Medical 15
+DC — Ninjutsu 15 · Taijutsu 15 · GENJUTSU 16 · Medical 15
+COMBO 5 slots (Jōnin) · MAX RANK B + one A-signature (無戸の間)
+   ↳ LIGHTNING ONLY is capped at C-rank. Deliberate. Not a rank ceiling.
 
-COMBO LIMIT 5 (Jōnin) · MAX RANK B + one A-rank signature
-
-SKILLS
-Medical +5
-Taijutsu +5
-Stealth +5
-Perception +5
-Shurikenjutsu +2
-Strategy +1
-Genjutsu +0
+SKILLS  Genjutsu +8 · Medical +7 · Taijutsu +7
+        Stealth +7 · Perception +7 · Shurikenjutsu +7
 
 PASSIVES
-Uchiha Clan Trait — sight-based Perception advantage
-Clinical Precision — advantage on calm Medical/Perception assessment
+  Uchiha Clan Trait — advantage on sight-based Perception
+  Clinical Precision — advantage on calm Medical/Perception assessment
+  Sharingan — adv. vs genjutsu · reads hand seals
+              Reaction: disadvantage on one enemy attack · 3 Ch/round
 
-COMBAT KIT
-E-GEN-01 Clone Technique       E    5 Ch       Action
-E-GEN-02 Transformation        E    4 Ch       Bonus
-E-GEN-03 Substitution           E    8 Ch/5 St  Reaction
-E-GEN-04 Rope Escape            E    3 Ch/2 St  Bonus
-BAS-TAI-01 Basic Taijutsu       —    —          Action, +5 hit, 1d6−1
-D-LIGHT-01 Pulse Thread          D    8 Ch/5 St   Action, 1d8 Lightning
-PT-TAI-01 Mirrored Opening       —    —          Action, +5 hit (adv. if target already acted), 1d6+1
+── COMBAT KIT ───────────────────────────────────────
+Basic Taijutsu        —   —        Action   +7 hit, 1d6
+Mirrored Opening      —   —        Action   +7, ADV if target already acted
+                                             on hit: costs them tempo
+Pulse Thread          D   8/5      Action   1d8 Ltg, CON 15 or −10ft & no Reaction
+  ↳ Split Current     D   —        two pulses, or two targets within 10 ft
+Nerve Lock            C  15/9      Action   2d8 Ltg, CON 15 or Slowed, 45 ft, 2 slots
+Summoning · 宵 Yoi     C  20/10     Action   silent recon · DIAGNOSTIC LISTENING
+                                             she tells you everything she finds
+断脈 DANMYAKU          B  35/18     Action   cuts what's UNDER the skin. No wound.
+                                             The limb stops being a limb. 2 slots
+無戸の間 MUTO NO MA    A  40 Special Action   SIGNATURE. Eye contact, CHA vs DC 16.
+                                             A perfect safe room with NO DOOR.
+                                             Nothing happens. That is the technique.
+                                             Only breakable from OUTSIDE. 3 slots
+迎え火 MUKAEBI         —  Special    —        THE LAMP. Reaches a mind that can't be
+                                             reached. She is a light, not a hand.
+                                             8 Ch/round upkeep. Hostile minds refuse.
 
-SHARINGAN — 2 TOMOE
-- Advantage vs Genjutsu
-- Read hand seals
-- Reaction: impose disadvantage on one enemy attack
-- Upkeep: 3 Chakra/round while active
+REACTIONS  one per round, usable at any moment
+  Substitution 8 Ch / 5 St · Brace 8 St → reduce one action by 1d6+1
+  Sharingan → impose disadvantage on one enemy attack
+GOING BEYOND  overdraw to 0, shortfall from Health at 4:1
 
-BRACE
-8 St → reduce incoming damage by 1d6 + 1
+INTERRUPTION  prone / silenced / stunned / grappled / blinded /
+              any resource at 0  →  COMBO ENDS
+              push through: 30 Special or a feature. No free save.
 
-GOING BEYOND
-Overdraw to 0 → shortfall paid from Health at 4:1
-Resource hitting 0 ends combo and causes Exhaustion
+** NO VISION TRACK. SHE WILL NEVER GO BLIND. ARDO PAYS. **
 
-INTERRUPTIONS
-Prone / Silenced / Stunned / Grappled / Blinded /
-Any resource at 0 → COMBO ENDS
-
-CURRENT ELEMENT
-Lightning Release (Raiton) — confirmed
-
-CURRENT MEDICAL
-Medical skill only; no Medical Ninjutsu
-
-CURRENT RYŌ
-12,000
+── WHERE EVERYTHING ELSE LIVES ──────────────────────
+  suzume-jutsu.md ............ every technique's real numbers
+  suzume-transformations.md .. Sharingan · Mukaebi · 無戸の間 · trees
+  suzume-story.md ............ goals · KNOWLEDGE LEDGER · threads
+  campaign/campaign-state.md   EVERY CURRENT VALUE. Read it first.
 ```
-
-# APPENDIX B — STATUS MATRIX
-
-| System | Current Status | Next Development |
-|---|---|---|
-| Academy Ninjutsu | Learned | Improve mastery normally |
-| Taijutsu | Basic / proficient | Sharingan-assisted style |
-| Medical | Skill +4 | Medical Ninjutsu at appropriate rank |
-| Genjutsu | Untrained | Optional future path |
-| Elemental Ninjutsu | **Lightning Release** | Pulse Thread progression |
-| Sharingan | **2 Tomoe** | 3 Tomoe |
-| Mangekyō | Locked | Level 14 + narrative decision |
-| Eternal Mangekyō | Locked | Level 18 + relative transplant |
-| Uchiha Identity | Secret / newly awakened | Discovery and clan consequences |
-| Employer Thread | GM secret | Future investigation |
-| Rai's Death | Current emotional event | Character development |
-| Shepherd | Active threat | Current mission |

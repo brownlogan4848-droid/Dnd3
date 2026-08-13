@@ -767,6 +767,10 @@ Jinchūriki are, almost universally:
 
 ### PART FIVE — JINCHŪRIKI PLAYER CHARACTERS **[GM]**
 
+> ## ★ AUTHORITATIVE. Book IV §1 Part Seven delegates all jinchūriki mechanics to this section.
+>
+> The baseline package, the cloak table, the tail thresholds, and the partnership arc are defined **here and only here**. Book IV carries headlines and a pointer. **A live PC currently uses these rules** — see `characters/ardo.md`.
+
 A jinchūriki PC is one of the strongest character concepts available and one of the easiest to run badly.
 
 #### Baseline Package (Level 1)
@@ -791,6 +795,20 @@ A jinchūriki PC is one of the strongest character concepts available and one of
 | **4+** | — | **The DM takes control of the character.** | 4d10 damage. Allies are in genuine danger. |
 
 **Rule: a player cannot voluntarily go past two tails.** Three and beyond happen when the *player fails a save*, not when they choose to. That distinction is the entire jinchūriki experience.
+
+> **[RESOLVED — was a live contradiction.]** Book IV §1 Part Seven previously said the DM takes the character at *"three or more tails."* **This table is correct and Book IV has been corrected to defer to it:** at **three tails** the character is still the player's — they take 3d10 and the save DC rises to 17. Control passes to the DM at **four**. The three-tail stage exists so a player *feels the slide* for a round before losing the wheel, and deleting it removes the best beat the subsystem has.
+
+#### Adult sealing, and hosts who were not sealed as infants **[GM — added Year 0]**
+
+Part Three notes that sealing is *"typically applied in infancy, because an adult body cannot easily adapt."* When it is not — an emergency battlefield seal into a grown host — apply the baseline package above with three changes:
+
+| | |
+|---|---|
+| **Adaptation period** | The doubled Chakra pool arrives over **weeks, not instantly.** Until it settles, treat the host as carrying their normal maximum plus an unstable surplus the GM may rule unavailable at bad moments |
+| **The beast is awake and knows exactly what happened** | An infant host's beast has decades to sulk. An adult host's beast starts the relationship **mid-argument**, with a grievance about the specific night in question |
+| **Stage 0 leakage is louder** | Occasional chakra leakage under stress is not occasional. Any strong emotional spike is a GM prompt |
+
+**Uzumaki hosts.** The clan's life force is the reason Kushina survived what she survived, and it is the reason an Uzumaki adult can take a seal that would kill anyone else. It does not make the host safe — it makes them *possible*.
 
 #### The Partnership Arc
 The point of a jinchūriki campaign is earning **stage 6 — partnership**. Structure it as a relationship, not a power-up:

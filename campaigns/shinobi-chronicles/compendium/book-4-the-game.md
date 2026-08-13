@@ -63,16 +63,24 @@ This is the system's defining feature and its biggest departure from standard 5e
 | Complete a mission objective | +20 |
 | A genuine character moment (DM's call) | +10 |
 
-##### Suggested spend costs **[GM]**
+##### THE SPEND MENU **[GM]** — *the single authoritative list*
 
-| Effect | Special cost |
-|---|---|
-| Add +1 damage die to a jutsu | 20 |
-| Ignore the Chakra **or** Stamina cost of one technique | 30 |
-| Auto-succeed on one saving throw or check | 40 |
-| Activate a clan bloodline ability | 40–60 |
-| Trigger a bloodline **awakening** (story moment) | 100 (full bar) |
-| Signature / limit-break technique | 100 (full bar) |
+> **This table is the only Special spend menu in the system.** Book IV §2 Part Four repeats the *combat finisher* rows for convenience during a fight; Book 0 repeats a subset for lookup. Neither adds costs, and neither overrides this table. If a number disagrees anywhere, this one is correct.
+
+| Effect | Special | Where it's used |
+|---|---:|---|
+| **Heavy Strike** — the action deals **+2 damage dice** | **20** | Combo finisher — §2 Part Four |
+| **Unavoidable** — the action cannot be dodged, blocked, or substituted | **30** | Combo finisher — §2 Part Four |
+| **Push through an interruption** — continue your own broken combo; next action takes an additional **−2** | **30** | §2 Part Five. **The only way without a feature. There is no free save.** |
+| **Ignore the Chakra *or* Stamina cost** of one technique | **30** | Any time |
+| **Extension** — add one action beyond your combo limit, ignoring slot cost | **40** | Combo finisher — §2 Part Four |
+| **Auto-succeed** on one saving throw or check | **40** | Any time |
+| **Activate a clan bloodline ability** | **40–60** | Per the clan entry, Part Four |
+| **Perfect Strike** — the action is an automatic critical hit | **60** | Combo finisher — §2 Part Four |
+| **Bloodline awakening** (story moment) | **100** (full bar) | Once, narratively |
+| **SIGNATURE TECHNIQUE** — auto-hit, auto-crit, maximum damage, described your way | **100** (full bar) | Combo finisher — §2 Part Four |
+
+**[RESOLVED — was a live contradiction.]** Two overlapping menus previously existed: this section listed *"add +1 damage die = 20"* while §2 Part Four listed *"Heavy Strike, +2 damage dice = 20"* — same price, different product. **§2's version wins** (it is the combat-authoritative section, and Book 0 already propagated it), and the two menus are merged above. The §1-only entries — ignore a cost, auto-succeed a save — are preserved and priced against their neighbours.
 
 **Design note:** the Special bar is where the genre lives. Naruto fights turn on someone finding a second wind at the worst possible moment. Be generous with gains during dramatic beats and let players cash out spectacularly.
 
@@ -269,13 +277,15 @@ Three rarity tiers. **Rarity is difficulty, not power ceiling.**
 
 | Clan | Stat Bonuses | Passive Ability |
 |---|---|---|
-| **Senju** | +2 CON, +1 STR | Recover extra HP whenever spending Hit Dice during a rest |
+| **Senju** | +2 CON, +1 STR | **Mastery of the Earth** — regain an additional **25% of maximum Health** on a long rest; and **once per long rest**, a full round of genuine stillness (no other action) restores **20 Stamina / 10 Chakra** outside normal rest **[GM — restated; see note below]** |
 | **Uzumaki** | +2 CON, +1 CHA | **+25% Chakra Pool**; advantage against sealing effects |
 | **Hagoromo** | +2 STR, +1 WIS | Once per long rest, reduce incoming damage by half |
 | **Chinoike** | +2 WIS, +1 INT | Unlocks **Ketsuryūgan** progression |
 | **Jūgo** | +2 STR, +1 CON | Passively regenerate a small amount of HP each combat |
 | **Dust Release Bloodline** | +2 INT, +1 WIS | Dust Release deals bonus damage to constructs and barriers |
 | **Kazekage Bloodline** | +2 WIS, +1 CON | Natural Sand Shield grants **+1 AC while conscious** |
+
+> **[RESOLVED — dangling 5e artifact.]** The Senju row previously read *"Recover extra HP whenever spending Hit Dice during a rest."* **This system has no Hit Dice** — it runs Chakra / Stamina / Health with percentage recovery per rest (Part Six). The trait is restated above in this system's own terms, and folded together with **Mastery of the Earth**, the version already established in play on `characters/souji.md`. Souji's sheet is no longer an override; it now matches the printed clan trait.
 
 #### Clanless Shinobi **[SHEET]**
 
@@ -554,7 +564,7 @@ Apply Body Origin (+30 / −15) and Uzumaki (+25% Chakra) on top.
 
 #### Cost by Jutsu Rank
 
-Extrapolated from the printed E and D values (E: 3–8 Chakra / 0–5 Stamina; D: 8–12 / 5–6).
+Extrapolated from the printed E and D values (E: 3–8 Chakra / 0–5 Stamina; D: 8–12 Chakra / 5–8 Stamina). *(The D Stamina band reads 5–8 here and in every table below; an earlier draft of this line said 5–6, which no printed technique actually respects — Body Flicker is 8/6 and Gale Fist is 10/6.)*
 
 | Rank | Chakra | Stamina | Notes |
 |---|---|---|---|
@@ -614,16 +624,20 @@ Opening a gate is a **Bonus Action**. Gates stay open until combat ends or you d
 
 **Byakugan** (Hyūga, Rare) — active from creation per the sheet: enhanced vision and **+2 Initiative**. Advanced Byakugan Techniques unlock through the sheet's progression requirements.
 
-#### Jinchūriki **[GM]**
+#### Jinchūriki **[GM]** — *delegated in full to Book II §3 Part Five*
 
-Not on any sheet. If you allow one:
+Not on any sheet. **Book IV does not define jinchūriki mechanics; Book II §3 Part Five does, and it is authoritative for all of them** — the baseline package, the cloak table, the tail thresholds, and the partnership arc.
+
+Headlines only, so you know what you are agreeing to before you allow one:
 
 - **Chakra pool doubled**, on top of everything else.
-- **Regenerate 5 Health at the start of each round.**
+- **Regenerate 5 Health at the start of each combat round.**
 - The tailed beast is an **NPC the player negotiates with**, not a resource.
-- **Tailed Beast Cloak** costs **Special**, not Chakra: 40 for one tail, 60 for two. Three or more tails is not a player choice — it happens when a player **fails a Charisma save**, and the DM takes the character.
+- **Tailed Beast Cloak costs Special, not Chakra.** A player may voluntarily reach **two tails**. Past that is not a choice — it is a failed save.
 
-See **Book II §3** for the full partnership arc.
+> **[RESOLVED — was a live contradiction.]** This section previously read *"three or more tails… the DM takes the character,"* while Book II §3 Part Five puts three tails still in the player's hands (damage, and the save DC rising to 17) and hands control to the DM only at **four**. **Book II wins** — it is the specific, complete treatment, and the three-tail stage exists precisely so a player feels the slide before losing the wheel. Book IV no longer states thresholds of its own.
+
+See **Book II §3** for the full table and the partnership arc.
 
 ---
 ---
@@ -800,6 +814,8 @@ This is the reward for sequencing. Lead with a control technique to force the sa
 ### PART FOUR — COMBO FINISHERS
 
 Spend **Special** to end a combo with something the enemy can't answer. Declared before the final action resolves.
+
+> **These are the combat rows of the master spend menu in §1 Part One.** That table is authoritative and also lists the non-finisher spends (pushing through an interruption, ignoring a cost, auto-succeeding a save). Nothing here adds a cost the master menu doesn't carry.
 
 | Finisher | Special Cost | Effect |
 |---|---|---|
@@ -1354,7 +1370,8 @@ Because of Rule 5. Whoever acts first can potentially **break the other's combo 
 ║  BREAKS A COMBO                                       ║
 ║  Stunned · Prone · Silenced · Grappled · Blinded      ║
 ║  Resource at 0 · Genjutsu · Losing a Clash            ║
-║  Push through: CON save, or 25 Stamina (1/combo)      ║
+║  Push through: 30 SPECIAL, or a feature. No free save.║
+║             next action takes an additional −2        ║
 ╠═══════════════════════════════════════════════════════╣
 ║  ESCAPING A COMBO — REQUIRES AN ASSET                 ║
 ║  Timing is free; the MEANS are gated.                 ║
