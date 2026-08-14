@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 11th — late night → the small hours of the 12th.** First night on the road. |
-| **Location** | **Open country, ~20 km north-east of Konoha** — a fold of ground with a stream, no sightline to the village. **Something is in the treeline to the north-east** |
+| **In-world date** | **Year 0, October 12th — roughly an hour before dawn.** Session Thirteen has ended; they are walking. |
+| **Location** | **The north-east trunk road, past kilometre 24.** Heading for the border, then the coast, then the island. **No papers** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
-| **Last session** | **Session Thirteen — "THE ALLIANCE WITH THE ISLAND" — IN PROGRESS.** The vault, the scroll, the rotation seen. Full record: `session-log.md` |
+| **Last session** | **Session Thirteen — "THE ALLIANCE WITH THE ISLAND." COMPLETE.** The vault · the scroll · the rotation seen · **渦潮 named** · the watcher. Full record: `session-log.md` |
 
 ## What just happened, in one paragraph
 
@@ -54,15 +54,13 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 ### Active transformations
 
-**⚠ ALL THREE ARE UP RIGHT NOW.** 潮風 Shiokaze · 潮合 Shioai · 大仙 Daisen, lit during meditation and **still running** at the moment control returns.
+**None.** All three released after **~12 minutes** in the open.
 
 | | |
 |---|---|
-| **Duration so far** | **~11 minutes**, unshielded, on open ground |
-| **Cost** | **None.** Daisen returns what it takes — chakra and stamina are unchanged. *That is the trap* |
-| **What it is doing** | Nine-metre ring of flattened grass; chakra lashing continuously off shoulders, forearms and heels |
-| **Who can see it** | **Sensors at range · every sage alive · anyone who erased Uzushio.** `ardo-transformations.md` Part Five — *"a fire on a hill"* |
-| **Sleep** | **He has not slept.** Not since before the tenth |
+| **What it cost** | **Nothing.** No drain, no crash, everything spent came back. **That is the trap, and Suzume was watching it happen** |
+| **What it cost anyway** | **Twelve minutes of being a fire on a hill**, which tripped a watch that had been sitting on that road for years |
+| **⚠ SLEEP** | **He has now been awake ~40 hours.** Two burials, a stabbing, a bijū, and his village's name in one day. **He is loud and bright, and Suzume has seen this presentation in the wards.** She took a commitment to sleep at the first waystation; *he agreed too fast and she let that go* |
 
 ### The new tenant
 
@@ -93,7 +91,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **TWO RIBS — SET, NOT HEALED** | Knitting. **Bracing still hurts.** Roughly a week of care |
 | **LEFT ARM — hyperextended joint** | ⚠ **No fine work until midday on the 12th.** For a medic that is worse than broken. **Ardo is the medic until then** |
 | **HEAD LACERATION** | Closed |
-| **AWAKE** | Woke to eleven minutes of unshielded senjutsu twenty feet away. **Sitting up, good hand on the ground, watching the north-east treeline.** She saw it before he did |
+| **AWAKE, AND ON WATCH** | Woke to twelve minutes of unshielded senjutsu twenty feet away and **saw the treeline before he did.** Has committed to sitting the watch one-handed so he sleeps at the first waystation |
 | **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about the alliance with the island."*** |
 
 ### Active transformations
@@ -290,6 +288,10 @@ Per-character threads live in each `characters/<name>-story.md`.
 11. **The relay.** The trustee's word — the craft was a *route*, not a container, and *"you have never once thought to do it with people."* **This is the mechanical key to 渦潮 and he has now felt the missing arc directly.**
 12. **The archive on Souji.** The trustee told Ardo to ask it, in the morning, **out loud, where Suzume can hear.** He has not yet.
 13. **Hikari was four and in Konoha** during the delegation season. **Kushina's cut-off sentence — *"That's — I knew a—"* — is now much louder.**
+14. **⚠ THE DROP, AND WHO READS IT.** A continuously staffed watch on the north-east road, a stone worn into a dip, a Tanzaku broker, no faces — **and a standing order to *cooperate* with Ardo rather than flee him.** He sent a sentence and a name up it. **Somebody is going to read that.** *Ties directly to the Souji decision point above; still unresolved by design.*
+15. **牧野 ハナ Makino Hana.** A civilian holding an unfiled report, a name she was never given, and a message for someone she has never met. **She did not put the sheet under the stone.** `campaign/npcs.md`
+16. **⚠ THE ROUTE TO THE ISLAND.** Four hundred miles, a sea, a ruin, **and no papers.** Logged as a problem, not a plan. *This is the shape of the hole Souta was written to fit.*
+17. **Kurama has been to the island.** Volunteered, unprompted, and offered nothing further. **It is the only living thing they have met who saw Uzushio standing.**
 
 ---
 ---

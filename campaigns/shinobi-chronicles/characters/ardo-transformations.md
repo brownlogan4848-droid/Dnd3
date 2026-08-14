@@ -386,7 +386,9 @@ Wind chakra compressed past any density it should hold, threaded with senjutsu, 
 
 **A Kumo bingo-book entry already exists**, unnamed: *wind, sage-class, do not engage alone.*
 
-> **⚠ FIRST UNSHIELDED BURN — Session Thirteen.** Eleven minutes of 大仙 held in the open, at night, on open ground ~20 km north-east of Konoha, while meditating. **No concealment of any kind.** Nine-metre ring of flattened grass, chakra lashing continuously in every direction. **This is the Sage's warning cashed in.** Something arrived in the treeline. *The visibility cost is now an event in play, not a caution in a file.*
+> **⚠ FIRST UNSHIELDED BURN — Session Thirteen.** Twelve minutes of 大仙 held in the open, at night, on open ground ~20 km north-east of Konoha, while meditating. **No concealment of any kind.** Nine-metre ring of flattened grass, chakra lashing continuously in every direction. **This is the Sage's warning cashed in.** It tripped a watcher who had been posted on that road for years with orders to report exactly this. *The visibility cost is now an event in play, not a caution in a file.*
+
+> **On release:** no drain, no crash, everything spent came back — **and that is the part Suzume was watching.** A transformation that costs nothing is the one he will reach for without deciding to.
 
 ---
 ---
@@ -443,7 +445,15 @@ Ardo lit **潮風 · 潮合 · 大仙** simultaneously inside his own mindscape,
 | **Souji** | Has stopped being only a grievance and become **a load-bearing component.** Beating him is no longer the plan; **getting him back in the rotation is** |
 | **The name** | **Still not produced.** Kurama did not supply it, the estate did not, the trustee did not. ***Nothing may.*** See the top of this section |
 
-> **⚠ NAMING RULE, REAFFIRMED.** He has now stood in the middle of the form and it still has no name. **Do not let any NPC, the archive, Kurama, or any document give him the word.** The nearer he gets, the stronger the pull to hand it over will be. **Hold the line — the payoff is him saying it first and being told afterward what he just said.**
+> ### ★ NAMED — Session Thirteen. **The rule is discharged.**
+>
+> An hour after the descent, in a field, he reached for the plainest words that fit what he had felt and said ***"the whirling tide."*** **渦潮.** As a *description* — he did not know it was a name.
+>
+> **The archive went silent** for the first time since Session Nine rather than speak over him. **Suzume told him afterward**, badly, what he had just said.
+>
+> **No NPC supplied the word. It held for four sessions and it paid.** The word is now free — NPCs may say Uzushio.
+>
+> **⚠ What naming did NOT do:** nothing mechanical. **渦潮 is still unavailable. Gate 3 is still open.** He knows what to call a thing he cannot yet do, which is worse than not knowing.
 
 ---
 ---

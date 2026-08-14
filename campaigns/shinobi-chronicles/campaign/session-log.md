@@ -477,7 +477,53 @@ He held 大仙 for **eleven minutes in the open**, at night, over open country, 
 
 **Something is in the treeline to the north-east.** It has been there a little while.
 
-**IN PROGRESS — the party is awake and has been found.**
+### The name
+
+Ardo said it himself, unprompted, as **a description** — *"the whirling tide"* — reaching for the plainest words that fit what he had just stood inside.
+
+**渦潮.** He did not say it as a name. He did not know it was one.
+
+**The archive went silent for the first time since Session Nine** — four hundred generations of a dead village listening to the last of them work out what they were called, with nobody left to teach him.
+
+**Suzume told him**, badly, sitting down, out of position, thirteen years of holding it coming out wrong: *"That's not a description. It's a **place.**"* And, when it still didn't land: *"**Uzushio.** It's the name of your village."*
+
+> **Why nobody ever said it:** *"It was the last thing you had left that was yours to find. You have been given every single thing you are. By dead people, mostly. And there was exactly one piece left that you were going to have to **reach** for."*
+>
+> **Kurama, with nothing sharp in it:** *"I've been to that island."*
+
+**⚠ THE CONSTRAINT IS DISCHARGED.** He named it first. He was told afterward. **No NPC supplied the word.**
+
+### 牧野 ハナ Makino Hana — the watcher
+
+Sixty metres out, stood up on her own, walked out with her hands open. **A civilian contract watcher, four days on post, kilometre 18–24 of the north-east trunk road.**
+
+**Her sheet carried both their descriptions** — *red hair, headband over the left eye* · *a woman with a medical kit and a right eye she keeps covered in company* — and a second sheet: ***"Report immediately and by fastest means if the subject demonstrates a significant increase in capability."***
+
+**She does not know who she reports to.** A stone, a folded sheet, money four days later, a broker in Tanzaku, no faces, ever. **The post is continuously staffed and the drop-stone is worn into a dip** — this is years of hands, not months.
+
+**The line she never understood:** *"If the subject makes contact, do not run. Do not fight. **Answer what he asks.**"*
+
+> **Somebody built a tripwire for the exact moment Ardo got stronger — and then instructed their asset to cooperate with him when it tripped.** That is not how Root writes an order. **Who holds the drop remains unresolved by design.**
+
+### What he sent back up the chain
+
+He did not kill her, did not press her, and did not take the ledger. **He dictated a line for the back page:**
+
+> ***"Suzume and I are coming to bring you back home."***
+
+And then gave her the thing four years of that job had never given her — **a name.** *"Souji Terada."*
+
+**She did not put the sheet under the stone at dawn. Or the next day.**
+
+### The road
+
+**大仙 released after roughly twelve minutes.** No drain, no crash, everything returned — *which is the part Suzume was watching.*
+
+He came out of it **loud and genuinely happy** for the first time since Training Ground Six: the world past the border, Monuke, the White Snake Sage, thirteen years of one war in one country. **Suzume recognised the presentation** — forty hours awake, two burials, a stabbing, a bijū and a village's name in one day — **and deliberately did not name it tonight.** She took a sleep commitment at the first waystation instead, and he agreed too fast, and she let that go too.
+
+**They walked north-east into an hour before dawn, toward a border they have no papers for.**
+
+**SESSION THIRTEEN ENDS.**
 
 ---
 ---

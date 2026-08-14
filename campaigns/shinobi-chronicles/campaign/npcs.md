@@ -243,7 +243,39 @@ Then: *"Thought I'm seventy-one. Thought I've got maybe four good years and a ba
 ### Voice notes
 Prickly, digressive, tired. **Objects to being asked three questions at once.** Says *"mm"* and *"hnh."* Starts sentences and abandons them. Retreats into procedure when uncomfortable, and **is embarrassed rather than frightened** by the thing he can't say. Does not do aphorisms. **Never turns around when he says the important part.**
 
-> **⚠ HARD CONSTRAINT — Mishima must never say the word 渦潮.** He says *"the island,"* *"the Whirlpool country,"* *"your mother's people."* **Ardo does not know his own village's name and must produce it himself when he names his ultimate form.** `characters/ardo-story.md` → DOES NOT KNOW. **This applies to every NPC, not just Mishima.**
+> **✅ CONSTRAINT DISCHARGED — Session Thirteen.** Mishima held the line (*"the island," "your mother's people"*) and so did everyone else. **Ardo produced 渦潮 himself, untaught, as a description, and Suzume told him afterward what he had said.** The word is now free. *Mishima's careful circumlocutions on the staircase were the constraint working, and are worth remembering as characterisation.*
+
+## 牧野 ハナ — MAKINO HANA **[NEW, Year 0 — the watcher]**
+
+**Civilian contract watcher, ~45.** Padded travel coat, unlit lantern, badly strapped bedroll. **No headband, no weapon, ink on two fingers, callus in the wrong place.** She writes times and directions in a ledger and that is genuinely the whole job.
+
+**Posted to kilometre 18–24 of the north-east trunk road.** Four days in when Ardo burned 大仙 unshielded for twelve minutes sixty metres away. **She stood up on her own** and walked out with her hands open, because he pointed at her sternum through the undergrowth and she understood exactly what that meant.
+
+### What she carries
+
+| | |
+|---|---|
+| **Sheet one** | Both their descriptions. *Red hair, mid-twenties, male, headband over the left eye* · *may be travelling with a woman with a medical kit and a right eye she keeps covered in company* |
+| **Sheet two** | ***"Report immediately and by fastest means if the subject demonstrates a significant increase in capability."*** |
+| **The line she never understood** | ***"If the subject makes contact, do not run. Do not fight. Answer what he asks."*** |
+| **How she is paid** | A stone. A folded sheet under it. Money under it four days later. **No faces, ever.** Posting came through a broker in **Tanzaku** who took a cut |
+| **⚠ The chain** | She is a **replacement** — *"this segment's been continuously staffed, don't break the chain."* **The drop-stone is worn into a dip.** That is years of hands |
+
+### What happened
+
+**Ardo did not kill her, press her, or take the ledger.** He dictated a line for the back page — ***"Suzume and I are coming to bring you back home"*** — and then gave her something four years of that work never had: **a name.** *"Souji Terada."*
+
+> **She did not put the sheet under the stone at dawn. Or the next day.**
+
+### How to run her
+
+**She is not a plant, a trap, or secretly dangerous.** She is a person who took a well-paid boring job for a reason she started to give and stopped. **Her fear is real, her irritation is realer, and she interrupts herself.** She talks about carts and dogs when she is frightened.
+
+> **⚠ SHE IS A GENUINE DEAD END on who holds the drop** — by design, not evasion. See the Decision Point in `campaign-state.md`. **Do not let her turn out to have known all along.**
+>
+> **⚠ SHE IS A LIVE THREAD in the other direction.** A civilian holding an unfiled report, a name she was never supposed to have, and a message for someone she has never met. **What she does with that is open.**
+
+---
 
 ## THE CAT-MASKED ANBU CAPTAIN
 Sent to find out *what Ardo is.* Reported back **"you're a man doing triage,"** stood her squad down, **and put two of her four in as medics** on the second floor east.
@@ -317,7 +349,7 @@ Nineteen. Twenty-two hours awake. Kept a clipboard out of pure professional stub
   >
   > **How to run her:** she is patient, unhurried, and does not flatter him. She corrects him rather than encouraging him, and she leaves the conclusion for him to reach. **She does not volunteer.** She answers what she is asked and occasionally the thing behind it.
   >
-  > **⚠ SHE MAY NOT NAME 渦潮.** She is the single most likely NPC to hand him the word, because she is the one who would actually know it. **She will not.** If pressed, she goes quiet, or answers a different question, or tells him it is not hers to give. *The hard constraint in `characters/ardo-story.md` applies to her more than to anyone.*
+  > **✅ SHE HELD, AND HE GOT THERE ALONE.** She was the likeliest NPC to hand him 渦潮 and did not. **He named it himself in a field an hour later**, and the entire archive went silent rather than speak over him. **The constraint is discharged.** *This restraint is who she is — she corrects rather than supplies, and she leaves the conclusion for him to reach.*
 - **NAO** — the most frequently heard voice. Argues, corrects, refuses to explain certain things. *"Tell her the thumb. Why does she not listen about the thumb."*
 
 ---

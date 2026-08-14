@@ -66,6 +66,9 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **⚠ SHE READ THE SCROLL BEFORE HE DID — at his request** | *"I don't know what this is. Maybe you should read it before I do."* **She knows what Konoha did to the island, and she knew it a few minutes before Ardo did.** She had to decide, in those minutes, how to hand it to him |
 | **Konoha's obligation to reinforce the island was drafted and then held in abeyance by Hiruzen, Year −18** | The scroll. In her hands first |
 | **Ardo held 大仙 unshielded for eleven minutes on open ground** | She woke up in it. **She understands the visibility rule as well as he does** and did not need it explained |
+| **★ SHE TOLD HIM WHAT 渦潮 WAS** | Thirteen years of holding it, discharged badly, sitting down, out of position, with a broken arm. **Her reason, given immediately:** *"It was the last thing you had left that was yours to find"* |
+| **Her own description is on somebody's watch sheet** — *a woman with a medical kit and a right eye she keeps covered in company* | Makino Hana read it out. **Whoever runs that watch knows about the eye** |
+| **⚠ Ardo is presenting exactly the way she has seen a hundred times in the wards** | Forty hours awake, two burials, a stabbing, a bijū and a village's name in one day, then loud and bright in a field at four in the morning. **She recognised it and chose not to say so tonight** |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -89,7 +92,7 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **That Orochimaru was behind the original specification that targeted her** at Ground Seventeen | **GM secret.** She was rejected the first time because her markers were not advanced enough. **Her awakening makes her exactly the subject that specification was seeking** |
 | **Why she was assigned 十二 — Twelve**, and why it was abandoned mid-stroke | Still open after thirteen years |
 | **What Hikari's intended name for Ardo was** | Neither of them knows |
-| **The word 渦潮 Uzushio** — and she must not say it near him | ***Ardo has to name the form himself first.*** This is a hard GM constraint |
+
 | **That Kakashi Hatake carries a transplanted Sharingan** | Nobody in the squad knows |
 | **What Ardo did not hear** — *"destination isn't the same as conduit"* | He shut the archive out. Neither of them has revisited it |
 | **What Kushina was about to say about Hikari** | Cut off by the chains |
@@ -183,4 +186,4 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **10** | The Year Below | **Mukaebi BUILT** — nine months, Yoi teaching. **Mitate and Iyashime unlocked. Actual medical ninjutsu.** Awaseme and Tōmi trained with Ardo. **Worked out he was going blind and confronted him. Four hours. Nothing solved** |
 | **11** | The Eight Years *(timeskip)* | **War medic.** Stopped counting in Year −8. Kept Roku alive six days in a cave. **Built 無戸の間 out of her own worst three days**, and **断脈** out of eight years of putting bodies together |
 | **12** | **THE TENTH OF OCTOBER** | Carried to the clearing on Ardo's wrist and hated it. **Fed Kushina's chains through the sealing.** Read her pulse and knew it was a candle. **Put herself between Ardo and Souji verbally, then physically, and was thrown into a treeline for it.** Woke up and diagnosed Ardo before asking about herself |
-| **13** | **The Alliance with the Island** *(in progress)* | Left with no papers and no sanction, riding most of twenty kilometres in a sling and furious about it. **Read the scroll first, because he asked her to.** Woke in the middle of eleven minutes of unshielded senjutsu and **saw the treeline before he did** |
+| **13** | **The Alliance with the Island** | Left with no papers and no sanction, riding most of twenty kilometres in a sling and furious about it. **Read the scroll first, because he asked her to.** Woke in the middle of twelve minutes of unshielded senjutsu and saw the treeline before he did. **★ Told him what he had just named**, thirteen years early and thirteen years late at once. **Logged the island as a problem, not a plan, and started walking anyway** |

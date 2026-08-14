@@ -85,6 +85,12 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **Hikari was four years old and in Konoha** during the alliance delegation season | The trustee. **His mother stood in that village as a child** |
 | **The rotation is real, returns rather than spends, and cannot turn on one person** | **He stood inside it.** Three arcs held; the fourth was nearly empty |
 | **Minato's array is flawless and assumes an empty vessel** | Read directly off the seal with the Mangekyō open, inside his own mindscape. **He can point at the line** |
+| **★ 渦潮 UZUSHIO — the name of his village, and the name of his form** | **HE PRODUCED IT HIMSELF**, as a description — *"the whirling tide"* — with no NPC supplying the word. **Suzume told him afterward what he had just said.** *Constraint discharged, Session Thirteen* |
+| **Everyone he trusts held that word from him deliberately, by agreement, for thirteen years** | Suzume, immediately, without being asked. *"It was the last thing you had left that was yours to find"* |
+| **Kurama has been to the island** | It volunteered it, unprompted, with nothing sharp in it. **It has offered nothing further** |
+| **Somebody has kept a continuously staffed watcher on the north-east road out of Konoha for years**, with orders to report the instant he got stronger | 牧野 ハナ Makino Hana, who stood up rather than be found |
+| **That watch pays through an anonymous dead drop and a Tanzaku broker.** No faces, ever | Her, in full. **She is a genuine dead end** |
+| **Whoever runs it instructed their asset to *cooperate* with him if he made contact** | *"Do not run. Do not fight. Answer what he asks."* **He has not worked out what that implies** |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -107,7 +113,6 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | He does not know | Note |
 |---|---|
 | **His mother's intended name for him.** One syllable, swallowed mid-word. **It is not "Ardo"** | He will hear it in his sleep for years |
-| **The word 渦潮 Uzushio** — the name of his own village, and the name he will one day produce for his ultimate form | ***Do not let anyone say it near him.*** He must name the form first and be told afterward. **⚠ He has now stood in the middle of the unnamed form and asked, out loud, for a name. Kurama, the estate and the trustee all declined to supply one. Keep it that way** |
 | **The trustee's name** | Still unknown to him |
 | **That Kakashi Hatake carries a transplanted Sharingan** | Two men in one village doing identical daily arithmetic, thirteen years running. **Neither knows about the other** |
 | **Who Hiruzen meant** by *"one boy who walked out past the walls looking for answers and never came home"* | The name was deliberately not said |
@@ -202,7 +207,9 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 9. **鳴神 Narukami.** The blade, and who hid it.
 10. **The three roads out of blindness.** All open, none walked.
 11. **The Uchiha and Suzume's eye.** Thirteen years held. A burning village is bad cover.
-12. **渦潮 Uzushio, the endpoint.** Gate 3 requires bonds in the rotation, and the rotation is down to one injured person.
+12. **渦潮 Uzushio, the endpoint.** **Named.** Gate 3 still requires bonds in the rotation, and the rotation is down to one injured person. *He now knows what to call a thing he cannot yet do.*
+12b. **⚠ THE DROP.** A years-old, continuously staffed watch on the north-east road, an anonymous stone, a Tanzaku broker — **and a standing order to cooperate with Ardo rather than flee him.** He sent it a sentence and a name. **Somebody is going to read that.**
+12c. **⚠ THE ISLAND, AS A ROUTE.** Four hundred miles, a sea, a ruin, and **no papers.** Suzume logged it as a problem, not a plan, and they are walking at it anyway.
 
 ## Cold, from Era A's opening arc — never closed
 
@@ -259,4 +266,4 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **10** | The Year Below | A year of training. **大仙 Daisen taught by the White Snake Sage.** The squad found him and stayed |
 | **11** | The Eight Years *(timeskip)* | The war's back half. Four living Uzumaki found; one mattered. The Kumo bingo-book entry appeared |
 | **12** | **THE TENTH OF OCTOBER** | **Learned 飛雷神・瞬 from Minato in forty minutes.** Met and lost Kushina in ninety seconds. **Took the Nine-Tails off a newborn and onto himself.** Watched Souji kill his sensei. **Buried them both in unmarked ground.** Became a jinchūriki, a mourner, and a man with a hole in his stomach, in about four hours |
-| **13** | **The Alliance with the Island** *(in progress)* | Walked out of the Tower vault with the scroll a Hokage sealed. **Read it, and learned Konoha decided not to come.** The trustee finished her sentence — ***route***, not destination; the craft was a **relay**. **Stood inside the unnamed rotation and found the fourth arc empty.** Burned 大仙 unshielded for eleven minutes and **was found** |
+| **13** | **The Alliance with the Island** | Walked out of the Tower vault with the scroll a Hokage sealed. **Read it, and learned Konoha decided not to come.** The trustee finished her sentence — ***route***, not destination; the craft was a **relay**. Stood inside the unnamed rotation and found the fourth arc empty. Burned 大仙 unshielded for twelve minutes and was found. **★ NAMED 渦潮 HIMSELF, untaught, and learned it was his village.** Let the watcher live and **sent a message up a chain he cannot see: *"Suzume and I are coming to bring you back home."*** Chose the island |
