@@ -303,16 +303,76 @@ Waited two years without spending the money · took the **wartime Academy intake
 >
 > **⚠ Held offstage by ruling.** Not to contact Ardo or Suzume yet. *Ardo has not thought about him in years, and Souta has thought about Ardo constantly, and neither of those is a betrayal.*
 
-## 9b. STILL OPEN — no ruling yet
+## 9b. RESOLVED BY TABLE RULING — Year 0, second pass
 
-| # | Question | Where | Why it stays open |
-|---:|---|---|---|
-| **6** | **Has 朽木 Kuchiki been taught to keep what it takes?** Flagged on three sheets for years as *"a moral architecture, not a law of physics"* | `souji-transformations.md` | The character's live arc. A scene, not a ruling |
-| **7** | **Does the Ishinuma contract still answer Souji?** Gensai's house signed a sentence he may no longer believe | `souji-jutsu.md` | Also the party's most plausible route to finding him — **and now the honest route to ④** |
-| **8** | **Sky-Torrent Downfall's rank.** Reads A-rank+ by output; the invention gates are nowhere near met | `ardo-jutsu.md` | The source already flagged this as an open campaign question. **Preserved, not overwritten** |
-| **9** | **Ryō, all three characters.** 12,000 / 12,000 / 6,000 — **unchanged for thirteen years**, Souji's still annotated *"Genin-standard, no windfalls yet"* | `campaign-state.md` | Bookkeeping the table abandoned; not the audit's to fabricate |
-| **10** | **The Shepherd's judgment and the Handler's interrogation.** *"Pending"* since Session Seven — **thirteen in-world years** | `npcs.md` | Genuinely open plot, now visible rather than buried |
-| **11** | **Where Roku is.** Off the front since Year −6, in Konoha, which has just burned | `npcs.md` | Unaddressed by the source material |
+**The remaining six were ruled on. No decision points are outstanding.**
+
+### ⑥ 朽木 Kuchiki → **changed, partially and conditionally, by somebody else's hand**
+
+**朽木・留 Kuchiki · Tome, "The Kept Rot."** Retain up to **50 points** of drawn vitality, decaying **25% at the start of each of his turns** — **and while he holds a single point, 息吹 Ibuki cannot be used.**
+
+> **Holding onto stolen life closes the hand that gives.** The two techniques were always the same instrument pointed in opposite directions; **now they cannot both be pointed at once.** He can put it down whenever he likes, and nothing stops him except how good it feels not to.
+
+**Crucially: it is grafted work and the seam shows.** Kuchiki's original architecture is intact underneath, with **a second hand's linework over the top**, in a grammar that is not Souji's and **not Senju** — so **根の記憶 did not do it.** Detectable by Suzume (Iyashime/Mitate), the archive, or Yoi.
+
+**This narrows the field for ⑨ below without closing it.** It establishes *that somebody worked on him* — a different and smaller fact than *who.*
+
+### ⑦ The Ishinuma contract → **he has not tried**
+
+**Not once since before he left.** Status unknown to the table *and to Souji.* **Roll it live the first time he reaches for it.**
+
+The reading the character supports is fear of the answer — *a man who spent his life being moved off rosters does not summon the one house that swore it would never move him, on the night he became somebody who should be.* **And the requirement is now a problem in itself: Ishinuma summoning needs a full round of stillness, and he is not a still person.**
+
+> **Gensai does not wait to be called.** He walked to the mouth of Ryūchi Cave unsummoned once already. **He can do it again**, at the GM's discretion, and the ledger still runs both directions.
+
+### ⑧ Sky-Torrent Downfall → **S-rank, castable only inside 大仙 Daisen**
+
+**4 slots** (S-rank Action Weight) of his five. **One left, and no room for anything expensive after it.**
+
+**The gate was always Daisen; it just was not written as one.** The transformation file already said the technique *"was only ever possible because senjutsu carried the mass,"* and Daisen operates past the S-rank band by definition. **Requiring Daisen automatically requires Shiokaze, Shioai and Tazuna**, since Daisen prefixes all three — collapsing four conditions into one, with **standing water surviving as a separate hard requirement.**
+
+**Side effect: his A-rank signature slot is now free** — which is where restoring the full A-rank Shadow Clone has been pointing for thirteen years.
+
+### ⑨ Ryō → **not tracked**
+
+**The old figures were Genin-era numbers frozen since Session Four and are void.** Thirteen years of jōnin-rank work on an independent unit: **they are comfortable and they earned it.**
+
+**Recorded instead as a scarcity table** — what they can afford (travel, bribes, *a full escape kit each* at last, specialist gear, information) versus what money cannot buy (papers, the Uchiha problem, anything Konoha's requisition system gates, time).
+
+> **The interesting scarcity was never money.** It is authority, secrecy, and the fact that there are two of them. **If a purchase should bite, price it in a favour, a name, a day, or being seen.**
+
+### ⑩ The Shepherd → **the promise was broken, and they are loose**
+
+**Never tried. Never released. Held thirteen years on an authority that never got round to exercising itself** — and **out through a broken wall on the night of the tenth of October.** The Handler with them.
+
+> **Ardo won that fight with an argument about closure** — that holding people indefinitely, alive and unresolved, was the exact cruelty the Shepherd had themselves suffered. **The Shepherd believed him and surrendered on it. Konoha then did precisely that to them for thirteen years.**
+>
+> **It is the one victory he is proudest of, and the village turned it into a lie.** He does not know. **Hiruzen almost certainly does not either** — it was a form somebody else was supposed to file, **which is not villainy, and is exactly how this setting actually fails people.**
+
+**Added to both PCs' DOES NOT KNOW.** Should land as a discovery, not a briefing.
+
+### ⑪ Roku → **alive, injured, and not available**
+
+**In the village, in whatever Konoha is using for a hospital.** Not a casualty — **unreachable**, which is recoverable.
+
+> **He is the one adult left alive who could tell them they are making a mistake**, and he would probably be right. **So he is not in the room.** The first act of the hunt has to be their decision, unopposed by anybody who loves them.
+>
+> **When they do reach him, he already knows about Souji, has had time to think about it, and was Souji's second sensei — the one who actually stayed.**
+
+---
+
+## 9c. What remains genuinely open
+
+**No decision points.** These are live campaign questions the rulings deliberately created or preserved:
+
+| | |
+|---|---|
+| **Whose hand grafted the retention onto Kuchiki** | The seam is evidence, not an answer |
+| **Whether the Ishinuma contract still answers** | Untested. Rolled live |
+| **Whether Souji has noticed the Ibuki lockout** | He has had one night |
+| **Who holds Souji** | The standing mystery — §9a ④ |
+| **Souta's sister** | Deliberately unwritten |
+| **What the Shepherd is now** | They kept their word for thirteen years and Konoha did not. *"Betrayed"* is on the list |
 
 **Pre-existing `[CONFLICT]` tags were left alone.** Lightning Blade vs Lightning Cutter, Fireball vs Phoenix Sage Fire, Hōzuki Hydrification, and every canon-source disagreement in Book 0 remain **deliberately unresolved**, as the project intends. Book 0's conflict log is now split into *canon conflicts* (preserved), *session-zero decisions* (open), and *mechanical contradictions* (resolved).
 

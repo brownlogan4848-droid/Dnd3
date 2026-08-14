@@ -177,16 +177,37 @@ His answer, through his hands: ***"…you have to ask her too. Not me. Her. You 
 ---
 ---
 
-# PART FOUR — ⚠ THE OPEN MECHANICAL QUESTION
+# PART FOUR — WHAT CHANGED IN HIS KIT **[RULINGS, Year 0]**
 
-**Souji defected on Year 0, October 10th.** He credited **Danzō** with teaching him that *"power is what accomplishes your dreams,"* and *"a few lessons on how to hide my true nature."*
+**Souji defected on Year 0, October 10th.** Three questions hung over what he can now do. Two are answered.
 
-**Three things about his kit are now genuinely unknown, and all three matter:**
+## ① 朽木 Kuchiki — **CHANGED. Partially, conditionally, and not by him.**
 
-| Question | Why it matters |
-|---|---|
-| **Has 朽木 Kuchiki's shape been changed?** | It drains vitality and **cannot keep any of it.** That is *a moral architecture, not a law of physics* — flagged on three sheets for years. **Somebody could teach him to keep it.** If they have, he is a different threat entirely |
-| **Does 息吹 Ibuki still work?** | It exists **only when he needs somebody else to be alright.** He used it on Kushina and then defected within the hour. **If it still answers him, the vow has not won.** If it doesn't, it has |
-| **Does the Ishinuma contract still answer?** | Gensai's house signed a sentence Souji may no longer believe. **A four-century-old intelligence with a standing debt to him would have opinions about October 10th** |
+**朽木・留 Kuchiki · Tome, "The Kept Rot."** He may now retain up to **50 points** of drawn vitality, decaying **25% per turn** — **and while he holds a single point, 息吹 Ibuki cannot be used.**
 
-**The audit will not answer any of these.** They are the character's live arc, and each one is a scene rather than a ruling.
+> **Holding onto stolen life closes the hand that gives.** Not as a punishment — **as a fact about what his hands are for.**
+
+**It is grafted work and the seam shows.** Kuchiki's original architecture is intact underneath; the retention was **fitted over the top by a second hand**, in a grammar that is not his and **not Senju.**
+
+> **根の記憶 Ne no Kioku did not do this.** The vow delivers *Senju bloodline knowledge*. This is neither. **Something outside him reached in, and that is new.**
+
+**Full mechanics, and who can detect it: `souji-jutsu.md`.**
+
+## ② 息吹 Ibuki — **still works. And that is the answer to the second question.**
+
+**It exists only when he needs somebody else to be alright**, and **he used it on Kushina Uzumaki minutes before he turned.** It answered. **The vow has not won.**
+
+> **The lockout is now the whole tragedy in one mechanic.** He can give, or he can keep. **He cannot do both in the same round, and nothing stops him putting the stolen life down except how good it feels not to.**
+
+## ③ The Ishinuma contract — **HE HAS NOT TRIED.**
+
+**Status unknown, including to him.** He has not summoned since before he left. `souji-jutsu.md`.
+
+> **And Gensai does not wait to be called.**
+
+---
+
+## What is still genuinely open
+
+- **Whose hand did the graft.** The seam is evidence that *somebody* worked on him. **It does not say who** — see the standing mystery in `campaign/campaign-state.md`.
+- **Whether he knows what it cost him.** He may not have noticed the Ibuki lockout yet. **He has had one night.**

@@ -104,6 +104,8 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **That "conduit" and "destination" are different words** — the sentence he shut the door on | Said to him. He did not hear it |
 | **Why Minato chose Naruto after weeks of thinking** | He overruled it in four seconds and never asked |
 | **What Kushina was about to say about Hikari** | *"That's — I knew a—"* Cut off by the chains. **Gone** |
+| **⚠ That the Shepherd was never tried, and is now loose** | Held thirteen years without the fair judgment he was promised on their behalf, then out through a broken wall last night. **He won that fight with an argument about closure, and the village made it a lie.** He does not know |
+| **That somebody grafted a retention onto Souji's 朽木 Kuchiki** | Visible to anyone who reads a technique at the level of its construction. **Nobody has looked yet** |
 
 ---
 ---
@@ -197,6 +199,10 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 15. **十三 — Thirteen.** The number the sealmaster filed him under. *"Not tonight."*
 16. The supplier and the customer behind the sealmaster's specification.
 17. **The Twinned prisoner** — alive in Konoha custody thirteen years ago, called Ardo *"the wind,"* said *"he said you'd come looking eventually."* **Never followed up.**
+
+18. **⚠ THE SHEPHERD IS LOOSE, AND THE PROMISE WAS BROKEN.** Ardo won that fight with an argument about **closure** — that holding people indefinitely, alive and unresolved, was the exact cruelty the Shepherd had themselves suffered. **The Shepherd believed him and surrendered on it. Konoha then did precisely that to them for thirteen years** — no trial, no judgment, no release, just a file nobody got round to. **They escaped when the cells came open on the tenth of October.** "The Handler" is out too.
+
+    > **He does not know.** This should land as a discovery, not a briefing — and **the Shepherd may not blame him**, which is worse.
 
 ## The one he left
 

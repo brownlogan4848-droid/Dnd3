@@ -170,7 +170,7 @@
 | Whetstone | 1 | Used more than most bother to |
 | Field dressing | — | |
 
-**Ryō: see `campaign/campaign-state.md`.** *(Flagged there — 6,000, described as "Genin-standard, no windfalls yet" after thirteen years in the field. Frozen now that he is an NPC.)*
+**Ryō: not tracked.** NPC now; assume he is funded by whoever holds him, which is itself a question — `campaign/campaign-state.md`.
 
 ---
 ---

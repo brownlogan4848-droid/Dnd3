@@ -88,6 +88,8 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **That Kakashi Hatake carries a transplanted Sharingan** | Nobody in the squad knows |
 | **What Ardo did not hear** — *"destination isn't the same as conduit"* | He shut the archive out. Neither of them has revisited it |
 | **What Kushina was about to say about Hikari** | Cut off by the chains |
+| **⚠ That the Shepherd was never tried, and is now loose** | She stood watch through that surrender with the Sharingan active. **She does not know what Konoha did with it** |
+| **That somebody grafted a retention onto Souji's 朽木 Kuchiki** | ⚠ **She is the person most likely to find it** — 癒し眼 Iyashime diagnoses anything short of a curse or a seal at a glance, and this is a graft on living tissue |
 
 ---
 ---
@@ -155,7 +157,7 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 8. **THE EMPLOYER THREAD — GM SECRET.** The specification that targeted her at Ground Seventeen was connected to the dormant bloodline developing behind her eyes. It used clanless status, no parents, headache severity, and bloodline-awakening proximity. **The original employer was Orochimaru, pre-defection**, operating through intermediaries and cutouts. **She was rejected the first time because her markers were not advanced enough. Her awakening means she is now exactly the type of subject that specification was seeking. She does not know any of this.**
 9. **十二 — Twelve.** The number assigned to her and abandoned halfway through the collar seal. **The reason remains unknown to her.**
 10. **The sealmaster**, unnamed, ink to the second knuckle, who placed 十一 · 十二 · 十三.
-11. **The Shepherd's judgment**, and the Handler's interrogation — both pending since Session Seven. **Thirteen years pending.**
+11. **⚠ THE SHEPHERD IS LOOSE.** Never tried, never released — **held thirteen years without the fair judgment Ardo was promised on their behalf**, then out through a broken wall on the tenth of October. The Handler with them. **She stood watch with the Sharingan active through that surrender, reading something in the Shepherd she never put into words.** She may be the one who works out what it cost them first.
 
 ---
 ---

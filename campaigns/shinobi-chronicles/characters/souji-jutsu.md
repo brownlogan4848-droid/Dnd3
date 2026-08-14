@@ -161,13 +161,53 @@ Futōju grew bark and root **inward**, through his own body, to make him immovab
 
 **Every point drawn must be immediately given to somebody else** — an ally, a civilian, a dying stranger, Ardo bleeding out in a ditch in Year −7. **It does not stay in him.** The technique has no shape for that, exactly the way Ibuki has no shape for self-healing.
 
-> ## ⚠ THE CORRUPTION IS ALREADY IN HIS KIT AND NOBODY NOTICED.
+> ## ⚠ THE CORRUPTION WAS ALREADY IN HIS KIT, AND SOMEBODY FOUND IT.
 >
-> **朽木 Kuchiki drains an enemy's vitality and cannot keep any of it.** That is **a moral architecture, not a law of physics.**
+> **朽木 Kuchiki drains an enemy's vitality and cannot keep any of it.** That was **a moral architecture, not a law of physics** — flagged as foreshadowing on three separate character sheets for years before he defected.
 >
-> **Somebody could teach him to keep it.**
+> ### Somebody taught him to keep it. **[RULING, Year 0.]**
 >
-> **This was flagged as foreshadowing on three separate character sheets for years before he defected.** It is now the single most important open mechanical question about him: **has that shape been changed, and if so, by whom?** See `souji-story.md`.
+> **Not cleanly. Not completely. And not by him.** See below.
+
+---
+
+## 朽木・留 — KUCHIKI · TOME · "The Kept Rot"
+### **A modification to the signature, not a new technique** · **[GM — Year 0]**
+
+**He can retain what he draws now. It does not fit, and that is the whole of it.**
+
+| | |
+|---|---|
+| **Retention** | Drawn vitality may be **kept as temporary Health and Stamina above his maximum**, rather than being immediately given away |
+| **Cap** | He may hold up to **50 points** at once, in any split between the two |
+| **Decay** | **25% of everything held is lost at the start of each of his turns**, rounded up. It will not stay |
+| **⚠ THE LOCKOUT** | ### While he is holding a single retained point, **息吹 Ibuki cannot be used.** |
+| **Ending it** | He may dump the whole pool into somebody else as a free action at any time — **which is just Kuchiki working the way it always did** |
+
+### Why the lockout is the technique
+
+**息吹 Ibuki only exists when he needs somebody else to be alright.** It has no shape for self-healing and never did. **朽木 Kuchiki had no shape for keeping.**
+
+The two were the same instrument pointed in opposite directions, and **holding onto stolen life closes the hand that gives.** Not as a punishment — **as a fact about what his hands are for.** He cannot be a man who keeps and a man who gives in the same round.
+
+> **He can put it down whenever he likes.** That is the cruellest part of the design and it is deliberate. **Nothing is stopping him except how good it feels not to.**
+
+### ⚠ IT IS GRAFTED WORK, AND IT SHOWS
+
+**This is the important part, and it is the party's best physical evidence about him.**
+
+**Kuchiki's original architecture is intact underneath.** The retention was not *built* — it was **fitted over the top**, by a second hand, in a grammar that is not Souji's and not Senju. The seam between the two is visible to anyone who can read a technique at the level of its construction rather than its output.
+
+| Who can see it | What they get |
+|---|---|
+| **Suzume, with 癒し眼 Iyashime** | She diagnoses anything short of a curse or a seal at a glance. **This is a graft on living tissue and she is the best medic on the continent.** She would know on sight that somebody worked on him |
+| **Suzume, with 見立て Mitate** | One minute of watching returns his **single greatest weakness** — and the lockout now *is* one |
+| **Ardo, with the archive** | Four hundred generations of people who think in *grammar* rather than technique. **They would recognise a hand.** Whether they recognise *whose* is a separate question |
+| **宵 Yoi** | *"A wound that a body is hiding from its own owner makes a sound."* |
+
+> **⚠ THIS DOES NOT IDENTIFY WHO.** It establishes **that somebody did it**, which is a different and smaller fact. **Who holds Souji remains a standing mystery** — `campaign/campaign-state.md`. The graft narrows the field; it does not close it.
+>
+> **根の記憶 Ne no Kioku did not do this.** The vow in his own furious voice delivers *Senju bloodline knowledge*. This is not bloodline knowledge and it is not Senju. **Something outside him reached in**, and that is new.
 
 ## The tree, completed
 
@@ -223,7 +263,31 @@ Four times Gensai's size, older, slower, **completely silent.** She never addres
 
 > *"That is her agreeing. She will not say so. **She has never said so about anybody.**"*
 
-> **⚠ [DECISION NEEDED] — the contract after the defection.** The Ishinuma house is built entirely on a sentence Souji no longer appears to believe. **Does the contract still answer him?** Gensai is a four-century-old intelligence who considers himself permanently in Souji's debt, and who would have opinions about October 10th. **This is a live, unresolved, and potentially campaign-turning question.** The audit will not choose. *(It is also the party's most plausible route to finding him.)*
+### ⚠ THE CONTRACT AFTER THE DEFECTION — **HE HAS NOT TRIED.** **[RULING, Year 0]**
+
+**The status of the contract is unknown, including to Souji, because he has not summoned since before he left.**
+
+**Not once.** Not in the three months of cutting everyone off, not on October 10th, not since.
+
+> **The house is built entirely on a sentence he no longer appears to believe** — *"Because no one's ever offered it to me until I met my friends. And now I want to share that with the world."* **Gensai would answer that sentence. Souji does not currently know whether he can say it.**
+
+| | |
+|---|---|
+| **Mechanically** | **Untested.** The contract is intact on paper; nothing has revoked it. **Roll it live the first time he reaches for it, and let the table find out with him** |
+| **Why he hasn't** | Unstated, and better unstated. **Fear of the answer is the reading the character supports** — a man who has spent his life being moved off rosters does not summon the one house that swore it would never move him, on the night he became somebody who should be |
+| **The requirement is also a problem now** | Ishinuma summoning needs **a full round of stillness.** *"We do not partner with people who move first."* **The man who put a sword through his brother is not currently a still person** |
+
+### ★ AND GENSAI DOES NOT WAIT TO BE CALLED
+
+**He turned up at the mouth of Ryūchi Cave unsummoned**, having walked there, to say one thing out loud because his house does not let that kind of thing pass unremarked:
+
+> *"You have walked a very long way carrying somebody else's belongings. **That is written down.** I have come to say so out loud, because my house does not let that kind of thing pass unremarked — and because I judged you would not tell anyone yourself."*
+
+> **He did it once. He can do it again.** A 460-year-old tortoise arriving on his own initiative to have a conversation Souji has been avoiding is **available to the GM at any time**, needs no summoning, and is the single best non-combat lever anyone has on him.
+>
+> **And the ledger still runs both directions.** *"It is owed to you, and you will never once have to be useful enough to deserve it."* **That sentence does not have an expiry date, and Gensai does not lie.**
+
+> **⚠ This is also the party's most plausible route to finding him** — and the honest route into the standing mystery of who holds him. **Gensai refusing to answer a question is itself information.**
 
 ---
 ---

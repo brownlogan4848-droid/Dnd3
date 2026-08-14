@@ -169,9 +169,13 @@ And, on how he knew where to be:
 # PART SIX — OPEN THREADS
 
 1. **Where he is, and whose he is.** The Danzō/Orochimaru contradiction — Part One.
-2. **Has 朽木 Kuchiki been taught to keep what it takes?** Flagged on three sheets for years as the corruption already sitting in his kit. `souji-transformations.md`.
+2. **⚠ 朽木 Kuchiki HAS been taught to keep what it takes — partially, conditionally, and by somebody else's hand.** **朽木・留 Kuchiki · Tome:** he may now retain up to 50 points of drawn vitality, decaying 25% per turn — **and while he holds a single point, 息吹 Ibuki cannot be used.** The two cannot coexist. **It is grafted work and the seam shows**, in a grammar that is not his and not Senju. **根の記憶 did not do this. Something outside him reached in.** `souji-jutsu.md`.
+
+    > **The graft is evidence, not an answer.** It establishes *that somebody worked on him*, which narrows the field for thread 1 without closing it.
 3. **Does 息吹 Ibuki still answer him?** It exists only when he needs somebody else to be alright. **He used it an hour before he defected.**
-4. **Does the Ishinuma contract still answer?** A four-century-old intelligence with a standing debt would have opinions. **And it is the party's most plausible route to finding him.**
+4. **⚠ HE HAS NOT TRIED THE CONTRACT.** Not once since before he left. **The status is unknown to him too**, and the reading the character supports is that he is afraid of the answer — a man who spent his life being moved off rosters does not summon the one house that swore it would never move him, on the night he became somebody who should be. **The requirement is also a problem: Ishinuma summoning needs a full round of stillness, and he is not a still person now.**
+
+    > **And Gensai does not wait to be called.** He turned up at the mouth of Ryūchi Cave unsummoned once already, having walked there, to say one thing out loud. **He can do it again — and the ledger still runs both directions.**
 5. **静かな部屋** — locked, and it is the door back.
 6. **"When you're ready, truly ready, come find me."** **That is an invitation, not a threat.** He gave them a way to reach him, and he did not have to.
 7. **What happened to the rest of Genzo's original squad.** Souji was the only one reassigned. **Never resolved.**

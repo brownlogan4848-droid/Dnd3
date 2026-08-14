@@ -289,19 +289,32 @@ Same cost. **Ranged attack roll, 30 ft**, same **2d8 Wind**, push 15 ft. **No re
 
 > **⚠ He does not have Water nature and never will.** He is not conjuring an ocean — **he is picking one up.** He knelt with both arms in the sea for thirty seconds before casting, taking a measurement. The technique is *wind to move it, lightning through it, senjutsu to shift the mass, and Tazuna to steer it.*
 
-**2 Actions · 3 slots · 40 Chakra / 25 Stamina.** *(Cheap for the effect — but inside Shiokaze nothing depletes, so cost is nearly moot. That is the point, and also the trap.)*
+## RANK: **S-RANK. CASTABLE ONLY INSIDE 大仙 DAISEN.** **[RULING, Year 0]**
 
-**Rank: [DECISION NEEDED].** By damage and area it reads **A-rank at minimum**; the invention gates in Book IV §3 Part Five are nowhere near met. It functions anyway because all four conditions below hold at once. **The campaign has not answered this and the audit will not answer it either** — it is a design question, not an error.
+**4 slots** *(S-rank Action Weight, Book IV §2 Part Two)* **· 40 Chakra / 25 Stamina.**
 
-### The four conditions — remove any one and it fails
+Four of his five slots. **One left, and no room for anything expensive after it.**
 
-| | Why |
+> **Why S-rank rather than his A-rank signature.** By damage and area it reads A-rank at *minimum* — 10d12 + 4d8 across a 40 m radius, terrain destroyed for four rounds. But the invention gates in Book IV §3 Part Five are nowhere near met, and **that is the correct diagnosis rather than a problem to file down.** He did not invent an A-rank technique early. **He built something above his band, and it only works where the band does not apply.**
+>
+> **Daisen operates past the S-rank band by definition** — *"not 'counts as' — past it, his existing kit rescaled by natural energy carrying the load, **the way Sky-Torrent Downfall was only ever possible because senjutsu carried the mass.**"* `ardo-transformations.md` said this before the rank was ever set. **The gate was always Daisen. It just was not written down as one.**
+>
+> **This also frees his A-rank signature slot** — which is where restoring the full A-rank **影分身 Shadow Clone** has been pointing for thirteen years.
+
+### The Daisen gate subsumes three of the four conditions
+
+**大仙 Daisen prefixes 潮風 Shiokaze, 潮合 Shioai and 手綱 Tazuna** — it *is* those three with the world inside them. Requiring Daisen therefore requires all three automatically, and **one condition survives on its own:**
+
+| Condition | Status |
 |---|---|
-| **潮風 Shiokaze** | The past-S-rank ceiling, and a rotation that does not deplete under the load |
-| **潮合 Shioai** | Natural energy does most of the actual lifting |
-| **手綱 Tazuna** | Nothing else could steer that volume |
-| **A large body of standing water, already present** | **He is not a Water user.** Without it he is a man making hand seals at a field |
+| **潮風 Shiokaze** — the ceiling, and a rotation that does not deplete under the load | **Inside Daisen** |
+| **潮合 Shioai** — natural energy does most of the actual lifting | **Inside Daisen** |
+| **手綱 Tazuna** — nothing else could steer that volume | **Inside Daisen** |
+| **A large body of standing water, already present** | ### ⚠ **STILL A HARD REQUIREMENT** |
 
+> **He is not a Water user and never will be.** Without standing water he is a man making hand seals at a field — **in the most conspicuous transformation in the world, having announced himself to every sensor and every sage alive, for nothing.**
+
+*(Cost is cheap for the effect — but **inside Daisen nothing depletes**, so cost is nearly moot. **That is the point, and it is also the trap.**)*
 ### Effect
 
 **THE SKY-HARVEST.** Complex seals draw environmental energy and lift a **100 ft+ monolithic wave**, threaded with wind and internal lightning, suspended overhead. Range self / **40 m radius · 120 m high.**

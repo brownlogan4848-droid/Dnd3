@@ -26,7 +26,30 @@ The one who stayed. Filed the hazard claim after Ground Seventeen without being 
 
 **Year −6: gravely wounded. Suzume kept him alive six days in a cave on Ibuki and medical ninjutsu.** He survived. **He never returned to the front.**
 
-> **He fought the desk and lost.** Whereabouts as of Year 0: Konoha, presumably, in a village that has just burned. **Unaddressed. Flagged.**
+> **He fought the desk and lost.**
+
+## STATUS — **ALIVE. INJURED. NOT AVAILABLE.** **[RULING, Year 0]**
+
+**He was in Konoha on the tenth of October, and the tenth of October happened to him.**
+
+| | |
+|---|---|
+| **Alive** | Confirmed. **He is not a casualty and should not be killed offscreen** |
+| **Injured** | Badly enough to be out of reach for the opening of the hunt. On top of the Year −6 wounds that already took him off the front — **this is a man being broken by increments, not dramatically** |
+| **Where** | In the village, in whatever Konoha is using for a hospital tonight |
+| **Reachable** | **Not yet.** By the time anyone could sit down with him, Ardo and Suzume are gone |
+
+> ## ★ WHY HE IS UNAVAILABLE, AND WHY THAT IS THE POINT
+>
+> **Roku is the one adult left alive who could tell them they are making a mistake.**
+>
+> He filed the claim unasked. He pulled Ardo out of a Root interrogation room with his hands. He walked six months across a continent for a boy who vanished out of a clearing, and he went with them out of the village as their jōnin of record rather than their leash. **He has never once been wrong about when to stop.**
+>
+> **He would have opinions about two injured people going after Souji alone, tonight, with no papers.** He would probably be right.
+>
+> **So he is not in the room.** Not dead — **unreachable**, which is worse and more usable, because it is recoverable. **The first act of the hunt has to be their decision, unopposed by anybody who loves them.**
+>
+> **When they do reach him, he already knows about Souji**, and he has had time to think about it, and **he was Souji's second sensei — the one who actually stayed.**
 
 ## RAI INUZUKA — **KIA, Session Five**
 **Genin · 11 at death**
@@ -142,7 +165,32 @@ Genjutsu-primary — **Fold, DC 19.** Left equipment arranged rather than bodies
 
 **Also captured: "the Handler," a new associate. Interrogation pending.**
 
-> ⚠ **Both threads have been "pending" since Session Seven.** Thirteen in-world years. **Flagged.**
+## ⚠ THE PROMISE WAS NOT KEPT — AND THEY ARE LOOSE **[RULING, Year 0]**
+
+### Thirteen years. No trial. No judgment. No release.
+
+**The Shepherd was never given the fair judgment Ardo was promised on their behalf.** Not refused — **deferred**, then filed, then forgotten, the way a war disposes of a prisoner nobody has time to be responsible for. Held on a Konoha authority that never quite got around to exercising itself.
+
+**The Handler was never interrogated either.** Same cell block, same thirteen years, same silence.
+
+### And on the night of the tenth of October, the cells came open.
+
+**They escaped in the chaos of the Nine-Tails attack.** No plan, no rescue, no cunning — a wall came down and nobody was watching a thirteen-year-old file. **Both are at large as of this session.** The Handler's cell was found open too.
+
+> ## ★ WHY THIS IS THE SHARPEST KNIFE IN THE FILE
+>
+> **Ardo won that fight with an argument, and the argument was about closure.** He told the Shepherd that imprisoning people indefinitely — holding them, alive, unresolved, while their families never learned anything — was the exact cruelty the Shepherd had themselves suffered and should not inflict.
+>
+> **The Shepherd believed him. Surrendered on it. And Konoha then did precisely that to them for thirteen years.**
+>
+> **It is the one victory Ardo is proudest of, and the village turned it into a lie.** He does not know yet.
+
+### How to run it
+
+- **He should not find out immediately.** This lands hardest as a discovery, not a briefing — a name on an escape manifest, a rumour on a road, or the Shepherd finding *him*.
+- **The Shepherd is not a straightforward antagonist now.** They kept their word for thirteen years. Konoha did not. **Whatever they are when they resurface, "betrayed" is on the list.**
+- **They may not blame Ardo.** That is worse and more interesting than if they did.
+- **Hiruzen almost certainly does not know either.** Thirteen years of a war and a village to run; this was a form somebody else was supposed to file. **It is not villainy, which is the point** — it is how the setting actually fails people.
 
 ## THE EMPLOYER — **GM SECRET**
 The original specification that targeted Suzume at Ground Seventeen was connected to **the dormant bloodline developing behind her eyes**, and used clanless status, absent parents, headache severity, and bloodline-awakening proximity as selection criteria.

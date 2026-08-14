@@ -172,7 +172,7 @@ He may overdraw one resource to **zero** and pay the shortfall from **Health at 
 | **迅雷・嵐雷神 Storming Thunder God** *(Mode A)* | C | 2 |
 | **迅雷・嵐雷神・弐 Thunder Gods Gale** *(Mode B)* | C | 2 |
 | **迅雷・嵐神の鉄拳 Storm-God's Iron Grip** | B | 2 |
-| **迅雷・嵐遁：天河の崩し Sky-Torrent Downfall** | **unresolved** | 3 |
+| **迅雷・嵐遁：天河の崩し Sky-Torrent Downfall** | **S** — *Daisen only, + standing water* | **4** |
 | **飛雷神・瞬 Hiraishin no Shun** | *unranked* | see file |
 | **音置き Otooki** | *not a technique* | — |
 
@@ -224,7 +224,7 @@ He may overdraw one resource to **zero** and pay the shortfall from **Health at 
 | **A cut bell** | 1 | Taken off a dead jōnin's severed cord |
 | **A torn bingo-book page** | 1 | Unreadable. **Bears the Uzumaki spiral** |
 
-**Ryō: see `campaign/campaign-state.md`.** *(Flagged there as stale — 12,000, unchanged for thirteen years.)*
+**Ryō: not tracked.** Thirteen years of jōnin work on an independent unit — **he is comfortable.** See `campaign/campaign-state.md`; the interesting scarcity was never money.
 
 **He carries no meaningful escape kit.** Two unused flash bombs against a five-slot combo is not a plan.
 

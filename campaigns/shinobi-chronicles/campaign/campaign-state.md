@@ -184,15 +184,26 @@ Only techniques with live XP appear here. The full ladder for each is in the cha
 ---
 ---
 
-# FINANCES & EQUIPMENT CHANGES
+# FINANCES — **NOT TRACKED** **[RULING, Year 0]**
 
-| Character | Ryō | Note |
-|---|---:|---|
-| **Ardo** | **12,000** | Unchanged since Session Four. **Thirteen years without a figure being updated — flagged as stale, needs a table decision** |
-| **Suzume** | **12,000** | Same flag |
-| **Souji** | 6,000 | Frozen — NPC now |
+> ## Ryō is a narrative resource in this campaign. Do not put a number on it.
 
-**Notable items in play:** Rai Inuzuka's forehead protector (Ardo wears it; it is also his Mangekyō cover) · the burnt book · a cut bell · a torn bingo-book page bearing the Uzumaki spiral.
+**They are comfortable, and they earned it.** Thirteen years of jōnin-rank work on an independent long-range unit — B and A-rank contracts, hazard claims, salvage, and a decade of an itinerant squad's pay with almost nothing to spend it on. **The old figures (12,000 / 12,000 / 6,000) were Genin-era numbers frozen since Session Four and are void.**
+
+| Assume they can afford | Assume they cannot buy |
+|---|---|
+| Travel, lodging, supplies, resupply, bribes | **Their way out of the Uchiha problem** |
+| **A full escape kit each**, restocked — the thing they have historically never carried | **Papers.** Hiruzen's terms are explicit: the village cannot be seen doing this with them |
+| Specialist gear, medical stock, replacement equipment | **Anything Konoha's requisition system gates**, which is now most things |
+| Information, when information is for sale | **Time** |
+
+> **The interesting scarcity was never money.** It is authority, secrecy, and the fact that there are two of them.
+
+**If the table ever wants a purchase to bite, price it in something other than ryō** — a favour owed, a name given, a day spent, or being seen.
+
+## Notable items in play
+
+Rai Inuzuka's forehead protector *(Ardo wears it; **it is also his Mangekyō cover**)* · the burnt book · a cut bell · a torn bingo-book page bearing the Uzumaki spiral · Suzume's field medical kit and her long-term case notes.
 
 ---
 ---
@@ -209,6 +220,8 @@ Only techniques with live XP appear here. The full ladder for each is in the cha
 | **Danzō Shimura** | **Untouchable and knows it.** Hiruzen stated plainly he cannot move against him without proof and will not hand him the excuse |
 | **The Uchiha** | Still do not know Suzume's eye left the clan. **Thirteen years held.** A village-wide disaster is the worst possible cover for a quiet secret |
 | **Orochimaru** | Whereabouts unstated. The only person Souji spoke to for three months |
+| **⚠ THE SHEPHERD** | **LOOSE.** Held thirteen years without the fair judgment Ardo was promised on their behalf — **never tried, never released, just filed** — and **escaped when the cells came open last night.** "The Handler" is out too. **Ardo does not know.** `npcs.md` |
+| **ROKKA UEHARA** | **Alive, injured, in the village, and not reachable before they leave.** The one adult who would tell them not to go. `npcs.md` |
 
 ---
 ---

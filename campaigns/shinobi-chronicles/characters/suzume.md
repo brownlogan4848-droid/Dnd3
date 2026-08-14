@@ -179,7 +179,7 @@ She may overdraw one resource to **zero** and pay the shortfall from **Health at
 | Case notes | 1 set | Long-term medical / migraine observations, kept since before the awakening |
 | Headband | 1 | Konohagakure |
 
-**Ryō: see `campaign/campaign-state.md`.** *(Flagged there as stale.)*
+**Ryō: not tracked.** **She is comfortable.** See `campaign/campaign-state.md`.
 
 ---
 ---
