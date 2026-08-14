@@ -351,7 +351,7 @@ Suzume's only comment: ***"Then be quick and be enormous."***
 |---|---|
 | **A runner from the Tower** | Ardo's answer: *"I'm carrying forth mine and **Rai's** ninja way."* Hiruzen's reply, relayed exactly: *"Tell him I am not angry and I am not surprised, and that those are two different failures"* |
 | **Four ANBU** | *"He sent us to find out what you are."* / *"And?"* / ***"You're a man doing triage."*** **Two of them went and worked the second floor east as medics** |
-| **三島 Mishima Sōbei**, Tower sealing archivist, 51 years | Read the linework off Ardo's forearms, said what it was, said where he had seen it before — **the Tower vault** — and **left without asking a single further question.** A folded slip under a pen: ***"Ask about Uzushio."*** |
+| **三島 Mishima Sōbei**, Tower sealing archivist, 51 years | Read the linework off Ardo's forearms, said what it was, said where he had seen it before — **the Tower vault** — and **left without asking a single further question.** A folded slip under a pen: ***"Ask about the alliance with the island."*** |
 | **Two Uchiha police** | Came for the enormous thing, **found Suzume's right eye in a window reflection** at thirty metres. **Ardo moved to step in front of her and she stopped him** — *"If you move, you decide it for them."* **They left without saying anything. Deferred, not resolved** |
 
 **Naruto was brought and fell asleep in Ardo's arms.** Kurama looked at the child it was supposed to be sealed into and said, eventually: ***"…He has her hair."***
@@ -371,6 +371,51 @@ Suzume's only comment: ***"Then be quick and be enormous."***
 > **The thumb. Four times in a row. Without thinking.**
 >
 > *A voice he has never been able to put a face to, arriving over the sound of hands adjusting hands:* ***"—like that."***
+
+---
+---
+
+# 十三 · SESSION THIRTEEN — "THE ALLIANCE WITH THE ISLAND"
+## Year 0, October 11th · dawn · **IN PROGRESS**
+
+### The vault
+
+**Ardo walked into the Tower's lower archive at 05:40 and out again at 05:45.**
+
+Two of the three doors were a bored chūnin and a lock. **The third has no handle and no hinges** — a slab cut with linework so fine it reads as grain until you're close, and then it is an inward-facing spiral with a place at the centre for a palm.
+
+**He recognised the hand.** Not the style — *the hand.* The lean. The hurry at the line-ends. **It is the same hand that wrote the burnt book.**
+
+He put his palm in the centre and did not push chakra. **He let the tide come up to his skin and keep time.** The spiral rolled over once and opened.
+
+> **No alarm. There is no alarm to trip.** Whoever built that door never once considered that a thief might be Uzumaki. **It let him in because it thinks he's family.**
+
+**Six items on four shelves. He took one and left the rest.**
+
+> ### 渦 — 同盟 — 実施 — 保留 / 三
+> **WHIRLPOOL — ALLIANCE — EXECUTION — HELD IN ABEYANCE / 3**
+>
+> Signed twice: an unknown hand, and beneath it **Sarutobi Hiruzen, Year −18. Two years before the island fell.**
+
+**He did not open it.** It went in the satchel.
+
+### The staircase
+
+**三島 宗兵衛 Mishima Sōbei was sitting on the fourth step with cold tea**, having worked out how long the door would take.
+
+He is an archivist. That is the entire answer and he was irritated to be asked for a better one — *"You keep waiting for the part where I turn out to be important. There isn't one. **That's the point of me.**"*
+
+**What he gave, sideways, while complaining about other things:** he filed the alliance in **Year −38** and something else in **Year −41**, *"and they don't say the same thing, and I have known that for thirty-two years, and I have never once had anybody to say it to."* **He has never opened the case.** He filed the outside of it, dusted it twice a year, and learned the shape of the thing from handling it.
+
+**保留**, in his gloss: *"Somebody decided. And then decided not to do it. And then never un-decided it, so it just… sat."*
+
+**Why now:** *"Thought I'm seventy-one. Thought I've got maybe four good years and a bad one. Thought if I take it with me nobody ever asks."*
+
+**What he will report:** that the third door opened. **Not who** — *"because I was on this staircase with my eyes shut like an old man who fell asleep where he sat. That's not a favour. That's the exact width of what I can do and stay a man who's never lied on a sheet."*
+
+**His advice:** ***"Read it somewhere you can afford to be angry. Not in a room with people. Not in this village."***
+
+**And on his way up the stairs, to a wall, not turning around:** *"Your mother's people were good to us. That's not in a file, that's just something I remember. They came, they built things with us, and the ones I met were **loud**, which I liked, and then it— Anyway."*
 
 ---
 ---

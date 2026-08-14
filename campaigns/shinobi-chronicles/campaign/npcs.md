@@ -216,13 +216,34 @@ Said three things and left:
 >
 > *"Whoever taught you to write like that has been dead for twenty years, and I would very much like to know how you learned it. **But not tonight.** Tonight I am going to go and be useful, and I am going to think about what I am **obliged** to report."*
 
-**Then left a folded slip under a pen on the bench.** Three words: ***"Ask about Uzushio."***
+**Then left a folded slip under a pen on the bench.** Three words: ***"Ask about the alliance with the island."***
 
 > **He is not a threat and he is not an ally. He is a professional with fifty-one years of loyalty and one live curiosity**, who split the difference by telling Ardo where the interesting question is and then removing himself so he would not have to hear the answer.
 >
 > **Suzume's read:** *"That's a man deciding whether to be a shinobi or a person, and settling for both."* **Also: "It's bait, and there's a file open by dawn." Both are true. That's how this village works.**
 
 **⚠ He knows the vault's contents by classification, not by sight.** He has never been permitted to open it either.
+
+### The staircase, Oct 11th, ~05:45
+
+Waited forty minutes on the fourth step with a cup of tea he'd let go cold, having done the arithmetic on how long the door would take.
+
+**What he actually is:** *"I'm an archivist. That's it. That's the whole answer. You were hoping for something else and there isn't one."* Nineteen when he started, twenty-two when the alliance was signed, **two floors down from the room.** Somebody brought a box of paper to his desk and said file this, and he filed it. *"You keep waiting for the part where I turn out to be important. There isn't one. **That's the point of me.**"*
+
+**Why he left the note:** he filed the alliance in **Year −38** and *"the follow-up, whatever we're calling it"* in **Year −41** — *"and they don't say the same thing, and I have known that for thirty-two years, and I have never once had anybody to say it to, because the only people cleared to hear it are the ones who wrote it."*
+
+Then: *"Thought I'm seventy-one. Thought I've got maybe four good years and a bad one. **Thought if I take it with me nobody ever asks.**"*
+
+**The exact width of what he will do:** *"I'm obliged to report that the third door opened. I'm **not** obliged to report who, because I didn't see anybody, because I was on this staircase with my eyes shut like an old man who fell asleep where he sat. That's not a favour. That's the exact width of what I can do and stay a man who's never lied on a sheet."*
+
+**And the thing he said to a wall on his way up, that isn't in any file:**
+
+> *"Your mother's people were good to us. That's not in a file, that's just something I remember. They came, they built things with us, and the ones I met were **loud**, which I liked, and then it— "* *(stops)* *"Anyway."*
+
+### Voice notes
+Prickly, digressive, tired. **Objects to being asked three questions at once.** Says *"mm"* and *"hnh."* Starts sentences and abandons them. Retreats into procedure when uncomfortable, and **is embarrassed rather than frightened** by the thing he can't say. Does not do aphorisms. **Never turns around when he says the important part.**
+
+> **⚠ HARD CONSTRAINT — Mishima must never say the word 渦潮.** He says *"the island,"* *"the Whirlpool country,"* *"your mother's people."* **Ardo does not know his own village's name and must produce it himself when he names his ultimate form.** `characters/ardo-story.md` → DOES NOT KNOW. **This applies to every NPC, not just Mishima.**
 
 ## THE CAT-MASKED ANBU CAPTAIN
 Sent to find out *what Ardo is.* Reported back **"you're a man doing triage,"** stood her squad down, **and put two of her four in as medics** on the second floor east.

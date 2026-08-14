@@ -16,7 +16,7 @@
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
 | **In-world date** | **Year 0, October 11th — dawn.** The fires are out. |
-| **Location** | **Konohagakure** → departing. Session Thirteen opens in the Tower vault |
+| **Location** | **Konohagakure, Tower sublevel** → about to depart via the north wall |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
 | **Last session** | **Session Twelve — "THE TENTH OF OCTOBER."** Closed with the hospital. Full record: `session-log.md` |
 
@@ -84,7 +84,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **TWO RIBS — SET, NOT HEALED** | Knitting. **Bracing still hurts.** Roughly a week of care |
 | **LEFT ARM — hyperextended joint** | ⚠ **No fine work until midday on the 12th.** For a medic that is worse than broken. **Ardo is the medic until then** |
 | **HEAD LACERATION** | Closed |
-| **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about Uzushio."*** |
+| **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about the alliance with the island."*** |
 
 ### Active transformations
 **None.** Mangekyō active intermittently and involuntarily via Sōgan.
@@ -205,6 +205,24 @@ Only techniques with live XP appear here. The full ladder for each is in the cha
 > **The interesting scarcity was never money.** It is authority, secrecy, and the fact that there are two of them.
 
 **If the table ever wants a purchase to bite, price it in something other than ryō** — a favour owed, a name given, a day spent, or being seen.
+
+## ⚠ NEW — THE VAULT SCROLL **[Year 0, Oct 11, ~05:45]**
+
+**Ardo opened the Tower's third archive door and took one of six items.** He is carrying it unopened.
+
+| | |
+|---|---|
+| **Label** | **渦 — 同盟 — 実施 — 保留 / 三** — *WHIRLPOOL — ALLIANCE — EXECUTION — HELD IN ABEYANCE / 3* |
+| **Signed** | Twice. An unknown hand, and beneath it **Sarutobi Hiruzen, dated Year −18** — **two years before the island fell** |
+| **Status** | **UNOPENED.** Mishima's advice: *"read it somewhere you can afford to be angry. Not in a room with people. Not in this village"* |
+| **How he got in** | **The door is inward-facing Uzumaki spiral work in the same hand as the burnt book.** It did not read him as an intruder. **It opened because it thinks he is family** |
+| **Trace left** | **None.** No alarm exists to trip |
+
+> **保留 — "held in abeyance."** Mishima's gloss: *"somebody decided. And then decided not to do it. And then never un-decided it, so it just… sat."* **In his box. On his shelf. For thirty-two years.**
+>
+> **He never opened it and was never cleared to.** He filed the *outside* — label, classification, signature block. **He also filed the original alliance in Year −38 and "the follow-up" in Year −41, and says the two documents do not say the same thing.**
+>
+> **What is actually in it is not yet decided. Do not resolve it until it is read on the road.**
 
 ## Notable items in play
 

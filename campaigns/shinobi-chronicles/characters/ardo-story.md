@@ -74,6 +74,10 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **A signature blade, 鳴神 Narukami, exists for his style and was hidden from him** | Session Five |
 | **There is Uzumaki sealwork in Konoha's Tower vault**, classified above a fifty-one-year sealmaster | 三島 Mishima Sōbei, who volunteered it and then walked away |
 | **His own hands know 癒しの手 now** | Four hundred patients in one night. **The thumb, four times in a row, without thinking** |
+| **The Tower vault's third door is written in the same hand as the burnt book** | He stood in front of it and recognised the lean and the hurry at the line-ends |
+| **That door opened for him without being forced** | **It does not read him as an intruder.** Nobody who built it considered that a thief might be Uzumaki |
+| **Konoha signed an alliance with his mother's people in Year −38**, and something else in Year −41 | Mishima, who filed both |
+| **Hiruzen personally signed a document marked 保留 — held in abeyance — in Year −18** | The label on the case in his bag. **Two years before the island fell** |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -202,7 +206,11 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 16. The supplier and the customer behind the sealmaster's specification.
 17. **The Twinned prisoner** — alive in Konoha custody thirteen years ago, called Ardo *"the wind,"* said *"he said you'd come looking eventually."* **Never followed up.**
 
-18. **⚠ THE TOWER VAULT.** *"I have seen that grammar exactly twice. Once on a scroll in the Tower vault that we are not permitted to open. And once, this evening, on the Fourth Hokage's son."* — **Uzumaki work has been sitting in Konoha's vault his entire life and nobody ever mentioned it.** Mishima left three words on a bench and removed himself: ***"Ask about Uzushio."***
+18. **⚠ THE SCROLL HE IS CARRYING, UNOPENED.** 渦 — 同盟 — 実施 — **保留** / 三. Signed twice, the second time by **Hiruzen, Year −18, two years before the island fell.** *"Somebody decided. And then decided not to do it. And then never un-decided it."*
+
+    > **He has not read it and does not intend to inside the walls.** Mishima: *"read it somewhere you can afford to be angry."*
+
+19. **⚠ THE TOWER VAULT.** *"I have seen that grammar exactly twice. Once on a scroll in the Tower vault that we are not permitted to open. And once, this evening, on the Fourth Hokage's son."* — **Uzumaki work has been sitting in Konoha's vault his entire life and nobody ever mentioned it.** Mishima left three words on a bench and removed himself: ***"Ask about the alliance with the island."***
 
 19. **⚠ THE SHEPHERD IS LOOSE, AND THE PROMISE WAS BROKEN.** Ardo won that fight with an argument about **closure** — that holding people indefinitely, alive and unresolved, was the exact cruelty the Shepherd had themselves suffered. **The Shepherd believed him and surrendered on it. Konoha then did precisely that to them for thirteen years** — no trial, no judgment, no release, just a file nobody got round to. **They escaped when the cells came open on the tenth of October.** "The Handler" is out too.
 
