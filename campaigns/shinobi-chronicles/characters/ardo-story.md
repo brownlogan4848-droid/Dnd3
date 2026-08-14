@@ -78,6 +78,13 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **That door opened for him without being forced** | **It does not read him as an intruder.** Nobody who built it considered that a thief might be Uzumaki |
 | **Konoha signed an alliance with his mother's people in Year −38**, and something else in Year −41 | Mishima, who filed both |
 | **Hiruzen personally signed a document marked 保留 — held in abeyance — in Year −18** | The label on the case in his bag. **Two years before the island fell** |
+| **The alliance had an execution clause — a drafted, costed obligation to reinforce the island — and Hiruzen held it in abeyance and never rescinded it** | **He read the scroll**, on the road, on the first night. *Suzume read it first, at his request* |
+| **⚠ Konoha did not fail to come. Konoha decided not to come, and then left the decision sitting** | Same. **He has not decided what to do with this** |
+| **The Uzumaki sealing craft was a *relay*, not a vessel** — enormous things put into a rotation and passed hand to hand | **The trustee**, finishing her interrupted sentence. *"Ours moved."* |
+| **The interrupted word was 「経路」 — the ROUTE, not the destination** | Her, directly: *"You heard **destination** because you had already decided the somewhere was going to be you"* |
+| **Hikari was four years old and in Konoha** during the alliance delegation season | The trustee. **His mother stood in that village as a child** |
+| **The rotation is real, returns rather than spends, and cannot turn on one person** | **He stood inside it.** Three arcs held; the fourth was nearly empty |
+| **Minato's array is flawless and assumes an empty vessel** | Read directly off the seal with the Mangekyō open, inside his own mindscape. **He can point at the line** |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -100,14 +107,13 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | He does not know | Note |
 |---|---|
 | **His mother's intended name for him.** One syllable, swallowed mid-word. **It is not "Ardo"** | He will hear it in his sleep for years |
-| **The word 渦潮 Uzushio** — the name of his own village, and the name he will one day produce for his ultimate form | ***Do not let anyone say it near him.*** He must name the form first and be told afterward |
+| **The word 渦潮 Uzushio** — the name of his own village, and the name he will one day produce for his ultimate form | ***Do not let anyone say it near him.*** He must name the form first and be told afterward. **⚠ He has now stood in the middle of the unnamed form and asked, out loud, for a name. Kurama, the estate and the trustee all declined to supply one. Keep it that way** |
 | **The trustee's name** | Still unknown to him |
 | **That Kakashi Hatake carries a transplanted Sharingan** | Two men in one village doing identical daily arithmetic, thirteen years running. **Neither knows about the other** |
 | **Who Hiruzen meant** by *"one boy who walked out past the walls looking for answers and never came home"* | The name was deliberately not said |
 | **What the burnt book is, or whose hand wrote it** | Not the sealmaster's — confirmed by comparison. Leans, hurries at line-ends |
 | **That Orochimaru was behind the original specification** that targeted Suzume | GM secret. Suzume does not know either |
 | **What 癒しの手's fingerprint memory actually is** | Her teaching him, her being taught, or something else |
-| **That "conduit" and "destination" are different words** — the sentence he shut the door on | Said to him. He did not hear it |
 | **Why Minato chose Naruto after weeks of thinking** | He overruled it in four seconds and never asked |
 | **What Kushina was about to say about Hikari** | *"That's — I knew a—"* Cut off by the chains. **Gone** |
 | **⚠ That the Shepherd was never tried, and is now loose** | Held thirteen years without the fair judgment he was promised on their behalf, then out through a broken wall last night. **He won that fight with an argument about closure, and the village made it a lie.** He does not know |
@@ -253,3 +259,4 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **10** | The Year Below | A year of training. **大仙 Daisen taught by the White Snake Sage.** The squad found him and stayed |
 | **11** | The Eight Years *(timeskip)* | The war's back half. Four living Uzumaki found; one mattered. The Kumo bingo-book entry appeared |
 | **12** | **THE TENTH OF OCTOBER** | **Learned 飛雷神・瞬 from Minato in forty minutes.** Met and lost Kushina in ninety seconds. **Took the Nine-Tails off a newborn and onto himself.** Watched Souji kill his sensei. **Buried them both in unmarked ground.** Became a jinchūriki, a mourner, and a man with a hole in his stomach, in about four hours |
+| **13** | **The Alliance with the Island** *(in progress)* | Walked out of the Tower vault with the scroll a Hokage sealed. **Read it, and learned Konoha decided not to come.** The trustee finished her sentence — ***route***, not destination; the craft was a **relay**. **Stood inside the unnamed rotation and found the fourth arc empty.** Burned 大仙 unshielded for eleven minutes and **was found** |

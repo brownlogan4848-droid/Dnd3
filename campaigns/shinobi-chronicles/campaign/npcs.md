@@ -304,6 +304,20 @@ Nineteen. Twenty-two hours awake. Kept a clipboard out of pure professional stub
 **Thousands of preserved Uzumaki, inside Ardo.** Full treatment: `characters/ardo-inheritance.md`.
 
 - **THE TRUSTEE** — awake, thinner than she was, **will not take the wheel again.** *"She is a person he can talk to, not a faculty he can use."* **Name still unknown to him.**
+
+  > ### ⚠ SHE IS NOW A PRIMARY NPC **[Session Thirteen]**
+  >
+  > She finished the sentence the seal transfer cut in half. **The word was 「経路」 — *route*.** Not conduit, not destination.
+  >
+  > *"You heard **destination** because you were already looking for somewhere to put it and you had decided the somewhere was going to be **you**."*
+  >
+  > **What she gave him:** the real Uzumaki craft. *"Everyone else's sealing puts a thing somewhere and holds it. **Ours moved.** We put enormous things into a rotation and passed them hand to hand."* Then: *"**You do it in your body already. You have never once thought to do it with people.**"*
+  >
+  > **She also revealed Hikari was four years old and in Konoha** during the alliance delegation season — and told him to ask the archive about finding Souji **in the morning, out loud, where Suzume can hear it.**
+  >
+  > **How to run her:** she is patient, unhurried, and does not flatter him. She corrects him rather than encouraging him, and she leaves the conclusion for him to reach. **She does not volunteer.** She answers what she is asked and occasionally the thing behind it.
+  >
+  > **⚠ SHE MAY NOT NAME 渦潮.** She is the single most likely NPC to hand him the word, because she is the one who would actually know it. **She will not.** If pressed, she goes quiet, or answers a different question, or tells him it is not hers to give. *The hard constraint in `characters/ardo-story.md` applies to her more than to anyone.*
 - **NAO** — the most frequently heard voice. Argues, corrects, refuses to explain certain things. *"Tell her the thumb. Why does she not listen about the thumb."*
 
 ---

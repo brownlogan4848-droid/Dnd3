@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 11th — dawn.** The fires are out. |
-| **Location** | **Konohagakure, Tower sublevel** → about to depart via the north wall |
+| **In-world date** | **Year 0, October 11th — late night → the small hours of the 12th.** First night on the road. |
+| **Location** | **Open country, ~20 km north-east of Konoha** — a fold of ground with a stream, no sightline to the village. **Something is in the treeline to the north-east** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
-| **Last session** | **Session Twelve — "THE TENTH OF OCTOBER."** Closed with the hospital. Full record: `session-log.md` |
+| **Last session** | **Session Thirteen — "THE ALLIANCE WITH THE ISLAND" — IN PROGRESS.** The vault, the scroll, the rotation seen. Full record: `session-log.md` |
 
 ## What just happened, in one paragraph
 
@@ -41,7 +41,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **Stamina** | **~180** | **355** | Same. **Rested badly, restored anyway** |
 | **Health** | **158** | **228** | Closed and holding. **Do not exceed a walk until midday** |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **63** | 100 | −1 the clearing · −1 the hospital. **Burning Clarity 69–40 ACTIVE** |
+| **Vision (Max)** | **62** | 100 | −1 the clearing · −1 the hospital · **−1 the mindscape meditation.** **Burning Clarity 69–40 ACTIVE** |
 
 ### Conditions & injuries
 
@@ -53,13 +53,22 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **Exhaustion** | **Has not slept.** Three hours of sustained 大仙 Daisen on top of everything else |
 
 ### Active transformations
-**None.** Daisen, Shiokaze, Shioai all available and all unused since the burial.
+
+**⚠ ALL THREE ARE UP RIGHT NOW.** 潮風 Shiokaze · 潮合 Shioai · 大仙 Daisen, lit during meditation and **still running** at the moment control returns.
+
+| | |
+|---|---|
+| **Duration so far** | **~11 minutes**, unshielded, on open ground |
+| **Cost** | **None.** Daisen returns what it takes — chakra and stamina are unchanged. *That is the trap* |
+| **What it is doing** | Nine-metre ring of flattened grass; chakra lashing continuously off shoulders, forearms and heels |
+| **Who can see it** | **Sensors at range · every sage alive · anyone who erased Uzushio.** `ardo-transformations.md` Part Five — *"a fire on a hill"* |
+| **Sleep** | **He has not slept.** Not since before the tenth |
 
 ### The new tenant
 
 | | |
 |---|---|
-| **九喇嘛 KURAMA** | **Partnership stage 0 → approaching 1.** Watched him heal four hundred people and asked to see a technique repeated. *"You are not going to be a good jinchūriki."* Said as an observation, not an insult |
+| **九喇嘛 KURAMA** | **Partnership stage 1.** Civil twice now, unprompted. On the first night out it gave him **actual, useful advice** — *"Try not shoving. Just once."* — and then warned him to open his eyes. **It is not friendly. It has started being useful, which is different, and it knows the difference** |
 | **What it has said** | That it does not hate people who only want to live; that it hates that this has never once mattered. That Ardo's inside *"looks like a grave that never finished being dug."* That it recognised the masked man's chakra as **the one who took it out of Kushina** |
 | **Second array** | Ardo now carries **two seals on one stomach** — Hikari's inward-facing containment (the archive) and Minato's eight-trigram (Kurama). *"They fit, and they grind."* |
 
@@ -84,6 +93,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **TWO RIBS — SET, NOT HEALED** | Knitting. **Bracing still hurts.** Roughly a week of care |
 | **LEFT ARM — hyperextended joint** | ⚠ **No fine work until midday on the 12th.** For a medic that is worse than broken. **Ardo is the medic until then** |
 | **HEAD LACERATION** | Closed |
+| **AWAKE** | Woke to eleven minutes of unshielded senjutsu twenty feet away. **Sitting up, good hand on the ground, watching the north-east treeline.** She saw it before he did |
 | **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about the alliance with the island."*** |
 
 ### Active transformations
@@ -140,7 +150,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 **Rules:** `characters/ardo-transformations.md` → The Vision Economy.
 
-## MAX VISION — **63 / 100**
+## MAX VISION — **62 / 100**
 
 | | | Running |
 |---|---:|---:|
@@ -150,6 +160,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **Thirteen years of the Kakashi discipline** — covered by default, uncovered when it mattered | −12 | **65** |
 | **The clearing** — one combat, uncovered | −1 | **64** |
 | **The hospital** — three hours uncovered, working | −1 | **63** |
+| **The first night on the road** — uncovered inside his own mindscape, deliberately, to read the seal | −1 | **62** |
 
 > **[GM RULING, Year 0.]** A **sustained deliberate uncovering outside combat** — hours of it, for a purpose — costs **−1**, the same as a fight. Not per hour. **Per decision.**
 
@@ -161,7 +172,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 |---|---|
 | **BURNING CLARITY IS ACTIVE** | Band **69–40**: **+1 to all Perception and Reaction timing.** Colour is going wrong on that side — everything slightly oversaturated. **He has almost certainly not mentioned this** |
 | **All four of his own tiers are running** | Mikiri · Inyomi · Hanshun · Utsushi. **Passive, always-on, since Session Eight.** He cannot switch them off |
-| **26 points to the next band** | At **39–15** the eye starts *paying him* — advantage on everything it does, Mangekyō costs halved. **The temptation gets worse as it gets worse** |
+| **23 points to the next band** | At **39–15** the eye starts *paying him* — advantage on everything it does, Mangekyō costs halved. **The temptation gets worse as it gets worse** |
 | **飛雷神・瞬 is now the main drain** | **−1 per combat he marks in** · **−1 per month he waits uncovered.** Priced in `characters/ardo-jutsu.md` |
 
 > **The 92% discipline that produced 65 was built over thirteen years in which he had no reason to break it.** He learned Hiraishin no Shun hours before the tenth of October. **None of that history is evidence for how he handles it now.**
@@ -270,10 +281,15 @@ Per-character threads live in each `characters/<name>-story.md`.
 2. **The masked man.** Knows Naruto is not a jinchūriki and left anyway — meaning either he cannot proceed without a real vessel, or he already has a second plan.
 3. **Ardo's grinding double seal**, patched by a dying man and inspected by nobody.
 4. **Kurama, as a relationship.** Stage 0–1. It has already asked one real question and gotten one real answer.
-5. **The Vision meter** — mechanically unresolved, above.
+5. **The Vision meter** — settled mechanically, live at **62**, and now being spent voluntarily. See the ledger above.
 6. **The stand of trees.** Still unvisited after thirteen years. Nine archive members placed it in the same region; **two went quiet in a way Nao refuses to explain.**
 7. **Four living Uzumaki found. Three were dead ends. One was not**, and Ardo has discussed it with nobody but the archive.
 8. **Three names nobody will say:** the man who signed the snake scroll ninety years ago · the boy who walked out of Konoha and never came home · the syllable Hikari started and did not finish.
+9. **⚠ WHAT ARDO DOES ABOUT THE SCROLL.** He has read it. Konoha's obligation to reinforce the island was drafted, costed, signed, and held. **He has not written to Hiruzen, has not turned around, and has not said the word *betrayal* out loud.** The scroll is still in the satchel. *This is his call and nobody should make it for him.*
+10. **⚠ THE TREELINE.** Ardo burned **大仙 Daisen unshielded for eleven minutes** on open ground the first night out. Something answered. **Live, immediate, and entirely his own doing.**
+11. **The relay.** The trustee's word — the craft was a *route*, not a container, and *"you have never once thought to do it with people."* **This is the mechanical key to 渦潮 and he has now felt the missing arc directly.**
+12. **The archive on Souji.** The trustee told Ardo to ask it, in the morning, **out loud, where Suzume can hear.** He has not yet.
+13. **Hikari was four and in Konoha** during the delegation season. **Kushina's cut-off sentence — *"That's — I knew a—"* — is now much louder.**
 
 ---
 ---

@@ -63,6 +63,9 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **Naruto is clean** | Ardo told her; she has not examined him herself |
 | **Two Uchiha police saw her right eye in a window reflection** and went home without reporting it — *for now* | She was holding the Fourth's son at the time. **She talked Ardo out of moving, which is the only reason nothing was said** |
 | **There is Uzumaki sealwork in the Tower vault** | Mishima said it in front of her |
+| **⚠ SHE READ THE SCROLL BEFORE HE DID — at his request** | *"I don't know what this is. Maybe you should read it before I do."* **She knows what Konoha did to the island, and she knew it a few minutes before Ardo did.** She had to decide, in those minutes, how to hand it to him |
+| **Konoha's obligation to reinforce the island was drafted and then held in abeyance by Hiruzen, Year −18** | The scroll. In her hands first |
+| **Ardo held 大仙 unshielded for eleven minutes on open ground** | She woke up in it. **She understands the visibility rule as well as he does** and did not need it explained |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -180,3 +183,4 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **10** | The Year Below | **Mukaebi BUILT** — nine months, Yoi teaching. **Mitate and Iyashime unlocked. Actual medical ninjutsu.** Awaseme and Tōmi trained with Ardo. **Worked out he was going blind and confronted him. Four hours. Nothing solved** |
 | **11** | The Eight Years *(timeskip)* | **War medic.** Stopped counting in Year −8. Kept Roku alive six days in a cave. **Built 無戸の間 out of her own worst three days**, and **断脈** out of eight years of putting bodies together |
 | **12** | **THE TENTH OF OCTOBER** | Carried to the clearing on Ardo's wrist and hated it. **Fed Kushina's chains through the sealing.** Read her pulse and knew it was a candle. **Put herself between Ardo and Souji verbally, then physically, and was thrown into a treeline for it.** Woke up and diagnosed Ardo before asking about herself |
+| **13** | **The Alliance with the Island** *(in progress)* | Left with no papers and no sanction, riding most of twenty kilometres in a sling and furious about it. **Read the scroll first, because he asked her to.** Woke in the middle of eleven minutes of unshielded senjutsu and **saw the treeline before he did** |

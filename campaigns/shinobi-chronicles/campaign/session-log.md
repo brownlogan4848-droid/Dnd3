@@ -417,6 +417,68 @@ He is an archivist. That is the entire answer and he was irritated to be asked f
 
 **And on his way up the stairs, to a wall, not turning around:** *"Your mother's people were good to us. That's not in a file, that's just something I remember. They came, they built things with us, and the ones I met were **loud**, which I liked, and then it— Anyway."*
 
+### The open road
+
+They left by the north-east gate and did not use the road for the first hour. **No papers, no cell designation, no sanction** — Hiruzen's condition. Suzume rode most of the distance in a sling of Ardo's making because her left arm is unusable until midday and two of her ribs are still knitting.
+
+They stopped roughly **twenty kilometres out**, in a fold of ground with a stream and no sightline to the village.
+
+### The scroll, read where he could afford to be angry
+
+**He did not open it first. He handed it to Suzume** — *"I don't know what this is. Maybe you should read it before I do."*
+
+**渦 — 同盟 — 実施 — 保留 / 三.** The alliance between Konoha and the island was not a sentiment. It was **an instrument with an execution clause** — the obligation to reinforce, drafted, costed, and ready to be run. **It was drafted. It was never run.** 保留: *held in abeyance*, signed by **Sarutobi Hiruzen in Year −18**, and never once rescinded in the twenty-eight years since.
+
+**Two years later the island fell**, and the thing that would have answered was sitting in a case behind a door with no handle, being dusted twice a year by a man who never opened it.
+
+> **Ardo, standing, not crying, looking down at her:** *"My people gave their lives and sacrificed so much and Hiruzen couldn't even tell me."*
+>
+> And then, after a long time: *"It doesn't matter anymore. Together, we helped restore the archive of my people within me."* — **"Thank you, Suzume. You really are amazing."**
+
+> ⚠ **He has not decided what to do with this.** He has not written to Hiruzen, not turned around, and not said the word *betrayal* out loud. **The scroll is still in the satchel.**
+
+### The mindscape, first night — the trustee finishes her sentence
+
+Ardo went in before sleeping and the **trustee** was waiting to complete the sentence the seal transfer cut in half.
+
+> *"…**Route**,"* she said. *"I was talking about the **route**."*
+>
+> *"You heard **destination** because you were already looking for somewhere to put it, and you had decided the somewhere was going to be **you**."*
+
+**What the Uzumaki craft actually was:** *"Everyone else's sealing puts a thing somewhere and holds it. **Ours moved.** We put enormous things into a rotation and passed them hand to hand."* Not vessels. **A relay.**
+
+> *"You do it in your body already. Every day. You have never once thought to do it **with people**."*
+
+**And, incidentally, devastatingly:** **Hikari was four years old and in Konoha** during the alliance delegation season. His mother stood in that village as a child, in the years the instrument was live.
+
+**Her instruction:** ask the archive about finding Souji **in the morning, out loud, where Suzume can hear it.**
+
+### The second descent — the rotation, seen
+
+Ardo went back in the same night, deeper, and **lit everything at once — 潮風 Shiokaze, 潮合 Shioai, 大仙 Daisen** — then **lifted the headband inside his own mindscape** and turned the Mangekyō on the seal itself.
+
+**What the eye showed him:** the whirl-mark is not a pattern, it is a **mechanism**, and it has been running for four hundred generations of corrections. **Minato's eight-trigram array is flawless and assumes an empty vessel.** Ardo can now point at the exact line where the two disagree.
+
+**Kurama, civil for the second time:** *"You're not going deeper. You're already at the bottom. That's the problem."* — *"Try not shoving. Just once."*
+
+**He stopped pushing, and the rotation came up.** The river off the floor as counterweight. Natural energy finding its speed. The estate turning on a beat and legible. **Nothing spent. Nothing burning.** He felt the whole of it, one arc from turning —
+
+**— and the fourth arm was nearly empty.** Suzume alone, holding, asleep, ribs wired. The other three arcs swung into the gap three times, found nothing to hand off to, and **set themselves back down.**
+
+> **Not locked. Not refused.** *It cannot turn on one person.*
+>
+> **Kurama:** *"Your gate's not locked, boy. Your **room's** empty."*
+
+**Nothing in there named it.** The fox did not. The estate did not. **The name is still waiting.**
+
+### The fire on a hill
+
+He held 大仙 for **eleven minutes in the open**, at night, over open country, with no shielding — the exact thing the White Snake Sage warned could not be hidden. **Suzume woke up.**
+
+**Something is in the treeline to the north-east.** It has been there a little while.
+
+**IN PROGRESS — the party is awake and has been found.**
+
 ---
 ---
 

@@ -386,6 +386,8 @@ Wind chakra compressed past any density it should hold, threaded with senjutsu, 
 
 **A Kumo bingo-book entry already exists**, unnamed: *wind, sage-class, do not engage alone.*
 
+> **⚠ FIRST UNSHIELDED BURN — Session Thirteen.** Eleven minutes of 大仙 held in the open, at night, on open ground ~20 km north-east of Konoha, while meditating. **No concealment of any kind.** Nine-metre ring of flattened grass, chakra lashing continuously in every direction. **This is the Sage's warning cashed in.** Something arrived in the treeline. *The visibility cost is now an event in play, not a caution in a file.*
+
 ---
 ---
 
@@ -425,6 +427,23 @@ Uzushio is **拮抗 Kikkō scaled to everything at once.** **The balance is the 
 3. **THE FLOOR.** **Cannot be entered on rage, for himself alone, or with nobody in the rotation.** The bonds are load-bearing, mechanically and literally.
 
 > **Gate 3 is the live one, and it just got much harder.** Souji is gone. Minato is dead. Roku is off the front. **The rotation is down to one other person, and she has two broken ribs.** Monuke's warning stands: *"I know precisely how to break you now."*
+
+### ⚠ SEEN, NOT ENTERED **[Session Thirteen, first night on the road]**
+
+Ardo lit **潮風 · 潮合 · 大仙** simultaneously inside his own mindscape, uncovered the Mangekyō in there, and — on Kurama's advice to **stop pushing** — felt the rotation come up on its own.
+
+**Three arcs took position and held:** the river as counterweight, natural energy at matching speed, the estate turning on a beat and fully legible. **Nothing was spent. Nothing burned.** He experienced the no-cost property directly and knows now that it is real.
+
+**The fourth arc — the bonds — was nearly empty.** The other three swung into the gap three times, found nothing to hand off to, and set themselves down. **The form did not refuse him and was never locked. It simply cannot turn on one person.**
+
+| What this changes | |
+|---|---|
+| **Gate 3 status** | Still **✗** — but it is no longer abstract. **He has felt exactly what is missing and how much of it** |
+| **What he now knows** | The rotation is real, it returns rather than spends, and **it requires people.** He has connected this to the trustee's *"you have never once thought to do it with people"* |
+| **Souji** | Has stopped being only a grievance and become **a load-bearing component.** Beating him is no longer the plan; **getting him back in the rotation is** |
+| **The name** | **Still not produced.** Kurama did not supply it, the estate did not, the trustee did not. ***Nothing may.*** See the top of this section |
+
+> **⚠ NAMING RULE, REAFFIRMED.** He has now stood in the middle of the form and it still has no name. **Do not let any NPC, the archive, Kurama, or any document give him the word.** The nearer he gets, the stronger the pull to hand it over will be. **Hold the line — the payoff is him saying it first and being told afterward what he just said.**
 
 ---
 ---
@@ -500,7 +519,7 @@ In her hospital room he took her hand, moved Rai's headband to cover **his own**
 | Rule | Detail |
 |---|---|
 | **Starting Max Vision** | **100** |
-| **CURRENT MAX** | **65** — *set by table ruling, Year 0. Full arithmetic below* |
+| **CURRENT MAX** | **→ `campaign/campaign-state.md`.** That file is the only live figure. The Year 0 *starting* derivation (100 → 65) is below; every point spent since is logged there |
 | **Unlocking a tier** | **Permanently −5 Max Vision.** Twelve tiers exist across all three trees; taking every one costs 60 |
 | **Uncovered, ordinary life** | **−1 per month.** This is the Kakashi rate |
 | **Uncovered, per combat** | **−1 per fight**, however long it runs |
@@ -527,12 +546,12 @@ In her hospital room he took her hand, moved Rai's headband to cover **his own**
 
 ## Burning Clarity — **currently active**
 
-**At Max Vision 65 he is in the 69–40 band.** He has been for some time and has almost certainly not mentioned it.
+**Anywhere in 69–40 he is in the Burning Clarity band.** He entered it before Year 0, has been in it for some time, and has almost certainly not mentioned it. *(Live figure: `campaign/campaign-state.md`.)*
 
 - **+1 to all Perception and Reaction timing.**
 - **Colour is going wrong on that side** — everything slightly oversaturated.
 
-> **He is four points from having crossed into it unnoticed and twenty-six from the band where the eye starts *paying him* to kill it faster.** The temptation is no longer theoretical.
+> **He crossed into it unnoticed, and the band below — 39–15 — is where the eye starts *paying him* to kill it faster.** The temptation is no longer theoretical.
 
 ## THE HEADBAND — halting the loss **[the Kakashi discipline]**
 
