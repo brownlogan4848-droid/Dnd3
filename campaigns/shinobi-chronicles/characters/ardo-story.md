@@ -72,6 +72,8 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **Whoever closes Minato's array dies closing it** | Read in the linework by the archive, before he moved it |
 | **Naruto is completely clean** — checked four times | His own hands |
 | **A signature blade, 鳴神 Narukami, exists for his style and was hidden from him** | Session Five |
+| **There is Uzumaki sealwork in Konoha's Tower vault**, classified above a fifty-one-year sealmaster | 三島 Mishima Sōbei, who volunteered it and then walked away |
+| **His own hands know 癒しの手 now** | Four hundred patients in one night. **The thumb, four times in a row, without thinking** |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -200,7 +202,9 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 16. The supplier and the customer behind the sealmaster's specification.
 17. **The Twinned prisoner** — alive in Konoha custody thirteen years ago, called Ardo *"the wind,"* said *"he said you'd come looking eventually."* **Never followed up.**
 
-18. **⚠ THE SHEPHERD IS LOOSE, AND THE PROMISE WAS BROKEN.** Ardo won that fight with an argument about **closure** — that holding people indefinitely, alive and unresolved, was the exact cruelty the Shepherd had themselves suffered. **The Shepherd believed him and surrendered on it. Konoha then did precisely that to them for thirteen years** — no trial, no judgment, no release, just a file nobody got round to. **They escaped when the cells came open on the tenth of October.** "The Handler" is out too.
+18. **⚠ THE TOWER VAULT.** *"I have seen that grammar exactly twice. Once on a scroll in the Tower vault that we are not permitted to open. And once, this evening, on the Fourth Hokage's son."* — **Uzumaki work has been sitting in Konoha's vault his entire life and nobody ever mentioned it.** Mishima left three words on a bench and removed himself: ***"Ask about Uzushio."***
+
+19. **⚠ THE SHEPHERD IS LOOSE, AND THE PROMISE WAS BROKEN.** Ardo won that fight with an argument about **closure** — that holding people indefinitely, alive and unresolved, was the exact cruelty the Shepherd had themselves suffered. **The Shepherd believed him and surrendered on it. Konoha then did precisely that to them for thirteen years** — no trial, no judgment, no release, just a file nobody got round to. **They escaped when the cells came open on the tenth of October.** "The Handler" is out too.
 
     > **He does not know.** This should land as a discovery, not a briefing — and **the Shepherd may not blame him**, which is worse.
 

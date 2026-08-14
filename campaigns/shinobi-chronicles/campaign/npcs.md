@@ -203,6 +203,41 @@ The original specification that targeted Suzume at Ground Seventeen was connecte
 >
 > **⚠ And Souji spent three months speaking to nobody but Orochimaru.**
 
+## 三島 宗兵衛 — MISHIMA SŌBEI **[NEW, Year 0]**
+**Tower sealing archivist · ~70 · fifty-one years reading seals**
+
+Came to the hospital because something enormous woke up in his village, **sat down on a bench without being invited**, and stared at the turning Uzushio linework on Ardo's forearms for ten minutes.
+
+Said three things and left:
+
+> *"That linework is inward-facing. Inward-facing containment isn't built to keep something **in.** It's built to keep something from being **taken.**"*
+>
+> *"I have seen that grammar exactly twice. **Once on a scroll in the Tower vault that we are not permitted to open.** And once, this evening, on the Fourth Hokage's son, before somebody took it off him."*
+>
+> *"Whoever taught you to write like that has been dead for twenty years, and I would very much like to know how you learned it. **But not tonight.** Tonight I am going to go and be useful, and I am going to think about what I am **obliged** to report."*
+
+**Then left a folded slip under a pen on the bench.** Three words: ***"Ask about Uzushio."***
+
+> **He is not a threat and he is not an ally. He is a professional with fifty-one years of loyalty and one live curiosity**, who split the difference by telling Ardo where the interesting question is and then removing himself so he would not have to hear the answer.
+>
+> **Suzume's read:** *"That's a man deciding whether to be a shinobi or a person, and settling for both."* **Also: "It's bait, and there's a file open by dawn." Both are true. That's how this village works.**
+
+**⚠ He knows the vault's contents by classification, not by sight.** He has never been permitted to open it either.
+
+## THE CAT-MASKED ANBU CAPTAIN
+Sent to find out *what Ardo is.* Reported back **"you're a man doing triage,"** stood her squad down, **and put two of her four in as medics** on the second floor east.
+
+She and one other stayed by the door for three hours — **not guarding Ardo from the corridor. Standing where they could see the baby.**
+
+**Her report exists.** It says *a man doing triage*, and she knows exactly how that will read to whoever receives it.
+
+## THE NURSE
+Nineteen. Twenty-two hours awake. Kept a clipboard out of pure professional stubbornness and did the arithmetic out loud because she had nobody to hand it to:
+
+> *"We've lost eleven people since midnight. **Before you started, we were losing about one every four minutes.** …It's been a hundred and forty minutes."*
+
+**She will be a medical-nin for forty years and will tell this story badly, at parties, for all of them.**
+
 ---
 ---
 

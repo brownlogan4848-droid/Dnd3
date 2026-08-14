@@ -325,6 +325,56 @@ And set the terms for the hunt: **"whatever you and Suzume go do out there, the 
 
 > *"Go get your brother back, Ardo. Or find out for certain that there's nothing left of him to get back. Either way, **come home after** — that's not Hokage's orders. That's just an old man who's already burying enough people tonight."*
 
+### The hospital — the last three hours of the tenth
+
+**Suzume closed the wound** with 癒し眼 open, and found something she made him listen to: **Souji missed the artery by less than a centimetre**, on a stationary target, at contact range. *"Souji does not miss."*
+
+**Ardo healed her back** — two ribs, a hyperextended joint, a scalp laceration — with his own hands, and 癒しの手 under them, and adult hands with two old burn scars adjusting a smaller pair somewhere far underneath.
+
+He started a sentence and stopped it.
+
+> *"Suzume, I—"* … *"…Nevermind."*
+>
+> ***"I know."*** *"I've known for eleven years… So don't. Not tonight. Not in a hospital. Not with him still out there."* — ***"But when we get him back? You're saying it properly. With your whole mouth. Somewhere with a door."***
+
+### And then he lifted the headband and turned everything on.
+
+**大仙・潮風 · 大仙・潮合 · 大仙・手綱**, inside a triage floor, in a village that had just burned. **Every sensor in the Land of Fire. Every sage alive.** The cost the White Snake Sage named — *"every time you enter it, you are choosing to be seen"* — **paid, deliberately, to work a hospital.**
+
+Suzume's only comment: ***"Then be quick and be enormous."***
+
+**What it actually did:** 満ち MICHI, the flood beat, extended past his skin. **Three floors of people held still** — bleeding slowed, shock loosened, bodies that had decided to stop deciding talked into waiting — while nine exhausted medics did the real work inside the space he bought them. **He was not treating four hundred people. He was holding a building.**
+
+**The corridor filled up.**
+
+| Who came | What happened |
+|---|---|
+| **A runner from the Tower** | Ardo's answer: *"I'm carrying forth mine and **Rai's** ninja way."* Hiruzen's reply, relayed exactly: *"Tell him I am not angry and I am not surprised, and that those are two different failures"* |
+| **Four ANBU** | *"He sent us to find out what you are."* / *"And?"* / ***"You're a man doing triage."*** **Two of them went and worked the second floor east as medics** |
+| **三島 Mishima Sōbei**, Tower sealing archivist, 51 years | Read the linework off Ardo's forearms, said what it was, said where he had seen it before — **the Tower vault** — and **left without asking a single further question.** A folded slip under a pen: ***"Ask about Uzushio."*** |
+| **Two Uchiha police** | Came for the enormous thing, **found Suzume's right eye in a window reflection** at thirty metres. **Ardo moved to step in front of her and she stopped him** — *"If you move, you decide it for them."* **They left without saying anything. Deferred, not resolved** |
+
+**Naruto was brought and fell asleep in Ardo's arms.** Kurama looked at the child it was supposed to be sealed into and said, eventually: ***"…He has her hair."***
+
+**The arithmetic, from a nineteen-year-old with a clipboard:** *"We've lost eleven people since midnight. Before you started, we were losing about one every four minutes. **It's been a hundred and forty minutes.**"*
+
+**Suzume, for the record:** ***"This is the ninja way. Not the fight. This."***
+
+### What it cost
+
+**−2 Max Vision** (one for the clearing, one for the choice to uncover and work). **A report in an ANBU captain's hand that says *a man doing triage*, and she knows how that will read.** A sealmaster deciding what he is *obliged* to file. **And two Uchiha who have not decided yet whether they saw anything.**
+
+### What it bought
+
+**癒しの手 stopped being something Ardo owns and became something he can do.** Four hundred patients in one night, and around the ninetieth his hands stopped asking the coil questions.
+
+> **The thumb. Four times in a row. Without thinking.**
+>
+> *A voice he has never been able to put a face to, arriving over the sound of hands adjusting hands:* ***"—like that."***
+
+---
+---
+
 ---
 ---
 

@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 10th — the small hours after.** Konoha is still burning. |
-| **Location** | **Konohagakure**, the Tower steps and the wreck around them |
+| **In-world date** | **Year 0, October 11th — dawn.** The fires are out. |
+| **Location** | **Konohagakure** → departing. Session Thirteen opens in the Tower vault |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
-| **Last session** | **Session Twelve — "THE TENTH OF OCTOBER."** Full record: `session-log.md` |
+| **Last session** | **Session Twelve — "THE TENTH OF OCTOBER."** Closed with the hospital. Full record: `session-log.md` |
 
 ## What just happened, in one paragraph
 
@@ -37,20 +37,20 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~140** | **500** | **[GM — provisional, set at session close. Adjust freely.]** Spent nearly everything on the seal transfer, repeated Otooki, and the burial |
-| **Stamina** | **~90** | **355** | **[GM — provisional]** |
-| **Health** | **96** | **228** | **Bleeding.** See conditions |
+| **Chakra** | **~330** | **500** | Three hours inside 潮風 Shiokaze's rotation returned more than the healing spent. **The tide gives back** |
+| **Stamina** | **~180** | **355** | Same. **Rested badly, restored anyway** |
+| **Health** | **158** | **228** | Closed and holding. **Do not exceed a walk until midday** |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **65** | 100 | **Burning Clarity band 69–40 is ACTIVE** — see below |
+| **Vision (Max)** | **63** | 100 | −1 the clearing · −1 the hospital. **Burning Clarity 69–40 ACTIVE** |
 
 ### Conditions & injuries
 
 | | |
 |---|---|
-| **PENETRATING ABDOMINAL WOUND** | Souji's blade, in and out, **through the seal work.** Untreated at session end. Hiruzen ordered him to a hospital bed before anything else |
+| **ABDOMINAL WOUND — CLOSED** | Suzume's work, 癒し眼 open. **Souji missed the artery by less than a centimetre, on a stationary target, at contact range. Souji does not miss** |
 | **SEAL LATCH — PATCHED, NOT REPAIRED** | Minato threaded his own chakra into the new array's outer ring as he died: *"That'll hold."* **A dying man's field repair on a live containment seal.** It is holding. Nobody has looked at it since |
 | **JINCHŪRIKI — NEWLY SEALED, ADULT HOST** | Book II §3 Part Five, including the adult-sealing clause. **The doubled Chakra pool has not settled and should not be granted yet** |
-| **Exhaustion** | Narratively total. Has not rested since before the attack |
+| **Exhaustion** | **Has not slept.** Three hours of sustained 大仙 Daisen on top of everything else |
 
 ### Active transformations
 **None.** Daisen, Shiokaze, Shioai all available and all unused since the burial.
@@ -59,7 +59,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | | |
 |---|---|
-| **九喇嘛 KURAMA** | Sealed. **Awake, articulate, and talking.** Not hostile — *contemptuous, curious, and mid-argument.* Partnership stage **0–1** |
+| **九喇嘛 KURAMA** | **Partnership stage 0 → approaching 1.** Watched him heal four hundred people and asked to see a technique repeated. *"You are not going to be a good jinchūriki."* Said as an observation, not an insult |
 | **What it has said** | That it does not hate people who only want to live; that it hates that this has never once mattered. That Ardo's inside *"looks like a grave that never finished being dug."* That it recognised the masked man's chakra as **the one who took it out of Kushina** |
 | **Second array** | Ardo now carries **two seals on one stomach** — Hikari's inward-facing containment (the archive) and Minato's eight-trigram (Kurama). *"They fit, and they grind."* |
 
@@ -71,9 +71,9 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~210** | **350** | **[GM — provisional]** Fed the chains through the sealing |
-| **Stamina** | **~120** | **350** | **[GM — provisional]** |
-| **Health** | **71** | **176** | Took a full Souji taijutsu barrage at close range |
+| **Chakra** | **~240** | **350** | Fed the chains, then ran 癒し眼 on Ardo |
+| **Stamina** | **~150** | **350** | |
+| **Health** | **119** | **176** | Ardo's hands, 癒しの手. **Good work, and she was annoyed about it** |
 | **Special** | **0** | **100** | Reset |
 | **Vision** | **—** | **—** | **Suzume has no Vision track and never will.** Native tissue, native body |
 
@@ -81,10 +81,10 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | | |
 |---|---|
-| **AT LEAST TWO FRACTURED RIBS** | Souji's barrage. Cannot brace properly, cannot take a hit |
-| **LEFT ARM** | Landed under her, wrong angle. Not yet assessed |
-| **HEAD LACERATION** | Blood at the hairline. Was briefly unconscious in the treeline |
-| **Cannot self-treat** | She is the squad's medic. **There is nobody to treat the medic** |
+| **TWO RIBS — SET, NOT HEALED** | Knitting. **Bracing still hurts.** Roughly a week of care |
+| **LEFT ARM — hyperextended joint** | ⚠ **No fine work until midday on the 12th.** For a medic that is worse than broken. **Ardo is the medic until then** |
+| **HEAD LACERATION** | Closed |
+| **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about Uzushio."*** |
 
 ### Active transformations
 **None.** Mangekyō active intermittently and involuntarily via Sōgan.
@@ -140,7 +140,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 **Rules:** `characters/ardo-transformations.md` → The Vision Economy.
 
-## MAX VISION — **65 / 100**
+## MAX VISION — **63 / 100**
 
 | | | Running |
 |---|---:|---:|
@@ -148,6 +148,10 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | Recorded Mangekyō-grade uses *(Mukaebi 3 · Ryūchi day one 4 · the stone 6)* | −13 | **87** ← *canon, unchanged* |
 | 相眼 Sōgan **II** and **III**, unlocked in the Ryūchi year | −10 | **77** |
 | **Thirteen years of the Kakashi discipline** — covered by default, uncovered when it mattered | −12 | **65** |
+| **The clearing** — one combat, uncovered | −1 | **64** |
+| **The hospital** — three hours uncovered, working | −1 | **63** |
+
+> **[GM RULING, Year 0.]** A **sustained deliberate uncovering outside combat** — hours of it, for a purpose — costs **−1**, the same as a fight. Not per hour. **Per decision.**
 
 **Ardo's own tree cost nothing.** All four tiers unlocked **at the transplant**, complete, in the socket — *she handed him a finished eye, not a dōjutsu to develop.* The −5-per-tier charge is the price of *forcing* a dōjutsu to grow, and **nothing here was forced.**
 
@@ -176,6 +180,7 @@ Only techniques with live XP appear here. The full ladder for each is in the cha
 | Ardo | Compression Shell | **Practiced** | 10 |
 | Ardo | Splendor — 起 / 双転 / 結 | **Learned** ×3 | 3 each |
 | Ardo | Hiraishin no Shun | **Learned** | 0 — *learned October 10th, forty minutes* |
+| Ardo | **癒しの手 medical work** | — | **+5** — *creative use (+3), under duress (+2). The coil stopped being a thing he owns and became a thing he can do* |
 | Suzume | Pulse Thread | **Proficient** | 25 |
 | Souji | *(NPC — stop tracking)* | — | — |
 

@@ -61,6 +61,8 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 | **Kurama is sealed in Ardo** | Present for it |
 | **Minato and Kushina are dead, and where they are buried** | Present for it |
 | **Naruto is clean** | Ardo told her; she has not examined him herself |
+| **Two Uchiha police saw her right eye in a window reflection** and went home without reporting it — *for now* | She was holding the Fourth's son at the time. **She talked Ardo out of moving, which is the only reason nothing was said** |
+| **There is Uzumaki sealwork in the Tower vault** | Mishima said it in front of her |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
