@@ -15,8 +15,8 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 15th — late morning.** Session Fourteen, mid-session. |
-| **Location** | **水原 Suibara** — provincial intendant's records office, two days east of the Hiyakeno ford. **Travelling on a forged provincial licence** |
+| **In-world date** | **Year 0, October 16th — ~04:30.** Session Fourteen, mid-session. |
+| **Location** | **Cedar country ~90 km east of the Hiyakeno ford**, off the road. A slope, a downed prisoner, and no fire |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
 | **Last session** | **Session Fourteen — "WHAT THEY BUILT WITH US" — IN PROGRESS.** The barrier · Toki · the ledger · Fuchinomiya. Full record: `session-log.md` |
 
@@ -37,19 +37,19 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **500** | **500** | **Full.** Three long rests since the 11th — Book IV: a long rest restores Chakra and Stamina to full |
-| **Stamina** | **355** | **355** | **Full.** Same |
+| **Chakra** | **~940** | **1000** | ⚠ **DOUBLED POOL SETTLED — he made it settle.** Less 60 for the join work. `ardo-inheritance.md` Part Seven |
+| **Stamina** | **325** | **355** | Less 30 for the join work |
 | **Health** | **~205** | **228** | **Health tracks slower and never auto-fills** (`ardo.md` Recovery). Three nights plus a medic with working hands from midday on the 12th. **The abdominal wound is knitted, not finished** |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **62** | 100 | −1 the clearing · −1 the hospital · **−1 the mindscape meditation.** **Burning Clarity 69–40 ACTIVE** |
+| **Vision (Max)** | **61** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
 
 ### Conditions & injuries
 
 | | |
 |---|---|
 | **ABDOMINAL WOUND — CLOSED** | Suzume's work, 癒し眼 open. **Souji missed the artery by less than a centimetre, on a stationary target, at contact range. Souji does not miss** |
-| **SEAL LATCH — PATCHED, NOT REPAIRED** | Minato threaded his own chakra into the new array's outer ring as he died: *"That'll hold."* **A dying man's field repair on a live containment seal.** It is holding. Nobody has looked at it since |
-| **JINCHŪRIKI — NEWLY SEALED, ADULT HOST** | Book II §3 Part Five, including the adult-sealing clause. **The doubled Chakra pool has not settled and should not be granted yet** |
+| **✅ SEAL JOIN — FIXED, NOT PATCHED** | ⚠ **Resolved Session Fourteen, Fūinjutsu DC 25 rolled 35.** Both arrays now turn **on a shared beat** — 潮合 applied to sealwork, no re-cutting. **The grind is gone and so is the four-to-nine-month clock.** Minato's eight strokes remain, load-bearing no longer, left in place deliberately |
+| **✅ JINCHŪRIKI — SETTLED** | Book II §3 Part Five and the adult-sealing clause. **The grinding join was what it was waiting on.** Doubled pool applied: **1000 Chakra max** |
 | **✅ EXHAUSTION — CLEARED** | Slept ~7 hours at the Hiyakeno waystation on the 12th, and both nights since. **The forty-hour figure is history, not state.** *Suzume made him take the first one and sat the door* |
 
 ### Active transformations
@@ -65,7 +65,7 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | | |
 |---|---|
-| **九喇嘛 KURAMA** | **Partnership stage 1.** Civil twice now, unprompted. On the first night out it gave him **actual, useful advice** — *"Try not shoving. Just once."* — and then warned him to open his eyes. **It is not friendly. It has started being useful, which is different, and it knows the difference** |
+| **九喇嘛 KURAMA** | **Partnership stage 1, moving.** ⚠ **Asked what he wants for the first time in four hundred years and nine hosts** — *"Nobody's asked me that."* He has no answer yet. What came out instead: **there were nine, four are in people, he doesn't know which four**, and the last news of any of them came through a wall thirty years ago. **His one standing request: if the Tsugite method is ever completed, by anyone including Ardo — *ask me first*.** Ardo offered release and Kurama refused it as a child's kindness. Ardo offered to find the others; Kurama did not say yes. On the join: *"That was quiet."* **Original stage-1 note:** Civil twice now, unprompted. On the first night out it gave him **actual, useful advice** — *"Try not shoving. Just once."* — and then warned him to open his eyes. **It is not friendly. It has started being useful, which is different, and it knows the difference** |
 | **What it has said** | That it does not hate people who only want to live; that it hates that this has never once mattered. That Ardo's inside *"looks like a grave that never finished being dug."* That it recognised the masked man's chakra as **the one who took it out of Kushina** |
 | **Second array** | Ardo now carries **two seals on one stomach** — Hikari's inward-facing containment (the archive) and Minato's eight-trigram (Kurama). *"They fit, and they grind."* |
 
@@ -307,6 +307,11 @@ Per-character threads live in each `characters/<name>-story.md`.
 | **⚠ THE YEAR −18 CONSULTATION** | *Konohagakure — sealed request — name omitted by instruction.* No authorising officer. **The same year Hiruzen marked the alliance 保留** |
 | **The undecided question** | Whether the pre-attack commission date means somebody **knew** or somebody got **lucky.** *The paper cannot tell them* |
 | **早瀬 Hayase** | Exposed. A frightened civilian who helped, and whom somebody will eventually question |
+
+19. **⚠ 継ぎ手 THE TSUGITE.** The Uzumaki broke a **method for moving a sealed bijū between living vessels without killing either** into fragments and inked them into strangers, then destroyed the count on purpose. **Worthless alone. Three already collected.** The archive genuinely cannot say how many exist — their own ancestors made sure of that. *This is why three nations came for Uzushio.*
+20. **⚠ KURAMA'S SIBLINGS.** Nine. Four in people. He doesn't know which four, and the last he heard of any came through a wall thirty years ago. **Ardo has offered to find them. Kurama has not accepted.**
+21. **⚠ WHAT ARDO CAN NOW DO.** He fixed a live containment join by **rhythm instead of re-cutting**, first attempt, and four hundred generations had never tried it. **That is adjacent to the thing the collector is assembling** — and adjacency is how people get found.
+22. **⚠ HE DID IT ALONE, IN THE DARK, AT HALF FOUR.** Monuke's first condition, broken. Nobody in the archive mentioned it. **Suzume does not know any of this happened.**
 
 18. **⚠ 木ノ葉隠れ・内務調整室 — the Office of Internal Coordination.** A Konoha administrative body that countersigned a Fire Country road closure and that **neither a jōnin nor a senior hospital medic has ever heard of.** Real body, Root cover, or fabrication — **all three live.** *The Danzō ruling applies: let the trail be nearly right.*
 

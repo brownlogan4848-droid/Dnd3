@@ -66,7 +66,7 @@ Uzushiogakure was destroyed in the Second War — **specifically because its sea
 
 | Resource | Max | Working |
 |---|---:|---|
-| **Chakra** | **500** | (100 + 20×12 + 10×CON 3) = 370 → **+30** Indra = 400 → **×1.25** Uzumaki = **500** |
+| **Chakra** | **1000** | (100 + 20×12 + 10×CON 3) = 370 → **+30** Indra = 400 → **×1.25** Uzumaki = 500 → **×2 JINCHŪRIKI** = **1000** |
 | **Stamina** | **355** | 370 → **−15** Indra = 355 |
 | **Health** | **228** | 30 + 10×12 + (2 × 3 × 13) |
 | **Special** | 0 / **100** | Starts empty, fills |
@@ -75,7 +75,11 @@ Uzushiogakure was destroyed in the Second War — **specifically because its sea
 | **Movement** | **30 ft** | Standard |
 | **Proficiency** | **+5** | Level 13 |
 
-> **⚠ JINCHŪRIKI — the doubled pool is NOT yet applied.** Book II §3 Part Five doubles a jinchūriki's Chakra maximum. **Ardo was sealed as an adult**, and the adult-sealing clause holds that the doubled pool **arrives over weeks, not instantly.** Until the GM rules it settled, **500 is the working maximum.**
+> **✅ JINCHŪRIKI — DOUBLED POOL NOW APPLIED. `[GM — Session Fourteen]`** Book II §3 Part Five doubles a jinchūriki's Chakra maximum. Ardo was sealed as an adult, and the adult-sealing clause held the doubled pool pending settlement.
+>
+> **It settled because he made it settle.** The two arrays had been grinding since October 10th and that was what the seal was waiting on. On October 16th, in his own mindscape, he put Hikari's containment and Minato's eight-trigram **on a shared beat** — 潮合 Shioai's principle applied to sealwork rather than to his own chakra — instead of re-cutting either. **Fūinjutsu DC 25, rolled 35.** See `ardo-inheritance.md` Part Seven.
+>
+> **Working maximum is now 1000.** *This was earned at the table, not granted.*
 
 > **Genin baseline, for reference:** 200 / 115 / 36 / prof +2. **Two hundred Chakra at Genin**, when a Chūnin at Level 5 runs 180. That was never a perk — it was **器 Utsuwa**, the vessel coil, and it is a tell that a jōnin, an ANBU operative, a foreign sealmaster and Root all noticed and none could explain.
 

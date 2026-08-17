@@ -316,7 +316,39 @@ She was in there — helped to her feet by two others, not steady, six weeks und
 | **Below** | **Hikari's inward-facing containment.** Holds the archive. Roughly his own age |
 | **Above** | **Minato Namikaze's eight-trigram array**, unspooled off a newborn and rewritten onto himself. **Holds 九喇嘛 Kurama** |
 | **Interaction** | Same tradition, a century and a half apart. **"They fit, and they grind."** Yoi could hear it from across a clearing |
-| **Structural integrity** | Minato threaded his own chakra into the outer ring as he died. **A dying man's field repair on a live containment seal, inspected by nobody since** |
+| **Structural integrity** | ✅ **RESOLVED — Session Fourteen.** See below |
+
+## ✅ THE JOIN — EXAMINED, THEN FIXED **[Year 0, October 16th, ~04:30]**
+
+**He went looking for a third gate and there isn't one.** Between Hikari's and Kurama's, where a third would be, the two arrays overlap for a hand's width — and with the Sharingan uncovered the grind is not a metaphor. It is a **join under load**, the two patterns turning at different speeds, the older work pushed a fraction out of true every rotation.
+
+### What Minato actually left
+
+**Eight or nine strokes, ugly and brilliant, threaded through both arrays like a splint through two bones.** *"That'll hold."*
+
+- **Not ink — him.** No ink available; he laid his own chakra in eight strokes and told it to stay.
+- **Therefore finite.** Nothing to top it up with. **The taper showed it thinning fastest at the middle**, where the two arrays disagree most.
+- **Estimated remaining: four to nine months**, the archive disagreeing about the range and noting the taper is not linear.
+- **⚠ When it failed, Minato's array would have held and Hikari's would not.** New, machined, perfect versus four centuries of accumulated correction. **The library would have torn first.** Several members of the archive sat down on working this out.
+
+### The fix, and why it is a first
+
+**Fūinjutsu DC 25 — rolled 35** *(nat 20, advantage from the uncovered Sharingan, +5 archive consulted aloud, +3 for it being his own craft)*. **Cost 60 Chakra / 30 Stamina.**
+
+He did **not** re-cut either seal. Re-cutting Minato's is beyond anyone living; re-cutting Hikari's means emptying the archive out first. **He put the two arrays on a shared beat** — 潮合 Shioai applied to sealwork rather than to his own chakra — and held time between them until they matched.
+
+> **The archive's reaction was silence, then Nao saying "Oh."** As far as anyone in four hundred generations can recall, **nobody had tried it.** The tradition's instinct is to re-cut. His instinct is rhythm, because he learned it stopping natural energy from killing him.
+
+| Consequence | |
+|---|---|
+| **The grind** | **Gone. Permanently.** Both arrays turn in step |
+| **The clock** | **Gone.** There is no longer a four-to-nine-month window |
+| **⚠ THE DOUBLED JINCHŪRIKI POOL** | **SETTLED.** This is what the adult-sealing clause was waiting on. **Chakra maximum 500 → 1000.** *Earned, not granted* |
+| **Minato's eight strokes** | **Still there. Load-bearing no longer.** He left them in place. A dead man's handwriting inside him, holding nothing up |
+| **Kurama's response** | *"That was quiet."* **Two words. Tone unreadable** |
+| **⚠ Monuke's first condition** | **BROKEN.** Alone, in the dark, at half four in the morning. *"The version of you that does this in secret is not the version that should be doing it."* **Nobody in the corridor mentioned it. Suzume does not know it happened** |
+
+> **⚠ GM NOTE — do not let this become free.** He has just demonstrated that **rhythm can substitute for re-cutting**, on a live containment seal, on the first attempt. That is a genuinely new technique in this tradition and it should attract exactly the kind of attention 大仙 does. **It also means the thing he can now do is adjacent to what the Tsugite collector is assembling** — see `campaign-state.md`.
 
 **Full mechanical treatment of the seal transfer: `ardo-jutsu.md` → Part Eight.**
 **Jinchūriki rules: Book II §3 Part Five**, including the adult-sealing clause written for exactly this case.
