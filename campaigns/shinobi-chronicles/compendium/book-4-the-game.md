@@ -82,7 +82,19 @@ This is the system's defining feature and its biggest departure from standard 5e
 
 **[RESOLVED — was a live contradiction.]** Two overlapping menus previously existed: this section listed *"add +1 damage die = 20"* while §2 Part Four listed *"Heavy Strike, +2 damage dice = 20"* — same price, different product. **§2's version wins** (it is the combat-authoritative section, and Book 0 already propagated it), and the two menus are merged above. The §1-only entries — ignore a cost, auto-succeed a save — are preserved and priced against their neighbours.
 
-**Design note:** the Special bar is where the genre lives. Naruto fights turn on someone finding a second wind at the worst possible moment. Be generous with gains during dramatic beats and let players cash out spectacularly.
+##### ⚠ SPEND LIMITS **[GM — REPAIRED. The menu had no limits of any kind.]**
+
+> **The exploit:** nothing said how *often* any row could be bought. A five-action combo generated **+30 Special a round** (+5 round start, +5 per hit) — more with crits, more again for taking a heavy hit or dropping an enemy. **Extension costs 40 and adds an action, and that action generates another +5.** The loop paid for itself, and *"Heavy Strike"* could in principle be purchased once per action.
+
+| Limit | Rule |
+|---|---|
+| **Special gain per round** | **Capped at +40.** Beyond that the bar does not fill, however good the round was |
+| **Finishers** | **One per combo.** *Heavy Strike · Unavoidable · Extension · Perfect Strike · Signature Technique* are marked *"Combo finisher"* and only one may be bought in a single combo |
+| **Extension** | **Once per combat**, not once per combo. It exists for the moment a fight turns, not as a per-round tax |
+| **Ignore a cost · Auto-succeed a save · Push through an interruption** | **Once per round each.** These are not finishers and may be used mid-combo |
+| **Bloodline awakening · Signature Technique (100)** | Full bar. **Unchanged** — spending everything you have should stay spectacular |
+
+**Design note:** the Special bar is where the genre lives. Naruto fights turn on someone finding a second wind at the worst possible moment. **Be generous with gains during dramatic beats and let players cash out spectacularly** — the limits above exist to stop the bar becoming an engine, not to stop it becoming a moment.
 
 ---
 
@@ -131,7 +143,19 @@ Twelve skills, each with a proficiency toggle and a modifier.
 | **Initiative** | +0 (DEX modifier) |
 | **Movement** | 30 ft |
 
-#### Technique DCs **[INF — the sheet references "your Ninjutsu DC" without defining it]**
+#### Proficiency Bonus **[GM — REPAIRED. This was referenced three times and never defined.]**
+
+> **⚠ Every save DC and every skill check in this system depends on this number, and no table for it existed.** The value below is the one the campaign has been using in practice (Ardo, Suzume and Souji all sit at **+5** at Level 13) — it is now written down.
+
+| Level | Rank band | Proficiency |
+|---|---|---:|
+| **1–4** | Genin | **+2** |
+| **5–8** | Chūnin | **+3** |
+| **9–12** | Jōnin | **+4** |
+| **13–16** | Jōnin (13) → S-Rank | **+5** |
+| **17–20** | S-Rank (17) → Kage | **+6** |
+
+#### Technique DCs
 
 **DC = 8 + proficiency bonus + governing attribute modifier**
 
@@ -562,6 +586,39 @@ Apply Body Origin (+30 / −15) and Uzumaki (+25% Chakra) on top.
 | **S-Rank** | 14–17 | A, and one S-rank signature |
 | **Kage** | 18–20 | S |
 
+#### ADVANCEMENT BY LEVEL **[GM — REPAIRED. Fixes fifteen dead levels.]**
+
+> **⚠ The problem this fixes.** Progression was **rank-band only**. A character levelling from 2 to 3, or 10 to 11, gained **+20 Chakra, +20 Stamina, +10 Health and nothing else** — no feature, no decision, no reason to look forward to it. **Eleven of twenty levels handed the player a number and nothing to do with it.**
+>
+> Every level below now gives something. **Nothing here raises raw output** beyond what the resource formulas already grant; the additions are *choices, slots and permissions.*
+
+| Lvl | Rank | What you gain |
+|---:|---|---|
+| **1** | Genin | Body Origin · Clan or **Clanless** (extra feat + extra jutsu) · Nature Affinity · **3 combo slots** · the Genin ability set |
+| **2** | Genin | **+1 technique** (E or D) · Mastery XP begins tracking (Book IV §3) |
+| **3** | Genin | **Feat, or +2 to one attribute / +1 to two** |
+| **4** | Genin | **+1 technique** · begin training a second nature affinity *(not yet usable)* |
+| **5** | **CHŪNIN** | **4th combo slot** · **C-rank unlocked** · proficiency **+3** |
+| **6** | Chūnin | **+1 technique** (up to C) · **first Acceleration** becomes purchasable with Mastery |
+| **7** | Chūnin | **Feat or attribute increase** |
+| **8** | Chūnin | **Declare a Signature Technique** — one technique you own permanently gains **+1 to its attack roll and its save DC** |
+| **9** | **JŌNIN** | **5th combo slot** · **B-rank unlocked, plus one A-rank signature** · proficiency **+4** |
+| **10** | Jōnin | **+1 technique** · **second nature affinity unlocked** and usable |
+| **11** | Jōnin | **Feat or attribute increase** |
+| **12** | Jōnin | **Second Wind** — once per combat, regain your Reaction after spending it |
+| **13** | Jōnin | Proficiency **+5** · **second Acceleration** becomes purchasable |
+| **14** | **S-RANK** | **6th combo slot** · **A-rank unlocked, plus one S-rank signature** |
+| **15** | S-Rank | **Feat or attribute increase** |
+| **16** | S-Rank | **Kinjutsu access** — you may learn forbidden techniques, and you pay their permanent costs |
+| **17** | S-Rank | Proficiency **+6** · **Signature Technique II** — your signature's bonus rises to **+2** |
+| **18** | **KAGE** | **7th combo slot** · **S-rank unrestricted** |
+| **19** | Kage | **Feat or attribute increase** |
+| **20** | Kage | **CAPSTONE — choose one:** a permanent **second Reaction each round** · one owned technique becomes **Perfected** at no XP cost · or an **8th combo slot** |
+
+> **Attribute increases follow the standard rule:** +2 to one attribute or +1 to two, maximum 20 in any attribute. A character may always take a feat instead.
+>
+> **[SHEET] fidelity:** Levels 1–4 remain exactly the printed Genin experience. Everything from 5 up is **[GM]** extrapolation built to stay inside the printed bands.
+
 #### Cost by Jutsu Rank
 
 Extrapolated from the printed E and D values (E: 3–8 Chakra / 0–5 Stamina; D: 8–12 Chakra / 5–8 Stamina). *(The D Stamina band reads 5–8 here and in every table below; an earlier draft of this line said 5–6, which no printed technique actually respects — Body Flicker is 8/6 and Gale Fist is 10/6.)*
@@ -762,6 +819,26 @@ The **Acceleration** upgrade in **Book IV §3** lowers a jutsu's slot cost by 1 
 
 A Kage with a Perfected, doubly-Accelerated S-rank technique can use it **twice in one combo**. That should take a campaign to earn — and it should feel like it when it lands.
 
+> ## ⚠ THE APEX RULE **[GM — REPAIRED. Closes a real loophole.]**
+>
+> **The exploit:** a Kage has **7 slots.** A doubly-Accelerated S-rank costs **2.** That permits **three S-rank techniques plus a basic strike in a single combo** — 330 Chakra against a 480+ pool, with **no Repetition penalty at all** if they are three *different* S-ranks. The stated design goal one paragraph above is *"S-rank → A-rank."* The maths permitted triple.
+>
+> ### The rule
+>
+> **In one combo you may use at most TWO techniques of your rank band's maximum rank, and Acceleration never reduces this limit.**
+>
+> | Your rank | Maximum rank | Most you may fire in one combo |
+> |---|---|---:|
+> | Genin | D | **2** |
+> | Chūnin | C | **2** |
+> | Jōnin | B *(or your one A-signature)* | **2** |
+> | S-Rank | A *(or your one S-signature)* | **2** |
+> | Kage | S | **2** |
+>
+> **Acceleration still does exactly what it always did** — it frees slots for *everything else* in the combo. A Kage running S(2) → S(2) now spends four slots and has **three left for A-rank, B-rank and basics**, which is a genuinely better turn than the old triple-S and looks far more like the genre.
+>
+> **Why a cap rather than a cost:** raising the price would have been absorbed instantly by the Special menu's *"ignore the Chakra or Stamina cost"* row. **A slot cap cannot be bought off.**
+
 #### The Repetition Rule
 
 Using the **same technique twice in one combo** costs **+50% Chakra** on the repeat, and **+50% again** on a third use. This applies the sheet's printed **"costs may increase if techniques are overused"** rule directly to combos.
@@ -784,8 +861,11 @@ The tension that makes a long combo a *decision* rather than a default.
 | 5th | **−2** |
 | 6th | **−3** |
 | 7th | **−4** |
+| **8th and beyond** | **−5, and −1 more for every action after that** **[GM — REPAIRED]** |
 
 The first three actions are always clean — a Genin's combo never suffers. The actions rank *grants* you are the ones that get shaky.
+
+> **⚠ Why the 8th row exists.** The table stopped at 7 because 7 was a Kage's slot maximum — but **Extension** (Special menu, 40) adds an action *beyond* the combo limit and ignores slot cost, so 8, 9 and 10-action combos were reachable and **undefined**. They are defined now, and the penalty keeps growing, which is the point.
 
 #### Building Momentum
 
