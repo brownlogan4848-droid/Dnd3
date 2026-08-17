@@ -188,8 +188,8 @@ He may overdraw one resource to **zero** and pay the shortfall from **Health at 
 |---|---|
 | **借風 Shakufū** | Historical. No source left |
 | **紅風 Kōfū** · **渦風 Uzufū** | Owned. **Obsolete** — reconstructions of the original |
-| **逆渦 Sakauzu** | **Failure state.** GM-run |
-| **潮風 Shiokaze** | **OWNED AND ENTERED.** Exempt from the Arakawa table |
+| **逆渦 Sakauzu** | ⛔ **UNREACHABLE from Year 0.** Historical record only — it cannot be entered again |
+| **潮風 Shiokaze** | **OWNED AND ENTERED.** *Its exemption has generalised to every form* |
 | **潮合 Shioai** | **Senjutsu. Achieved.** Held indefinitely in combat |
 | **大仙 Daisen** | **TAUGHT.** Prefixes everything. **Cannot hide** |
 | **渦潮 Uzushio** | **The endpoint.** Gates 1–2 cleared; **Gate 3 is live and just got harder** |
@@ -206,7 +206,7 @@ He may overdraw one resource to **zero** and pay the shortfall from **Health at 
 
 | | |
 |---|---|
-| **荒れ川 ARAKAWA** | Permanent until treated. **C-rank and above require a control check.** Suppressed while Shioai holds |
+| **荒れ川 ARAKAWA** | ✅ **RESOLVED, Year 0, October 18th.** ~~Permanent until treated; C-rank and above require a control check~~ — **VOID.** He proved the Shioai method generalises by holding two four-century arrays in register. **No control checks. No transformation table. No Sakauzu.** Costs still apply. `ardo-transformations.md` Part Two |
 | **The Mangekyō** | Never switches off. Vision clock running |
 | **The archive** | **He is the last library of a destroyed people** |
 | **The second array** | **九喇嘛 Kurama**, sealed Year 0. Two arrays on one stomach, grinding |

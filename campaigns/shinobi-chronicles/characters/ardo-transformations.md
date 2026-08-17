@@ -9,7 +9,7 @@
 
 # THE LADDER, AT A GLANCE
 
-| Form | Status | Rolls the Arakawa table? |
+| Form | Status | ~~Rolls the Arakawa table?~~ **— column VOID, Year 0. Nothing rolls it.** |
 |---|---|---|
 | **借風 Shakufū** — Borrowed Gale | **HISTORICAL.** No source left to come from | — |
 | **紅風 Kōfū** — Crimson Wind · Stage 1 | Owned. **Obsolete** | **Yes** |
@@ -55,7 +55,7 @@
 |---|---|
 | **While active** (up to 3 rounds) | Every Taijutsu strike **+1d6 Wind** · advantage on Taijutsu attack rolls · **Move doubled** |
 | **Cost** | **Health, not Chakra/Stamina** — 3 / 5 / 8 by round, non-refundable once a round begins. Full three rounds = **16 Health** |
-| **Exit** | Ending early or at cap counts as a **Rule 5 Interruption** if mid-combo; the following full round is fought at **disadvantage on everything** |
+| **Exit** | ~~Rule 5 Interruption if mid-combo; following round at disadvantage on everything~~ — **VOID, Year 0.** *(Form is historical regardless — superseded by Shiokaze)* |
 
 ---
 
@@ -71,8 +71,8 @@ Built the same visit as Shakufū, but **distinct in kind**: his own strained rea
 | **Duration** | Up to **3 rounds**, end early any time |
 | **Effect** | Applies to **all** his attacks, Taijutsu *and* Ninjutsu: **+1d6** damage · **advantage** on the attack roll · **Move doubled.** Every landed hit launches the target **~20 ft**, no save — *except where the base technique already pushes harder (Gale Fist's own 30 ft does not stack)* |
 | **Sustain** | **20 Chakra / 15 Stamina** per round held, on top of activation |
-| **Risk** | **CON save every round held, DC 12 → 15 → 18.** Fail = instant Rule 5 Interruption + real backlash damage, worse the deeper it was pushed |
-| **The Crash** | However it ends: **disadvantage on everything the following round** |
+| **Risk** | ✅ **NONE.** ~~CON save every round held, DC 12 → 15 → 18~~ — **VOID, Year 0.** Arakawa is regulated; there is nothing left to lose control of |
+| **The Crash** | ✅ **GONE.** ~~Disadvantage on everything the following round~~ — **VOID, Year 0.** The crash was the river re-asserting itself after being forced. It no longer has to be forced |
 
 **Clone interaction.** A Shadow Clone summoned **while Kōfū is already up** is created as a true snapshot — transformed identically, no extra cost, tied to Ardo's own duration. A clone summoned **before** stays ordinary; a snapshot does not retroactively upgrade.
 
@@ -97,8 +97,8 @@ Built the same visit as Shakufū, but **distinct in kind**: his own strained rea
 | **Activation** | **2 slots. 100 Chakra / 50 Stamina / 10 Health.** From an already-active Kōfū, escalate for **half** (50 / 25 / 5) and **1 slot** |
 | **Duration** | Up to **4 rounds** |
 | **Sustain** | **25 Chakra / 20 Stamina** per round (net ~10 Ch after the regen below) |
-| **Risk** | **CON save every round, DC 13 → 16 → 19 → 22.** On a failure: instant Rule 5 Interruption, real backlash damage, **and the transformation inverts** — see Sakauzu |
-| **The Crash** | **Two full rounds** at disadvantage on everything, and **Chakra/Stamina cannot be restored above 25% of max** for the rest of the encounter |
+| **Risk** | ✅ **NONE.** ~~CON save every round, DC 13 → 16 → 19 → 22, failure inverts the form~~ — **VOID, Year 0.** **逆渦 Sakauzu can no longer occur.** See the resolution box, Part Two |
+| **The Crash** | ✅ **GONE.** ~~Two full rounds at disadvantage on everything; Chakra/Stamina capped at 25% of max for the rest of the encounter~~ — **VOID, Year 0.** The crash was the river re-asserting after being forced |
 
 ### Transformed state
 
@@ -137,7 +137,11 @@ Built the same visit as Shakufū, but **distinct in kind**: his own strained rea
 
 ---
 
-## 逆渦 SAKAUZU — the inversion **[GM — failure state, GM-run]**
+## 逆渦 SAKAUZU — the inversion **[⛔ UNREACHABLE from Year 0, October 18th — HISTORICAL RECORD ONLY]**
+
+> **Sakauzu was Uzufū losing its grip.** With Arakawa regulated there is no grip to lose and **this state cannot be entered again.**
+>
+> **It is kept in full because it happened.** It is what stood on Training Ground Six wearing Ardo's face, it is what threw the Kūbaku that Suzume stepped in front of, and deleting it would erase the reason she has a Mangekyō and he has her eye. **Read as history. Never roll it.**
 
 **Not a form he enters. The thing Uzufū becomes when he fails the save.**
 
@@ -162,7 +166,31 @@ Tested directly at Rai's pyre: Ardo, grief curdling into rage, tried to force K�
 
 # PART TWO — 荒れ川 ARAKAWA · "The Raging River"
 
-**[GM — permanent until treated. The condition, not a form.]**
+> # ✅ RESOLVED — **Session Fourteen, Year 0, October 18th.** `[GM — table ruling, binding]`
+>
+> **Arakawa is over.** Not suppressed, not managed — **regulated.** Every control check, every instability roll and every backlash clause below is **VOID and must not be rolled.**
+>
+> ### Why, precisely — because the reason matters more than the outcome
+>
+> **Arakawa was never damage.** The file's own definition: *"an enormous, unattended volume of chakra churning constantly with **nothing steering it**."* It began when the trustee spent herself keeping Suzume alive at Training Ground Six and **the regulation went with her.** For thirteen years he has been an unsteered river.
+>
+> **潮風 Shiokaze was already exempt from the table** — *"and that is the entire point of owning it"* — because 潮合 Shioai is regulation he built himself. **The exemption was never about Shiokaze. It was about the method.**
+>
+> **On October 16th he held Hikari's four-century containment array and Minato's eight-trigram in register, on a shared beat, by rhythm, and did not re-cut either.** Two estates on one floor. **That is steering, at a scale that makes his own river trivial by comparison** — and it worked first time, on live containment, with a bijū behind it.
+>
+> **The method generalises. Therefore the exemption generalises.**
+>
+> ### ⚠ What this does NOT remove
+>
+> **Costs are not penalties. Every resource cost stands** — Chakra, Stamina, Health-on-commit, combo slots, and **大仙 Daisen's visibility**, which was never instability but a consequence.
+>
+> **渦潮 Uzushio remains the only form that spends nothing.** That property is its identity and the reason it sits at the top of the ladder. *Removing instability from the lower rungs must not turn them into free actions.*
+>
+> ### What is preserved below rather than deleted
+>
+> **Nothing in this section is erased.** The condition, the table and 逆渦 Sakauzu are kept as **historical record** — they explain thirteen years of this character's life, including the day that maimed Suzume. **They are unreachable, not untrue.**
+
+**[GM — HISTORICAL from Year 0, October 18th. Was: permanent until treated. The condition, not a form.]**
 
 ### The retroactive reveal
 
@@ -181,12 +209,14 @@ An enormous, unattended volume of chakra churning constantly with nothing steeri
 | Band | Effect |
 |---|---|
 | **E and D-rank techniques** | **Fine.** His own honest training covers them |
-| **C-rank and above** | **Control check before resolving.** His whole fusion kit was built on borrowed regulation |
+| **C-rank and above** | ✅ ~~Control check before resolving~~ — **VOID, Year 0.** His fusion kit was built on borrowed regulation; **he now owns regulation of his own** |
 | **Failure** | Overflow |
 
-### Transformation table — roll d20 every attempt **[Kōfū and Uzufū ONLY]**
+### ~~Transformation table — roll d20 every attempt~~ **[VOID from Year 0, October 18th — HISTORICAL ONLY]**
 
-**潮風 Shiokaze is exempt, and that is the entire point of owning it.**
+> ## ⛔ DO NOT ROLL THIS TABLE. It is preserved to explain the past, not to govern the present.
+>
+> **Shiokaze's exemption has generalised to every form** — see the resolution box at the top of Part Two. **Kōfū and Uzufū no longer roll.**
 
 | d20 | Result |
 |---:|---|
@@ -235,7 +265,7 @@ He matched his breathing to the rhythm under his ribs, let the river fall into t
 |---|---|
 | **What it is** | **Senjutsu. Real, functional, his** — not toad, snake, or slug |
 | **Why it doesn't accumulate** | Nothing pools if it never stops moving. **The in-breath takes and the out-breath returns** |
-| **Effect on Arakawa** | The river is **inside the cycle** rather than fighting it. **No control checks while the rhythm holds** |
+| **Effect on Arakawa** | The river is **inside the cycle** rather than fighting it. ~~No control checks while the rhythm holds~~ — **this exemption has since generalised to every form and every technique.** *Shioai was the proof of concept for his whole regulation* |
 | **Cost** | Enormous concentration. **His own hands on his own reins**, and it is exhausting |
 | **Failure** | **Losing the beat, not losing a grip.** It slips gently — and a tide that loses its period is just a flood, with the same stone waiting |
 | **Mastery** | **Held indefinitely, in combat**, against Roku and Monuke simultaneously, since month eleven of the training year. The eleven-minute seated first hold is thirteen years behind him |
@@ -293,7 +323,7 @@ Combat alternates **automatically, round by round.** This is the mechanical sign
 | **引き HIKI** | *the ebb* | **He releases.** Everything gathered on the in-breath goes out at once — damage, speed, displacement, all scaled to what the flood collected |
 
 - **All three Uzufū passives run permanently and simultaneously** — 無隙 Mugeki, 空爆 Kūbaku, 開門 Kaimon.
-- **No Arakawa control checks while Shiokaze is up.**
+- ~~No Arakawa control checks while Shiokaze is up.~~ **Superseded, Year 0 — there are no Arakawa control checks at all.**
 - **No 荒神 Aragami risk.** The estate is being *used* rather than accreting.
 - **器 Utsuwa is what makes it survivable.** The vessel coil exists precisely so a body could hold this — **and even so it is at the limit.**
 
@@ -665,6 +695,8 @@ His eye reads **speed** — fitting for someone whose whole style is arrival rat
 >
 > **And this is the other half of his curse.** Per the eye-never-deactivates rule, **every tier here is passive and always-on** — which means Mikiri, Inyomi, Hanshun and Utsushi have all been running, continuously, since Session Eight. **He has never once had to switch them on, and he cannot switch them off.**
 
-> **⚠ Tier IV interacts badly with Arakawa, and this is deliberate.** A copied technique is one he has *never trained*, executed with control he is still learning to hold. **Every copied C-rank or above triggers the Arakawa control check** — at advantage while he holds Shioai, flat otherwise. **Copied A/S-rank while out of rhythm rolls the transformation table.** He can take everything anyone shows him. He may not survive using it.
+> **✅ Tier IV's Arakawa interaction is VOID from Year 0, October 18th.** ~~Every copied C-rank or above triggers the control check; copied A/S-rank out of rhythm rolls the transformation table.~~ **Neither applies. Arakawa is regulated.**
+>
+> **⚠ The design tension it existed to create has not gone away, and should not be replaced with a die roll.** Utsushi still hands him techniques he has **never trained**, with no muscle memory, no drilling and no understanding of what they cost the person he took them from. *He can take everything anyone shows him.* **The limit is now knowledge and practice, not instability** — which is a better problem and a harder one.
 
 > **[RESOLVED, Year 0.]** The tree's unlock state was unrecorded for thirteen years. **Ruling: all four tiers unlocked at the transplant, Session Eight, at no Vision cost** — see the box above. The Year 0 *starting* figure that ruling produced was **65**; **the live meter is in `campaign/campaign-state.md`** and has moved since.

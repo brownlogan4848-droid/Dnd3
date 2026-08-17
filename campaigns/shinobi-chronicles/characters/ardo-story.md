@@ -167,7 +167,7 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 - **A borrowed Mangekyō that never switches off**, draining chakra permanently, on a decades-long clock toward blindness.
 - **A left eye that is not his**, and a right eye whose iris splits on a tide-line in Shioai.
 - **Whirl-pattern linework** surfaced and slowly turning on the skin of his stomach.
-- **荒れ川 Arakawa** — permanent until treated. Managed by rhythm, live out of it.
+- ✅ **荒れ川 Arakawa** — **RESOLVED, Year 0.** Was permanent until treated, managed by rhythm and live out of it. **He generalised the rhythm.** `ardo-transformations.md` Part Two.
 - **Two seals grinding against each other.**
 
 ## Owed to him
