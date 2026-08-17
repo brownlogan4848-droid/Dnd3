@@ -902,6 +902,8 @@ This is the reward for sequencing. Lead with a control technique to force the sa
 Spend **Special** to end a combo with something the enemy can't answer. Declared before the final action resolves.
 
 > **These are the combat rows of the master spend menu in §1 Part One.** That table is authoritative and also lists the non-finisher spends (pushing through an interruption, ignoring a cost, auto-succeeding a save). Nothing here adds a cost the master menu doesn't carry.
+>
+> **⚠ ONE FINISHER PER COMBO**, and **Extension is once per combat**, not once per combo. Full limits — including the **+40 Special per round** gain cap — are in **§1 Part One → Spend Limits.**
 
 | Finisher | Special Cost | Effect |
 |---|---|---|
@@ -1447,7 +1449,17 @@ Because of Rule 5. Whoever acts first can potentially **break the other's combo 
 ║  Basic / E / D .... 1    C / B .... 2                 ║
 ║  A .... 3                S .... 4                     ║
 ╠═══════════════════════════════════════════════════════╣
-║  ESCALATION      4th −1 │ 5th −2 │ 6th −3 │ 7th −4    ║
+║  APEX RULE                                            ║
+║  Max TWO techniques of your top rank per combo.       ║
+║  Acceleration frees slots. It does NOT raise this.    ║
+╠═══════════════════════════════════════════════════════╣
+║  SPECIAL LIMITS                                       ║
+║  Gain capped +40 / round.                             ║
+║  ONE finisher per combo. Extension 1/combat.          ║
+║  Ignore-cost · auto-succeed · push-through: 1/round   ║
+╠═══════════════════════════════════════════════════════╣
+║  ESCALATION   4th −1 │ 5th −2 │ 6th −3 │ 7th −4       ║
+║               8th+ −5, −1 more each action after      ║
 ║  MOMENTUM        +2 damage per prior action that HIT  ║
 ║  OPENING         Failed save = advantage, rest of combo║
 ╠═══════════════════════════════════════════════════════╣
@@ -1464,7 +1476,9 @@ Because of Rule 5. Whoever acts first can potentially **break the other's combo 
 ║  No asset = Brace and eat it.                         ║
 ║                                                       ║
 ║  EVADE    negate 1 action, combo continues            ║
-║  DISPLACE you move; combo ends if reach is lost       ║
+║  DISPLACE you move. If reach is lost the attacker     ║
+║           gets ONE reroll to close back in.           ║
+║           Your Reaction is spent either way.          ║
 ║  BREAK    combo ends outright  (rare)                 ║
 ║                                                       ║
 ║  Sources: jutsu · clan ability · ninja tool · feature ║
