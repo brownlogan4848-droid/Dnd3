@@ -619,7 +619,69 @@ Ardo pressed for any other consultation. The Fuchinomiya grant has been touched 
 
 Suzume told him to **give them up completely and truthfully** if anyone asks. *"You're a clerk with a good register and a good memory. That's what keeps you safe. Being interesting is what gets you hurt."* And on the missing face: *"That was done to you. If it starts happening with other things, go to a hospital and say those exact words."*
 
-**IN PROGRESS — standing in the records office with the ledger open and about ten hours of daylight. Toki's two days: one and a half gone.**
+### The road back, and what was on it
+
+**Suzume read the ledger rather than taking it** — ninety seconds with the covered eye, the grant entry, the commission entry, the consultation register and the surrounding page. **Nothing missing, nothing burned, nothing wrong for the next person who walks in**, and a full copy walking out the door.
+
+**Ardo carried her ninety kilometres west** on Shiokaze and stride alone — **no senjutsu**, because the alternative is a fire on a hill.
+
+**04:10, second night: an assassin.** Came for **Suzume**, not the jinchūriki, and led with a **surgical extraction hook with an eleven-millimetre depth stop** — an instrument for taking an eye out intact, not a weapon. Suzume displaced; Ardo threw blind out of sleep on Mikiri alone and connected, and the man went down a slope he had planned to cross the top of.
+
+**田沢 Tazawa.** Ex-Konoha field surgeon, eleven years, Sanbyaku-tai northern rotation. **Third harvest.** He gave the mill at **Kanō crossing**, fourth night of the month, under the wheel housing. He was spared, his knee set by Suzume, and then **struck down by Ardo** and left alone in cedar country.
+
+**The jar was not empty.** A hand's breadth of inked skin off a living man's forearm, three passes into the dermis — **金城 徳 Kaneshiro Toku**, who was sitting outside when Tazawa arrived so nobody would have to come indoors for it, and who chose which arm to give: *"Take the right one, then. The other one's still holding."*
+
+### 継ぎ手 — what the archive finally said
+
+**The Tsugite are fragments of the method for moving a sealed bijū between living vessels without killing either.** Why three nations came for the island. **Shattered into strangers who were never told about each other, and the count destroyed on purpose** — so thoroughly that the archive cannot say how many exist.
+
+**Ardo pressed and the trustee gave it**, having first conceded that being careful at him was a habit and not a right.
+
+**Kurama, asked what he wants for the first time in four hundred years and nine hosts:** *"Nobody's asked me that."* No answer yet — but there were **nine of them**, four are in people, he does not know which four, and the last he heard came through a wall thirty years ago. **His one request: if the method is ever completed, by anyone including Ardo — *ask me first*.**
+
+### The join
+
+Ardo went looking for a third gate, found there wasn't one, and examined **Minato's dying field repair** for the first time in four days. **Eight strokes of the man's own chakra**, nothing to top it up with, **four to nine months left** — and when it failed, **Hikari's array would tear before Minato's.** The library first.
+
+**He fixed it by putting both arrays on a shared beat** rather than re-cutting either. **Fūinjutsu DC 25, rolled 35.** Four hundred generations had never tried it, because the tradition's instinct is to re-cut and his is rhythm.
+
+**The grinding join was what the adult-sealing clause was waiting on. Chakra maximum 500 → 1000.** *He did it alone, in the dark, at half four in the morning, which is Monuke's first condition broken, and nobody in the corridor mentioned it.*
+
+### 荒れ川 Arakawa, ended
+
+**Thirteen years of unsteered chakra, over** — control checks, the transformation table, the CON save ladders, both crashes and 逆渦 Sakauzu, all void. **He proved the 潮合 method generalises.** *Costs stand; instability does not.*
+
+### The ford, and Kurobe
+
+**The barrier came down on the 16th without them** — not broken, **withdrawn**, by a rider with a paper. *Withdrawn means it was finished.*
+
+**クロベ Kurobe went into the corridor against orders and came out with twelve years missing and no awareness of the gap.** Calm, polite, eating, and he asked Toki whether she was the woman who had hired him. **Suzume's read: not genjutsu. Surgery.** Memories detached rather than destroyed, the index edited so no gap is listed, **reversible by design** — *"you don't get that good at something on three people."*
+
+### The carriers
+
+**Five on the road, at least two marked**, who took one look at two nodes on Ardo's forearm four days after Toku was cut apart and drew the only conclusion available. **He stopped it with Toku himself** — the chair outside the door, arriving through the mark — **and with 渦風**, which the woman recognised as her own people's work and which cannot be worn by an angry man.
+
+**Then he lit a third form and walked through the middle of them.** *"You could have just told me your name. I'd have told you what's up there. I've been up there."*
+
+**辰巳 Tatsumi** — a living carrier, marked at six, told he had a birthmark — **consented, and Ardo took it onto himself.** So did Toku's, out of the jar. **Two nodes, an inch apart, leaning in different directions.** *There is no list and there never was. Each node points to the next, which is how the collector walks the chain — and now so can they.*
+
+**Kurama was asked first**, ten hours after asking to be. His objection, which Ardo had not thought of: **carrying a node makes him one errand instead of two.** *"Do it anyway. Don't upgrade it."*
+
+### 淵ノ宮 Fuchinomiya
+
+**Nobody dead. Nothing burned. Everyone calm, polite and hollowed.** Mitsuki sat with the elder for three days, was shown everything, **took the craft out of four generations of heads**, thanked her and left.
+
+**The works are a 継ぎ手 relay station** — seven wheels, one mechanism, seven beats — built so a thing in transit can keep moving without a person holding it. **Empty since the island fell.** A stop on a line that stopped running twenty years ago, kept in perfect time by a household nobody ever told.
+
+**Konoha agreed to host it, on Fire Country soil, in Year −36.**
+
+**Ardo spent four days re-teaching the wheels.** Not the household — the wheels. *"You're the only person alive who could, and I want you to notice how much I hate saying that."*
+
+**He said goodbye to the elder on the 22nd.** *"I wish you all peace."* — *"Are you off, then?"* — *"Heading for my homelands."* — *"Oh, lovely. Where's that?"*
+
+> **She told him to mind the crossings, and to bring his friend next time because she looks like she doesn't eat.**
+
+**SESSION FOURTEEN ENDS — on the road out of the valley, October 22nd.**
 
 ---
 ---

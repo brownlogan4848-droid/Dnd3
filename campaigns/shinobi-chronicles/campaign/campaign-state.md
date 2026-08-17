@@ -15,8 +15,8 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 17th — dusk.** Session Fourteen, mid-session. |
-| **Location** | **火焼野 Hiyakeno, the ford town.** Roof of the grain store, then the weighing-house back room. **The barrier is down and the road is open** |
+| **In-world date** | **Year 0, October 22nd — morning.** Session Fourteen, late. |
+| **Location** | **淵ノ宮 Fuchinomiya.** Five days in the valley. **The wheels are running and the party is about to leave** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
 | **Last session** | **Session Fourteen — "WHAT THEY BUILT WITH US" — IN PROGRESS.** The barrier · Toki · the ledger · Fuchinomiya. Full record: `session-log.md` |
 
@@ -96,9 +96,9 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~820** | **1000** | Less 60 the join · **less 120 for two 継ぎ手 transfers.** ⚠ **DOUBLED POOL SETTLED — he made it settle** |
-| **Stamina** | **265** | **355** | Less 30 the join · **less 60 for two transfers** |
-| **Health** | **~205** | **228** | **Health tracks slower and never auto-fills** (`ardo.md` Recovery). Three nights plus a medic with working hands from midday on the 12th. **The abdominal wound is knitted, not finished** |
+| **Chakra** | **1000** | **1000** | **Full.** Four days in a valley wading up and down terraces is, mechanically, rest |
+| **Stamina** | **355** | **355** | **Full** |
+| **Health** | **~215** | **228** | Twelve days out from the seal transfer, with a medic. **The abdominal wound is closed and no longer a factor** |
 | **Special** | **0** | **100** | Reset |
 | **Vision (Max)** | **59** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
 
@@ -140,7 +140,7 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 |---|---:|---:|---|
 | **Chakra** | **350** | **350** | **Full.** Three long rests |
 | **Stamina** | **350** | **350** | **Full.** Same |
-| **Health** | **~155** | **176** | Self-treated from midday on the 12th, which she was insufferable about. **The ribs are the limiter, not the number** |
+| **Health** | **176** | **176** | **Full.** Twelve days |
 | **Special** | **0** | **100** | Reset |
 | **Vision** | **—** | **—** | **Suzume has no Vision track and never will.** Native tissue, native body |
 
@@ -148,7 +148,7 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | | |
 |---|---|
-| **⚠ TWO RIBS — day 5 of ~7** | Still knitting. **No hard bracing, no full-contact taijutsu, no Brace at full commitment** for roughly two more days. *This is the only live mechanical restriction on either character* |
+| **✅ TWO RIBS — HEALED** | Cleared on or about the 19th. **No mechanical restriction remains on either character** |
 | **✅ LEFT ARM — RESOLVED** | Hyperextended joint cleared **midday on the 12th, on schedule.** Full fine motor. **She is the medic again** |
 | **HEAD LACERATION** | Closed |
 | **Carrying** | 三島 Mishima's slip *(**discharged** — the question was asked and the scroll was read)* · the case notes · **the 保留 scroll is in Ardo's satchel, not hers** |
@@ -343,7 +343,7 @@ Rai Inuzuka's forehead protector *(Ardo wears it; **it is also his Mangekyō cov
 | **佐伯 トキ's crew** | **+2** | Oct 17 | Kept the corridor deal. **Suzume took Kurobe's case on** | **Toki said she'd owe them, and said it out loud, which she does not do** |
 | **The carriers** *(the five on the road)* | **−1** | Oct 18 | ⚠ **Stood down for him, and he walked through the middle of them with three forms lit.** The woman had been to Fuchinomiya and was about to tell him everything | **Nothing hostile. Nothing offered.** *"You could have just told me your name"* |
 | **Whoever holds the drop** | **−2** | Oct 15 | Sent them a sentence and a name up an anonymous chain. **Then took a node off their surgeon and left him alive** | **Reassess.** Their harvester is four days past his window and their watcher never filed |
-| **The Kaneshiro household, 淵ノ宮** | **0** | Oct 18 | Just arrived. **They do not know what has been done to them** | **Offer him tea.** *That is the horror of it* |
+| **The Kaneshiro household, 淵ノ宮** | **+2** | Oct 22 | **Four days re-teaching their wheels for nothing.** They think he fixed the water | **Talk about him warmly to anyone who asks** — including that he is going to an island. ⚠ *They will not be lying and they will not be careful* |
 | **Uchiha clan** | **0** | — | ⚠ Two policemen saw Suzume's right eye in a window reflection on the tenth **and went home** | **Nothing — for now.** *This is the quietest −3 in the campaign waiting to happen* |
 
 > **⚠ The two that will move first:** the **carriers**, who are the party's natural allies and were just insulted; and **whoever holds the drop**, who has now lost a harvester, a watcher and a node in one week.
@@ -376,6 +376,8 @@ Per-character threads live in each `characters/<name>-story.md`.
 ---
 
 18. **⚠ 木ノ葉隠れ・内務調整室 — the Office of Internal Coordination.** A Konoha administrative body that countersigned a Fire Country road closure and that **neither a jōnin nor a senior hospital medic has ever heard of.** Real body, Root cover, or fabrication — **all three live.** *The Danzō ruling applies: let the trail be nearly right.*
+18b. **⚠ HE IS NOW THE STATION'S KEEPER, AND HAS NOT SAID SO.** He re-taught the wheels rather than teaching the household, so **淵ノ宮 remains maintainable by exactly one living person.** He has committed himself to coming back and has told nobody, **including Suzume**, that the valley now depends on him.
+18c. **⚠ FOUR DAYS OF UZUMAKI SEALCRAFT IN THE OPEN**, in a valley the collector worked last week. **Nobody watched from the treeline. That is not the same as nobody watching.**
 19. **⚠ 継ぎ手 THE TSUGITE.** The Uzumaki broke a **method for moving a sealed bijū between living vessels without killing either** into fragments and inked them into strangers, then destroyed the count on purpose. **Worthless alone. Three collected — and the party now holds one of the three.** The archive genuinely cannot say how many exist; their own ancestors made sure of that. *This is why three nations came for Uzushio.*
 20. **⚠ KURAMA'S SIBLINGS.** Nine. Four in people. He doesn't know which four, and the last he heard of any came through a wall thirty years ago. **Ardo has offered to find them. Kurama has not accepted.**
 21. **⚠ WHAT ARDO CAN NOW DO.** He fixed a live containment join by **rhythm instead of re-cutting**, first attempt, and four hundred generations had never tried it. **That is adjacent to the thing the collector is assembling** — and adjacency is how people get found.
