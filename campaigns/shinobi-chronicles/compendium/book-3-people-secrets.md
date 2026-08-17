@@ -752,6 +752,25 @@ Track PC standing with each faction on a simple −3 to +3 scale.
 | **−1** | Suspicion, surveillance | Marked as an obstacle | Flagged for removal |
 | **−3** | Bingo Book entry, hunter-nin dispatched | Actively hunted | You have already been replaced |
 
+#### ⚠ THE TRACKER **[GM — ADDED. The scale above was a rule with nothing to write on.]**
+
+**Copy this into your campaign's state file and keep it current.** Standing changes are **events**, not drift — write what caused each one.
+
+```markdown
+| Faction | Standing | Last change | Caused by | What they'd do right now |
+|---|:---:|---|---|---|
+|  | −3…+3 |  |  |  |
+```
+
+| Column | What goes in it |
+|---|---|
+| **Standing** | **−3 to +3.** One number. If you can't pick one, it's 0 |
+| **Last change** | The in-world date. **Standings that haven't moved in three sessions are probably wrong** |
+| **Caused by** | *One sentence.* This is the column that stops standings drifting on vibes |
+| **What they'd do right now** | **The whole reason to track it.** If you can't answer this, the row is decorative |
+
+> **Standing is not affection.** A faction at **+2** that finds you inconvenient will still act against you — it will just do it politely, slowly, and with a paper trail. **−1 is the interesting number**, not −3: suspicion and surveillance generate far more play than open hunting.
+
 #### Infiltrating Akatsuki **[GM]**
 It is possible and it is a great campaign. Requirements:
 1. **Be a missing-nin with a real Bingo Book entry** — Akatsuki recruits proven S-rank threats.

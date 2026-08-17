@@ -330,6 +330,27 @@ Rai Inuzuka's forehead protector *(Ardo wears it; **it is also his Mangekyō cov
 ---
 ---
 
+# FACTION STANDINGS
+
+**Scale and rules: Book III §3 Part Five.** −3 to +3. **Standing is not affection.**
+
+| Faction | Standing | Last change | Caused by | What they'd do right now |
+|---|:---:|---|---|---|
+| **Konohagakure** *(Hiruzen)* | **+2** | Oct 11 | Took the Nine-Tails off a newborn; healed four hundred people in one night | **Want him home.** *"Come home after. That's an old man who's already burying enough people"* |
+| **Konoha — the administration** | **0** | Oct 15 | ⚠ **Burgled the Tower vault.** Mishima will report the third door opened, **not who** | Nothing yet. **They do not know it was him** |
+| **根 ROOT / Danzō** | **−1** | Session Two, ongoing | Open file since the first seal reading. Knows about the containment array and the Uzushio pattern | **Watching.** *Danzō does not need a reason to keep a file open* |
+| **The daimyō's provincial administration** | **−1** | Oct 12 | Queued at their barrier, refused, and walked away — **then researched their paperwork in their own records office** | Nothing. **But 早瀬 Hayase can name two contractors who asked about commission 4-1-7** |
+| **佐伯 トキ's crew** | **+2** | Oct 17 | Kept the corridor deal. **Suzume took Kurobe's case on** | **Toki said she'd owe them, and said it out loud, which she does not do** |
+| **The carriers** *(the five on the road)* | **−1** | Oct 18 | ⚠ **Stood down for him, and he walked through the middle of them with three forms lit.** The woman had been to Fuchinomiya and was about to tell him everything | **Nothing hostile. Nothing offered.** *"You could have just told me your name"* |
+| **Whoever holds the drop** | **−2** | Oct 15 | Sent them a sentence and a name up an anonymous chain. **Then took a node off their surgeon and left him alive** | **Reassess.** Their harvester is four days past his window and their watcher never filed |
+| **The Kaneshiro household, 淵ノ宮** | **0** | Oct 18 | Just arrived. **They do not know what has been done to them** | **Offer him tea.** *That is the horror of it* |
+| **Uchiha clan** | **0** | — | ⚠ Two policemen saw Suzume's right eye in a window reflection on the tenth **and went home** | **Nothing — for now.** *This is the quietest −3 in the campaign waiting to happen* |
+
+> **⚠ The two that will move first:** the **carriers**, who are the party's natural allies and were just insulted; and **whoever holds the drop**, who has now lost a harvester, a watcher and a node in one week.
+
+---
+---
+
 # OPEN THREADS — party level
 
 Per-character threads live in each `characters/<name>-story.md`.

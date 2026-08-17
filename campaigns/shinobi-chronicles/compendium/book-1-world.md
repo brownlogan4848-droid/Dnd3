@@ -529,10 +529,15 @@ Shinobi travel by rooftop, treetop, and chakra-assisted running. Use these as ta
 | Ox cart / caravan | 2 mph / 16 mi per day | The reason escort missions are slow |
 | Genin squad, sustained | 12 mph / 80 mi per day | Tree-hopping, rests included |
 | Jōnin, sustained | 20 mph / 140 mi per day | Chakra-efficient movement |
-| Jōnin, forced march | 30 mph / 200+ mi per day | Arrive at 25% Stamina; no Stamina recovery that day |
+| Jōnin, forced march | 30 mph / **300 mi per day** | **10–12 hours moving.** Arrive at 25% Stamina; no Stamina recovery that day |
 | Summon transport (large) | 40+ mph | Toads, birds, hounds |
+| **Senjutsu-grade movement** | **50 mph+** | **[GM — ADDED]** Sage-tier forms that move rather than sprint. **Visible to sensors for the entire distance** |
 | Body Flicker (Shunshin) | Tactical only | Not a travel method |
 | Flying Thunder God | Instant | Requires a pre-placed marker |
+
+> **⚠ The forced-march figure was internally inconsistent** — 30 mph against *"200+ mi per day"* is **under seven hours**, which is *less* time on the move than the sustained jōnin pace directly above it. A forced march is faster **and** longer. Corrected to 300 miles over 10–12 hours; the arrival penalty is what makes it a decision.
+>
+> **Sanity check for the other rows:** civilian 24 ÷ 3 = 8 hrs · cart 16 ÷ 2 = 8 hrs · genin 80 ÷ 12 ≈ 6.7 hrs · jōnin 140 ÷ 20 = 7 hrs. **All consistent.**
 
 **Rule of thumb for great-nation distances:** Konoha to the nearest great-nation border is roughly **3 days** at jōnin pace, **5–7 days** with a client in tow. Konoha to Suna is about **3 days** for a fast squad. **[GM]**
 
