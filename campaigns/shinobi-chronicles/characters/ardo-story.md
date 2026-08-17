@@ -91,6 +91,11 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **Somebody has kept a continuously staffed watcher on the north-east road out of Konoha for years**, with orders to report the instant he got stronger | 牧野 ハナ Makino Hana, who stood up rather than be found |
 | **That watch pays through an anonymous dead drop and a Tanzaku broker.** No faces, ever | Her, in full. **She is a genuine dead end** |
 | **Whoever runs it instructed their asset to *cooperate* with him if he made contact** | *"Do not run. Do not fight. Answer what he asks."* **He has not worked out what that implies** |
+| **⚠ The Uzumaki built things in Fire Country under the alliance, and one is 淵ノ宮 Fuchinomiya** | The Suibara grants ledger — *"for the maintenance and keeping of works constructed under the alliance."* **Standing, a day past the ford** |
+| **⚠ A man is inside the closed corridor going after it**, and shut a trunk road four to five days in advance to do it unwitnessed | Commission 4-1-7 and the consultation register |
+| **⚠ A Konoha office he has never heard of countersigned that closure** | 木ノ葉隠れ・内務調整室, Office of Internal Coordination. **Thirteen years in that village and neither he nor Suzume knows the name** |
+| **⚠ Somebody in Konoha went looking for Uzumaki works in Fire Country in Year −18** | Fuchinomiya's only other consultation in sixty years — ***"sealed request, name omitted by instruction."*** **The same year Hiruzen marked the alliance 保留** |
+| **A face can be taken out of a witness cleanly enough that only the gap remains** | Hayase, who remembers the tea and not the man |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 
@@ -210,6 +215,8 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 12. **渦潮 Uzushio, the endpoint.** **Named.** Gate 3 still requires bonds in the rotation, and the rotation is down to one injured person. *He now knows what to call a thing he cannot yet do.*
 12b. **⚠ THE DROP.** A years-old, continuously staffed watch on the north-east road, an anonymous stone, a Tanzaku broker — **and a standing order to cooperate with Ardo rather than flee him.** He sent it a sentence and a name. **Somebody is going to read that.**
 12c. **⚠ THE ISLAND, AS A ROUTE.** Four hundred miles, a sea, a ruin, and **no papers.** Suzume logged it as a problem, not a plan, and they are walking at it anyway.
+12d. **⚠ WHO OMITTED THEIR NAME IN YEAR −18.** Enough authority to make a provincial office void its own recording procedure and leave no authorising officer behind. **Two years before the island fell.** *Sits directly beside the 保留 scroll in his satchel.*
+12e. **⚠ THE OFFICE OF INTERNAL COORDINATION.** Real body, Root cover, or fabrication. **Nobody he can safely ask is anywhere near him.**
 
 ## Cold, from Era A's opening arc — never closed
 
