@@ -235,6 +235,15 @@ Full systems in **Book IV §3**.
 ---
 ---
 
+# ⚠ JUTSU LOOKUP PRECEDENCE
+
+**Look techniques up in the numbered rank files** — `jutsu-compendium/01-e-rank.md` through `07-outside-the-ranks.md`. **They are authoritative.**
+
+`jutsu-compendium/expansions/` holds **research documents**, not lookup tables. **199 of their 229 entries duplicate the numbered files.** They carry databook citations the rank files don't, and **25 techniques that exist nowhere else** — listed in the banner at the top of each expansion file. **Nothing there wins an argument.**
+
+---
+---
+
 # TRACKED CONFLICTS
 
 ## Canon conflicts — deliberately unresolved

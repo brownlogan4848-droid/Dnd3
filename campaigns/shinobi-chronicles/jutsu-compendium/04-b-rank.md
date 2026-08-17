@@ -312,6 +312,13 @@ Elite jōnin-level techniques. The tier where large-scale elemental ninjutsu, se
 
 ## Lightning Release
 
+### Hell Stab
+**Japanese:** Jigokuzuki (地獄突き)
+**Type:** Nintaijutsu (Lightning)
+**Rank:** B **(DB4)**
+**Description:** The Third Raikage's signature: the arm sheathed in lightning chakra and driven forward as a piercing thrust, the number of extended fingers determining the concentration. Five fingers spreads the force; three narrows it; **one finger is a single point of pressure that has gone through everything it has ever been used on.** The technique that cut the Eight-Tails' horn.
+*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
+
 ### Lightning Release: False Darkness
 **Japanese:** Raiton: Gian (雷遁・偽暗)
 **Type:** Lightning Release Ninjutsu
@@ -329,6 +336,16 @@ Elite jōnin-level techniques. The tier where large-scale elemental ninjutsu, se
 **Type:** Lightning Release Nintaijutsu
 **Rank:** B
 **Description:** The user sheathes their hand in a lightning shroud and drives a straight thrust through the target. The technique is performed with five, three, or a single extended finger — the fewer the fingers, the more the force concentrates, with the one-finger version capable of piercing nearly any defense.
+
+---
+
+### Wind Release: Great Sickle Weasel Technique
+**Japanese:** Fūton: Ōkamaitachi (風遁・大鎌鼬)
+**Type:** Wind Release Ninjutsu
+**Rank:** B
+**Description:** A large-scale cutting cyclone raised with a fan or with sheer chakra volume, filling an area with blades of compressed air rather than throwing a single edge. Temari's answer to a target too large to cut once.
+*(Distinguished from the plain Sickle Weasel Technique by explicit Wind Release naming.)*
+*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
 
 ---
 

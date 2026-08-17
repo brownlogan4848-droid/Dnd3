@@ -99,6 +99,14 @@ The genin working band. Everything a graduate is expected to actually fight with
 
 ## Concealment, Escape & Utility
 
+### Haze Clone Technique
+**Japanese:** Kasumi Bunshin no Jutsu (霞分身の術)
+**Type:** Ninjutsu / Clone Technique
+**Rank:** D
+**Description:** Creates several mist-like clones with no physical substance whatsoever. Attacks pass straight through them, which is the entire point — the technique is a repositioning tool disguised as a threat, and a competent user spends the confusion rather than the clones.
+*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
+
+
 ### Hiding in Mist Technique
 **Japanese:** Kirigakure no Jutsu (霧隠れの術)
 **Type:** Ninjutsu / Supplementary — Kirigakure hiden
@@ -132,6 +140,28 @@ The genin working band. Everything a graduate is expected to actually fight with
 **Type:** Ninjutsu / General Skill
 **Rank:** D
 **Description:** The escalation of the E-rank basic to chakra-reinforced wire, restraint cuffs, and knotwork designed by someone who expected the attempt. **Does not defeat chakra-based seals or fūinjutsu bindings** — those need a sealer.
+
+---
+
+## Fūinjutsu
+
+> ### ⚠ These two were missing, and their absence was a functional hole.
+> The compendium carries **eight Fūinjutsu entries across all ranks and had no technique for putting anything into a scroll or taking it back out.** Storage scrolls are standard equipment (Book II §4, 1,500 ryō) and nothing in the compendium operated one.
+
+### Enclosing Technique
+**Japanese:** Fūin no Jutsu (封印の術)
+**Type:** Fūinjutsu
+**Rank:** D
+**Description:** Seals a wide variety of objects — and, with sufficient skill, living things — inside a scroll, to be released when the scroll is opened or a set condition is met. Other techniques can be stored the same way and let loose later. This is the technique behind every storage scroll a shinobi carries, and the reason a squad can walk into a village with nothing visible and unpack a siege ten seconds after they need one.
+*(Some fan-RPG sources rank a scaled-up version at B; the base technique is D.)*
+*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
+
+### Unsealing Technique
+**Japanese:** Kaifūin no Jutsu (解封印の術)
+**Type:** Fūinjutsu
+**Rank:** D
+**Description:** The release counterpart to the Enclosing Technique — draws a stored item or technique back out of a seal, most often in the middle of a fight, most often faster than the opponent expects. A weapon appearing in an empty hand is this, and so is a wall of water that was in someone's sleeve a half-second ago.
+*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
 
 ---
 

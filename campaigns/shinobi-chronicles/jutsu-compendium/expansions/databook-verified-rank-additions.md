@@ -1,5 +1,37 @@
 # Naruto Jutsu Compendium — Rank Additions & Complete A/S-Rank Compilation
 
+> # ⚠ PRECEDENCE — READ FIRST **[REPAIRED by the systems check]**
+>
+> ## The numbered rank files in `jutsu-compendium/` are AUTHORITATIVE. This file is not.
+>
+> **The problem this banner fixes:** across the two expansion files there are **229 technique entries, and 199 of them already exist in the numbered rank files.** That is **87% duplication.** A GM looking up Chidori found it twice, in two files, with no statement of which one wins — and the moment either copy is edited they diverge silently.
+>
+> *(Checked: on every sampled duplicate the two copies **agree** on rank. This is redundancy, not contradiction — but redundancy is how contradictions are born.)*
+>
+> ### What these files are actually for
+>
+> | Use them for | Do not use them for |
+> |---|---|
+> | **Provenance.** Databook citations — `(DB1)`, `(DB2)` — that the rank files don't carry | **Looking a technique up mid-session.** Go to the numbered rank file |
+> | **The promotion queue** — the 25 techniques below that exist *only* here | **Resolving a rank dispute.** The numbered file wins, always |
+> | **Source notes** on where a rank came from and where sources disagree | **Anything at the table.** These are research documents |
+>
+> ### THE 25 TECHNIQUES THAT EXIST ONLY HERE
+>
+> **Everything else in this file is a duplicate.** If you want any of these in play, **promote it into the correct numbered rank file** and delete nothing — the entry here stays as its source note.
+>
+> All Directions Shuriken · Blinding Technique · Chakra Shield *(puppet)* · Dancing Paper · Earth Release: Iron Fist / Hardening · Enclosing Technique · Enlightened Fire Seal · Fire Release: Flame Bullet *(Jiraiya's)* · Fire Style Seal / Water Style Seal · Fire Style: Flamestrike · **Haze Clone Technique** · **Hell Stab** *(five/three/one finger)* · Hovering Hummingbird Technique · Ink Mist / Ink Flush · Paths Copy / Mirrored Doppelgänger · **Sealing Technique: Lion Closing** *(chakra suppression)* · Sexy Technique: Boys'/Girls' Combo · **Shuriken Shadow Clone Technique** · **Stun Technique** *(Paralysis / Mind-numbness)* · Super Beast Imitating Drawing: God · Toad Subjugation *(interrogation)* · **Unsealing Technique** · Water Release: Submergence · **Wind Release: Great Sickle Weasel Technique** · Wind Water Combination / Typhoon Water Vortex
+>
+> ### ✅ SIX HAVE NOW BEEN PROMOTED
+>
+> **Enclosing Technique** and **Unsealing Technique** → `02-d-rank.md` *(the compendium had eight Fūinjutsu entries and no way to put anything into a scroll or take it out — storage scrolls are standard equipment and nothing operated one)* · **Haze Clone** → `02-d-rank.md` · **Hell Stab** and **Wind Release: Great Sickle Weasel** → `04-b-rank.md` · **Shuriken Shadow Clone** and **Sealing Technique: Lion Closing** → `05-a-rank.md`.
+>
+> **⚠ Stun Technique was deliberately NOT promoted** — it is marked *fan-created, Naruto Fanon Wiki, not canon* in this very file. **The canonical Temporary Paralysis Technique already covers it.**
+>
+> **Bolded ones are the highest-value promotions** — common, mechanically useful, and their absence from the numbered files is a genuine hole. *Unsealing Technique in particular: the compendium carries eight Fūinjutsu entries and no way to open any of them.*
+
+---
+
 ## TL;DR
 - The authoritative source for canonical letter ranks is the four Japanese databooks — **Rin no Sho (DB1, ch. 1–119), Tō no Sho (DB2, ch. 120–244), Sha no Sho (DB3, 2008), and Jin no Sho (DB4, released 4 Nov 2014, ch. 525–700)**; the narutoversity.wordpress.com and MangaHelpers transcriptions confirmed exact ranks. Most "obvious" S-rank dōjutsu (Amaterasu, Tsukuyomi, Susanoo, Kamui, Kotoamatsukami, Izanagi, Izanami) and all Rinnegan Six-Paths abilities carry **NO databook letter rank** and belong in the Unranked appendix, not the S-rank list.
 - Confirmed A-rank is a broad tier (~40+ databook entries) while confirmed S-rank is small (~19 entries); the biggest gaps in your inventory are **B-rank and C-rank**, where databooks 2 and 3 add dozens of missing entries (Kisame's, Jiraiya's, Chiyo's, Sasori's, Yamato's, Kimimaro's, and Sound Four techniques especially).
