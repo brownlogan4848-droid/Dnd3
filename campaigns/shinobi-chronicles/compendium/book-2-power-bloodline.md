@@ -183,12 +183,24 @@ An inherited ability that cannot be learned, copied by the Sharingan, or taught.
 | **Scorch (Shakuton)** | Fire + Wind | Pakura of Suna |
 | **Explosion (Bakuton)** | Earth + Lightning | Iwa lineage; Deidara |
 | **Magnet (Jiton)** | Earth + Wind **[INF on exact combination]** | Rasa (Gold Dust), Third Kazekage (Iron Sand), Gaara **[see note]** |
-| **Crystal (Shōton)** | — **[A]** | Guren. Anime-only. |
-| **Steel (Kōton)** | — | Hiruzen's Adamantine Power |
-| **Swift (Jinton)** | — | Extreme speed |
-| **Dark (Meiton)** | — **[A]** | Absorbs and redirects chakra |
-
 **Note on Magnet Release:** the exact two-nature composition is not definitively stated in the manga; treat as **[INF]**. Gaara's sand control is *not* Magnet Release — it derives from Shukaku and his mother's chakra.
+
+##### ⚠ Non-combination kekkei genkai **[LORE REPAIR — these were listed in the combination table with a "—" in the combination column]**
+
+**These are kekkei genkai whose two-nature composition is unstated or non-existent.** They were sitting inside a table headed *"simultaneous combination of two basic natures"* with an em-dash where the combination should be, which is a categorisation error and made three of them look like unfinished rows.
+
+| Kekkei Genkai | Composition | Users / source |
+|---|---|---|
+| **Crystal (晶遁 Shōton)** | **Unstated** | **Guren.** **[A]** anime-only |
+| **Steel (鋼遁 Kōton)** | **Unstated** | **Anrokuzan**, *The Lost Tower*. **[MV]** movie-only |
+| **Swift (迅遁 Jinton)** | **Unstated** | **Hyō.** **[A]** anime-only. Extreme, near-untrackable speed |
+| **Dark (冥遁 Meiton)** | **Unstated** | **Hiruko.** **[MV]** movie-only. Absorbs and redirects chakra |
+
+> ### ⚠ TWO LORE ERRORS CORRECTED HERE
+>
+> **1 — Steel Release was attributed to "Hiruzen's Adamantine Power." That is wrong.** Hiruzen's adamantine techniques come from **Enma**, his monkey summon, who transforms into the **Adamantine Staff (金剛如意棍)**. That is a *summon's* transformation, not a bloodline, and Hiruzen has no kekkei genkai at all. Steel Release belongs to **Anrokuzan**, a movie-only antagonist.
+>
+> **2 — "Jinton" is two different kekkei genkai.** **迅遁 Swift Release** *(anime, Hyō)* and **塵遁 Dust Release** *(Kekkei Tōta, Mū and Ōnoki)* share a romanisation and share nothing else. **Always write the kanji or the English when either comes up at the table.** Dust Release is the one that disintegrates matter; Swift Release is the one that makes you unhittable.
 
 **2. Physiological Kekkei Genkai** — bloodline traits of the body itself.
 

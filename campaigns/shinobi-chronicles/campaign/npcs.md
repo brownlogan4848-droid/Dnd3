@@ -309,6 +309,14 @@ Prickly, digressive, tired. **Objects to being asked three questions at once.** 
 
 ## 「三ツ木」 "MITSUKI" — **[NEW BINGO BOOK ENTRY] · ACTIVE, Year 0**
 
+> ### ⚠ NAME COLLISION WITH CANON — **read before using this NPC at the table**
+>
+> **ミツキ Mitsuki** is a canonical *Boruto*-era character — **Orochimaru's artificial son**, a Ryūchi Cave sage lineage, and he is referenced by name in **Book II §6** under the Three Sage Locations. **This NPC is not him and has nothing to do with him.**
+>
+> This one is **三ツ木**, different kanji, and it is **an alias a technique thief signed in a provincial register.** It is meant to sound like a dull civil servant's surname, which is the point of it.
+>
+> **If the collision causes confusion at the table, rename this NPC — the alias is disposable by design and nothing in the campaign depends on it.** *Suggested alternates: 三ツ井 Mitsui · 御木 Miki · 三隅 Misumi.*
+
 ```
 Name:                    "三ツ木 Mitsuki" — ALIAS. Real name unknown
 Classification:          Technique thief / collector

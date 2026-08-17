@@ -6,8 +6,9 @@ Academy-level fundamentals. The techniques every student must master before grad
 
 ## Ninjutsu & General Skills
 
-### Body Replacement Technique
+### Body Replacement Technique — *also **Substitution Technique***
 **Japanese:** Kawarimi no Jutsu (変わり身の術)
+**Also filed as:** **Substitution Technique** — the name used throughout **Book IV**, whose entire Reaction system is built on this jutsu. *Same technique, both names valid.*
 **Type:** Ninjutsu / General Skill
 **Rank:** E
 **Description:** The user swaps their own body with a nearby object — classically a log — at the instant an attack lands, so the strike hits the decoy while the user relocates to safety. Execution quality varies enormously with skill: a genin telegraphs the swap with a puff of smoke and a visible log, while jōnin perform it so fluidly that opponents waste entire combinations on substitutions without realizing it. Reactive rather than proactive, requiring the user to correctly read incoming danger.

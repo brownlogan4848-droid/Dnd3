@@ -378,8 +378,8 @@ Every technique is written with five fields:
 |---|---|---|---|---|
 | **Clone Technique** (Bunshin no Jutsu) | 5 | 0 | 1 Action | Academy Graduate |
 | **Transformation Technique** (Henge no Jutsu) | 4 | 0 | Bonus Action | Academy Graduate |
-| **Substitution Technique** (Kawarimi no Jutsu) | 8 | 5 | **Reaction** | Nearby object (log, rock, barrel) |
-| **Rope Escape Technique** (Nawa Nobori no Jutsu) | 3 | 2 | Bonus Action | Rope bindings or restraints |
+| **Substitution Technique** (Kawarimi no Jutsu 変わり身の術) | 8 | 5 | **Reaction** | Nearby object (log, rock, barrel) |
+| **Rope Escape Technique** (Nawanuke no Jutsu 縄抜けの術) | 3 | 2 | Bonus Action | Rope bindings or restraints |
 
 **Clone Technique.** Creates up to 3 illusionary copies. Clones cannot attack, cannot take damage, and vanish on contact. Grants advantage on one Deception or Performance check involving visual trickery.
 
@@ -388,6 +388,12 @@ Every technique is written with five fields:
 **Substitution Technique.** When targeted by an attack, teleport to an unoccupied space within 15 ft and replace yourself with a nearby object. **Cannot be used against area attacks. Usable once per round.**
 
 **Rope Escape Technique.** Attempt to escape ropes or basic restraints, rolling with advantage against non-chakra restraints. **Does not work on chakra-based seals or advanced bindings.**
+
+> ### ⚠ TWO TERMINOLOGY REPAIRS **[LORE]**
+>
+> **1 — Rope Escape was printed here as "Nawa Nobori no Jutsu."** 縄昇り *nawa nobori* means **rope climbing**, which is not this technique and is not a technique at all. The correct name is **縄抜け Nawanuke — "rope slipping."** The Jutsu Compendium had it right; this table did not.
+>
+> **2 — Substitution and "Body Replacement" are the same jutsu.** This system calls it **Substitution** throughout — the entire Reaction chapter is built on it — while `jutsu-compendium/01-e-rank.md` files it as **Body Replacement Technique**. Both are legitimate translations of 変わり身の術. **A GM looking up "Substitution" in the compendium finds nothing**, which is a bad outcome for the most-referenced technique in the game. Both files now carry both names.
 
 ##### D Rank
 
