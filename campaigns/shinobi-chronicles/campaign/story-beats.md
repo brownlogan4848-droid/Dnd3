@@ -219,6 +219,16 @@ Two policemen saw her right eye in a window reflection on the tenth and **went h
 **IF** Suzume summons through the Ishinuma line, or the party reaches the tortoises.
 **THEN** Gensai answers honestly — **or refuses, which is its own information.** *Do not let him give the whole picture. Book III §4 applies to summons too.*
 
+## 信念 HIS CONVICTION — **Resolve 8**
+
+> ***"If I am useful enough, nobody can move me off the roster again."***
+>
+> **Crack:** ***"You made yourself indispensable so nobody could discard you — then you discarded the only two people who never would have."***
+>
+> **Both PCs have shared experience and get advantage.** Full entry and the evidence required: `campaign/npcs.md` → CONVICTIONS. Rules: Book IV §4 Part Six-B.
+>
+> **⚠ Talking him down does not decide A1.** Resolve 0 makes him *stop*. **Whether the bond is broken or holds is still Ardo's call**, and it can go either way with a man standing there listening.
+
 ## ⚠ LANDMINE — WHO HOLDS HIM
 
 **Unresolved by standing GM ruling.** Four live readings: **Danzō · Orochimaru with Danzō as cover · someone else entirely · nobody, and he is attributing it.**

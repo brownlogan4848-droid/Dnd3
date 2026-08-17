@@ -2348,6 +2348,116 @@ The most useful thing you can give a named enemy. Each of these is worth more th
 ---
 ---
 
+### PART SIX-B — 信念 SHINNEN: THE CONVICTION SYSTEM **[GM — ADDED. Talk-no-Jutsu, made mechanically real.]**
+
+> ## ⚠ THE GAP THIS FILLS
+>
+> **The single most distinctive resolution mechanic in this entire setting had no rules.** Naruto talks Nagato down. Naruto talks Obito down. Naruto talks *Gaara* down, and Gaara becomes a Kage. **Every major antagonist in the source material is defeated by an argument at least as often as by a technique** — and this system offered one line of GM advice: *"Let players talk to enemies during fights. Sometimes let it work."*
+>
+> That is not a mechanic. It is a hope. And because it was a hope, the two times this table has done it — **the Shepherd surrendering in Session Seven**, and **the ANBU captain standing her squad down at the hospital** — were adjudicated entirely on GM instinct with nothing to hang them on.
+
+#### The core idea
+
+**Every antagonist worth talking to has a 信念 Conviction** — one sentence they have organised their life around — **and a Crack**, which is the contradiction inside it that they cannot look at.
+
+**You do not beat a Conviction by being right. You beat it by naming the Crack.**
+
+#### Building a Conviction — three lines, that's all
+
+| Line | What it is |
+|---|---|
+| **信念 Conviction** | The sentence. First person. *"I keep people alive by holding them."* — the Shepherd |
+| **The Crack** | The contradiction they cannot face. *"You are doing to them exactly what was done to you."* |
+| **Resolve** | How much argument it takes. **See the table** |
+
+| Antagonist | Resolve | Example |
+|---|---:|---|
+| **Wavering** — already doubts it | **3** | A conscript, a hired watcher, somebody's frightened subordinate |
+| **Standard** — committed, not fanatical | **5** | Most named antagonists |
+| **True believer** — it is load-bearing to their identity | **8** | A Rival. Souji |
+| **Wall** — the Conviction *is* the character | **12** | Only for antagonists the campaign is built around |
+
+#### How it plays
+
+**A Conviction attack costs your Action.** Not a bonus action, not free talking. **You are choosing to argue instead of fight, in front of someone trying to kill you, and that is the point.**
+
+| | |
+|---|---|
+| **Roll** | **CHA (Persuasion/Intimidation), WIS (Insight), or INT (recall a fact that indicts them)** — your choice, but say which and why |
+| **Against** | The antagonist's **Conviction DC** = 8 + their proficiency + their highest mental modifier |
+| **Hit** | **−1 Resolve** |
+| **Naming the Crack, with evidence earned in play** | **−3 Resolve**, and it may be done **only once** |
+| **Shared experience** — your character has genuinely lived the same thing | **Advantage.** Say what it is. **The GM may veto a stretch** |
+| **⚠ Miss** | **The Conviction *hardens*: +1 Resolve, and that angle is closed permanently.** Wrong guesses make people more certain. That is how people work |
+
+#### The two hard rules
+
+> **1 — You cannot attack a Conviction you have not learned.** No blind guessing. **The Crack has to be discovered** — from a witness, a document, a technique's construction, a summon who does not lie, or the antagonist's own slip. **This is what makes Book III §4 Information Horizons matter outside of dialogue.**
+>
+> **2 — Resolve 0 does not mean converted.** It means **they stop.** The fight comes off the boil and the antagonist has to make a decision *as a person*, with the GM playing it honestly. **They may still walk away. They may still kill you.** Nagato chose to give his life. Obito chose to help. **Kaguya chose nothing, because Kaguya has no Conviction — she is a force, and forces cannot be talked to.**
+
+#### What Resolve 0 actually buys
+
+| Outcome | When |
+|---|---|
+| **Surrender** | They were tired of it and someone finally said so |
+| **Withdrawal** | They need to go and think, and they will be back **changed** |
+| **Defection** | Rare, expensive, earned. **Usually needs a second scene later** |
+| **A truth** | They tell you the thing they have never told anyone, and *then* the fight resumes |
+| **Nothing — but it costs them** | A Wall may absorb it and continue. **Their Resolve stays at 0 for the rest of the arc**, and everyone at the table saw them flinch |
+
+#### ⚠ What this system is not for
+
+- **Not for mooks.** Give Convictions to antagonists with names.
+- **Not a stun.** Arguing does not stop their turn. **They act on their turn as normal while you spend actions on this.**
+- **Not for Edo Tensei**, who are covered separately in §4 Part Three — *although the non-combat win condition that rule demands is very often exactly this.*
+- **Not a substitute for the fight.** The best version of this is a party splitting the work: two people holding the line while one talks.
+
+#### Worked example — **the Shepherd, Session Seven, reconstructed**
+
+> **Conviction:** *"I keep them alive. Nobody else would have."*
+> **Crack:** *"You are holding people in exactly the unresolved cruelty you were held in — and you know it, because you counted the years."*
+> **Resolve 5.** True-believer-adjacent, but genuinely tired.
+>
+> **How the party earned it:** four headbands matched to MIA files up to **eight years old, never KIA, no bodies ever.** That evidence *is* the Crack — it proves the Shepherd was keeping, not saving.
+>
+> **At the table:** Ardo attacked the Conviction on its own logic and landed the Crack. **The Shepherd surrendered.** Under these rules that is exactly what should have happened, and now there is a number behind it.
+
+---
+
+### PART SIX-C — HOW SHINOBI ACTUALLY TALK, BY VILLAGE **[GM — ADDED]**
+
+> **Book III gives Voice lines for named canon characters and nothing for the hundreds of NPCs a GM invents.** A Kiri jōnin and an Iwa jōnin were sounding identical, which is a village-flavour failure and a scannability failure at once.
+
+| Village | Register | Verbal tell | What they never say |
+|---|---|---|---|
+| **Konoha** 木ノ葉 | **Warm, and it is not an act.** Talks about people by name, brings up their squad unprompted | *"My teammate—"* even mid-fight | Rarely admits the village was wrong. **The Will of Fire is sincere and it is also a blind spot** |
+| **Suna** 砂隠れ | **Dry, economical, transactional.** A poor village that counts everything | Prices things out loud — *"that's a week of water"* | Complaints about hardship. **They find that embarrassing** |
+| **Kiri** 霧隠れ | **Flat and pleasant, with nothing behind it.** The Bloody Mist taught a generation to be unreadable | Cheerful phrasing, dead delivery | Anything about their own bloodline, ever. **Assume they are hiding one** |
+| **Kumo** 雲隠れ | **Loud, direct, physical.** Confidence as a policy | Names their own technique before using it, and means it as courtesy | Apologies. **They will say what they'd do differently, not sorry** |
+| **Iwa** 岩隠れ | **Stubborn, grudge-keeping, long memory.** Talks about *last* war | *"We haven't forgotten"* — and they have not | Nothing is forgiven. **Iwa's grievances are load-bearing** |
+| **Ame** 雨隠れ | **Fatalistic and quiet.** Everyone's battlefield for thirty years | Talks about the rain like it is a person | Hope, out loud, to a stranger |
+| **Missing-nin** | **No register at all** — they have dropped the village's grammar and picked up nothing | Uses the old village's idiom by accident, then stops | The village's name, if they can help it |
+
+#### Clan speech overlays — **these sit on top of the village register**
+
+| Clan | Overlay |
+|---|---|
+| **Uchiha** | **Precise, and slightly above you.** States conclusions rather than arguing them |
+| **Hyūga** | **Formal to the point of coldness**, and the formality *is* the branch/main-house wound |
+| **Nara** | **Bored, brief, and three steps ahead.** Explains only when he has to |
+| **Akimichi** | **Generous and loud**, and there is one word you must not use |
+| **Inuzuka** | **Blunt, physical, interrupts.** Talks *to* the dog in front of you |
+| **Aburame** | **Full sentences, no contractions, absolutely no small talk** |
+| **Yamanaka** | **Reads you and lets you know she did.** Uses your own phrasing back at you |
+| **Uzumaki** | **Loud, warm, profane, and physically close.** *Mishima remembers them as "loud, which I liked"* |
+| **Senju** | **Almost nobody left, so: whatever they were raised as** — and the weight is other people's expectations, not their manner |
+
+> ### ⚠ Use one tell, not the whole row.
+> **Pick a single verbal habit per NPC and stay on it.** The failure mode is a GM playing every trait at once, which produces a caricature rather than a person — and the campaign's own dialogue rules already forbid it: *"strip the tags — if you cannot tell two NPCs apart, neither has a voice yet."* `CUSTOM_INSTRUCTIONS.md` → DIALOGUE, PART ONE.
+
+---
+
 ### PART SEVEN — QUICK CONVERSION TABLE
 
 For turning any character in **Book III §1–3** into a usable threat:

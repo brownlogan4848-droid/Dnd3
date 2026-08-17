@@ -307,6 +307,44 @@ Prickly, digressive, tired. **Objects to being asked three questions at once.** 
 
 ---
 
+# 信念 CONVICTIONS — the live antagonists
+
+> **Book IV §4 Part Six-B.** A Conviction is one sentence the antagonist has organised their life around, plus the **Crack** they cannot look at. **You cannot attack a Crack the party has not discovered in play.**
+
+## 宗司 SOUJI TERADA — **Resolve 8** *(true believer)*
+
+| | |
+|---|---|
+| **信念** | ***"If I am useful enough, nobody can move me off the roster again."*** |
+| **The Crack** | ***"You made yourself indispensable so nobody could discard you — and then you discarded the only two people who never would have."*** |
+| **Evidence needed** | **Two cells before this one.** Genzo's squad dissolved on a line in a report. The second lasted **eleven days** until a clan heir needed a slot and *"the easiest name to move off the roster was the clanless one."* **Nobody has ever said this to his face** |
+| **Shared experience — advantage** | **Ardo qualifies.** Blank surname line, no clan, nobody looking for him. **Suzume qualifies harder** — Uchiha by blood, claimed by nobody, not at birth and not when her eyes opened |
+| **⚠ Interaction with Gate 3** | Resolve 0 does **not** decide whether the bond is broken or holds. **That decision is Ardo's and it happens whether Souji is talked down or not.** *Do not let the mechanic make the choice* |
+
+## 「三ツ木」 MITSUKI — **Resolve 5** *(standard, and unusually calm about it)*
+
+| | |
+|---|---|
+| **信念** | ***"I am not taking anything from anyone. I am moving what was always meant to move."*** |
+| **The Crack** | ***"You built the reversible version so you could tell yourself it isn't damage — and then you used it on a clerk who fetched you tea."*** |
+| **Evidence needed** | **早瀬 Hayase**, who remembers the tea and not the man. **クロベ Kurobe**, twelve years, calm and polite. **The elder at Fuchinomiya**, who knows the water wants doing. *Reversible by design is the tell, and Suzume already found it* |
+| **⚠ Do not** | Have him get angry. **He will concede the point courteously and keep working.** A Crack landing on Mitsuki buys a *truth*, not a surrender |
+
+## THE SHEPHERD — **Resolve 5** · ⚠ **ALREADY SPENT, Session Seven**
+
+| | |
+|---|---|
+| **信念** | *"I keep them alive. Nobody else would have."* |
+| **The Crack** | *"You are holding people in exactly the unresolved cruelty you were held in."* **Landed.** They surrendered on it |
+| **⚠ NOW** | **Konoha then did precisely that to them for thirteen years** — no trial, no judgment, just a file nobody got round to — and they escaped on the tenth. **The Crack has been re-armed by Konoha, pointing the other way.** *Ardo does not know, and the Shepherd may not blame him, which is worse* |
+
+## 牧野 ハナ HANA · 辰巳 TATSUMI · 早瀬 HAYASE — **no Conviction**
+
+**They are civilians in a bad job.** Convictions are for antagonists with a position. **These three have circumstances, not positions** — talk to them normally.
+
+---
+---
+
 ## 「三ツ木」 "MITSUKI" — **[NEW BINGO BOOK ENTRY] · ACTIVE, Year 0**
 
 > ### ⚠ NAME COLLISION WITH CANON — **read before using this NPC at the table**
