@@ -1591,6 +1591,30 @@ Substitution              E    Ninjutsu   8/5      ●●●●● (PERFECTED �
 
 **Cap: 5 Mastery XP per jutsu per combat.** Spamming one technique down a corridor doesn't teach you anything.
 
+#### DOWNTIME ACTIVITIES **[GM — ADDED. Training was the only downtime activity in the system.]**
+
+**A week of downtime buys each character one Major activity and any number of Minor ones.**
+
+| Major activity | What it does |
+|---|---|
+| **Dedicated training** | Mastery XP per the table below. **Capped at 25 XP per technique per week** |
+| **Learn a new technique** | Requires a teacher, a scroll, or firsthand observation. **One week for D-rank, two for C, four for B, a season for A, longer for S** |
+| **Nature affinity work** | Progress on a second nature. **Slow by design** — Book II §2 |
+| **Build something** | A seal, a tool, a poison, a modification. **GM prices it in weeks** |
+| **Work a contact** | Turn an acquaintance into an asset, or an asset into a friend. **One NPC relationship advances a stage** |
+| **Recover properly** | Clears one lingering injury or condition that rest alone will not touch |
+| **Chase a thread** | Pursue one entry from `campaign/story-beats.md`. **This is how ARMED beats become READY** |
+
+| Minor activity | What it does |
+|---|---|
+| **Shop and restock** | Escape kit, consumables, replacements. Book II §4 |
+| **Requisition** | Village gear above standard issue. **Needs approval, and approval is a scene** |
+| **Report and be debriefed** | Information flows both ways. **The village learns what you did** |
+| **Spar** | +3 Mastery XP per day on one technique, and somebody else finds out what you can do |
+| **Rest** | Nothing happens. **Let it be an option** |
+
+> **⚠ Downtime is where the village notices you.** Every Major activity above is visible to somebody. A character who trains alone for a season is *also* a character nobody has seen for a season.
+
 #### In downtime
 
 | Training | Mastery XP per day |
@@ -1606,21 +1630,30 @@ The single most important downtime rule in the setting, and it should be mechani
 
 > **Each Shadow Clone dedicated to training a jutsu generates Mastery XP in parallel.** When the clone dispels, its experience returns to you.
 
-| Clones training | Effective XP multiplier |
+| Clones training | Effective XP multiplier **[GM — REPAIRED, was linear]** |
 |---|---|
-| 1 (just you) | ×1 |
-| 2 | ×2 |
-| 5 | ×5 |
-| 10 | ×10 |
+| 1 (just you) | **×1** |
+| 2–4 | **×2** |
+| 5–9 | **×3** |
+| 10–19 | **×4** |
+| 20+ | **×5** |
 
-**The cost:** each clone drains Chakra for the duration, and dispelling them all at once inflicts the mental strain of days of memory arriving in one moment.
+**The cost:** each clone drains Chakra for the duration, and dispelling them inflicts the mental strain of days of memory arriving at once.
 
-| Clones | Chakra per training day | Strain on dispel |
+| Clones trained that day | Chakra per training day | Strain **[GM — REPAIRED]** |
 |---|---|---|
 | 2–4 | 30 each | None |
 | 5–9 | 30 each | CON save DC 13 or lose the next day to a migraine |
 | 10–19 | 30 each | CON save DC 16 or **1 day unconscious** |
 | 20+ | 30 each | CON save DC 20 or **1d4 days unconscious**, and roll on the Backfire table |
+
+> ## ⚠ THE TWO REPAIRS, AND WHY
+>
+> **1 — The multiplier was linear and it broke the mastery ladder.** Ten clones at **×10** on solo practice is **+20 XP a day. Perfected costs 100.** That is **five days to take any technique to Tier 4 including its Signature Variant**, and twenty clones did it in two and a half. A month of downtime perfected an entire kit. **Diminishing returns above.** Clones are still the best training method in the setting by a wide margin — they are no longer a cheat code.
+>
+> **2 — The strain keyed off the *dispel*, not the training.** A shinobi with twenty clones simply dispelled them **four at a time** and paid nothing at all, because *"2–4: none."* The table now keys off **how many were trained that day**, which is what the strain is actually made of. **You cannot batch your way out of a week of memories.**
+>
+> **3 — Hard ceiling: a single technique may gain at most 25 Mastery XP per week of downtime**, by any method or combination of methods. **Perfected therefore takes a month of dedicated work at minimum**, which is what *"over a single downtime arc"* was always meant to mean.
 
 **This is how a character goes from adequate to terrifying over a single downtime arc** — and it costs them something real. It's also gated behind an A-rank kinjutsu, so nobody's doing it at Genin.
 

@@ -1004,9 +1004,11 @@ Because **there is no universal way to break out of a combo** (**Book IV §2, Pa
 | **Tripwire (pre-set)** | **BREAK** — prepared terrain only | 200 |
 | **Escape tag** | **DISPLACE** 30 ft, no line of sight required — a manufactured Kawarimi | 1,500 |
 | **Blinding powder** | **EVADE** — attacker takes −4 on their next action | 250 |
-| **Chakra-shroud cloak** | **EVADE** — negate one action per combat, rechargeable | 8,000 |
+| **Chakra-shroud cloak** | **EVADE** — negate one action per combat. **Recharges on a long rest, and holds nine charges total before the weave is spent** and it must be re-inked by a sealer for **2,000** | 8,000 |
 
-**These are consumables by design.** Spending them and re-buying them is what turns D-rank mission pay into a meaningful reward.
+**These are consumables by design.** Spending them and re-buying them is what turns D-rank mission pay into a meaningful reward — **which only works if the squad is being paid its share and not the whole contract.** See **Book I §4 → The Squad Share.**
+
+> **⚠ The cloak was the one non-consumable in a consumables list.** *"Negate one action per combat, rechargeable"* with no limit is a permanent, free Evade every fight forever, in a system whose stated design is that **there is no universal way to break out of a combo.** It now has nine charges and a re-inking cost, which keeps it aspirational without making it a solved problem.
 
 **Soldier pill warning:** these are the setting's version of amphetamines and the drawback should bite. A squad that pill-stacks through a mission should be wrecked afterward.
 

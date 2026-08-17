@@ -975,6 +975,35 @@ A candidate is promoted if the judges believe they can **lead a squad and bring 
 
 **Who gets paid:** The **village** is the contracting party. The shinobi receive a portion; the village takes the rest for operations, the Academy, the hospital, and the treasury. A missing-nin taking private contracts keeps everything — one of the few genuine advantages of defection.
 
+#### ⚠ THE SQUAD SHARE **[GM — REPAIRED. "A portion" was never a number, and the economy broke without one.]**
+
+> **The bug.** The table above is the **contract value paid to the village.** The rules said squads receive *"a portion"* and never said how much — so at the table the whole contract landed in the players' pockets. **A single D-rank mission at 5,000–50,000 ryō buys between twelve and a hundred and twenty-five flash bombs**, against Book II's escape kit at 250–1,500 a piece. The escape kit is explicitly designed to be *"consumables… what turns D-rank mission pay into a meaningful reward."* **It was not a meaningful anything. It was pocket change from mission one.**
+
+| Rank | Squad's share of contract value | Then split |
+|---|---:|---|
+| **Genin** | **10%** | Evenly among the squad; **sensei takes no cut** |
+| **Chūnin** | **15%** | Evenly |
+| **Jōnin** | **25%** | Evenly |
+| **S-Rank / independent under village seal** | **40%** | Evenly |
+| **Missing-nin / private contract** | **100%** | And no hospital, no requisition, no backup |
+
+**Worked example — the intended feel.** A Genin squad of three clears a D-rank at 15,000 ryō. The squad share is **1,500**, or **500 each.** That is one flash bomb and change, or half a smoke bomb short of two. **Now the escape kit is a decision.**
+
+**Worked example — the top end.** A jōnin pair clears an A-rank at 600,000. Their share is **150,000**, or **75,000 each** — which buys a chakra-shroud cloak, a storage scroll and a season of not thinking about money. *That is correct. Jōnin are supposed to be comfortable.*
+
+> **Hazard pay, salvage and claims sit outside this table** and are the GM's to price. They are also how a long-running independent unit becomes genuinely wealthy without ever taking an S-rank — which is exactly how **遊撃班 Yūgekihan** ended up not needing to track money at all.
+
+#### Standing costs the village covers, and stops covering
+
+| | Genin / Chūnin | Jōnin+ | Missing-nin |
+|---|---|---|---|
+| Standard kit, replacement gear | **Free** | Free | **Buy it** |
+| Hospital, medical-nin | **Free** | Free | **Nothing** |
+| Specialist gear, sealed scrolls | Requisition, approval needed | Requisition | **Black market, at 3× list** |
+| Housing | Subsidised | Own it | — |
+
+**This is why defection is expensive** and why the pay difference is not the windfall it looks like on paper.
+
 #### The Mission Desk
 Located in the administration building, staffed by chūnin and overseen (in Konoha) by the Hokage in person for anything above C-rank. Squads receive briefings, scroll assignments, and — critically — **the client's stated version of events.**
 
