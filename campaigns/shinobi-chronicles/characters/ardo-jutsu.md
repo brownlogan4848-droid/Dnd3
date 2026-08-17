@@ -191,9 +191,17 @@ Same cost. **Ranged attack roll, 30 ft**, same **2d8 Wind**, push 15 ft. **No re
 | Form | Cost | Effect |
 |---|---|---|
 | **BASE** | 10 Ch / 6 St | Melee only — he must close and press it in. **2d8 Wind, no save**; hits automatically on a successful melee attack |
-| **UNSTABLE (Overcharge)** | 45 Ch / 20 St | Chosen at cast time. **4d8 Wind, no save.** **CON save DC 12** or the instability tears back through his own hand and arm, taking a portion of the damage dealt |
+| **UNSTABLE (Overcharge)** | 45 Ch / 20 St | Chosen at cast time. **4d8 Wind, no save.** ✅ **No backlash** |
 
-*(Precision dropped the backlash DC from 14 to 12 and closed the prototype penalty — backlash no longer triggers on a natural 1. Prototype status formally lifted.)*
+> ### ✅ BACKLASH REMOVED — Year 0, October 18th `[GM — table ruling]`
+>
+> ~~CON save DC 12 or the instability tears back through his own hand and arm, taking a portion of the damage dealt.~~ **VOID.**
+>
+> **The name was always the diagnosis.** *Unstable* meant a man forcing more through a channel than his regulation could hold — **the same failure as Arakawa, at the scale of one hand.** With Arakawa resolved there is nothing left to tear back through.
+>
+> *History: Precision dropped the backlash DC from 14 to 12 and closed the prototype penalty (no longer triggering on a natural 1). Prototype status was lifted before this. **The whole clause is now void.***
+>
+> ⚠ **The cost stands — 45 Chakra / 20 Stamina for 4d8 is still an expensive choice**, and Overcharge remains a Book IV decision made at cast time. **What is gone is the risk, not the price.**
 
 **Daisen note:** Compression Shell *"has started doing something to the air around the target that he cannot account for."* Unresolved, GM-driven.
 
