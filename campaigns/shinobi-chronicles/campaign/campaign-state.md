@@ -15,8 +15,8 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 16th — ~04:30.** Session Fourteen, mid-session. |
-| **Location** | **Cedar country ~90 km east of the Hiyakeno ford**, off the road. A slope, a downed prisoner, and no fire |
+| **In-world date** | **Year 0, October 17th — dusk.** Session Fourteen, mid-session. |
+| **Location** | **火焼野 Hiyakeno, the ford town.** Roof of the grain store, then the weighing-house back room. **The barrier is down and the road is open** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
 | **Last session** | **Session Fourteen — "WHAT THEY BUILT WITH US" — IN PROGRESS.** The barrier · Toki · the ledger · Fuchinomiya. Full record: `session-log.md` |
 
@@ -275,14 +275,14 @@ Per-character threads live in each `characters/<name>-story.md`.
 
 1. **Where Souji is, and who actually holds his leash.** See the Decision Point above.
 2. **The masked man.** Knows Naruto is not a jinchūriki and left anyway — meaning either he cannot proceed without a real vessel, or he already has a second plan.
-3. **Ardo's grinding double seal**, patched by a dying man and inspected by nobody.
-4. **Kurama, as a relationship.** Stage 0–1. It has already asked one real question and gotten one real answer.
-5. **The Vision meter** — settled mechanically, live at **62**, and now being spent voluntarily. See the ledger above.
+3. ✅ **RESOLVED — the grinding double seal.** Examined and fixed, Session Fourteen. *Kept here as a record of a thread that closed.*
+4. **Kurama, as a relationship.** **Stage 1 and moving.** Has now been asked what he wants — the first time in nine hosts — and made one request in return.
+5. **The Vision meter** — live at **61** and being spent voluntarily, roughly one per scene that matters. See the ledger above.
 6. **The stand of trees.** Still unvisited after thirteen years. Nine archive members placed it in the same region; **two went quiet in a way Nao refuses to explain.**
 7. **Four living Uzumaki found. Three were dead ends. One was not**, and Ardo has discussed it with nobody but the archive.
 8. **Three names nobody will say:** the man who signed the snake scroll ninety years ago · the boy who walked out of Konoha and never came home · the syllable Hikari started and did not finish.
 9. **⚠ WHAT ARDO DOES ABOUT THE SCROLL.** He has read it. Konoha's obligation to reinforce the island was drafted, costed, signed, and held. **He has not written to Hiruzen, has not turned around, and has not said the word *betrayal* out loud.** The scroll is still in the satchel. *This is his call and nobody should make it for him.*
-10. **⚠ THE TREELINE.** Ardo burned **大仙 Daisen unshielded for eleven minutes** on open ground the first night out. Something answered. **Live, immediate, and entirely his own doing.**
+10. ✅ **RESOLVED — the treeline.** Twelve minutes of unshielded 大仙 tripped a watch. **It was 牧野 ハナ Makino Hana.** *Closed; consequences live on in thread 14.*
 11. **The relay.** The trustee's word — the craft was a *route*, not a container, and *"you have never once thought to do it with people."* **This is the mechanical key to 渦潮 and he has now felt the missing arc directly.**
 12. **The archive on Souji.** The trustee told Ardo to ask it, in the morning, **out loud, where Suzume can hear.** He has not yet.
 13. **Hikari was four and in Konoha** during the delegation season. **Kushina's cut-off sentence — *"That's — I knew a—"* — is now much louder.**
@@ -293,27 +293,27 @@ Per-character threads live in each `characters/<name>-story.md`.
 
 ---
 
-## ⏱ SESSION FOURTEEN — THE LIVE CLOCK
+18. **⚠ 木ノ葉隠れ・内務調整室 — the Office of Internal Coordination.** A Konoha administrative body that countersigned a Fire Country road closure and that **neither a jōnin nor a senior hospital medic has ever heard of.** Real body, Root cover, or fabrication — **all three live.** *The Danzō ruling applies: let the trail be nearly right.*
+19. **⚠ 継ぎ手 THE TSUGITE.** The Uzumaki broke a **method for moving a sealed bijū between living vessels without killing either** into fragments and inked them into strangers, then destroyed the count on purpose. **Worthless alone. Three collected — and the party now holds one of the three.** The archive genuinely cannot say how many exist; their own ancestors made sure of that. *This is why three nations came for Uzushio.*
+20. **⚠ KURAMA'S SIBLINGS.** Nine. Four in people. He doesn't know which four, and the last he heard of any came through a wall thirty years ago. **Ardo has offered to find them. Kurama has not accepted.**
+21. **⚠ WHAT ARDO CAN NOW DO.** He fixed a live containment join by **rhythm instead of re-cutting**, first attempt, and four hundred generations had never tried it. **That is adjacent to the thing the collector is assembling** — and adjacency is how people get found.
+22. **⚠ HE DID IT ALONE, IN THE DARK, AT HALF FOUR.** Monuke's first condition, broken. Nobody in the archive mentioned it. **Suzume knows something changed and has decided to make him tell her.**
+23. **⚠ THE MILL AT KANŌ CROSSING.** Fourth night of the month, from dusk, under the wheel housing, walk away and don't wait. **Tazawa ran it twice and never saw who collects.** He is now four days past his window, *which means the collector already knows something went wrong.*
+24. **⚠ TAZAWA.** Ex-Konoha field surgeon, eleven years, Sanbyaku-tai northern rotation. Harvests intact tissue from living people because dead tissue ruins the ink. **Spared, one knee set by Suzume and then struck down by Ardo, left alone in cedar country ~90 km east.** *Whether he lives is genuinely open.*
+25. **⚠ クロベ KUROBE.** Went into the corridor against orders and came out with **twelve years missing and no awareness that anything is gone.** Same signature as Hayase, applied properly. **Toki has offered to owe the party for this.**
+
+---
+
+## ⏱ SESSION FOURTEEN — WHERE THE CLOCK WENT
 
 | | |
 |---|---|
-| **⚠ TOKI'S TWO DAYS** | **~1½ gone.** After that she works the corridor with or without them |
-| **The barrier** | **Still up.** Hiyakeno ford, ~30 provincial guard, the only crossing for 30 km. **Sixty people a day turned around** |
-| **⚠ CANNOT BE SOLVED WITH FORCE** | Thirty lawful men on a public road two days after the attack. **A shinobi atrocity lands on Konoha, not on the party** |
-| **The intendant** | **Gone to the capital with the seal, two days ago.** The only man who can rescind 4-1-7 is four days away in the wrong direction |
-| **The legal wall** | *"If it's a Leaf commission it's not really theirs to rescind, is it."* **Hayase is correct.** The province cannot undo a Konoha order |
-| **⚠ MITSUKI** | **Three days inside the closed corridor, alone, at 淵ノ宮 Fuchinomiya** — a day past the ford |
-| **What Fuchinomiya is** | Hereditary grant, Year −36, Kaneshiro household, *"for the maintenance and keeping of **works constructed under the alliance**"* — **Uzumaki work left standing in Fire Country** |
-| **⚠ THE YEAR −18 CONSULTATION** | *Konohagakure — sealed request — name omitted by instruction.* No authorising officer. **The same year Hiruzen marked the alliance 保留** |
+| **✅ The barrier** | **DOWN.** Not broken and not rescinded — **withdrawn**, morning of the 16th, by a rider with a paper. *Withdrawn means it was finished.* The party did not do this and were not present |
+| **⚠ What that means** | **Mitsuki completed whatever he went into 淵ノ宮 Fuchinomiya to do**, and left through a road he had cleared for himself. **Two days ahead** |
+| **✅ Toki's two days** | **Expired.** She is no longer cross about it — *"I've got a bigger thing"* |
+| **⚠ Fuchinomiya** | **Status unknown.** A day up the now-open road. Kaneshiro household, hereditary grant Year −36, *"works constructed under the alliance"* |
 | **The undecided question** | Whether the pre-attack commission date means somebody **knew** or somebody got **lucky.** *The paper cannot tell them* |
-| **早瀬 Hayase** | Exposed. A frightened civilian who helped, and whom somebody will eventually question |
-
-19. **⚠ 継ぎ手 THE TSUGITE.** The Uzumaki broke a **method for moving a sealed bijū between living vessels without killing either** into fragments and inked them into strangers, then destroyed the count on purpose. **Worthless alone. Three already collected.** The archive genuinely cannot say how many exist — their own ancestors made sure of that. *This is why three nations came for Uzushio.*
-20. **⚠ KURAMA'S SIBLINGS.** Nine. Four in people. He doesn't know which four, and the last he heard of any came through a wall thirty years ago. **Ardo has offered to find them. Kurama has not accepted.**
-21. **⚠ WHAT ARDO CAN NOW DO.** He fixed a live containment join by **rhythm instead of re-cutting**, first attempt, and four hundred generations had never tried it. **That is adjacent to the thing the collector is assembling** — and adjacency is how people get found.
-22. **⚠ HE DID IT ALONE, IN THE DARK, AT HALF FOUR.** Monuke's first condition, broken. Nobody in the archive mentioned it. **Suzume does not know any of this happened.**
-
-18. **⚠ 木ノ葉隠れ・内務調整室 — the Office of Internal Coordination.** A Konoha administrative body that countersigned a Fire Country road closure and that **neither a jōnin nor a senior hospital medic has ever heard of.** Real body, Root cover, or fabrication — **all three live.** *The Danzō ruling applies: let the trail be nearly right.*
+| **早瀬 Hayase** | Still exposed, in Suibara, unaware his memory has a hole in it |
 
 ---
 ---
