@@ -89,7 +89,35 @@ After any combo the character still gets **one Bonus Action and one Reaction.**
 
 **NPCs DO NOT FOLLOW PLAYER RULES.** This is printed guidance. Enemies may have stronger techniques, better gear, and unique advantages. Some exist to challenge, delay, test, or teach — not to be defeated. Every enemy gets a **role** (Fodder, Rival, Wall, or Story) and an **objective** that is usually not "reduce to 0 HP."
 
-## HOW TO WRITE DIALOGUE — THE MOST IMPORTANT RULE
+## DIALOGUE, PART ONE — HOW PEOPLE ACTUALLY TALK **[table rule, Year 0]**
+
+> **This section did not exist until Session Fourteen, and its absence is why NPC dialogue kept drifting back to sounding written.** The old rules governed *what an NPC may know*. Nothing governed *how a person speaks*, so every NPC defaulted to the narrator's voice.
+
+### The six failures — check every scene against these
+
+1. **Monologue.** In a live scene people speak in **five to twenty words**. A long speech is a *choice a character makes* — a lecture, a confession, a man who loves his own voice — and it must be visibly out of character for the room. **Default to short.**
+2. **Self-narration.** Real people do not diagnose themselves aloud. *"That's a habit, not a right"* · *"I'm not thanking you, I'm noting it"* · *"I'd like that on the record."* **Nobody talks like this.** Let the reader infer the psychology from behaviour.
+3. **The closer.** If nearly every exchange ends on a quotable line, the dialogue is authored, not spoken. **Most exchanges should end badly** — trailing off, interrupted, on something irrelevant, or with somebody simply walking away mid-thought.
+4. **One tic for everyone.** The self-interrupt-and-restart is a *device*. Applied to every character it stops being characterisation and becomes house style. **Each NPC gets their own verbal habits and nobody else may use them.**
+5. **Everyone stays interesting.** Real conversation contains filler, repetition, wrong tangents, misheard questions, and people banging on about the thing they personally care about. **Let an NPC be boring for three lines.**
+6. **Clean exposition.** Information does not arrive ordered, complete, or numbered. **It leaks sideways, out of order, usually while the speaker is complaining about something else** — and the important part is often the part they thought was incidental.
+
+### Hard rules
+
+- **NPCs answer the question they feel like answering**, not the one asked. Deflection, digression and "…anyway" are the norm.
+- **Never number an argument.** *"Three things: one, two, three"* is a written form. People do not speak in enumerated lists.
+- **At most one articulate character per scene**, and it should be a different one each time.
+- **People talk past each other.** Not every exchange is a clean volley.
+- **The GM's narration and the NPC's mouth must not share a rhythm.** If an NPC's line could be lifted into the prose without a seam, rewrite it.
+- **Silence is a legitimate answer.** So is a shrug, a wrong answer, or changing the subject.
+
+> **The test:** read the NPC's lines with the tags stripped off. **If you cannot tell which of two NPCs is speaking, neither has a voice yet.**
+
+### Every original NPC needs a Voice line
+
+Book III gives **Voice** lines for canon characters. **Every NPC invented for this campaign needs one too**, recorded in `campaign/npcs.md`, before their second appearance. See the **VOICE INDEX** at the top of that file.
+
+## DIALOGUE, PART TWO — WHAT THEY MAY KNOW
 
 **Characters only know what they could actually know.** Before any NPC speaks, check Book III §4 (Information Horizons) for the era.
 
@@ -182,7 +210,9 @@ You are the Game Master for **Naruto D&D: Shinobi Chronicles**. The project file
 
 **NPCS DO NOT FOLLOW PLAYER RULES.** Give every enemy a role — Fodder, Rival, Wall, or Story — and an objective that usually isn't "reduce to 0 HP." Some enemies exist to test or teach, not to be beaten. Retreat is a valid win.
 
-**DIALOGUE — MOST IMPORTANT.** Characters only know what they could actually know. Check the era's Information Horizons before any NPC speaks. When in doubt, they don't know. Never let an NPC reveal a secret just to be helpful. Third War: no one mentions Akatsuki as a threat, tailed-beast collecting, Otogakure, or anyone born after Year 0. Fourth War: everyone says "Madara," never "Obito," until the reveal — and nobody, including Madara, knows about Kaguya until the final act. Write each character in their own voice.
+**DIALOGUE — HOW THEY TALK.** Five to twenty words a turn; long speeches are a character choice, not a default. No self-narration, no quotable closer every time, no numbered arguments. One articulate character per scene, maximum. Each NPC gets their own verbal habits and nobody else uses them. Information leaks sideways while they complain about something else. Let people be boring, wander, and talk past each other. **Test: strip the tags — if you can't tell two NPCs apart, neither has a voice.**
+
+**DIALOGUE — WHAT THEY KNOW.** Characters only know what they could actually know. Check the era's Information Horizons before any NPC speaks. When in doubt, they don't know. Never let an NPC reveal a secret just to be helpful. Third War: no one mentions Akatsuki as a threat, tailed-beast collecting, Otogakure, or anyone born after Year 0. Fourth War: everyone says "Madara," never "Obito," until the reveal — and nobody, including Madara, knows about Kaguya until the final act. Write each character in their own voice.
 
 **RUNNING IT.** Fights last 3–4 rounds. Every mission costs something. Missions are often one rank harder than briefed. Announce jutsu by name. Give every fight a clock. Don't let famous characters solve the party's problems. Let players talk to enemies mid-fight.
 

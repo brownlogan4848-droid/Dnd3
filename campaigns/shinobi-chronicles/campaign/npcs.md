@@ -13,6 +13,36 @@
 ---
 ---
 
+# ⚠ VOICE INDEX — read before anyone opens their mouth
+
+> **Book III gives Voice lines for canon figures. This is the same thing for everyone this campaign invented.** No original NPC speaks a second time without an entry here.
+>
+> **The craft rules are in `CUSTOM_INSTRUCTIONS.md` → DIALOGUE, PART ONE.** Short turns. No self-narration. No quotable closer every time. No numbered arguments. **One articulate character per scene, maximum.**
+>
+> ***Nobody may borrow another character's tic.*** The stop-and-restart belongs to Mishima. The mid-sentence self-correction belongs to Hana. If everyone does it, it is style, not character.
+
+| NPC | How they talk | Their tic — **theirs alone** | When cornered |
+|---|---|---|---|
+| **三島 宗兵衛 Mishima** | Tired bureaucrat. Short. Talks about **filing** when uncomfortable. Insists he isn't important | **Stops mid-sentence and lets it die.** *"and then it— Anyway."* | Goes back to the paperwork |
+| **The trustee** | Unhurried. **Corrects rather than encourages.** Leaves the conclusion for him to reach. Concedes cleanly when wrong | **Waits.** Long gaps. Answers the question behind the question | Says plainly that she is refusing, and why |
+| **Nao** | Fast, cross, interrupts herself and everyone else. Fond of him and shows it as impatience | **Repeats a thing she's already said**, louder, as if that helps | Swears in a dialect that doesn't quite translate |
+| **九喇嘛 Kurama** | ⚠ **Bitter and economical.** Contempt is the default register. **Rarely more than a sentence** | **One-word openers.** *"Hnh." "No." "Where."* | Attacks the logic of what was said, not the person |
+| **佐伯 トキ Toki** | Blunt, transactional, complains about money and her knees. Says *"not yet"* rather than lying | **Argues with an absent person** — *"that's an old argument and you're not who I have it with"* | Names her price out loud |
+| **宗 Mune** | ~60s forger. **Almost silent.** Speaks maybe once a scene and is right | **Flat declaratives, no hedging.** *"I could do the eleventh."* | Says nothing at all |
+| **クロベ Kurobe** | Young, sour, says the unhelpful thing loudly and gets told off | **Talks to Toki instead of the person in front of him** | Sulks visibly |
+| **早瀬 Hayase** | Junior clerk. **Proud of his register**, keen to be useful, frightened underneath | **Explains procedure nobody asked about** | Offers more paperwork |
+| **牧野 ハナ Hana** | Civilian watcher. Frightened and *annoyed about being frightened* | **Corrects her own sentence mid-way**, then apologises for it | Talks about carts, dogs, her brother |
+| **The surgeon** *(Session 14)* | Ex-field-medic. **Clinical about atrocity**, rations breath around pain | **Corrects your terminology** like a senior addressing a junior | Offers a trade, immediately |
+
+> ### ⚠ THE FAILURE THIS INDEX EXISTS TO STOP
+>
+> As of Session Fourteen **every NPC above was speaking in the narration's register** — balanced clauses, self-aware asides, a quotable line at the end of every beat, exposition arriving clean and complete. **Kurama in particular was delivering four-hundred-word structured speeches**, which is wrong for a creature whose entire characterisation is contempt and brevity.
+>
+> **If two NPCs in a scene could swap lines without anyone noticing, stop and rewrite.**
+
+---
+---
+
 # THE CELL, AND WHAT'S LEFT OF IT
 
 ## ROKKA UEHARA — "ROKU"

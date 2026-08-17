@@ -168,7 +168,8 @@ campaigns/shinobi-chronicles/
 | "Does this character know about X?" | **`<name>-story.md` → Knowledge Ledger.** Never assume from another sheet. |
 | "Who is this NPC?" | `campaign/npcs.md`, then Book III for canon figures |
 | "What happened last session?" | `campaign/session-log.md` |
-| "Can this NPC say this out loud?" | **Book III §4 — Information Horizons.** Check before any dialogue. |
+| "Can this NPC say this out loud?" | **Book III §4 — Information Horizons.** *What they may know.* |
+| "Would a person say it *like that*?" | **`CUSTOM_INSTRUCTIONS.md` → DIALOGUE, PART ONE** + the **VOICE INDEX** at the top of `campaign/npcs.md`. *How they talk.* **These are different questions and both must be checked.** |
 | "Two files disagree" | **Section 1 of this file.** Higher tier wins. Then fix the loser. |
 
 ---
