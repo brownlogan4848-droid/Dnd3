@@ -428,6 +428,32 @@ Uzushio is **拮抗 Kikkō scaled to everything at once.** **The balance is the 
 2. **THE ESTATE, SIGNED FOR CONSCIOUSLY.** Every coil taken **awake and deliberately**, not accepted in the dark because it felt good. ✅ **Cleared — four coils, all named.**
 3. **THE FLOOR.** **Cannot be entered on rage, for himself alone, or with nobody in the rotation.** The bonds are load-bearing, mechanically and literally.
 
+> ## ★ GATE 3 — RULED AT THE TABLE, Session Fourteen **[binding]**
+>
+> **Gate 3 is not a headcount, and running it as one was a GM misreading.** The gate names three disqualifiers — *rage*, *for himself alone*, *nobody in the rotation* — and says nothing about how many people.
+>
+> ### What counts as a bond
+>
+> **A 継ぎ手 Tsugite transfer is a bond.** Moving a node between living carriers is not moving ink — **it is the transfer of a person's will, knowledge and emotion**, received whole and at the speed a life runs. Ardo has now done it twice:
+>
+> - **辰巳 Tatsumi**, living carrier, consenting, on the road to Fuchinomiya. *Ardo refused to cut it off him when Tatsumi asked him to, and took it onto himself at cost instead.*
+> - **金城 徳 Kaneshiro Toku**, via the jar. Dead tissue, no beat to match — Ardo **lent** it one. What came through was the man: the farm, the chair outside the door, and the certainty that he would be sitting in it. **This is how Ardo learned his name.**
+>
+> ### The unlock condition
+>
+> **Everything is now cleared except the decision.**
+>
+> > **Ardo must find Souji and decide whether that bond is broken, or whether it holds forever.**
+>
+> **When he makes that decision — either way — Gate 3 opens and 渦潮 Uzushio unlocks.**
+>
+> **Why this is the right trigger and not a shortcut:** the gate's *first* disqualifier is **rage**, and Souji is the rage. There is no way to make that decision while still carrying it as rage — a man choosing *"broken"* out of fury has not made a decision, he has had one made for him. **The gate tests itself.**
+>
+> ### ⚠ Two GM cautions
+>
+> 1. **This is not a counter. Do not let it become one.** Nodes are not bond tokens and collecting more does not accumulate progress. **The rotation counts consent given and burden taken, not marks on an arm** — otherwise Ardo's path becomes mechanically identical to the collector's, which is the one thing this arc must not be. *The only difference between Ardo and Mitsuki is that Ardo asked.*
+> 2. **"Broken" is a real available answer.** If Ardo finds Souji and decides honestly that the bond is gone, **the gate still opens.** It is a decision gate, not a redemption gate. **Do not weight the scene toward reconciliation.**
+
 > **Gate 3 is the live one, and it just got much harder.** Souji is gone. Minato is dead. Roku is off the front. **The rotation is down to one other person, and she has two broken ribs.** Monuke's warning stands: *"I know precisely how to break you now."*
 
 ### ⚠ SEEN, NOT ENTERED **[Session Thirteen, first night on the road]**

@@ -52,7 +52,9 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **Named** | **Session Thirteen — by him, untaught, as a description.** *"The whirling tide."* He did not know it was his village's name until Suzume told him |
 | **Seen** | **Session Thirteen** — he stood inside the rotation. Three arcs held. **The fourth was nearly empty and it set itself back down** |
 | **Gate 1 · 2** | ✅ ✅ |
-| **⚠ Gate 3** | ✗ — **bonds in the rotation.** It cannot turn on one person. *This is the wall, and it is a people problem, not a power problem* |
+| **⚠ Gate 3** | **★ ALL BUT ONE STEP CLEARED — table ruling, Session Fourteen.** Not a headcount. **A 継ぎ手 transfer is a bond** — will, knowledge and emotion moved between people. Ardo has made two: **辰巳 Tatsumi** (living, consenting, refused to cut it off him) and **金城 徳 Kaneshiro Toku** (via the jar; this is how he learned the name). **The only remaining condition: find Souji and decide whether that bond is broken or holds forever.** Either answer opens the gate |
+| **⚠ Why that trigger** | The gate's first disqualifier is **rage**, and Souji *is* the rage. **A decision made in fury is not a decision.** The gate tests itself |
+| **⚠ Not a counter** | **Collecting nodes does not accumulate progress.** Consent given and burden taken, not marks on an arm — *otherwise Ardo's path becomes mechanically identical to the collector's* |
 | **What it costs** | **Nothing.** He felt that directly. A form that spends nothing is the one he will reach for without deciding to |
 
 **Full treatment: `characters/ardo-transformations.md` Part Six.**
@@ -94,11 +96,11 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~940** | **1000** | ⚠ **DOUBLED POOL SETTLED — he made it settle.** Less 60 for the join work. `ardo-inheritance.md` Part Seven |
-| **Stamina** | **325** | **355** | Less 30 for the join work |
+| **Chakra** | **~820** | **1000** | Less 60 the join · **less 120 for two 継ぎ手 transfers.** ⚠ **DOUBLED POOL SETTLED — he made it settle** |
+| **Stamina** | **265** | **355** | Less 30 the join · **less 60 for two transfers** |
 | **Health** | **~205** | **228** | **Health tracks slower and never auto-fills** (`ardo.md` Recovery). Three nights plus a medic with working hands from midday on the 12th. **The abdominal wound is knitted, not finished** |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **61** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
+| **Vision (Max)** | **60** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
 
 ### Conditions & injuries
 
@@ -107,6 +109,7 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 | **ABDOMINAL WOUND — CLOSED** | Suzume's work, 癒し眼 open. **Souji missed the artery by less than a centimetre, on a stationary target, at contact range. Souji does not miss** |
 | **✅ SEAL JOIN — FIXED, NOT PATCHED** | ⚠ **Resolved Session Fourteen, Fūinjutsu DC 25 rolled 35.** Both arrays now turn **on a shared beat** — 潮合 applied to sealwork, no re-cutting. **The grind is gone and so is the four-to-nine-month clock.** Minato's eight strokes remain, load-bearing no longer, left in place deliberately |
 | **✅ JINCHŪRIKI — SETTLED** | Book II §3 Part Five and the adult-sealing clause. **The grinding join was what it was waiting on.** Doubled pool applied: **1000 Chakra max** |
+| **⚠ TWO 継ぎ手 NODES ON HIS LEFT FOREARM** | 辰巳 Tatsumi's and 金城 徳 Kaneshiro Toku's, an inch apart. **Both unfinished. Both leaning, in different directions** — *"there's one between them."* **He now carries a vector along the chain, in both directions.** ⚠ **And he is now one errand instead of two** — Kurama's objection, raised before consent was given and overruled by Ardo anyway |
 | **✅ EXHAUSTION — CLEARED** | Slept ~7 hours at the Hiyakeno waystation on the 12th, and both nights since. **The forty-hour figure is history, not state.** *Suzume made him take the first one and sat the door* |
 
 ### Active transformations
