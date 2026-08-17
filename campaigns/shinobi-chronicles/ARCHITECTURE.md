@@ -90,6 +90,7 @@ campaigns/shinobi-chronicles/
 │   ├── book-3-people-secrets.md ... §1 Era A cast · §2 Era C cast · §3 Orgs · §4 Information Horizons
 │   └── book-4-the-game.md ......... ★ TIER 1 RULES AUTHORITY
 │
+│   └── story-beats.md ............. GM PLANNING — beats, IF/THEN branches, landmines
 ├── jutsu-compendium/ .............. STATIC — canonical technique data by rank
 │   ├── 01-e-rank.md ... 07-outside-the-ranks.md
 │   └── expansions/
@@ -168,6 +169,7 @@ campaigns/shinobi-chronicles/
 | "Does this character know about X?" | **`<name>-story.md` → Knowledge Ledger.** Never assume from another sheet. |
 | "Who is this NPC?" | `campaign/npcs.md`, then Book III for canon figures |
 | "What happened last session?" | `campaign/session-log.md` |
+| "What should happen next session?" | **`campaign/story-beats.md`** — beats built and wired to the characters who care about them, with IF/THEN branches and status tags. **Planning only; nothing there is canon until it happens.** |
 | "What are they actually trying to do?" | **`campaign/campaign-state.md` → THE MISSION**, then each `characters/<name>-story.md` Part Two. **Threads are what happens *to* them; goals are what they *want*. Do not summarise the campaign from the threads alone.** |
 | "Can this NPC say this out loud?" | **Book III §4 — Information Horizons.** *What they may know.* |
 | "Would a person say it *like that*?" | **`CUSTOM_INSTRUCTIONS.md` → DIALOGUE, PART ONE** + the **VOICE INDEX** at the top of `campaign/npcs.md`. *How they talk.* **These are different questions and both must be checked.** |
