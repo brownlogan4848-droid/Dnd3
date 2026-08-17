@@ -312,13 +312,6 @@ Elite jōnin-level techniques. The tier where large-scale elemental ninjutsu, se
 
 ## Lightning Release
 
-### Hell Stab
-**Japanese:** Jigokuzuki (地獄突き)
-**Type:** Nintaijutsu (Lightning)
-**Rank:** B **(DB4)**
-**Description:** The Third Raikage's signature: the arm sheathed in lightning chakra and driven forward as a piercing thrust, the number of extended fingers determining the concentration. Five fingers spreads the force; three narrows it; **one finger is a single point of pressure that has gone through everything it has ever been used on.** The technique that cut the Eight-Tails' horn.
-*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
-
 ### Lightning Release: False Darkness
 **Japanese:** Raiton: Gian (雷遁・偽暗)
 **Type:** Lightning Release Ninjutsu

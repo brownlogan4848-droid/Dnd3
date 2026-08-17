@@ -13,13 +13,6 @@ Kage and elite-jōnin territory. Signature techniques, forbidden arts, and the m
 **Description:** Applies the Shadow Clone principle to a thrown weapon, turning one shuriken into hundreds of **solid** copies filling the air on the same trajectory. Every one of them is real and every one of them cuts. Dodging is not a matter of reading the throw but of finding somewhere the sky is not.
 *Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
 
-### Sealing Technique: Lion Closing
-**Japanese:** Fūinjutsu: Shishi Heikō (封印術・獅子閉口)
-**Type:** Fūinjutsu
-**Rank:** A **(DB3)**
-**Description:** A written seal that **completely suppresses chakra at its centre point.** Chiyo used it to shut down puppets and armed weaponry mid-fight — anything running on chakra simply stops inside the field. Against a chakra-dependent opponent it is closer to an off switch than an attack, which is why it is written rather than thrown.
-*Promoted from `jutsu-compendium/expansions/` by the systems check — it existed only in a research file.*
-
 ### Rasengan
 **Japanese:** Rasengan (螺旋丸)
 **Type:** Ninjutsu (Offensive)

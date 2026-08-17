@@ -151,7 +151,7 @@ Chūnin-level techniques. The tier where all five basic natures appear, summonin
 **Description:** Fires one or more large compressed spheres of water at tremendous velocity. The projectiles hit with the blunt force of cannon shot, punching through stone and levelling structures. Famously used by the toad boss Gamabunta, whose scale turns each shot into a demolition round.
 
 ### Water Release: Wild Water Wave
-**Japanese:** Suiton: Mizuranha (水遁・水乱波)
+**Japanese:** Suiton: Mizurappa (水遁・水乱波)
 **Type:** Water Release Ninjutsu
 **Rank:** C
 **Description:** Expels a waterfall-like torrent from the mouth that batters and sweeps away everything in its path. Less precise than the Water Trumpet but far broader, it is used to clear groups, extinguish fire techniques, and flood terrain for follow-up water attacks.
@@ -316,7 +316,7 @@ Chūnin-level techniques. The tier where all five basic natures appear, summonin
 **Japanese:** Konoha Daisenpū (木ノ葉大旋風)
 **Type:** Taijutsu
 **Rank:** C
-**Description:** An escalating chain of spinning kicks delivered in sequence — low, mid, high, then a dropping heel — each faster than the last. The stacking rotation builds momentum so that the final kick lands with vastly more force than the first, and the shifting heights make a consistent guard impossible.
+**Description:** An escalating chain of spinning kicks delivered in sequence — low, mid, high, then a dropping heel — each faster than the last. The user rotates continuously so every strike carries the momentum of the one before it, and the shifting heights make a consistent guard impossible. **Demanding on the legs and on balance: a missed link leaves the user turned away from a live opponent.**
 
 ### Leaf Rising Wind
 **Japanese:** Konoha Shōfū (木ノ葉昇風)

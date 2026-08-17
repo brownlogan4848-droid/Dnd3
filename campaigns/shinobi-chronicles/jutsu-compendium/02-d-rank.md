@@ -50,11 +50,13 @@ The genin working band. Everything a graduate is expected to actually fight with
 **Rank:** D
 **Description:** A flying kick delivered to the face at the end of a full-speed approach, ideally from a direction the target was not watching. Crude, entirely without subtlety, and effective in direct proportion to how little the recipient expected it. Might Gai's calling card and, by inheritance, Rock Lee's.
 
-### Leaf Great Whirlwind
+### ~~Leaf Great Whirlwind~~ → **C-RANK** `[CONFLICT RESOLVED]`
 **Japanese:** Konoha Daisenpū (木ノ葉大旋風)
-**Type:** Taijutsu
-**Rank:** D
-**Description:** An escalation of Leaf Whirlwind into a four-kick chain — low, mid, high, then a spinning heel — with the user rotating continuously so each strike carries the momentum of the last. Demanding on the legs and on balance; a missed link leaves the user turned away from a live opponent.
+**Rank:** **C — see `03-c-rank.md`.**
+
+> **⚠ This technique was filed at both D and C with the same Japanese name.** The databooks rank it **C**, and the C-rank entry is authoritative. **The D-rank copy is void.**
+>
+> *Kept as a redirect rather than deleted so anyone who has been running it at D knows why it moved. The D description's good detail — the four-kick chain and the exposure on a missed link — has been folded into the C entry.*
 
 ---
 
@@ -66,11 +68,13 @@ The genin working band. Everything a graduate is expected to actually fight with
 **Rank:** D
 **Description:** A compact burst of flame spat at a target at short range. Not the great walls of fire the Uchiha are known for — this is the entry-level form every Fire-natured genin learns first, useful for lighting things, forcing a dodge, and proving to an instructor that the nature transformation has taken.
 
-### Water Release: Wild Water Wave
+### ~~Water Release: Wild Water Wave~~ → **C-RANK** `[CONFLICT RESOLVED]`
 **Japanese:** Suiton: Mizurappa (水遁・水乱波)
-**Type:** Water Release Ninjutsu
-**Rank:** D
-**Description:** A pressurised jet of water expelled from the mouth, aimed to knock a target off their feet or wash away footing. Requires no external water source at this rank, though a nearby one makes it substantially cheaper. Kiri's standard opener.
+**Rank:** **C — see `03-c-rank.md`.**
+
+> **⚠ Filed at both D and C with the same kanji.** The databooks rank it **C.** **The D-rank copy is void.**
+>
+> *Note the romaji: 乱波 reads **rappa**, so **Mizurappa** is correct. The C-rank entry read "Mizuranha" and has been fixed.*
 
 ### Earth Release: Hiding in Rock
 **Japanese:** Doton: Iwa Gakure (土遁・岩隠れ)

@@ -22,9 +22,11 @@
 >
 > All Directions Shuriken · Blinding Technique · Chakra Shield *(puppet)* · Dancing Paper · Earth Release: Iron Fist / Hardening · Enclosing Technique · Enlightened Fire Seal · Fire Release: Flame Bullet *(Jiraiya's)* · Fire Style Seal / Water Style Seal · Fire Style: Flamestrike · **Haze Clone Technique** · **Hell Stab** *(five/three/one finger)* · Hovering Hummingbird Technique · Ink Mist / Ink Flush · Paths Copy / Mirrored Doppelgänger · **Sealing Technique: Lion Closing** *(chakra suppression)* · Sexy Technique: Boys'/Girls' Combo · **Shuriken Shadow Clone Technique** · **Stun Technique** *(Paralysis / Mind-numbness)* · Super Beast Imitating Drawing: God · Toad Subjugation *(interrogation)* · **Unsealing Technique** · Water Release: Submergence · **Wind Release: Great Sickle Weasel Technique** · Wind Water Combination / Typhoon Water Vortex
 >
-> ### ✅ SIX HAVE NOW BEEN PROMOTED
+> ### ✅ FOUR HAVE NOW BEEN PROMOTED
 >
-> **Enclosing Technique** and **Unsealing Technique** → `02-d-rank.md` *(the compendium had eight Fūinjutsu entries and no way to put anything into a scroll or take it out — storage scrolls are standard equipment and nothing operated one)* · **Haze Clone** → `02-d-rank.md` · **Hell Stab** and **Wind Release: Great Sickle Weasel** → `04-b-rank.md` · **Shuriken Shadow Clone** and **Sealing Technique: Lion Closing** → `05-a-rank.md`.
+> **Enclosing Technique** and **Unsealing Technique** → `02-d-rank.md` *(the compendium had eight Fūinjutsu entries and no way to put anything into a scroll or take it out — storage scrolls are standard equipment and nothing operated one)* · **Haze Clone** → `02-d-rank.md` · **Wind Release: Great Sickle Weasel** → `04-b-rank.md` · **Shuriken Shadow Clone** → `05-a-rank.md`.
+>
+> **⚠ Hell Stab and Sealing Technique: Lion Closing were NOT new** — they already existed in the numbered files. They read as unique only because this file titles them with parentheticals *(five/three/one finger)* and *(chakra suppression seal)*, which a name comparison does not see through. **The count of genuinely-unique entries is therefore 23, not 25.**
 >
 > **⚠ Stun Technique was deliberately NOT promoted** — it is marked *fan-created, Naruto Fanon Wiki, not canon* in this very file. **The canonical Temporary Paralysis Technique already covers it.**
 >
