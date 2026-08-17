@@ -100,7 +100,7 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 | **Stamina** | **265** | **355** | Less 30 the join · **less 60 for two transfers** |
 | **Health** | **~205** | **228** | **Health tracks slower and never auto-fills** (`ardo.md` Recovery). Three nights plus a medic with working hands from midday on the 12th. **The abdominal wound is knitted, not finished** |
 | **Special** | **0** | **100** | Reset |
-| **Vision (Max)** | **60** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
+| **Vision (Max)** | **59** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
 
 ### Conditions & injuries
 

@@ -100,6 +100,12 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **⚠ A Konoha office he has never heard of countersigned that closure** | 木ノ葉隠れ・内務調整室, Office of Internal Coordination. **Thirteen years in that village and neither he nor Suzume knows the name** |
 | **⚠ Somebody in Konoha went looking for Uzumaki works in Fire Country in Year −18** | Fuchinomiya's only other consultation in sixty years — ***"sealed request, name omitted by instruction."*** **The same year Hiruzen marked the alliance 保留** |
 | **A face can be taken out of a witness cleanly enough that only the gap remains** | Hayase, who remembers the tea and not the man |
+| **⚠ 淵ノ宮 Fuchinomiya is a 継ぎ手 relay STATION** — seven wheels, one mechanism, seven beats — built so a thing in transit can keep moving without a person holding it | Read off the channel linework with the eye open, Fūinjutsu 29. **The archive confirmed it** |
+| **⚠ It is EMPTY, and has been since the island fell** | Nao. *"A stop on a line that stopped running twenty years ago"* |
+| **⚠ Konoha agreed to host Uzumaki relay infrastructure on Fire Country soil in Year −36** | The grant is in a provincial register in a Fire Country hand. **This sits underneath the 保留 scroll** |
+| **A stopped rhythm is gone, not paused** | It would have to be taught again from the top, every wheel in order, against the water |
+| **⚠ He is the only person alive who could re-teach it** | Nao, and she hated saying it |
+| **Why Mitsuki took the craft and left the works standing** | **He wants it his, or stopped at a time of his choosing.** Either way the household had to stop being able to run it first. *Ardo worked this out himself* |
 
 ## 🟡 BELIEVES — acts on it; may be wrong
 

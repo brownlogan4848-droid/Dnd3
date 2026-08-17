@@ -311,7 +311,33 @@ Four are in people. He doesn't know which four. Last news came **through a wall 
 
 - **THEN if Ardo works the wheels** → he is doing four generations' maintenance from first principles. **This is a rhythm problem and he is the world expert in rhythm problems.**
 - **THEN if he cannot** → the wheels have thirty-six years of momentum and will run down over months, not days. **A slow, visible, entirely preventable loss.**
-- **⚠ What the works are *for* is not yet established.** *Keep it that way until the party earns it.*
+### ✅ ESTABLISHED — **Fūinjutsu 29 vs DC 23, October 18th**
+
+**淵ノ宮 is a 継ぎ手 relay STATION.** Not a weapon, not a vault.
+
+| | |
+|---|---|
+| **What it is** | **Seven wheels, one mechanism, seven beats.** The varying rates are the rhythm, not decay. The big slow wheel at the bottom is the return |
+| **Why it exists** | You cannot set an enormous thing down — *"the moment it stops it starts belonging to wherever it stopped."* This is somewhere a thing in transit can **keep moving without a person holding it**, while carriers rest, die and are replaced |
+| **⚠ Is anything in it** | **No. Empty since the island fell.** A stop on a line that stopped running twenty years ago |
+| **⚠ What that means politically** | **Konoha agreed to host Uzumaki relay infrastructure**, in a Fire Country register, in Year −36. *That sits underneath the 保留 scroll and reframes it* |
+| **If it stops** | **Months, not days** — thirty-six years of momentum will coast. But **a stopped rhythm is gone, not paused.** It would have to be taught again from the top, every wheel in order, against the water |
+| **Who can re-teach it** | **Ardo, and nobody else alive.** *Nao, hating it: "and I want you to notice how much I hate saying that"* |
+
+### ✅ WHY MITSUKI DID IT THIS WAY
+
+**He broke nothing.** He sat with the elder for three days, took the maintenance out of four generations of heads, thanked her, and left **a working station nobody left can keep working.**
+
+> **He does not want it destroyed. He wants it his, or he wants it stopped at a time of his choosing** — and either way the household had to stop being able to run it first.
+
+**THEN branches from here:**
+
+| Ardo | THEN |
+|---|---|
+| **Re-teaches the wheels** | Days of work, in the open, doing unmistakably Uzumaki sealcraft in a valley the collector is watching. **The station survives. So does the fact that he can do this** |
+| **Teaches the household instead** | Slower, harder, and **it takes the target off him and puts it back on them.** *They cannot defend it* |
+| **Leaves it** | It coasts for months. **A slow, visible, entirely preventable loss** — and the next Tsugite crisis has nowhere to park |
+| **Stops it deliberately** | Denies Mitsuki a station. **Also destroys the last working piece of his people's infrastructure with his own hands** |
 
 ## ARMED
 
