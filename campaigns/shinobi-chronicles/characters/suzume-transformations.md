@@ -102,6 +102,16 @@ The transplant ran **both directions.** **The circuit is closed, which has never
 
 **Neither of them is private from the other again. Ever.**
 
+> ## ⚠ HER SIDE OF IT — **said out loud for the first time, Session Fourteen**
+>
+> Thirteen years of receiving another person's life **in fragments, with no context, no warning, and no ability to intervene.** She was fourteen the first time she woke up somewhere and was him.
+>
+> - **She was inside Rai's pyre** — from Ardo's side, including what he felt when he said *Shadow Kage.* **He never knew anyone else was in there.**
+> - **She was inside the Kūbaku that nearly killed her.** Ninety-nine damage on the ground at Training Ground Six, still seeing out of his eye, **watching herself die from where he was standing.**
+> - **⚠ SHE RECEIVES BURNING CLARITY.** Everything that eye looks at comes down the line to her too. **For roughly two years everything on his left has arrived oversaturated, reds too strong.** She has never had a day off from it and never mentioned it — *"What would you have done? You'd have covered it more. And then you'd have covered it for me."*
+>
+> **Ardo pays the Vision. She pays the witness.** *Neither cost was ever visible to the other until this conversation.*
+
 She has spent thirteen years receiving another person's life in fragments — **and she is the reason the squad found him at all.** Sōgan Tier I is involuntary and ignores distance; it made her the compass across a continent, and she has been right about the difference between good quiet and bad quiet **every single time**, before anyone including Ardo could tell.
 
 ## The shared tree
@@ -134,6 +144,22 @@ She has spent thirteen years receiving another person's life in fragments — **
 | **IV** | **静かな部屋 SHIZUKANA HEYA · "The Quiet Room"** | **Mukaebi's other edge.** She pulls a target **into a constructed mental space where she sets the terms** — no damage, no torture, nothing the clan is infamous for. **Just a room, and time, and her.** Hostile targets get a CHA save each round to leave. Built for **interrogation without cruelty**, and for talking down someone who cannot be reached any other way | **40 Special** | **LOCKED** |
 
 > **Tier IV is the technique she needed on that training ground and did not have.** Souji failed his CHA save by three because nobody could reach the vow underneath his ribs. **The Quiet Room reaches it.**
+
+> ## ⚠ WHY IT IS LOCKED — **she named it herself, Session Fourteen**
+>
+> **It was never a technique problem. She has known what it needs for about four years.**
+>
+> *"It's that I have to be able to be somewhere nobody can reach me — and **I have not been alone in my own head since I was fourteen years old.**"*
+>
+> **The Quiet Room requires her to hold a space that is genuinely closed.** 相眼 Sōgan is permanently open in both directions and *cannot be refused* — it works while she is asleep and it worked while she was comatose. **She cannot build an unreachable room while she is permanently reachable.**
+>
+> ### What this makes it
+>
+> **The most load-bearing locked ability in the campaign is gated behind the thing she did to save Ardo's life.** She gave him an eye in the mud at Training Ground Six and the circuit closed, and the closed circuit is what makes the room impossible.
+>
+> **⚠ GM — do not hand her a workaround.** The unlock is a real cost or a real change: *Ardo* closing his end (which he cannot — his eye never deactivates), a third party severing or gating the circuit, or something in the Uzumaki relay craft that can hold a line **shut**. **Ardo now demonstrably knows how to put two things out of reach of each other by rhythm.** That is a legitimate road and it should be expensive.
+>
+> **She has not asked him. He has not offered.** *Neither has connected it out loud yet.*
 >
 > **And it is now the single most load-bearing locked ability in the campaign.** Souji has defected, said *"come find me when you're ready,"* and left a door open. **Tier IV is what walking through that door looks like if the party wants him back rather than dead.**
 >
