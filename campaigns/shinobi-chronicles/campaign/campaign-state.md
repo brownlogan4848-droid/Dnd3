@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 12th — roughly an hour before dawn.** Session Thirteen has ended; they are walking. |
-| **Location** | **The north-east trunk road, past kilometre 24.** Heading for the border, then the coast, then the island. **No papers** |
+| **In-world date** | **Year 0, October 15th — late morning.** Session Fourteen, mid-session. |
+| **Location** | **水原 Suibara** — provincial intendant's records office, two days east of the Hiyakeno ford. **Travelling on a forged provincial licence** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
-| **Last session** | **Session Thirteen — "THE ALLIANCE WITH THE ISLAND." COMPLETE.** The vault · the scroll · the rotation seen · **渦潮 named** · the watcher. Full record: `session-log.md` |
+| **Last session** | **Session Fourteen — "WHAT THEY BUILT WITH US" — IN PROGRESS.** The barrier · Toki · the ledger · Fuchinomiya. Full record: `session-log.md` |
 
 ## What just happened, in one paragraph
 
@@ -292,6 +292,25 @@ Per-character threads live in each `characters/<name>-story.md`.
 15. **牧野 ハナ Makino Hana.** A civilian holding an unfiled report, a name she was never given, and a message for someone she has never met. **She did not put the sheet under the stone.** `campaign/npcs.md`
 16. **⚠ THE ROUTE TO THE ISLAND.** Four hundred miles, a sea, a ruin, **and no papers.** Logged as a problem, not a plan. *This is the shape of the hole Souta was written to fit.*
 17. **Kurama has been to the island.** Volunteered, unprompted, and offered nothing further. **It is the only living thing they have met who saw Uzushio standing.**
+
+---
+
+## ⏱ SESSION FOURTEEN — THE LIVE CLOCK
+
+| | |
+|---|---|
+| **⚠ TOKI'S TWO DAYS** | **~1½ gone.** After that she works the corridor with or without them |
+| **The barrier** | **Still up.** Hiyakeno ford, ~30 provincial guard, the only crossing for 30 km. **Sixty people a day turned around** |
+| **⚠ CANNOT BE SOLVED WITH FORCE** | Thirty lawful men on a public road two days after the attack. **A shinobi atrocity lands on Konoha, not on the party** |
+| **The intendant** | **Gone to the capital with the seal, two days ago.** The only man who can rescind 4-1-7 is four days away in the wrong direction |
+| **The legal wall** | *"If it's a Leaf commission it's not really theirs to rescind, is it."* **Hayase is correct.** The province cannot undo a Konoha order |
+| **⚠ MITSUKI** | **Three days inside the closed corridor, alone, at 淵ノ宮 Fuchinomiya** — a day past the ford |
+| **What Fuchinomiya is** | Hereditary grant, Year −36, Kaneshiro household, *"for the maintenance and keeping of **works constructed under the alliance**"* — **Uzumaki work left standing in Fire Country** |
+| **⚠ THE YEAR −18 CONSULTATION** | *Konohagakure — sealed request — name omitted by instruction.* No authorising officer. **The same year Hiruzen marked the alliance 保留** |
+| **The undecided question** | Whether the pre-attack commission date means somebody **knew** or somebody got **lucky.** *The paper cannot tell them* |
+| **早瀬 Hayase** | Exposed. A frightened civilian who helped, and whom somebody will eventually question |
+
+18. **⚠ 木ノ葉隠れ・内務調整室 — the Office of Internal Coordination.** A Konoha administrative body that countersigned a Fire Country road closure and that **neither a jōnin nor a senior hospital medic has ever heard of.** Real body, Root cover, or fabrication — **all three live.** *The Danzō ruling applies: let the trail be nearly right.*
 
 ---
 ---

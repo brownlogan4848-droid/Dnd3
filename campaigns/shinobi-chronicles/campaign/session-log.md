@@ -531,6 +531,102 @@ He came out of it **loud and genuinely happy** for the first time since Training
 ---
 ---
 
+# 十四 · SESSION FOURTEEN — "WHAT THEY BUILT WITH US"
+## Year 0, October 12th–15th · the north-east trunk road · **IN PROGRESS**
+
+> **Generated with the Land of Fire encounter engine** (`.claude/skills/land-of-fire-encounter-engine`), Four-Roll Major Journey.
+> **Environment 88** Political Interference · **Encounter 86** Target Relocated · **Complication 48** Bingo Book Hunters · **Escalation 73** Technique Theft · **Combination d20 = 5** — *88 and 73 involve the same Bingo Book target.*
+> **Era adaptation:** the engine is written for Year −15 wartime. At Year 0 the war is over and the provinces are *less* stable, not more — Konoha has been flat on its back for two days.
+
+### 火焼野 Hiyakeno — the barrier
+
+A **timber barrier across the ford**, the only crossing for thirty kilometres, manned by ~30 of the **daimyō's provincial guard** — civilian authority, not shinobi. The rule: **no shinobi transit without a Konoha stamp dated after the tenth.** Konoha is burying four hundred people and issuing nothing. *The rule was written to be unsatisfiable.*
+
+**Ardo's read, made before anyone told him:** *"Whoever orchestrated this knew when and where to start."*
+
+**Ardo refused to force it.** Sixty civilians in the queue, thirty lawful men on a public road, and a village two days out from the worst night in its history. **He queued, got refused like everyone else, and walked away** — then drew the watchers off two kilometres to open ground before letting them find him.
+
+### 佐伯 トキ Saeki Toki and crew — independents
+
+Four of them, three days on the barrier, watching **who gets turned away** rather than who gets through. **Toki** (~50s, blunt, working a private paper), **Kurobe** (young, tracker, objected loudly), a stall-watcher, and **宗 Mune** (~60s, forger, does the accounts).
+
+**Suzume made her, cold, from a hooded glance:** rebound bounty ledger not a village book, mismatched hard-used gear, no headbands, and a crew that has stopped needing to talk to each other.
+
+**What Toki gave free:** the barrier was **ready before the attack** — printed ledger headings, requisition orders, thirty men, inside nine hours. *"Somebody had that whole apparatus sat in a drawer waiting for the day Konoha couldn't come out and argue about it."*
+
+**What Suzume earned:** Toki's target **steals techniques**, and has to cross the same closed corridor.
+
+**The deal:** Ardo works the corridor, Toki breaks the barrier. **Two days.** Her crew sits the ford, follows if the target moves, **does not engage in the town**, and marks him. Aligned self-interest, stated out loud as more reliable than agreement.
+
+> **⚠ THE HARD CONSTRAINT, and it holds.** You cannot kill provincial guardsmen. Thirty lawful men on a public road two days after the attack hands the daimyō's court a shinobi atrocity — **and it lands on Konoha, not on the party.**
+
+### The argument
+
+Ardo said he would go to Suibara **and burn the ledger.** Toki went off at him — burning it leaves thirty men on a road with an order and **nobody left to blame.** Mune supplied the correct play: **an office that issued an order can withdraw one**, and they are terrified of their own paper. *You want the ledger open, not on fire.*
+
+Then Ardo said ***"I'll head to Suibara"*** — **I, not we** — and **Suzume stopped him in front of everyone.**
+
+> *"You had four hundred generations show you a wheel that won't turn without other people standing on it. That was six hours ago. And your first instinct is I'll go."*
+>
+> *"It's completely fair. It's just not kind. I'll do kind later."*
+
+**He took her.** Neither of them raised it again; on the second day she said *"I'm not sorry,"* he said *"I know,"* and it held.
+
+### 水原 Suibara — the intendant's office
+
+Mune forged a **provincial second-class transit licence** in thirty-five minutes. *"Papers work by being dull. The second you explain them, they stop working."* It was barely glanced at.
+
+**Suzume did the talking**, as a bored contractor with a reference number she didn't quite have, and was taken to the ledger in four minutes by a junior clerk, **早瀬 Hayase**.
+
+**Three findings:**
+
+1. **The intendant left for the capital two days ago and took the seal.** The only man who can rescind the order is four days away in the wrong direction.
+2. **Commission 4-1-7 is countersigned by 木ノ葉隠れ・内務調整室 — the Konohagakure Office of Internal Coordination.** *Neither Ardo nor Suzume has ever heard of it. Thirteen years in that village between them.*
+3. **The receipt date is 9 October.** Post from Konoha is four days. **Issued around the 5th or 6th — four to five days before the Nine-Tails.**
+
+### The consultation register
+
+**Commission 4-1-7 has been consulted twice ever:** by the party, and by ***"三ツ木 Mitsuki" — Audit, Office of Internal Coordination* — on the morning of 10 October.** Twelve hours before the attack.
+
+> **⚠ HIS SIGNATURE.** Hayase spoke with him for twenty minutes and fetched him tea. **He cannot produce the man's face.** Not reluctance — absence. *"I remember the tea. Why do I remember the tea."* **Suzume confirmed by touch that something was done to him.**
+
+**Mitsuki's second consultation, the same morning:** the **foundations and grants bundle, Years −38 to −18** — the exact span of the alliance, both ends, to the year.
+
+> ### 淵ノ宮 FUCHINOMIYA
+> **Hereditary grant, Year −36, to the Kaneshiro household** — *"for the maintenance and keeping of **works constructed under the alliance**."*
+>
+> **A day past the ford. Inside the closed corridor.**
+
+**The barrier was never about money.** The road was shut **so that nobody could follow him in** — arranged five days ahead, executed the morning after the village burned.
+
+> **Suzume:** *"Ardo. 'Your mother's people came, and they built things with us.' Mishima said it to a **wall.** He didn't even know he was giving us anything."*
+
+### The entry from twenty years ago
+
+Ardo pressed for any other consultation. The Fuchinomiya grant has been touched **twice in sixty years** — Mitsuki, and one other.
+
+> **Year −18.**
+> **木ノ葉隠れ — 封書要請 — 氏名は指示により省略**
+> *Konohagakure — sealed request — name omitted by instruction.*
+
+**No authorising officer recorded.** Hayase, genuinely offended: *there is no procedure that permits this.*
+
+**Year −18 is the year Hiruzen marked the alliance 保留.** Somebody in Konoha with enough authority to make a provincial office break its own recording rules went looking for **where the Uzumaki had built things inside Fire Country** — in the same year the obligation was frozen, two years before the island fell.
+
+**Who is not recorded. By design, by someone who could arrange that.**
+
+### Hayase
+
+Suzume told him to **give them up completely and truthfully** if anyone asks. *"You're a clerk with a good register and a good memory. That's what keeps you safe. Being interesting is what gets you hurt."* And on the missing face: *"That was done to you. If it starts happening with other things, go to a hospital and say those exact words."*
+
+**IN PROGRESS — standing in the records office with the ledger open and about ten hours of daylight. Toki's two days: one and a half gone.**
+
+---
+---
+
+---
+---
+
 # HOW TO APPEND
 
 **At the end of a session, write here first**, then each `<name>-story.md`, then reconcile `campaign-state.md`.

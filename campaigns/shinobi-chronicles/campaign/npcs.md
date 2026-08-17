@@ -277,6 +277,91 @@ Prickly, digressive, tired. **Objects to being asked three questions at once.** 
 
 ---
 
+## 「三ツ木」 "MITSUKI" — **[NEW BINGO BOOK ENTRY] · ACTIVE, Year 0**
+
+```
+Name:                    "三ツ木 Mitsuki" — ALIAS. Real name unknown
+Classification:          Technique thief / collector
+Threat Rank:             UNKNOWN — assume A-Rank minimum until proven otherwise
+Bounty:                  Private paper held by Saeki Toki. Client not disclosed
+Affiliation:             Presents as 木ノ葉隠れ・内務調整室 — "Konohagakure,
+                         Office of Internal Coordination." NOBODY HAS HEARD OF IT
+Status:                  Inside the closed north-east corridor, 3+ days
+Known Techniques:        None observed
+Unique Technique:        ⚠ HE CANNOT BE REMEMBERED. See below
+Known Associates:        Unknown. Has authority — or forged authority — sufficient
+                         to close a Fire Country trunk road
+Known Territory:         North-east Fire Country. Target: 淵ノ宮 Fuchinomiya
+Personality:             Polite. Patient. "The most reasonable person I'd dealt
+                         with all week." Verifies his own paperwork in person
+Known Crimes:            Technique theft (per Toki). Procurement of a fraudulent
+                         or irregular provincial commission
+Known Weaknesses:        None identified
+Last Confirmed:          水原 Suibara intendant's office, morning of 10 October
+First Encounter:         Not yet met
+```
+
+### ⚠ THE SIGNATURE ABILITY
+
+**早瀬 Hayase spoke with him for twenty minutes and fetched him tea. He cannot produce the man's face.** Not reluctance — **absence.** He remembers the tea, the politeness, the conversation's shape. The face is a hole, and finding the hole distresses him.
+
+**Suzume confirmed by touch that something was done to him.** Treat as a genjutsu or medical-grade memory technique applied *routinely and gently*, as a matter of professional hygiene, to a civilian who was being helpful.
+
+> **How to run him:** he is not theatrical and does not gloat. **He does paperwork.** He verified his own filing in person the morning before the Nine-Tails attack because that is the kind of operator he is. **His danger is preparation, not power** — until proven otherwise.
+>
+> **⚠ DO NOT RESOLVE HIS EMPLOYER QUICKLY.** The Office of Internal Coordination may be a real Konoha body, a Root cover, or a fabrication. **All three are live.** The Danzō ruling applies (`campaign-state.md`) — *let the trail be nearly right.*
+
+### THE OPERATION
+
+| | |
+|---|---|
+| **The road closure** | Commission 4-1-7. Received Suibara **9 October**; issued by post time **5–6 October** — **four to five days before the attack** |
+| **What it bought him** | **A closed corridor and no witnesses.** Thirty of the daimyō's own men, lawfully, at the province's expense |
+| **The target** | **淵ノ宮 Fuchinomiya** — hereditary grant Year −36 to the **Kaneshiro household**, *"for the maintenance and keeping of works constructed under the alliance."* **Uzumaki work, left in Fire Country** |
+| **⚠ The open question** | Whether the pre-attack timing means somebody **knew**, or somebody got **lucky.** *There is no way to tell from the paper, and the party knows it* |
+
+---
+
+## THE SUIBARA / HIYAKENO PEOPLE **[NEW, Year 0]**
+
+### 佐伯 トキ SAEKI TOKI — independent, working a private paper
+
+~50s. Grey at the temple, a face like a farm, a coat repaired more often than washed. Bad knees she mentions. **Three days' surveillance on the Hiyakeno barrier, watching who gets *turned away*.**
+
+**Blunt, tired, and honest about being paid.** Does not do charity and says so. Took the deal with Ardo **because he accidentally solved a problem for her** — a still target is worthless, a moving one is catchable — and made a point of saying it wasn't the speech.
+
+> **How to run her:** she complains, she digresses, she corrects herself mid-sentence, and she stops talking the moment the conversation reaches something she's being paid to keep. **She does not lie about withholding.** She says *"not yet."*
+>
+> **She has clocked the party as two people who could have walked through that barrier unopposed and didn't.** She has not found their faces in her book. **She is wondering why not.**
+
+**Standing offer:** two days. Her crew sits the ford, follows if Mitsuki moves, **does not engage in the town**, marks him and waits.
+
+**Undisclosed:** her client, her target's name, the bounty.
+
+### クロベ KUROBE — tracker
+
+Young. Objected to the whole arrangement out loud and got told to shut up twice in front of strangers. **He will remember that.** Decided he doesn't like Ardo, on the grounds that Ardo sat down.
+
+### 宗 MUNE — the forger
+
+~60s, tiny, clerk's satchel, ink-stained cuffs, says almost nothing and is right when she does. **Does Toki's accounts and Toki's paper.**
+
+- **Provincial transit licence in ~35 minutes**, good against anything short of the issuing office.
+- **Cannot forge the Konoha stamp** — nobody outside the Tower has the current impression, and it changes. *"I could do the eleventh. I can't do after the tenth."*
+- Supplied the correct play on the ledger: **an office that issued an order can withdraw one, and they are terrified of their own paper.** *"You want it open, not on fire."*
+
+> *"Papers work by being **dull.** The second you explain them, they stop working."*
+
+### 早瀬 HAYASE — junior clerk, Suibara intendancy
+
+**A civilian who did his job extremely well and is now frightened.** Proud of the consultation register. Fetched Mitsuki tea and **cannot remember his face.**
+
+**Suzume told him to give the party up completely and truthfully if asked**, and to go to a hospital and say *"something was done to me"* if the gaps spread.
+
+> **⚠ He is exposed.** Somebody will eventually ask him about this conversation. **What happens to him is a live consequence of the party having walked in.**
+
+---
+
 ## THE CAT-MASKED ANBU CAPTAIN
 Sent to find out *what Ardo is.* Reported back **"you're a man doing triage,"** stood her squad down, **and put two of her four in as medics** on the second floor east.
 
