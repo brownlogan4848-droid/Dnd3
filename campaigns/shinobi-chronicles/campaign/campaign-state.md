@@ -37,9 +37,9 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~330** | **500** | Three hours inside 潮風 Shiokaze's rotation returned more than the healing spent. **The tide gives back** |
-| **Stamina** | **~180** | **355** | Same. **Rested badly, restored anyway** |
-| **Health** | **158** | **228** | Closed and holding. **Do not exceed a walk until midday** |
+| **Chakra** | **500** | **500** | **Full.** Three long rests since the 11th — Book IV: a long rest restores Chakra and Stamina to full |
+| **Stamina** | **355** | **355** | **Full.** Same |
+| **Health** | **~205** | **228** | **Health tracks slower and never auto-fills** (`ardo.md` Recovery). Three nights plus a medic with working hands from midday on the 12th. **The abdominal wound is knitted, not finished** |
 | **Special** | **0** | **100** | Reset |
 | **Vision (Max)** | **62** | 100 | −1 the clearing · −1 the hospital · **−1 the mindscape meditation.** **Burning Clarity 69–40 ACTIVE** |
 
@@ -50,17 +50,16 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 | **ABDOMINAL WOUND — CLOSED** | Suzume's work, 癒し眼 open. **Souji missed the artery by less than a centimetre, on a stationary target, at contact range. Souji does not miss** |
 | **SEAL LATCH — PATCHED, NOT REPAIRED** | Minato threaded his own chakra into the new array's outer ring as he died: *"That'll hold."* **A dying man's field repair on a live containment seal.** It is holding. Nobody has looked at it since |
 | **JINCHŪRIKI — NEWLY SEALED, ADULT HOST** | Book II §3 Part Five, including the adult-sealing clause. **The doubled Chakra pool has not settled and should not be granted yet** |
-| **Exhaustion** | **Has not slept.** Three hours of sustained 大仙 Daisen on top of everything else |
+| **✅ EXHAUSTION — CLEARED** | Slept ~7 hours at the Hiyakeno waystation on the 12th, and both nights since. **The forty-hour figure is history, not state.** *Suzume made him take the first one and sat the door* |
 
 ### Active transformations
 
-**None.** All three released after **~12 minutes** in the open.
+**None.** Nothing has been lit since the night of the 11th.
 
 | | |
 |---|---|
-| **What it cost** | **Nothing.** No drain, no crash, everything spent came back. **That is the trap, and Suzume was watching it happen** |
-| **What it cost anyway** | **Twelve minutes of being a fire on a hill**, which tripped a watch that had been sitting on that road for years |
-| **⚠ SLEEP** | **He has now been awake ~40 hours.** Two burials, a stabbing, a bijū, and his village's name in one day. **He is loud and bright, and Suzume has seen this presentation in the wards.** She took a commitment to sleep at the first waystation; *he agreed too fast and she let that go* |
+| **⚠ HE IS DELIBERATELY NOT USING SENJUTSU** | He has checked their back-trail four times since and **has not once used 大仙 to do it.** Suzume noticed him not doing it and said nothing. *This is the visibility lesson landing on its own* |
+| **The precedent** | Twelve minutes unshielded on the 11th cost **nothing** in chakra or stamina and tripped a watch that had sat on that road for years. **A transformation that costs nothing is the one he will reach for without deciding to** |
 
 ### The new tenant
 
@@ -78,9 +77,9 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **~240** | **350** | Fed the chains, then ran 癒し眼 on Ardo |
-| **Stamina** | **~150** | **350** | |
-| **Health** | **119** | **176** | Ardo's hands, 癒しの手. **Good work, and she was annoyed about it** |
+| **Chakra** | **350** | **350** | **Full.** Three long rests |
+| **Stamina** | **350** | **350** | **Full.** Same |
+| **Health** | **~155** | **176** | Self-treated from midday on the 12th, which she was insufferable about. **The ribs are the limiter, not the number** |
 | **Special** | **0** | **100** | Reset |
 | **Vision** | **—** | **—** | **Suzume has no Vision track and never will.** Native tissue, native body |
 
@@ -88,11 +87,10 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 
 | | |
 |---|---|
-| **TWO RIBS — SET, NOT HEALED** | Knitting. **Bracing still hurts.** Roughly a week of care |
-| **LEFT ARM — hyperextended joint** | ⚠ **No fine work until midday on the 12th.** For a medic that is worse than broken. **Ardo is the medic until then** |
+| **⚠ TWO RIBS — day 5 of ~7** | Still knitting. **No hard bracing, no full-contact taijutsu, no Brace at full commitment** for roughly two more days. *This is the only live mechanical restriction on either character* |
+| **✅ LEFT ARM — RESOLVED** | Hyperextended joint cleared **midday on the 12th, on schedule.** Full fine motor. **She is the medic again** |
 | **HEAD LACERATION** | Closed |
-| **AWAKE, AND ON WATCH** | Woke to twelve minutes of unshielded senjutsu twenty feet away and **saw the treeline before he did.** Has committed to sitting the watch one-handed so he sleeps at the first waystation |
-| **Carrying the note** | 三島 Mishima's slip is in her kit, with the case notes. ***"Ask about the alliance with the island."*** |
+| **Carrying** | 三島 Mishima's slip *(**discharged** — the question was asked and the scroll was read)* · the case notes · **the 保留 scroll is in Ardo's satchel, not hers** |
 
 ### Active transformations
 **None.** Mangekyō active intermittently and involuntarily via Sōgan.

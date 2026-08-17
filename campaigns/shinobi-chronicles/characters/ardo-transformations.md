@@ -641,4 +641,4 @@ His eye reads **speed** — fitting for someone whose whole style is arrival rat
 
 > **⚠ Tier IV interacts badly with Arakawa, and this is deliberate.** A copied technique is one he has *never trained*, executed with control he is still learning to hold. **Every copied C-rank or above triggers the Arakawa control check** — at advantage while he holds Shioai, flat otherwise. **Copied A/S-rank while out of rhythm rolls the transformation table.** He can take everything anyone shows him. He may not survive using it.
 
-> **[RESOLVED, Year 0.]** The tree's unlock state was unrecorded for thirteen years. **Ruling: all four tiers unlocked at the transplant, Session Eight, at no Vision cost** — see the box above. The meter is settled at **65**.
+> **[RESOLVED, Year 0.]** The tree's unlock state was unrecorded for thirteen years. **Ruling: all four tiers unlocked at the transplant, Session Eight, at no Vision cost** — see the box above. The Year 0 *starting* figure that ruling produced was **65**; **the live meter is in `campaign/campaign-state.md`** and has moved since.

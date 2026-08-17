@@ -401,6 +401,6 @@ The reading the character supports is fear of the answer — *a man who spent hi
 
 - **Established canon.** No character fact, story event, relationship, or plot thread was altered. Where a fact existed in several conflicting versions, the resolved version is in the authoritative file and **the superseded reading is preserved as a dated note** — the project's own convention.
 - **Voice.** The source material is written with a strong and deliberate register. Restructured files keep it.
-- **Intentional design.** Suzume's Lightning cap at C-rank, the Grief/Rage Distinction, Ardo's Wind problem, Souji's Clanless restriction, the *"NPCs do not follow player rules"* asymmetry, and the *"do not let him learn the word 渦潮"* constraint were all identified as **deliberate and load-bearing**, and preserved exactly.
+- **Intentional design.** Suzume's Lightning cap at C-rank, the Grief/Rage Distinction, Ardo's Wind problem, Souji's Clanless restriction, the *"NPCs do not follow player rules"* asymmetry, and the *"do not let him learn the word 渦潮"* constraint were all identified as **deliberate and load-bearing**, and preserved exactly. *(Historical record. The 渦潮 constraint **discharged as designed in Session Thirteen** — Ardo produced the word himself, untaught, and was told afterward. It is no longer live; the other five are.)*
 - **Canon `[CONFLICT]` tags.** Source disagreements are a feature.
 - **The `skills/dnd/` plugin.** Out of scope and uncoupled.
