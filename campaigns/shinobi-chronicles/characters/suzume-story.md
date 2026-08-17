@@ -31,12 +31,15 @@ Uchiha by blood and clanless on every document. Carries a Mangekyō that costs h
 
 | Priority | Goal | Status |
 |---|---|---|
-| **1** | **Get Ardo to a hospital bed before he bleeds out through a live seal.** | Immediate. He is not cooperating |
+| **1** | ✅ **Get Ardo through the seal transfer alive.** | **Done.** Wound closed, seal join since fixed by him. *She has moved on* |
+| **1b** | **⚠ Make him tell her what he did to himself at half four in the morning.** | Active. **She has decided to make him volunteer it rather than ask again** |
 | **2** | **Find Souji.** *"Some part of him is still in there fighting it"* — her read, and she is the one who is always right about the difference between good quiet and bad quiet | Active. No trail |
 | **3** | **Build 静かな部屋 the Quiet Room.** The technique that would have saved Souji by more than three points | **Locked.** Now the most load-bearing locked ability in the campaign |
 | **4** | **Never again be something things happen *to*.** | Standing, since Year −13 |
 | **5** | **Keep Ardo's eye in his head.** | Three roads. She has offered the one nobody should take. He refused |
-| **6** | **Her own journey** — an eye nobody can explain, a technique she built while dying, a clan that never wanted her | Condition 2 of three, set thirteen years ago. **Still largely unaddressed** |
+| **6** | **Her own journey** — an eye nobody can explain, a technique she built while dying, a clan that never wanted her | Condition 2 of three, set thirteen years ago. **⚠ Still largely unaddressed, and that is now a problem the campaign should stop deferring** |
+| **7** | **⚠ Undo what was done to Kurobe.** Twelve years detached, index edited, reversible in principle | **New, Session Fourteen.** *"Not by me. Not tonight."* She took it on in front of Toki |
+| **8** | **⚠ Find out who is describing her to strangers.** Her right eye is on a watch sheet and a surgeon came for it with a depth-stop hook | **New.** Same wording on Hana's sheet and Tazawa's brief — **one channel** |
 
 ---
 ---

@@ -40,6 +40,10 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **5** | **Come back and bury Minato and Kushina properly.** | Promised out loud, to nobody, over unmarked ground |
 | **6** | **Keep his eye.** | Unresolved. He has not walked any of the Three Roads |
 | **7** | **"Shadow Kage."** | The vow underneath all the others, still undefined |
+| **8** | **⚠ 渦潮 UZUSHIO — the last rung.** *This was missing from this list and should never have been* | **NAMED, Session Thirteen — by him, untaught.** Gates 1 and 2 clear. **Gate 3 is bonds in the rotation and it cannot turn on one person.** `ardo-transformations.md` Part Six |
+| **9** | **⚠ Decide what to do about the 保留 scroll.** Konoha's drafted obligation to reinforce the island, signed and held | **Read. Undecided.** No letter, no turning round, and he has not said *betrayal* out loud |
+| **10** | **⚠ Find Kurama's siblings.** Nine; four in people; he doesn't know which four | **Offered, Session Fourteen. Kurama did not accept** |
+| **11** | **⚠ Stop the Tsugite collection.** Somebody has the list his clan refused to write | **New.** He holds one of the three taken |
 
 ---
 ---

@@ -27,6 +27,63 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 ---
 ---
 
+# ★ THE MISSION — why they are on this road at all
+
+> **Read this before the threads.** The threads are what is happening *to* them. **This is what they are trying to do.**
+> Full detail: `characters/ardo-story.md` and `characters/suzume-story.md`, Part Two.
+
+## 宗司 SOUJI — **this is the mission. Everything else is on the way.**
+
+**They left Konoha to bring Souji Terada home.** Not to kill him, not to avenge Minato — **to get him back.**
+
+- He put a sword through Ardo's stomach, killed Minato Namikaze, and told Ardo ***"when you're ready, truly ready, come find me."***
+- **Ardo's answer:** *"If he's still in there somewhere, I'm gonna beat it out of him and drag him back here."*
+- **What he sent up an anonymous chain on the 15th:** ***"Suzume and I are coming to bring you back home."*** — and gave a watcher the name *Souji Terada*, which she wrote on the back page and did not file.
+- **Suzume's read, and she is the one who is right about quiet:** *"Some part of him is still in there fighting it."*
+
+> **⚠ Souji is not only the mission. He is a load-bearing component of 渦潮.** Gate 3 needs bonds in the rotation. Beating him is no longer the plan — **getting him back into it is.**
+
+## 渦潮 UZUSHIO — Ardo's ladder, and it has a name now
+
+**借風 → 紅風 → 渦風 → 潮合 → 潮風 → 大仙 → 渦潮.** Six rungs climbed over thirteen years. **The seventh is named and not reached.**
+
+| | |
+|---|---|
+| **Named** | **Session Thirteen — by him, untaught, as a description.** *"The whirling tide."* He did not know it was his village's name until Suzume told him |
+| **Seen** | **Session Thirteen** — he stood inside the rotation. Three arcs held. **The fourth was nearly empty and it set itself back down** |
+| **Gate 1 · 2** | ✅ ✅ |
+| **⚠ Gate 3** | ✗ — **bonds in the rotation.** It cannot turn on one person. *This is the wall, and it is a people problem, not a power problem* |
+| **What it costs** | **Nothing.** He felt that directly. A form that spends nothing is the one he will reach for without deciding to |
+
+**Full treatment: `characters/ardo-transformations.md` Part Six.**
+
+## SUZUME'S OWN JOURNEY — **not a support arc**
+
+She has goals of her own and they are not Ardo's, and several are years overdue.
+
+| | |
+|---|---|
+| **静かな部屋 THE QUIET ROOM** | **Locked.** The technique that would have saved Souji by more than three points. ***The most load-bearing locked ability in the campaign*** |
+| **Her own eye** | An eye nobody can explain, in a woman the Uchiha never claimed. **Condition 2 of three, set thirteen years ago, and still largely unaddressed** |
+| **"Never again be something things happen to"** | Standing since Year −13 |
+| **Keeping Ardo's eye in his head** | Three roads. **She has offered the one nobody should take. He refused** |
+| **⚠ NEW — Kurobe** | Twelve years excised, reversible in principle, *"not by me, not tonight."* **She has taken this on** |
+| **⚠ NEW — she is on somebody's list** | *"A woman with a medical kit and a right eye she keeps covered in company."* **A surgeon came for that eye with a depth-stop hook** |
+
+## The promises still outstanding
+
+| To whom | What |
+|---|---|
+| **Minato, dying** | Raise Naruto and *"teach him everything you've taught me."* **Delegated to Hiruzen by agreement — Ardo left the village to do the Souji mission** |
+| **Minato and Kushina, over unmarked ground** | **Come back and bury them properly.** Said out loud, to nobody |
+| **Kurama, Session Fourteen** | **If the Tsugite method is ever completed, by anyone including Ardo — *ask me first*.** *A promise he can actually keep* |
+| **Kurama, unanswered** | *"Then let's find them. Together."* Nine siblings, four in people. **Kurama did not say yes** |
+| **The archive** | **Find the living Uzumaki.** Four found in thirteen years; three dead ends, one not |
+| **Himself, at a pyre, aged ten** | **"Shadow Kage."** Still undefined. **The vow underneath all the others** |
+
+---
+---
+
 # THE PARTY — 遊撃班 YŪGEKIHAN
 
 **Cell 409's designation still stands** — independent, long-range, unattached to any front. **It is now two people.**
