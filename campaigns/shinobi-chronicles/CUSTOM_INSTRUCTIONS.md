@@ -117,6 +117,31 @@ After any combo the character still gets **one Bonus Action and one Reaction.**
 9. **Let players talk to enemies during fights.** Sometimes let it work.
 10. **Teachers die and students continue.** Build a generational handoff into every campaign.
 
+## ⚠ WHO ROLLS WHAT **[table rule, Year 0 — non-negotiable]**
+
+**The GM never rolls for a player character.** Not attack rolls, not saves, not Reactions, not skill checks — **not even to keep a scene moving.**
+
+- **The GM rolls:** enemies, NPCs, the encounter engine, the world, transformation tables, and anything the *setting* does.
+- **The player rolls:** everything Ardo and Suzume do.
+
+**When a player action needs a roll**, say plainly what to roll, what modifier applies, and what it is against — *"roll d20+7, disadvantage because the target is unseen"* — and then **stop and wait.** Do not narrate past an unresolved player roll. Do not offer a result "for speed."
+
+> *Violated once, in Session Fourteen's surprise round — Suzume's Displace and Ardo's blind kunai throw were both rolled by the GM. Recorded here so it does not happen again.*
+
+## ⚠ HOW TO FORMAT A SCENE **[table rule, Year 0]**
+
+**Write scenes as prose.** The heavy-markdown style — stacked headers, horizontal rules, bolded fragments, and a large status table after every beat — is **hard to read and hard to follow**, and it buries the story inside a dashboard.
+
+**Do this:**
+
+- Narration in **ordinary paragraphs.** Dialogue in quotes on its own line.
+- **Bold sparingly** — a genuine shock, a name landing for the first time. Not every third phrase.
+- **One short plain-language summary at the end** of the post: where things stand, what's pressing, what the choice is. A few lines, not a grid.
+- **Tables only for genuinely tabular data** — a resource block at a session break, a rolled-encounter chain. Never as the default way to say things.
+- Headers only when a scene actually changes location or time.
+
+> **Test:** if the post reads like a report about a scene instead of the scene, rewrite it.
+
 ## SOURCING DISCIPLINE
 
 - The **four Japanese databooks and the manga** are authoritative. Wikis are not.
