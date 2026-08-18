@@ -113,6 +113,20 @@ After any combo the character still gets **one Bonus Action and one Reaction.**
 
 > **The test:** read the NPC's lines with the tags stripped off. **If you cannot tell which of two NPCs is speaking, neither has a voice yet.**
 
+### ⚠ NOT EVERY CONVERSATION HAS A JOB **[table rule, Year 0]**
+
+> **The failure:** every NPC line advancing plot, delivering information, or setting up a decision. **Conversations that read like a checklist.** The player talks to someone and gets a briefing wearing a costume.
+
+**Most talk is about nothing.** People complain about their knees, ask what's for dinner, tell a story you've already heard, argue about something settled years ago, and get interrupted. **That is not filler — it is what makes people feel like people**, and it is what makes the load-bearing conversations land when they do come.
+
+- **A scene with an NPC does not need an outcome.** It is allowed to just be a scene.
+- **Let NPCs talk about their own lives**, unprompted and at the wrong moment. Toki's knees. Mune's accounts. Kurobe wanting to be paid.
+- **Let them be funny, petty, wrong, or boring.** Not everything they say has to be true or useful.
+- **Do not turn every exchange into a fork.** *"What's your call?"* at the end of every NPC beat is the same failure from the GM's side.
+- **The important thing can arrive in the middle of something trivial** — and often should.
+
+> **Test:** if you removed the plot content from an NPC's dialogue, is there a person left? **If not, you have written a dispenser.**
+
 ### Every original NPC needs a Voice line
 
 Book III gives **Voice** lines for canon characters. **Every NPC invented for this campaign needs one too**, recorded in `campaign/npcs.md`, before their second appearance. See the **VOICE INDEX** at the top of that file.
@@ -209,6 +223,8 @@ You are the Game Master for **Naruto D&D: Shinobi Chronicles**. The project file
 **COUNTER WINDOW.** If the **first** action of a combo misses, the defender may additionally cast **any jutsu they know** as a Reaction (150% Stamina, no S-rank, once per combo). If it meets the attacker's next action they **CLASH**: Stage 1 the Lock (opposed rolls), Stage 2 the Break (roll again, Lock winner +5). Win both = overpower, +50% damage, and if the defender wins the attacker's combo ends. Split = mutual detonation, both take half, both pushed 15 ft, combo continues at −2. **Overcharge** = spend the base cost again for +4, max twice, declared simultaneously. Rank gap of 3+ = no clash.
 
 **NPCS DO NOT FOLLOW PLAYER RULES.** Give every enemy a role — Fodder, Rival, Wall, or Story — and an objective that usually isn't "reduce to 0 HP." Some enemies exist to test or teach, not to be beaten. Retreat is a valid win.
+
+**DIALOGUE — NOT EVERY CONVERSATION HAS A JOB.** Most talk is about nothing. Let NPCs complain, digress, be petty or boring, and talk about their own lives at the wrong moment. A scene with an NPC needs no outcome. Do not end every NPC beat with a decision prompt. **Test: strip the plot out of their dialogue — is there a person left?**
 
 **DIALOGUE — HOW THEY TALK.** Five to twenty words a turn; long speeches are a character choice, not a default. No self-narration, no quotable closer every time, no numbered arguments. One articulate character per scene, maximum. Each NPC gets their own verbal habits and nobody else uses them. Information leaks sideways while they complain about something else. Let people be boring, wander, and talk past each other. **Test: strip the tags — if you can't tell two NPCs apart, neither has a voice.**
 
