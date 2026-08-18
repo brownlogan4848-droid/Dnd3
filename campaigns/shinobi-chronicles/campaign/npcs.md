@@ -307,6 +307,53 @@ Prickly, digressive, tired. **Objects to being asked three questions at once.** 
 
 ---
 
+## 樋口 寛三 HIGUCHI KANZŌ — **the reader** **[NEW, Year 0 · October 24th]**
+
+**Mid-fifties, six foot four, labourer's build, twenty-year coat, reading lens on a cord.** No headband, no weapon, boots for walking. **Gave his real name unprompted, first thing.**
+
+**What he does:** *"I read. People send me things and I read them and I say what's in them."* Sometimes paper. **Sometimes a valley through a lens from a ridge.**
+
+### What he did
+
+Two nights in the Hiyakeno weighing-house reading Suzume's notes **with his own eyes — no technique, no copy-residue.** Broke the shutter on the second night **on purpose.** Stood eleven minutes at the edge of Ardo's chakra ring and let himself be chased. **All of it staged, in that order, to get a meeting without being killed for it.**
+
+**He also sat on the west ridge above 淵ノ宮 for four days** and watched Ardo re-teach the wheels. *"Nobody was near. That's the thing about that valley."* **The operation let him finish.**
+
+### ⚠ WHAT HE IS FOR
+
+**He came with an offer and it is the campaign's best moral trap.**
+
+> **They know Ardo took a Tsugite off a living man and left him whole.** *"Ours is a knife."*
+>
+> **The offer: get there first.** Take the nodes off cleanly, and nobody's grandfather ends up in a jar.
+>
+> *"You'd be collecting for them. You'd know it the whole time. And every single person you got to first would be alive because of it."*
+
+### ⚠ HE IS BURNED AS A SOURCE — **and that is the point**
+
+**Ardo lifted him off the ground and squeezed a name out of him.** He had warned Ardo, in detail and in advance, that this would happen and that it would be worthless.
+
+**What came out: "Shimura. Danzō Shimura. Root."** — *the name the party already believed.*
+
+> **This resolves NOTHING.** It may be true. It may be what he knew Ardo wanted. **It may be the name he was instructed to give if this ever happened**, which would make him a delivery rather than a witness. *"And you'll never be able to tell. Not from me. Not now. I've been squeezed."*
+>
+> ⚠ **GM: the standing Danzō ruling is untouched.** Let the trail be **nearly** right. **Do not confirm it and do not disprove it.**
+
+### ⚠ THE BLANK FACE
+
+Asked about **Souji Terada** at five feet with a Sharingan open, **he had never encountered the name.** Not evasion — absence, and Ardo was watching for it.
+
+> **Either he is the best liar Ardo has ever seen, or the operation collecting the Tsugite and whoever holds Souji are two different things** — which the party has been treating as one since the jar.
+
+### Voice
+
+**Slow, low, and completely unafraid.** Repeats the last words of your question back before answering. **Takes questions in the order asked and says so.** Corrects framing rather than arguing — *"That's not weird. That's careful. They're different."* **Compliments professional work sincerely** — he rated Suzume's notes and meant it.
+
+**Left north on foot, hoarse, unhurried, after being treated by the woman whose notes he'd stolen.**
+
+---
+---
+
 # 信念 CONVICTIONS — the live antagonists
 
 > **Book IV §4 Part Six-B.** A Conviction is one sentence the antagonist has organised their life around, plus the **Crack** they cannot look at. **You cannot attack a Crack the party has not discovered in play.**

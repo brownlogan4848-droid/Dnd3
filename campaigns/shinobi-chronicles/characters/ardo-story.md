@@ -100,6 +100,9 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | **⚠ A Konoha office he has never heard of countersigned that closure** | 木ノ葉隠れ・内務調整室, Office of Internal Coordination. **Thirteen years in that village and neither he nor Suzume knows the name** |
 | **⚠ Somebody in Konoha went looking for Uzumaki works in Fire Country in Year −18** | Fuchinomiya's only other consultation in sixty years — ***"sealed request, name omitted by instruction."*** **The same year Hiruzen marked the alliance 保留** |
 | **A face can be taken out of a witness cleanly enough that only the gap remains** | Hayase, who remembers the tea and not the man |
+| **⚠ Somebody sat on the west ridge above 淵ノ宮 for four days and watched him work, and let him finish** | Higuchi, who was the one holding the lens |
+| **⚠ The collectors know he can take a node off a living man without harming him** | Tatsumi's clean arm. *"Nobody in this business can do that. Ours is a knife"* |
+| **⚠ THE OFFER: get there first** | **Take the nodes cleanly, ahead of them, and no carrier has to die for one.** *"You'd be collecting for them. You'd know it the whole time. And every single person you got to first would be alive because of it"* |
 | **⚠ 淵ノ宮 Fuchinomiya is a 継ぎ手 relay STATION** — seven wheels, one mechanism, seven beats — built so a thing in transit can keep moving without a person holding it | Read off the channel linework with the eye open, Fūinjutsu 29. **The archive confirmed it** |
 | **⚠ It is EMPTY, and has been since the island fell** | Nao. *"A stop on a line that stopped running twenty years ago"* |
 | **⚠ Konoha agreed to host Uzumaki relay infrastructure on Fire Country soil in Year −36** | The grant is in a provincial register in a Fire Country hand. **This sits underneath the 保留 scroll** |
@@ -112,6 +115,8 @@ Thirteen years in the field. Sage of no species. Carries the complete archive of
 | Belief | Reality |
 |---|---|
 | **That moving the seal onto himself solved something** | **He has only moved where it lands.** The completion cost is still sitting on somebody |
+| **⚠ That the name he choked out of Higuchi confirms it — "Shimura. Danzō Shimura. Root."** | **It confirms nothing.** Higuchi warned him beforehand, in detail, that force would produce a name and that it would be uncheckable. **It may be true, it may be what Ardo wanted to hear, or it may be what Higuchi was told to say if this ever happened.** *He is burned as a source either way, and Ardo did that* |
+| **⚠ That Souji is close, and on the same file** | **Higuchi had never encountered the name, at five feet, with a Sharingan on him.** Ardo built "Souji has to be close" across the exact gap that blankness opened. **Suzume noticed and did not say so** |
 | **That Souji belongs to Danzō** | ⚠ **This is a belief, not a fact, and it is the one most likely to send him the wrong way.** Souji **denied Danzō by name and credited Danzō by name in the same conversation** — and volunteered Orochimaru unprompted. **Deliberately unresolved; do not confirm it for him.** See `campaign-state.md` |
 | That he can carry the archive indefinitely without it costing him | Nobody has said out loud that if he dies badly, four hundred generations go with him |
 | That the Shadow Kage vow is a plan | It is a sentence a ten-year-old said at a pyre |
