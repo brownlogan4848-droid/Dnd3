@@ -372,6 +372,50 @@ Mugeki used to mean *he arrives instead of travelling.* **Now there is not even 
 
 **Its deliberate use has a name: 音置き Otooki.** See `ardo-jutsu.md`.
 
+> ## ★ 無隙 MUGEKI IS A PRECURSOR **[GM — established Session Fifteen]**
+>
+> **His body has been doing an unpowered version of 神威 Kamui for years and nobody noticed, including him.**
+>
+> *"No blur. No displaced air. No crack, no line, no afterimage… he is over there, and then the world contains him over here, and **the interval was not short, it was absent.**"*
+>
+> **That is not speed. Speed has an interval.** Mugeki removes it — badly, expensively, with his legs — and Kamui removes it properly, with the eye.
+>
+> **Suzume unlocked hers first**, in a yard, on rage and grief, at 140 metres. **Ardo's is not unlocked.** The road to it is not training; it is the same door she went through.
+
+---
+
+## ⚠ 神威 KAMUI — **NOT YET UNLOCKED. Read the price before you want it.** `[GM]`
+
+**The dimension is shared and it is theirs.** Kamui functions as a pair — two eyes, one space — and **Ardo and Suzume are the only pair in the world made by a trade rather than a birth.** 相眼 Sōgan was never the phenomenon. **Sōgan was the leak.**
+
+### What it will do for him **[design targets — tune at unlock]**
+
+| | |
+|---|---|
+| **Base** | Instantaneous relocation. **No transit, no interval, nothing that keys off travel can answer it** |
+| **⚠ In any transformation** | **Severely enhanced.** The forms and the fold compound rather than stack — *he is already the man with no interval; the eye removes the last of it* |
+| **⚠ 大仙 Daisen + 神威** | **The fastest thing this world has produced, for now.** *"For now" is doing real work in that sentence and should stay in it* |
+
+### ⚠ THE PRICE, AND IT IS THE WHOLE POINT
+
+**Kamui is Mangekyō-grade.** Book: `Part Eight — The Vision Economy`.
+
+| | |
+|---|---|
+| **Suzume pays** | ## **Nothing. Ever.** |
+| **Ardo pays** | ## **2–5 Vision per use.** |
+
+**Max Vision is 58.**
+
+> **She can fold space for the rest of her life. He gets somewhere between a dozen and thirty uses, total, before the eye is gone.**
+>
+> **The fastest thing in the world is a countdown**, and every single use of it is a decision about how much of his sight it was worth.
+>
+> ### ⚠ GM — DO NOT SOFTEN THIS
+> **No discount, no workaround, no clever ruling that makes it cheap.** The asymmetry between them has been the spine of this pair since Session Eight, and Kamui is that asymmetry with the numbers finally large enough to hurt. **Both of them will work it out. Neither has said it aloud.**
+>
+> **Note the interaction with the Three Roads (Part Eight).** Eternal Mangekyō removes the Vision cost entirely — and requires a close relative's Mangekyō, transplanted. **There is exactly one other Mangekyō in this campaign, it is in Suzume's head, and she has already offered it once.** *This makes that conversation enormously harder to keep closed.*
+
 ## THE DETONATIONS — 空爆 Kūbaku, evolved
 
 Kūbaku was a Taijutsu-only clause. **Now it is everything he touches.**

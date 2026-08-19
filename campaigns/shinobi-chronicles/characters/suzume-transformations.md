@@ -209,6 +209,44 @@ Ardo took her hand, **moved Rai's headband to cover his *own* eye** so he was se
 ---
 ---
 
+# PART FIVE-B — 神威 KAMUI **[GM — UNLOCKED live, Session Fifteen, Year 0 · October 27th]**
+
+> ## ★ THE PAIRED DIMENSION. **This is what the eye trade was always going to become.**
+>
+> **Kamui works as a pair.** Two eyes, one dimension, split between two people — which is exactly and only what Ardo and Suzume are. **They traded eyes in the mud at Training Ground Six and closed a circuit nobody had closed before.** 相眼 Sōgan was the symptom. **This is the mechanism.**
+>
+> **⚠ NEITHER OF THEM KNOWS THE DIMENSION EXISTS.** Suzume can *move* through it. She has no idea she is going anywhere. **Do not let either of them work this out cheaply.**
+
+## How it unlocked
+
+**Not through training.** She stopped dead in open ground with a professional closing on her back, looked at Souji tearing a technique out of a living man's skull with his bare hands, and everything from thirteen years arrived at once. She shut her eyes, screamed **"DAMN YOU, SOUJI"**, opened them, and the world folded.
+
+**A hundred and forty metres, instantly, with no travel in between.** Her hands knew before she did — *the same way Ardo's always have.*
+
+## Mechanics **[first pass — tune at the table]**
+
+| | |
+|---|---|
+| **What it does** | **Instantaneous self-relocation.** No transit, no interval, nothing to intercept. **Not a movement speed — an absence of movement** |
+| **Cost** | **30 Chakra + 20 Special** per use |
+| **Action** | **Her Action, or her Reaction** — the second is what makes it terrifying |
+| **Range** | **Line of sight**, or a place she has stood herself and can hold clearly |
+| **Limit** | **Herself.** Carrying another person is a different and much harder thing she has not done |
+| **⚠ Countering it** | **Nothing that keys off travel works.** No interception, no lead, no Counter Window on the movement itself. **Brace when she arrives; that is all** |
+| **⚠ VISION COST TO HER** | ## **NONE. EVER.** *Native eye, native body. Book: `suzume-transformations.md` Part Two* |
+
+## ⚠ AND THIS IS WHERE THE ASYMMETRY GETS CRUEL
+
+**Ardo will pay for the same technique.** Kamui is unambiguously **Mangekyō-grade**, and Mangekyō-grade use on a non-Uchiha wearing a transplanted eye is **2–5 Vision per use** — the only thing that will actually blind him.
+
+> **Suzume can fold space for the rest of her life for free.**
+> **Ardo will be able to do it perhaps a few dozen times, ever.**
+>
+> **Neither of them has said this out loud yet. Both of them will work it out.** *`characters/ardo-transformations.md` Part Eight.*
+
+---
+---
+
 # PART SIX — 無戸の間 MUTO NO MA · "The Doorless Room"
 
 **[GM — Mangekyō genjutsu · A-RANK SIGNATURE]**
