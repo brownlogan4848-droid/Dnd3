@@ -247,75 +247,95 @@ Whatever it did, the wall came down. **Forty feet of new growth came out of the 
 
 **He has the gate, not the mastery.** Everything below is D or E. **Nothing above D exists for him yet**, and the road to C and beyond is training, XP and time like anything else. *He is not Hashirama and will not be handed the shortcut.*
 
+### ⚠ RANK MEASURES COST, NOT PEDIGREE **[GM — standing rule, generalisable]**
+
+> **A kekkei genkai technique hits above its rank band, and this is not a favour to Souji.**
+>
+> **Rank letters in this system price *complexity and chakra*, not lineage.** A D-rank Mokuton technique is D-rank because it is **cheap and simple to cast** — not because it is weak. Mokuton is the bloodline that built a village, levelled a valley and put a Kage in the ground. **Nothing it does is unimpressive, at any rank.**
+>
+> **Practical ruling: Souji's Mokuton deals damage one band above its rank while costing inside its own band.** *This applies to any kekkei genkai technique in this campaign, not just his.*
+
 ### ⚠ HOW SOUJI'S MOKUTON READS — **and this is the whole flavour**
 
-**Hashirama grew forests, gods and valleys. Souji makes tools.**
+**Hashirama's Mokuton created.** Forests, gods, valleys, a place for people to live.
 
-**Wedges. Splints. Nails. Pens. Stumps.** Everything he grows is small, hard, joinery-shaped and *for* something — the vocabulary of a man who has spent his whole life being the one who holds the thing together while other people do the impossible.
+**Souji's does not create anything.** It comes out of the ground, it goes *through* things, and it stays there.
 
-> **His Mokuton is a carpenter's, not a god's.** Nothing he makes is beautiful. All of it works.
+> **Pale, close-grained, almost bone. It does not flower and it does not leaf.** Every technique below is a **spike, a stake, a splitting weight or a thing that grows inside a wound**, and he built all five of them in about four minutes with no instruction whatsoever.
 >
-> **Colour:** pale, close-grained, almost bone. It does not flower and it does not leaf.
+> **The naming stays his** — flat, physical, carpenter's words. **What the words describe is not carpentry.**
 
 ---
 
 ## E-MOKU-01 — 木遁・木釘 WOODEN NAILS
 ### *Mokuton: Kikugi* · **E-rank** · **[GM]**
 
-**1 Action · 1 slot · 5 Chakra / 2 Stamina · Range 30 ft**
+**1 Action · 1 slot · 6 Chakra / 3 Stamina · Range 40 ft**
 
-A fistful of hardwood spikes grown straight out of the palm, the forearm, or the ground at his feet, and thrown — **four of them, unglamorous, close-grained and heavier than they look.**
+Hardwood spikes grown out of the forearm and thrown in a fan — **six of them, each the length of a kunai and heavy as an iron bar**, close-grained enough to go through a flak jacket without slowing.
 
-**Ranged attack. 1d6 piercing each, up to two may target the same creature.** Spikes that miss **stay where they land** and count as difficult terrain in a 5-ft square.
+**Ranged attack. 3d6 piercing.** On a hit, **the nails remain embedded**: the target takes **1d6 at the start of each of their turns** until an action is spent pulling them out, because **they are still growing.**
 
-> **His answer to shuriken, and cheaper.** He made these first, within about ninety seconds of the gate opening, because his hands wanted something to do and the first thing they reached for was *fasteners.*
+> **An E-rank technique that out-damages most D-ranks in this compendium, and that is the point.** He made them within ninety seconds of the gate opening. *His hands wanted something to throw and reached for fasteners.*
 
-## D-MOKU-01 — 木遁・楔 THE WEDGE
-### *Mokuton: Kusabi* · **D-rank** · **[GM]**
+## D-MOKU-01 — 木遁・杭 THE STAKE
+### *Mokuton: Kui* · **D-rank** · **[GM]**
 
-**1 Action · 1 slot · 10 Chakra / 6 Stamina · Range touch or 20 ft**
+**1 Action · 1 slot · 11 Chakra / 6 Stamina · Range 40 ft**
 
-**One wedge. Driven into a gap.** A joint, a seam, a crack in stone, the space between two plates of armour, the hinge side of a door — **and then it grows**, slowly and with enormous patience, and whatever it was driven into comes apart.
+**One stake. From below.** A single shaft of white heartwood a hand's breadth across, up through the ground and up through whatever is standing on it, and it does not withdraw.
 
-**Against a creature:** melee or ranged attack, **2d8 piercing**, and the target's **Speed is halved until the end of their next turn** as the wedge sets in muscle or joint.
-**Against an object or structure:** no roll. **It opens.** Doors, shutters, cart axles, masonry, a barricade — *given about six seconds.*
+**DEX save vs DC 16.** **Failure: 4d8 piercing and the target is impaled — restrained**, held off the ground, until they or somebody else spends an action tearing free *(STR check DC 16, 1d8 on the way out)*. **Success: half damage, no impale.**
 
-> **The first genuinely tactical thing he built.** It is not a weapon that kills people. **It is a weapon that opens things**, and Souji Terada has spent his entire life on the wrong side of doors.
+> **His highest single-target output at D-rank and it is not close.** *One stake. He does not need a second one.*
 
-## D-MOKU-02 — 木遁・添え木 THE SPLINT
-### *Mokuton: Soegi* · **D-rank · Supplementary** · **[GM]**
+## D-MOKU-02 — 木遁・矢来 THE PALISADE
+### *Mokuton: Yarai* · **D-rank** · **[GM]**
 
-**1 Bonus Action · 1 slot · 8 Chakra / 5 Stamina · Range touch**
+**1 Action · 1 slot · 12 Chakra / 8 Stamina · 30-ft line, 5 ft wide**
 
-**Pale wood laminates around a break and holds it.** A limb, a cracked beam, a failing wall, a wound that won't close, a shield that's about to go.
+**A wall of stakes comes up along a line at a shallow forward angle**, the way a defensive palisade is set to receive a charge — except it arrives under the people it is receiving.
 
-- **On a creature:** the target gains **10 temporary Health** and **advantage on their next save against being knocked prone, moved, or restrained.** It does not heal. **It holds.**
-- **On a structure:** one damaged or failing object is **braced and functional** for ten minutes.
+**Every creature in the line: DEX save vs DC 16. Failure: 3d8 piercing** and their Speed is halved until the end of their next turn. **Success: half, no slow.**
 
-> ⚠ **He can use it on other people and it works perfectly.** *He has not, yet.* **The technique that came most naturally to a man whose entire wound is that nobody needed him is the one for holding somebody else together, and it arrived on the same night as the rest.**
+**The palisade stays.** Full cover along that line, difficult terrain to cross, **20 Health.**
 
-## D-MOKU-03 — 木遁・囲い THE PEN
-### *Mokuton: Kakoi* · **D-rank** · **[GM]**
+> **The technique he built for holding a corridor**, and the first thing he has ever owned that lets one man refuse a direction to a squad.
 
-**1 Action · 1 slot · 12 Chakra / 7 Stamina · 15-ft radius within 30 ft**
+## D-MOKU-03 — 木遁・薪割 SPLITTING THE LOG
+### *Mokuton: Makiwari* · **D-rank** · **[GM]**
 
-**A waist-high enclosure grows out of the ground in a ring.** Not a cage. Not a wall. **A pen** — the thing you build to keep livestock where you want them while you get on with something else.
+**1 Action · 1 slot · 12 Chakra / 8 Stamina · Range 30 ft**
 
-**All creatures inside must spend their entire Movement to leave it**, or make a **DEX save vs DC 16** to vault it cleanly. **Ranged attacks out of it are unaffected. It does not stop anything.**
+**A mass of hardwood erupts overhead and comes down**, a single enormous falling weight with the whole of his Senju vitality behind it. **No finesse whatsoever. It is an axe on a block.**
 
-> **It is not meant to stop anything.** *"I don't need you somewhere you can't be. I need you somewhere I know."* **This is Root Grip's philosophy scaled up and it is the most Souji technique in the set.**
+**Melee or ranged attack. 4d8 bludgeoning**, and the target is **knocked prone and pushed 10 ft** with no save. **Against a structure, object or barricade it deals double damage.**
 
-## D-MOKU-04 — 木遁・切株 THE STUMP
-### *Mokuton: Kirikabu* · **D-rank** · **[GM]**
+> **The sound is the worst part.** *Named for the chore. He split wood for the Terada household from the age of six and it is the only part of that house he ever liked.*
+
+## D-MOKU-04 — 木遁・喰い込み BITE DEEP
+### *Mokuton: Kuikomi* · **D-rank** · **[GM]**
+
+**1 Bonus Action · 1 slot · 10 Chakra / 7 Stamina · touch or 15 ft**
+
+**He does not open the wound. He grows in one that is already there.**
+
+**Usable only against a creature that has taken damage since the start of his last turn.** A seed of white heartwood is put into the existing injury and **opens.**
+
+**No attack roll. Automatic 3d10 piercing**, and the target has **disadvantage on their next attack roll** — you cannot swing properly with something rooting in you.
+
+> ⚠ **This is the one that frightens people who watch it.** It is also **the perfect partner to a blade**, which is what he actually is: *cut them first, then put something in the cut.* **朽木 Kuchiki rots what it touches. 喰い込み grows in what he has already opened.** Same instinct. Opposite direction.
+
+## D-MOKU-05 — 木遁・切株 THE STUMP
+### *Mokuton: Kirikabu* · **D-rank · Reaction** · **[GM]**
 
 **1 Reaction · 1 slot · 10 Chakra / 8 Stamina · self or within 10 ft**
 
 **A block of close-grained hardwood erupts between the attack and its target**, a metre thick and rooted the instant it arrives.
 
-- **Reduces the damage of one incoming attack or technique by 3d8**, taken from the total before anything else applies.
-- **The stump remains.** Full cover in that 5-ft square until destroyed *(20 Health)*, and it is now standing terrain for anyone who wants it.
+**Reduces the damage of one incoming attack or technique by 4d8**, before anything else applies. **The stump remains** — full cover in that square, 25 Health, and standing terrain for anyone who wants it.
 
-> **His first true Reaction and the only defensive technique he owns that is not his own body.** Thirteen years of taking hits with his ribs because he had nothing else. **Now there is something else.**
+> **His first true Reaction, and the only defensive technique he has ever owned that is not his own ribs.** Thirteen years of taking hits with his body because there was nothing else. **Now there is something else.**
 
 ---
 

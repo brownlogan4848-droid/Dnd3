@@ -641,6 +641,28 @@ Extrapolated from the printed E and D values (E: 3–8 Chakra / 0–5 Stamina; D
 
 **Sanity check:** a Level 20 Kage with 480 Chakra can throw four to six S-rank techniques in a battle. That's right for the genre.
 
+#### ⚠ KEKKEI GENKAI AND RANK **[GM — standing rule]**
+
+> **Rank measures cost and complexity. It does not measure pedigree.**
+>
+> A D-rank **Mokuton** technique is D-rank because it is **cheap and simple for its user to cast** — not because it is weak. Wood Release built a village, levelled a valley and put a Kage in the ground. **Ice, Lava, Boil, Storm, Scorch, Explosion and Dust are all the same case.** A bloodline nobody else in the world has does not become unimpressive because its simplest application is cheap.
+>
+> ### The ruling
+>
+> **A kekkei genkai technique deals damage one band above its rank, while costing inside its own band.**
+>
+> | Rank | Normal damage | **Kekkei genkai damage** |
+> |---|---|---|
+> | **E** | 1d6–2d6 | **3d6** |
+> | **D** | 2d6–2d8 | **3d8–4d8** |
+> | **C** | 3d8 | **4d8–5d8** |
+> | **B** | 4d8 | **5d8–6d8** |
+> | **A** | 5d10 | **6d10+** |
+>
+> **This is why a bloodline is worth hunting people over**, and it is why the Bloody Mist happened. **Apply it consistently or not at all** — if a PC gets it, so does every kekkei genkai enemy they meet.
+>
+> **⚠ It does not lift the rank ceiling.** A jōnin with Mokuton still cannot cast above B-plus-one-A-signature. **A D-rank kekkei genkai technique is still a D-rank technique for slots, cost, and every gate in the system.**
+
 #### Kinjutsu **[GM]**
 
 Forbidden techniques cost Chakra, Stamina, **and something you don't get back.**
