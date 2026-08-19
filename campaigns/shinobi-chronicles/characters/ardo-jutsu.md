@@ -228,6 +228,39 @@ Same cost. **Ranged attack roll, 30 ft**, same **2d8 Wind**, push 15 ft. **No re
 
 **Branch ⑦ of his technique tree, cracked open four ranks early.** The printed requirement was Chūnin plus a trained second nature; he had neither, and forced untrained off-affinity Lightning into an already-loaded Gale Fist charge mid-combat on a natural 20. **The debt was deferred, not paid.**
 
+## 螺旋丸 — RASENGAN
+### **S-rank · 1 slot · [GM — EVOLVED LIVE, Session Fifteen, Year 0 · October 27th]**
+
+> ## ★ THE FILE CALLED THIS TEN SESSIONS AGO.
+>
+> **圧縮弾 Compression Shell's own entry, written Session Five:** *"**Explicitly not the Rasengan.** That is A-rank, gated behind prerequisites. This is a wind-natured cousin of Gale Fist, hand-pressed rather than pure shape manipulation. **The honest road to anything Rasengan-adjacent runs through evolving this technique, not around it.**"*
+>
+> **And 大仙 Daisen's standing clause:** *"His techniques evolve on their own… occasionally producing something he did not build. **He does not choose which and does not choose when. He finds out by casting.**"*
+>
+> **And the unresolved note that had sat in the file since Session Ten:** *"Compression Shell has started doing something to the air around the target that he cannot account for."*
+>
+> **He went to cast Compression Shell inside 渦潮 and this came out instead. Nothing was chosen. The road ran where the file said it ran.**
+
+**1 Action · 1 slot · 60 Chakra / 30 Stamina · melee, palm contact**
+
+**The wind goes in and does not stop going in.** Past the shell, past the sphere, past any density he has ever gotten it to hold — and what sits in his palm stops being a technique he is casting and becomes something that is simply happening. **A sphere. Perfectly stable. Absolutely silent.**
+
+**And the air around it is being taken apart** — shredded, drawn inward, spiralling so fast that dust, leaves and loose blood bend toward his hand before contact.
+
+| | |
+|---|---|
+| **Damage** | **7d10** |
+| **On a hit** | **The air implodes before it detonates.** Everything within 10 ft is hauled *inward* toward the point of contact, and then the rotation reverses. **Target is launched 50 ft, no save** |
+| **⚠ Why S-rank and not A** | **His is wind-natured.** The canonical Rasengan carries no nature and sits at A. **Compression Shell was Wind from the day it was born in the fight where Rai died**, and its child inherited it. *A nature-loaded Rasengan is a different and more dangerous object* |
+| **⚠ Rank ceiling** | S-rank. **He is Jōnin.** Castable inside **大仙 Daisen** *(past the band)* and **渦潮 Uzushio** *(one slot, any rank)*. **Outside those, he cannot cast it at all yet** |
+
+> **First cast: into Souji Terada's sternum in a ford town yard**, on the fifth action of a five-action combo, **missing by two** and landed only by spending **30 Special on Unavoidable.**
+>
+> **It put him fifty feet backwards through a palisade, two walls and into the river.**
+
+> ### ⚠ IT DOES NOT HAVE A NAME OF HIS YET
+> **He called it what it is**, because he has seen Minato do it and everyone in Fire Country knows the shape. **The campaign's standing pattern is that Ardo names his own forms** — 紅風, 渦風, 潮合, 潮風, 渦潮, and 渦潮 he produced untaught. **This one is still borrowed.** *Leave that open.*
+
 ## 迅雷・嵐雷神 — STORMING THUNDER GOD · Mode A
 ### *Jinrai Raitun: Gōraijin* · **C-rank, close-quarter** · **[GM — born Session Five]**
 

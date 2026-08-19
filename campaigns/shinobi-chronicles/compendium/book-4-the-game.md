@@ -866,6 +866,14 @@ A Kage with a Perfected, doubly-Accelerated S-rank technique can use it **twice 
 > **Acceleration still does exactly what it always did** — it frees slots for *everything else* in the combo. A Kage running S(2) → S(2) now spends four slots and has **three left for A-rank, B-rank and basics**, which is a genuinely better turn than the old triple-S and looks far more like the genre.
 >
 > **Why a cap rather than a cost:** raising the price would have been absorbed instantly by the Special menu's *"ignore the Chakra or Stamina cost"* row. **A slot cap cannot be bought off.**
+>
+> ### ⚠ THE ONE NAMED EXCEPTION
+>
+> **渦潮 Uzushio** *(`characters/ardo-transformations.md` Part Six)* **overrides both slot cost and the Apex Rule.** Inside it, **every technique costs one slot regardless of rank, up to the caster's combo limit.**
+>
+> **Why it is allowed to:** it is the endpoint of a seven-rung ladder that took fifteen sessions and a decision rather than a fight; it is **the only form in the setting that spends nothing**, because the rotation returns what it takes; and *"everything he casts operates above the S-rank band"* was written into it long before the Apex Rule existed.
+>
+> **⚠ This does not generalise.** No other transformation, mastery upgrade, clan ability or item may do this. **If a second exception is ever wanted, it goes here, in writing, with a reason.**
 
 #### The Repetition Rule
 
