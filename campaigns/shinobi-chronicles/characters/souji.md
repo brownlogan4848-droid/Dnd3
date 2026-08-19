@@ -25,7 +25,7 @@
 | **Village** | Konohagakure — **status now indeterminate** |
 | **Unit** | Formerly Cell 409 / 遊撃班 Yūgekihan |
 | **Body Origin** | **Body of Ashura** |
-| **Nature affinity** | **Earth (土 / Doton)** |
+| **Nature affinity** | **Earth (土 / Doton)** · ⚠ **木遁 MOKUTON unlocked Session Fifteen — D-rank and below only.** `souji-jutsu.md` |
 | **Sensei of record** | **Genzo Ishikawa** — jōnin, **KIA** roughly a year into the war. His first sensei, and the source of 完結 Kanketsu |
 | **Appearance** | Plain gear, no crest, a short blade worn low on the hip rather than across the back. Moves like someone who trains alone more often than not — **economical, nothing wasted** |
 

@@ -171,6 +171,8 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 | **Condition** | Uninjured. Spent Ibuki heavily on Kushina before turning, so **running low, not fresh** |
 | **What he did** | Poured his own vitality into Kushina to buy Ardo ninety seconds · then ran Ardo through the stomach · then put Suzume into a treeline · then killed Minato Namikaze, who stepped into a strike meant for Ardo |
 | **What he said** | *"Sorry, Ardo… we must grow stronger."* · *"Power is what accomplishes your dreams."* · *"Danzō taught me that, and a few lessons on how to hide my true nature."* · **"When you're ready, truly ready, come find me."** |
+| **⚠ 木遁 MOKUTON — UNLOCKED** | **Session Fifteen.** Triggered when **Ardo read the graft off 朽木 Kuchiki and told him** — a retention clause in a hand not his own, welded to his own signature, carried for years unknowing. **The voice under his ribs did something and nobody knows what.** ⚠ **GM-HELD.** **D-rank and below only.** Five techniques: 木釘 · 楔 · 添え木 · 囲い · 切株 |
+| **⚠ THE GRAFT IS NOW KNOWN TO HIM** | **J1 fired.** Somebody modified his signature technique without telling him. **He did not know. He does now.** *Who did it is not established* |
 | **The thread that is still live** | He apologised first. He checked the seal was bleeding rather than letting the killing blow land. **Suzume's read: some part of him is still in there fighting it** |
 
 > ## ⚠ WHO HOLDS SOUJI IS AN OPEN MYSTERY. **[GM ruling, Year 0 — do not resolve.]**

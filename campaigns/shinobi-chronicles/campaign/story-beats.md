@@ -213,7 +213,17 @@ Two policemen saw her right eye in a window reflection on the tenth and **went h
 
 ## READY
 
-### J1 — THE GRAFT ON 朽木 KUCHIKI
+### ✅ J1 — **FIRED, Session Fifteen.** THE GRAFT ON 朽木 KUCHIKI
+
+> **Ardo read it off the technique's construction while in 渦潮**, with the estate legible at the still point — the first time in his life he has been able to read a technique at the level it was built rather than the level it lands. **The beat said "nobody has looked yet." He looked.**
+>
+> **A retention clause in a different hand, welded to the return path of Souji's own signature, there a long time. Souji did not know.**
+>
+> **THEN, and it was not on the branch list:** Ardo told him, and finished with *"the ones closest can see the true you"* — and **木遁 Mokuton unlocked.** The wall that had stood since Session Seven came down. ⚠ **What the voice under his ribs did is GM-held and unresolved.**
+>
+> **⚠ Still open: who grafted it.** *That has not moved.*
+
+### ~~J1 — THE GRAFT ON 朽木 KUCHIKI~~ *(original beat, kept for the record)*
 
 **Somebody grafted a retention onto one of his techniques.** Visible to anyone who reads a technique at the level of its construction. **Nobody has looked yet.**
 

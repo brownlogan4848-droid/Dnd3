@@ -72,7 +72,7 @@ At Training Ground Six he **passed the body save and failed the mind and the cho
 
 **Visual.** The roots stop questing outward and turn **inward.** Bark-flesh laminates over forearms, throat, spine — not armour worn, **armour becoming.** Wounds close as fast as they open. He doesn't float, blur, or glow. **He simply stands**, and forty feet of ground in every direction knits itself into anchor-root, and **he does not move from where he decided to stand.** Eyes open and unblinking, and nobody home who answers to his name.
 
-**Explicitly still not Wood Release.** He is not casting Mokuton and cannot. **This is his body being *overwritten* by a bloodline instruction he never consented to** — closer in kind to what Hashirama's cells do to people who aren't Hashirama than to Hashirama's actual gift. **That distinction is permanent and load-bearing.**
+**~~Explicitly still not Wood Release. He is not casting Mokuton and cannot.~~** ⚠ **THIS WAS TRUE FOR THIRTEEN YEARS AND IS NO LONGER TRUE.** **木遁 Mokuton unlocked Session Fifteen, Year 0** — *D-rank and below only.* Full kit and the circumstances: `souji-jutsu.md` → **木遁 WOOD RELEASE.** **The distinction below still holds for 不倒樹 Futōju itself**, which remains a bloodline instruction overwriting him rather than a gift he wields — **This is his body being *overwritten* by a bloodline instruction he never consented to** — closer in kind to what Hashirama's cells do to people who aren't Hashirama than to Hashirama's actual gift. **That distinction is permanent and load-bearing.**
 
 ## The three passives — each answers one of Ardo's
 

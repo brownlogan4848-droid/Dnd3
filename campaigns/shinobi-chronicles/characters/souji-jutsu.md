@@ -225,6 +225,100 @@ The two were the same instrument pointed in opposite directions, and **holding o
 
 # PART FOUR — SUMMONING
 
+---
+---
+
+# ★ 木遁 MOKUTON — WOOD RELEASE **[UNLOCKED Session Fifteen, Year 0 · October 27th]**
+
+> ## ⚠ THIS CORRECTS A HARD "CANNOT" IN HIS OWN FILE.
+> `souji-transformations.md` stated flatly: *"Explicitly still not Wood Release. He is not casting Mokuton and cannot."* **That was true for thirteen years and it is not true anymore.** The correction is recorded there in place.
+
+### How it unlocked
+
+**Not by training and not by choosing it.** Ardo read the graft on 朽木 Kuchiki off the technique's construction — a retention clause welded to the back of Souji's own signature in a hand that isn't his, that he has been carrying for years and never knew about — **and told him.**
+
+> *"You search for whatever it is you're searching for, but you forget that the ones closest can see the true you."*
+
+**Something in him answered that.** The voice under his ribs — the ten-year-old's vow, welded to a bloodline that does not know how to stop growing — **did something, and nobody at the table knows what.** ⚠ **GM-HELD. Do not resolve it cheaply.**
+
+Whatever it did, the wall came down. **Forty feet of new growth came out of the yard floor and carried him into the sky.**
+
+### ⚠ THE CEILING — **D-rank and below. Full stop.**
+
+**He has the gate, not the mastery.** Everything below is D or E. **Nothing above D exists for him yet**, and the road to C and beyond is training, XP and time like anything else. *He is not Hashirama and will not be handed the shortcut.*
+
+### ⚠ HOW SOUJI'S MOKUTON READS — **and this is the whole flavour**
+
+**Hashirama grew forests, gods and valleys. Souji makes tools.**
+
+**Wedges. Splints. Nails. Pens. Stumps.** Everything he grows is small, hard, joinery-shaped and *for* something — the vocabulary of a man who has spent his whole life being the one who holds the thing together while other people do the impossible.
+
+> **His Mokuton is a carpenter's, not a god's.** Nothing he makes is beautiful. All of it works.
+>
+> **Colour:** pale, close-grained, almost bone. It does not flower and it does not leaf.
+
+---
+
+## E-MOKU-01 — 木遁・木釘 WOODEN NAILS
+### *Mokuton: Kikugi* · **E-rank** · **[GM]**
+
+**1 Action · 1 slot · 5 Chakra / 2 Stamina · Range 30 ft**
+
+A fistful of hardwood spikes grown straight out of the palm, the forearm, or the ground at his feet, and thrown — **four of them, unglamorous, close-grained and heavier than they look.**
+
+**Ranged attack. 1d6 piercing each, up to two may target the same creature.** Spikes that miss **stay where they land** and count as difficult terrain in a 5-ft square.
+
+> **His answer to shuriken, and cheaper.** He made these first, within about ninety seconds of the gate opening, because his hands wanted something to do and the first thing they reached for was *fasteners.*
+
+## D-MOKU-01 — 木遁・楔 THE WEDGE
+### *Mokuton: Kusabi* · **D-rank** · **[GM]**
+
+**1 Action · 1 slot · 10 Chakra / 6 Stamina · Range touch or 20 ft**
+
+**One wedge. Driven into a gap.** A joint, a seam, a crack in stone, the space between two plates of armour, the hinge side of a door — **and then it grows**, slowly and with enormous patience, and whatever it was driven into comes apart.
+
+**Against a creature:** melee or ranged attack, **2d8 piercing**, and the target's **Speed is halved until the end of their next turn** as the wedge sets in muscle or joint.
+**Against an object or structure:** no roll. **It opens.** Doors, shutters, cart axles, masonry, a barricade — *given about six seconds.*
+
+> **The first genuinely tactical thing he built.** It is not a weapon that kills people. **It is a weapon that opens things**, and Souji Terada has spent his entire life on the wrong side of doors.
+
+## D-MOKU-02 — 木遁・添え木 THE SPLINT
+### *Mokuton: Soegi* · **D-rank · Supplementary** · **[GM]**
+
+**1 Bonus Action · 1 slot · 8 Chakra / 5 Stamina · Range touch**
+
+**Pale wood laminates around a break and holds it.** A limb, a cracked beam, a failing wall, a wound that won't close, a shield that's about to go.
+
+- **On a creature:** the target gains **10 temporary Health** and **advantage on their next save against being knocked prone, moved, or restrained.** It does not heal. **It holds.**
+- **On a structure:** one damaged or failing object is **braced and functional** for ten minutes.
+
+> ⚠ **He can use it on other people and it works perfectly.** *He has not, yet.* **The technique that came most naturally to a man whose entire wound is that nobody needed him is the one for holding somebody else together, and it arrived on the same night as the rest.**
+
+## D-MOKU-03 — 木遁・囲い THE PEN
+### *Mokuton: Kakoi* · **D-rank** · **[GM]**
+
+**1 Action · 1 slot · 12 Chakra / 7 Stamina · 15-ft radius within 30 ft**
+
+**A waist-high enclosure grows out of the ground in a ring.** Not a cage. Not a wall. **A pen** — the thing you build to keep livestock where you want them while you get on with something else.
+
+**All creatures inside must spend their entire Movement to leave it**, or make a **DEX save vs DC 16** to vault it cleanly. **Ranged attacks out of it are unaffected. It does not stop anything.**
+
+> **It is not meant to stop anything.** *"I don't need you somewhere you can't be. I need you somewhere I know."* **This is Root Grip's philosophy scaled up and it is the most Souji technique in the set.**
+
+## D-MOKU-04 — 木遁・切株 THE STUMP
+### *Mokuton: Kirikabu* · **D-rank** · **[GM]**
+
+**1 Reaction · 1 slot · 10 Chakra / 8 Stamina · self or within 10 ft**
+
+**A block of close-grained hardwood erupts between the attack and its target**, a metre thick and rooted the instant it arrives.
+
+- **Reduces the damage of one incoming attack or technique by 3d8**, taken from the total before anything else applies.
+- **The stump remains.** Full cover in that 5-ft square until destroyed *(20 Health)*, and it is now standing terrain for anyone who wants it.
+
+> **His first true Reaction and the only defensive technique he owns that is not his own body.** Thirteen years of taking hits with his ribs because he had nothing else. **Now there is something else.**
+
+---
+
 ## 石沼契約 — THE ISHINUMA CONTRACT
 ### **C-rank · 2 slots · 20 Chakra / 10 Stamina** · **[GM — signed Session Nine]**
 
