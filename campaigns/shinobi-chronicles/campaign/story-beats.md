@@ -59,7 +59,15 @@
 
 ## READY
 
-### A1 — THE DECISION ABOUT SOUJI ★ *the arc's hinge*
+### ✅ A1 — **FIRED, Session Fifteen.** THE DECISION ABOUT SOUJI
+
+> **Answered: the bond HOLDS FOREVER.** Shouted downhill at Souji from three hundred metres, with Uzufū up and holding — which is the mechanical proof it was not fury, because that form cannot be worn by an angry man.
+>
+> **Gate 3 opened. 渦潮 Uzushio is unlocked.**
+>
+> **⚠ It did not fix anything.** Souji is at **Resolve 8**, hardened, watching the gap he has organised his life around become something that is no longer a gap. *"Come home with us" is a permanently closed angle.* **The decision was Ardo's to make, not Souji's to accept.**
+
+### ~~A1 — THE DECISION ABOUT SOUJI~~ *(original beat, kept for the record)*
 
 **IF** Ardo is face to face with Souji, in any state, anywhere.
 

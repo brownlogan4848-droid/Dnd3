@@ -469,7 +469,25 @@ Wind chakra compressed past any density it should hold, threaded with senjutsu, 
 
 # PART SIX — 渦潮 UZUSHIO · "The Whirling Tide"
 
-**[GM — the endpoint. Not available. Designed so it can be earned.]**
+> # ★★ UNLOCKED — Session Fifteen, Year 0, October 27th, on a slope above 火焼野 Hiyakeno.
+>
+> **It did not open on a fight. It opened on an answer.**
+>
+> Ardo shouted the decision downhill at Souji — ***"I'm never giving up on you and I never will. Our bond is forever."*** — and the third gate checked itself and found nothing to refuse.
+>
+> ### Why it was not rage, and this is mechanical rather than sentimental
+>
+> **渦風 Uzufū was already up and had been for an hour.** That form carries a fail-safe that cannot be faked or forced — *cannot be entered on rage, fury, or vengeance, ever.* **If any part of that shout had been fury, the form would have dropped him.** It didn't. **The gate's own first clause certified itself.**
+>
+> | Gate | |
+> |---|---|
+> | **1 — THE BALANCE** | ✅ Senjutsu, properly learned |
+> | **2 — THE ESTATE** | ✅ Four coils, all named, all taken awake |
+> | **3 — THE FLOOR** | ✅ **Not on rage** *(Uzufū proved it)* · **not for himself alone** *(every word was for Souji)* · **not with nobody in the rotation** — Suzume at his shoulder, and **辰巳 Tatsumi and 金城 徳 Kaneshiro Toku on his forearm** |
+>
+> **The answer was *forever*. "Broken" would have opened it too.**
+
+**[GM — REACHED. It took fifteen sessions and it was never a power problem.]**
 
 > **The name.** He will produce it himself, untaught, the way his hands produced Uzumaki sealwork without ever having seen a scroll. **渦潮 Uzushio is the name of the destroyed village of his own blood, and he will not know that when he says it.** Somebody will have to tell him afterward. ***Do not let him learn the word before he names it.***
 
