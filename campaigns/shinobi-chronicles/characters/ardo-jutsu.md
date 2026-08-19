@@ -330,7 +330,7 @@ Same cost. **Ranged attack roll, 30 ft**, same **2d8 Wind**, push 15 ft. **No re
 
 > **⚠ He does not have Water nature and never will.** He is not conjuring an ocean — **he is picking one up.** He knelt with both arms in the sea for thirty seconds before casting, taking a measurement. The technique is *wind to move it, lightning through it, senjutsu to shift the mass, and Tazuna to steer it.*
 
-## RANK: **S-RANK. CASTABLE ONLY INSIDE 大仙 DAISEN.** **[RULING, Year 0]**
+## RANK: **S-RANK. CASTABLE INSIDE 大仙 DAISEN — and now inside 渦潮 UZUSHIO.** **[RULING, Year 0 · extended Session Fifteen]**
 
 **4 slots** *(S-rank Action Weight, Book IV §2 Part Two)* **· 40 Chakra / 25 Stamina.**
 

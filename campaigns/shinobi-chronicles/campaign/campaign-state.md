@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Era** | **Era A → the very end of it.** The Third Great Ninja War is over; the war that mattered lasted one night. |
-| **In-world date** | **Year 0, October 22nd — morning.** Session Fourteen, late. |
-| **Location** | **淵ノ宮 Fuchinomiya.** Five days in the valley. **The wheels are running and the party is about to leave** |
+| **In-world date** | **Year 0, October 27th — ~02:00.** Session Fifteen, mid-combat aftermath. |
+| **Location** | **火焼野 Hiyakeno** — the weighing-house yard and the ford. **Two walls down, a palisade through the middle of it, and Souji standing in the river** |
 | **Campaign act** | The Long Shadow, Act One closing. The Era C timeskip is ahead, not behind. |
-| **Last session** | **Session Fourteen — "WHAT THEY BUILT WITH US" — IN PROGRESS.** The barrier · Toki · the ledger · Fuchinomiya. Full record: `session-log.md` |
+| **Last session** | **Session Fifteen — IN PROGRESS.** Higuchi · the stakeout · **Souji** · 神威 Kamui · **渦潮 UNLOCKED** · Mokuton · Rasengan |
 
 ## What just happened, in one paragraph
 
@@ -41,7 +41,9 @@ The Nine-Tails was released outside Konoha by a masked man who tore it out of Ku
 - **What he sent up an anonymous chain on the 15th:** ***"Suzume and I are coming to bring you back home."*** — and gave a watcher the name *Souji Terada*, which she wrote on the back page and did not file.
 - **Suzume's read, and she is the one who is right about quiet:** *"Some part of him is still in there fighting it."*
 
-> **⚠ Souji is not only the mission. He is a load-bearing component of 渦潮.** Gate 3 needs bonds in the rotation. Beating him is no longer the plan — **getting him back into it is.**
+> **✅ GATE 3 IS OPEN — and Souji was not the thing that opened it.** The rotation needed **bonds**, and Ardo had them: Suzume, and two Tsugite carriers on his forearm. **渦潮 unlocked on the answer *about* Souji, not on Souji agreeing to anything.**
+>
+> **⚠ He is still the mission.** *"I'm never giving up on you and I never will."* **Nothing about that has changed and nothing about it is now mechanically necessary**, which makes it a choice rather than a requirement — *and that is a better version of the same thing.*
 
 ## 渦潮 UZUSHIO — Ardo's ladder, and it has a name now
 
@@ -96,10 +98,10 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **1000** | **1000** | **Full.** Four days in a valley wading up and down terraces is, mechanically, rest |
-| **Stamina** | **355** | **355** | **Full** |
-| **Health** | **~215** | **228** | Twelve days out from the seal transfer, with a medic. **The abdominal wound is closed and no longer a factor** |
-| **Special** | **0** | **100** | Reset |
+| **Chakra** | **1000** | **1000** | ⚠ **FULL, mid-combat.** 渦潮 returns what it takes — **five techniques cast this round and nothing spent** |
+| **Stamina** | **355** | **355** | **Full, mid-combat.** Same reason |
+| **Health** | **110** | **228** | ⚠ **Took 69 from Souji's Mokuton opening.** Stake through the thigh, six spikes in the shoulder, a seed grown in the wound. **The rotation pulled the wood out. The holes are still there** |
+| **Special** | **10** | **100** | Gained to the +40/round cap, **spent 30 on Unavoidable** to land the Rasengan |
 | **Vision (Max)** | **59** | 100 | −1 clearing · −1 hospital · −1 meditation · **−1 uncovering over the prisoner.** ⚠ **Burning Clarity ACTIVE — and he is currently mistaking it for the seal fix making him better.** 21 to the 39–40 band |
 
 ### Conditions & injuries
@@ -138,10 +140,10 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | Resource | Current | Max | Note |
 |---|---:|---:|---|
-| **Chakra** | **350** | **350** | **Full.** Three long rests |
+| **Chakra** | **295** | **350** | Less 25 unhooking the barrier seal · less 30 for 神威 Kamui |
 | **Stamina** | **350** | **350** | **Full.** Same |
 | **Health** | **176** | **176** | **Full.** Twelve days |
-| **Special** | **0** | **100** | Reset |
+| **Special** | **0** | **100** | Spent 15 on the Reaction 神威 |
 | **Vision** | **—** | **—** | **Suzume has no Vision track and never will.** Native tissue, native body |
 
 ### Conditions & injuries
@@ -166,10 +168,13 @@ She has goals of her own and they are not Ardo's, and several are years overdue.
 
 | | |
 |---|---|
-| **Where** | Unknown. Left the clearing on foot into burning countryside |
+| **Where** | ⚠ **THE FORD AT 火焼野 HIYAKENO.** Standing in eight inches of moving water, on his own feet |
 | **With whom** | ### ⚠ **UNKNOWN — and deliberately so.** See the box below |
-| **Condition** | Uninjured. Spent Ibuki heavily on Kushina before turning, so **running low, not fresh** |
-| **What he did** | Poured his own vitality into Kushina to buy Ardo ninety seconds · then ran Ardo through the stomach · then put Suzume into a treeline · then killed Minato Namikaze, who stepped into a strike meant for Ardo |
+| **Condition** | ⚠ **68 / 228 Health.** Chakra 214/355. **All five slots spent.** Ribs, and the whole front of him. **He got up out of the river unaided, which has always been the point** |
+| **What he did, Year 0 Oct 10** | Poured his own vitality into Kushina to buy Ardo ninety seconds · then ran Ardo through the stomach · then put Suzume into a treeline · then killed Minato Namikaze, who stepped into a strike meant for Ardo |
+| **⚠ What he did, Oct 27** | Sat on a ridge four days watching **Mitsuki's people**, not deciding. **Knocked down Ardo's cover to point him at the building.** Boxed one intruder and tried to tear the technique out of his skull by force. **Threw everything at Ardo mid-sentence** and had his own signature handed back along a vector he didn't choose |
+| **⚠ NEW — 木遁 MOKUTON** | **Unlocked when Ardo named the graft on 朽木 Kuchiki out loud.** D-rank and below. **Six techniques.** *What the voice under his ribs did is GM-held* |
+| **⚠ What he said last** | *"You said forever. And then you did **that.** Both. You meant both."* — *"I genuinely don't know what to do with a man who means both."* |
 | **What he said** | *"Sorry, Ardo… we must grow stronger."* · *"Power is what accomplishes your dreams."* · *"Danzō taught me that, and a few lessons on how to hide my true nature."* · **"When you're ready, truly ready, come find me."** |
 | **⚠ 木遁 MOKUTON — UNLOCKED** | **Session Fifteen.** Triggered when **Ardo read the graft off 朽木 Kuchiki and told him** — a retention clause in a hand not his own, welded to his own signature, carried for years unknowing. **The voice under his ribs did something and nobody knows what.** ⚠ **GM-HELD.** **D-rank and below only** — but **kekkei genkai damage runs one band above rank** *(Book IV §1 Part Seven)*, so his E-rank out-damages most D-ranks in the compendium. **木釘 Wooden Nails · 杭 The Stake · 矢来 The Palisade · 薪割 Splitting the Log · 喰い込み Bite Deep · 切株 The Stump.** ⚠ **喰い込み only works on a wound that already exists — it is the partner to his blade** |
 | **⚠ THE GRAFT IS NOW KNOWN TO HIM** | **J1 fired.** Somebody modified his signature technique without telling him. **He did not know. He does now.** *Who did it is not established* |

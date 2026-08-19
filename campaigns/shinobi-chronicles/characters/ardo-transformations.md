@@ -505,7 +505,7 @@ Wind chakra compressed past any density it should hold, threaded with senjutsu, 
 
 *Everything the estate knows is legible from there. That is not a metaphor and it is the reason he stops looking like himself.*
 
-## The body
+## The body it gives him
 
 | | |
 |---|---|
@@ -607,7 +607,7 @@ Uzushio is **拮抗 Kikkō scaled to everything at once.** **The balance is the 
 > 1. **This is not a counter. Do not let it become one.** Nodes are not bond tokens and collecting more does not accumulate progress. **The rotation counts consent given and burden taken, not marks on an arm** — otherwise Ardo's path becomes mechanically identical to the collector's, which is the one thing this arc must not be. *The only difference between Ardo and Mitsuki is that Ardo asked.*
 > 2. **"Broken" is a real available answer.** If Ardo finds Souji and decides honestly that the bond is gone, **the gate still opens.** It is a decision gate, not a redemption gate. **Do not weight the scene toward reconciliation.**
 
-> **Gate 3 is the live one, and it just got much harder.** Souji is gone. Minato is dead. Roku is off the front. **The rotation is down to one other person, and she has two broken ribs.** Monuke's warning stands: *"I know precisely how to break you now."*
+> **[HISTORICAL — Session Thirteen. Gate 3 opened Session Fifteen. Kept for the record.]** **Gate 3 was the live one, and it just got much harder.** Souji is gone. Minato is dead. Roku is off the front. **The rotation is down to one other person, and she has two broken ribs.** Monuke's warning stands: *"I know precisely how to break you now."*
 
 ### ⚠ SEEN, NOT ENTERED **[Session Thirteen, first night on the road]**
 
@@ -619,7 +619,7 @@ Ardo lit **潮風 · 潮合 · 大仙** simultaneously inside his own mindscape,
 
 | What this changes | |
 |---|---|
-| **Gate 3 status** | Still **✗** — but it is no longer abstract. **He has felt exactly what is missing and how much of it** |
+| **Gate 3 status** *(as of Session Thirteen)* | **✗ at the time** — but no longer abstract. **He has felt exactly what is missing and how much of it** |
 | **What he now knows** | The rotation is real, it returns rather than spends, and **it requires people.** He has connected this to the trustee's *"you have never once thought to do it with people"* |
 | **Souji** | Has stopped being only a grievance and become **a load-bearing component.** Beating him is no longer the plan; **getting him back in the rotation is** |
 | **The name** | **Still not produced.** Kurama did not supply it, the estate did not, the trustee did not. ***Nothing may.*** See the top of this section |

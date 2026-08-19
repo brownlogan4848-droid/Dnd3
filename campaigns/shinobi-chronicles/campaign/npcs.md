@@ -358,7 +358,15 @@ Asked about **Souji Terada** at five feet with a Sharingan open, **he had never 
 
 > **Book IV §4 Part Six-B.** A Conviction is one sentence the antagonist has organised their life around, plus the **Crack** they cannot look at. **You cannot attack a Crack the party has not discovered in play.**
 
-## 宗司 SOUJI TERADA — **Resolve 8** *(true believer)*
+## 宗司 SOUJI TERADA — **Resolve 7 / 8** *(true believer)* ⚠ **LIVE — hit three times, Session Fifteen**
+
+| Event | Resolve |
+|---|---:|
+| Base | **8** |
+| **Ardo, INT** — *"do you know how far we've travelled"* — a record, not a feeling | **7** |
+| **Suzume, miss** — *"come home with us"* offered him his old place. ⚠ **That angle is closed permanently** | **8** |
+| **Ardo, WIS** — *"nobody ever said it was hard, did they"* | **7** |
+| **Current** | ## **7** |
 
 | | |
 |---|---|

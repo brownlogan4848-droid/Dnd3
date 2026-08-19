@@ -55,7 +55,7 @@
 
 **Arc:** the last librarian of a dead people learns that being the only one left is a problem to be *solved*, not a title to be worn.
 
-**Ladder:** 借風 → 紅風 → 渦風 → 潮合 → 潮風 → 大仙 → **渦潮** *(named, not entered)*
+**Ladder:** 借風 → 紅風 → 渦風 → 潮合 → 潮風 → 大仙 → **渦潮** ✅ ***UNLOCKED, Session Fifteen — the ladder is complete.***
 
 ## READY
 
@@ -65,7 +65,7 @@
 >
 > **Gate 3 opened. 渦潮 Uzushio is unlocked.**
 >
-> **⚠ It did not fix anything.** Souji is at **Resolve 8**, hardened, watching the gap he has organised his life around become something that is no longer a gap. *"Come home with us" is a permanently closed angle.* **The decision was Ardo's to make, not Souji's to accept.**
+> **⚠ It did not fix anything.** Souji is at **Resolve 7** *(8 → 7 Ardo INT · 7 → 8 Suzume miss · 8 → 7 Ardo WIS)*, hardened, watching the gap he has organised his life around become something that is no longer a gap. *"Come home with us" is a permanently closed angle.* **The decision was Ardo's to make, not Souji's to accept.**
 
 ### ~~A1 — THE DECISION ABOUT SOUJI~~ *(original beat, kept for the record)*
 
@@ -237,7 +237,7 @@ Two policemen saw her right eye in a window reflection on the tenth and **went h
 **IF** Suzume summons through the Ishinuma line, or the party reaches the tortoises.
 **THEN** Gensai answers honestly — **or refuses, which is its own information.** *Do not let him give the whole picture. Book III §4 applies to summons too.*
 
-## 信念 HIS CONVICTION — **Resolve 8**
+## 信念 HIS CONVICTION — **Resolve 7** *(from 8; full history in `npcs.md`)*
 
 > ***"I have stood behind those two my whole life. Power is the only thing that has ever moved anyone forward, and I will not be held back again."***
 >
