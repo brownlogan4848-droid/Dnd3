@@ -362,10 +362,28 @@ Asked about **Souji Terada** at five feet with a Sharingan open, **he had never 
 
 | | |
 |---|---|
-| **信念** | ***"If I am useful enough, nobody can move me off the roster again."*** |
-| **The Crack** | ***"You made yourself indispensable so nobody could discard you — and then you discarded the only two people who never would have."*** |
-| **Evidence needed** | **Two cells before this one.** Genzo's squad dissolved on a line in a report. The second lasted **eleven days** until a clan heir needed a slot and *"the easiest name to move off the roster was the clanless one."* **Nobody has ever said this to his face** |
-| **Shared experience — advantage** | **Ardo qualifies.** Blank surname line, no clan, nobody looking for him. **Suzume qualifies harder** — Uchiha by blood, claimed by nobody, not at birth and not when her eyes opened |
+| **信念** | ***"I have stood behind those two my whole life. Power is the only thing that has ever moved anyone forward, and I will not be held back again."*** |
+| **The Crack** | ***"Every step you take is measured against him. You defected to stop being in his shadow and it made you a man who can only be described in relation to him — you are more theirs now than you ever were."*** |
+| **Evidence needed** | His own conduct. **He came to the ford because Ardo was loud. He knocked down Ardo's tree. He is here, again, orbiting.** *Nobody has said this to him and he has not noticed it himself* |
+| **Shared experience — advantage** | **Neither PC qualifies**, and that is deliberate. *They are the shadow. They cannot claim to have lived it* |
+
+> ## ⚠ RUN HIM AS A POWER ARC. He is not coming back because someone was nice to him.
+>
+> **He is not wounded about being discarded. He is wounded about being second.** Two cells before this one, then thirteen years standing beside a man who invented transformations by accident and a woman who awakened a Mangekyō dying — and Souji got there by *working*, and it was never enough, and nobody ever noticed how hard it was.
+>
+> *"Sorry, Ardo… we must grow stronger."* · *"Power is what accomplishes your dreams."* · **"When you're ready, truly ready, come find me."** — **all three are about the gap, not about a roster.**
+>
+> ### ⚠ WHAT HE WANTS RIGHT NOW
+>
+> **Whatever will close the gap fastest.** He is not choosy and he is running out of patience.
+>
+> **⚠ A technique that takes skill and knowledge out of a person's head is, to Souji Terada, the single most valuable object in Fire Country.** *He has been watching Mitsuki's people since Tuesday. He is not deciding whether to stop them. He is deciding how to take it.*
+>
+> ### ⚠ HOW A RESOLVE HIT ACTUALLY LOOKS
+>
+> **He does not soften, help, hesitate, or protect anyone.** A landed Conviction attack makes him **lose his place in the sentence** for a second, and then continue — and the thing he does next is often *worse*, because being seen accurately makes him accelerate.
+>
+> **Do not let a hit read as an alliance.** Resolve 0 makes him **stop**, once, and listen. It does not make him a friend and it never has.
 | **⚠ Interaction with Gate 3** | Resolve 0 does **not** decide whether the bond is broken or holds. **That decision is Ardo's and it happens whether Souji is talked down or not.** *Do not let the mechanic make the choice* |
 
 ## 「三ツ木」 MITSUKI — **Resolve 5** *(standard, and unusually calm about it)*

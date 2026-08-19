@@ -221,11 +221,13 @@ Two policemen saw her right eye in a window reflection on the tenth and **went h
 
 ## 信念 HIS CONVICTION — **Resolve 8**
 
-> ***"If I am useful enough, nobody can move me off the roster again."***
+> ***"I have stood behind those two my whole life. Power is the only thing that has ever moved anyone forward, and I will not be held back again."***
 >
-> **Crack:** ***"You made yourself indispensable so nobody could discard you — then you discarded the only two people who never would have."***
+> **Crack:** ***"Every step you take is measured against him. You left to stop being in his shadow and it made you a man who can only be described in relation to him."***
 >
-> **Both PCs have shared experience and get advantage.** Full entry and the evidence required: `campaign/npcs.md` → CONVICTIONS. Rules: Book IV §4 Part Six-B.
+> **⚠ Neither PC gets shared-experience advantage. They ARE the shadow.**
+>
+> **⚠ He does not soften on a hit.** He loses his place in the sentence and then accelerates, because being seen accurately is not comfort to him. Full entry and the evidence required: `campaign/npcs.md` → CONVICTIONS. Rules: Book IV §4 Part Six-B.
 >
 > **⚠ Talking him down does not decide A1.** Resolve 0 makes him *stop*. **Whether the bond is broken or holds is still Ardo's call**, and it can go either way with a man standing there listening.
 
