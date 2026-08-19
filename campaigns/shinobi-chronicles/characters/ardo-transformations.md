@@ -491,6 +491,67 @@ Wind chakra compressed past any density it should hold, threaded with senjutsu, 
 
 > **The name.** He will produce it himself, untaught, the way his hands produced Uzumaki sealwork without ever having seen a scroll. **渦潮 Uzushio is the name of the destroyed village of his own blood, and he will not know that when he says it.** Somebody will have to tell him afterward. ***Do not let him learn the word before he names it.***
 
+---
+
+# ★ THE METAMORPHOSIS — what 渦潮 does to his body
+
+> **This is not a cloak of chakra. Every other form he owns is something he wears. This one is something he *becomes*, and it is not entirely comfortable to look at.**
+
+## It happens in silence, and it happens from the middle outward
+
+**The seal goes first.** The whirl-pattern on his stomach — four hundred years of small corrections, and a dead man's eight strokes across the join — **lifts off the skin.** Not burning. *Rising*, the way a watermark rises when you hold paper to a light, and then **travelling**, up through the sternum and the throat, and settling in the centre of his forehead as a single hard point of light.
+
+**The still point moves to where he can see out of it.**
+
+*Everything the estate knows is legible from there. That is not a metaphor and it is the reason he stops looking like himself.*
+
+## The body
+
+| | |
+|---|---|
+| **The hair** | **Longer, and up.** Dark red goes to **Whirlpool crimson** — the shade he has never had, the one that was bred out of the line before he was born — and it does not hang. **It lifts and moves in the rotation like flame in a draught, and it does not stop moving** |
+| **The face** | **Pale to the point of wrong.** Dark markings come up beneath both eyes like water-stain, and the left socket — Suzume's Mangekyō — **stops being hidden.** The headband is irrelevant in this form and comes off or burns off, he never remembers which |
+| **The eyes** | **Both of them go the same colour**, and neither of them is a colour he was born with |
+| **⚠ The plates** | **Green-black armour comes out of him** — not summoned, *grown* — plated at the shoulders and down the back in long jagged leaves. **Bark. Uzumaki work was always built out of living things and this is the tradition arriving in his skeleton** |
+| **The mantle** | **A white haori he did not put on**, hem worked in black tomoe-flame, hanging as though there is no wind at all — **in the middle of a rotation that is flattening the grass for nine metres** |
+
+## ⚠ THE CORONA — and this is the whole form in one image
+
+**Streamers of chakra come off his back in a wide fan. There are eight or nine of them and they alternate.**
+
+**RED — 荒れ川 Arakawa.** The river. Thirteen years of a fault line, now the mass on one arm of the scale.
+**BLUE — 仙 natural energy.** The world, participating, through an aperture he cut himself at nineteen.
+
+> **Red, blue, red, blue, all the way round.** They do not blend and they do not fight. **Each one falls as the next one rises** — 満ち **michi** and 引き **hiki**, flood and ebb, the tide he taught himself in two days in a cave to stop from turning to stone.
+>
+> **The thing that was going to kill him is now every second beat of his heart.**
+
+## ⚠ THE WATER
+
+**Standing water within reach of him goes flat and turns to mirror.** Ponds, floods, a ford, rain on stone.
+
+**And the reflection is not a reflection.** It moves with him and it is *underneath* him, and it is doing the same thing he is doing in the opposite direction, because a whirlpool is a surface and a depth and **neither one exists without the other.**
+
+> **He has spent thirteen years being one half of a pair of eyes and calling it a curse.**
+>
+> **渦潮 makes the pairing physical, and it puts it under his feet where he can see it.**
+
+## What he looks like to someone who knows what they're looking at
+
+**A sage. An Uzumaki. A jinchūriki. A man wearing a stolen Mangekyō. A seal-carrier with four hundred generations standing behind his eyes.**
+
+**All five at once, all visible at the same time, none of them hidden anymore.**
+
+> ### ⚠ HOW TO WRITE HIM IN THIS FORM
+>
+> **Nothing he does is loud.** Kōfū cracked the air. Daisen lashed. **渦潮 is quiet**, and the quiet is the most frightening thing about it — *the grass lies flat, the water goes still, and everything comes toward him.*
+>
+> **Never describe him as pushing.** He turns, and things join.
+>
+> **The corona is always alternating.** If you describe the red, the blue is coming. **Say the beat.**
+
+---
+
 ### The principle
 
 Every transformation in this setting is a thing **pushing** — more chakra, more force, more output, burning something to make it. Kōfū pushes. Sakauzu pushed until it broke everything nearby.
